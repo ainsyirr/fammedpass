@@ -1,0 +1,3008 @@
+{
+ "id": "elderly",
+ "title": "Primary Care Approach to Care of the Elderly",
+ "short": "Elderly",
+ "emoji": "👵",
+ "source": "Seminar_9_Primary_Care_Approach_to_Care_of_Elderly_261005_151433.pdf",
+ "topics": {
+  "GIANT": "Ageing in Malaysia & the 5 geriatric giants",
+  "IMMOB": "Immobility",
+  "INCON": "Urinary incontinence & incontinence questionnaires",
+  "FALL": "Instability, falls & fall-risk assessment (TUG)",
+  "COG": "Intellectual impairment: dementia, delirium, depression & cognitive tools",
+  "IATRO": "Iatrogenesis & polypharmacy",
+  "SCRN": "Elderly health screening (BSSK-WE)",
+  "FRAIL": "Frailty & Clinical Frailty Scale",
+  "ADL": "Functional assessment: ADL, Barthel & Katz",
+  "SENS": "Hearing & visual impairment",
+  "WARGA": "Warga Emas policies, programmes, institutional care & financial aid"
+ },
+ "cards": [
+  {
+   "t": "GIANT",
+   "q": "How is Malaysia's older population changing, according to DOSM estimates on the slides?",
+   "a": "• Proportion aged **65 and above** rose from **8.0% (2025)** to **8.4% (2026)**\n• Growth is **rapid** - elderly care is now a **healthcare priority**\n• Aim is not just treating disease but keeping **independence, function and quality of life**",
+   "m": "8.0 → 8.4: almost half a percentage point in one year",
+   "r": "Slide p4"
+  },
+  {
+   "t": "GIANT",
+   "q": "What defines an 'aged nation', and when is Malaysia expected to become one?",
+   "a": "• Aged nation = **15% of population aged ≥60** (or **14% aged ≥65**)\n• Slide p48 (DWEN): expected by **2030** using the ≥60 definition\n• Slide p4 (MOF citation): **2036-2048** depending on the definition used\n• Note: the slides quote different years - learn the **15% / 14%** definitions, which are consistent",
+   "m": "15 at 60, 14 at 65",
+   "r": "Slides p4, p48"
+  },
+  {
+   "t": "GIANT",
+   "q": "At what age is a person classed as an older person (warga emas) in Malaysia?",
+   "a": "• **60 years and above** (national policy, JKM and MOH definition)\n• This is why JKM schemes (e.g. **Bantuan Warga Emas**, **Rumah Seri Kenangan**) require age **60+**\n• WHO/Western literature often uses **65+** - do not confuse the two",
+   "m": "Malaysia: 60 is the magic number",
+   "r": "Slides p51-52"
+  },
+  {
+   "t": "GIANT",
+   "q": "What approach to elderly care do the slides recommend in primary care?",
+   "a": "• **Holistic**\n• **Multidisciplinary**\n• **Patient-centred**\n• Goal: maintain **independence, function and quality of life**, not only cure disease",
+   "m": "HMP: Holistic, Multidisciplinary, Patient-centred",
+   "r": "Slide p4"
+  },
+  {
+   "t": "GIANT",
+   "q": "What is meant by a geriatric syndrome ('geriatric giant')?",
+   "a": "• Common health condition of older adults that **does not fit a single organ-based disease**\n• Usually **multifactorial** (several small impairments add up)\n• Major impact on **quality of life and disability**",
+   "m": "A giant has many feet - many causes, one presentation",
+   "r": "Slide p5"
+  },
+  {
+   "t": "GIANT",
+   "q": "List the 5 geriatric giants (the 5 I's).",
+   "a": "• **Immobility**\n• **Incontinence**\n• **Instability** (falls)\n• **Intellectual impairment** (dementia, delirium, depression)\n• **Iatrogenic** (drug-related) problems",
+   "m": "Can't Move, Can't Hold it, Can't Stand, Can't Think, Can't stop the drugs",
+   "r": "Slide p5"
+  },
+  {
+   "t": "GIANT",
+   "q": "Why must a new geriatric giant (sudden fall, new confusion, new incontinence) prompt a search for acute illness?",
+   "a": "• Older people often present **atypically** - e.g. pneumonia, UTI, MI or hypoglycaemia presenting as **confusion, falls, immobility or incontinence** rather than fever or pain\n• The giant is the **final common pathway** of reduced physiological reserve\n• Next step: full history, vitals, examination and targeted tests (urine dipstick, glucose, FBC, ECG)",
+   "m": "Off legs + off head = look for infection, drugs, metabolic",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "GIANT",
+   "q": "Which members make up the multidisciplinary team caring for an older person from a Klinik Kesihatan?",
+   "a": "• **FMS / medical officer** and nurses\n• **Physiotherapist** (mobility, falls) and **occupational therapist** (ADL, home safety)\n• **Pharmacist** (medication review)\n• **Dietitian**, **medical social worker** (JKM schemes, abuse)\n• **Caregivers / family** as core partners",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Define immobility in the elderly.",
+   "a": "• **Impairment of the ability to move independently**\n• Results in **limitation of life space**\n• **Not a natural part of ageing** - always look for a cause",
+   "m": "Shrinking life space: town → house → room → bed",
+   "r": "Slide p6"
+  },
+  {
+   "t": "IMMOB",
+   "q": "What are the physical complications of immobility listed on the slides?",
+   "a": "• **Muscle wasting**\n• **Deep vein thrombosis**\n• **Pneumonia and atelectasis**\n• **Constipation**\n• **Pressure ulcer**",
+   "m": "Clots, Chest, Colon, skin Crumbles, muscle Collapses",
+   "r": "Slide p6"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Apart from physical problems, what social and mental complications does immobility cause?",
+   "a": "• **Impaired quality of life**\n• **Increased care burden** on family / caregivers\n• Also social isolation and depression (lecturer addition)",
+   "r": "Slide p6"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Which musculoskeletal conditions cause immobility in older adults?",
+   "a": "• **Osteoarthritis**\n• **Muscle weakness / sarcopenia**\n• **Hip or lower limb fracture**",
+   "m": "Joints, muscle, bone",
+   "r": "Slide p6"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Name the non-musculoskeletal causes of immobility shown on the slides, with examples.",
+   "a": "• **Visual impairment**: cataract, glaucoma, retinopathy\n• **Cognitive impairment**: confusion, depression, medication use\n• **Neurological**: stroke, Parkinson's disease\n• **Chronic disease**: CCF, COPD\n• **Psychological**: fear of falling",
+   "m": "See, Think, Nerve, Heart-lung, Fear",
+   "r": "Slide p6"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Why is fear of falling such an important cause of immobility?",
+   "a": "• After a fall, the patient **restricts activity** to feel safe\n• Less activity → **deconditioning, weakness, poor balance**\n• Weakness → **more falls** → more fear (a vicious cycle)\n• Break it with **physiotherapy, balance training, walking aids and reassurance**",
+   "m": "Fear → sit → weak → fall → more fear",
+   "r": "Slide p6"
+  },
+  {
+   "t": "IMMOB",
+   "q": "What are the first steps in managing an immobile older patient?",
+   "a": "• **Explain and educate** patient and caregiver about the complications of prolonged bed rest and how to manage them\n• **Manage the causes / risk factors** of immobility\n• **Review medications** - reduce or stop drugs causing weakness or fatigue",
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Which walking aids can be encouraged to improve mobility?",
+   "a": "• **Walking stick**\n• **Quad stick**\n• **Walking frame**\n• **Wheelchair**\n• Choose by level of support needed; a physiotherapist should size and teach the aid",
+   "m": "Stick → quad → frame → wheels: more legs, more support",
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "q": "What exercises are used in rehabilitation to restore functional independence in immobility?",
+   "a": "• **Range of motion** exercise\n• **Muscle strengthening** exercise\n• **Balance training**\n• **Gait training**\n• Delivered via physiotherapy / rehabilitation",
+   "m": "RSBG: Range, Strength, Balance, Gait",
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Why is nutritional and hydration support part of immobility management?",
+   "a": "• Prevents **malnutrition**\n• Prevents **anaemia**\n• Prevents **electrolyte imbalance**\n• Adequate protein also supports wound healing and muscle mass",
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "q": "What DVT prophylaxis measure is listed for the immobile elderly patient?",
+   "a": "• **Compression stockings**\n• Plus early mobilisation and leg exercises\n• Pharmacological prophylaxis (e.g. LMWH) is decided case by case when risk is high and bleeding risk acceptable",
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "q": "How often should patients be repositioned to prevent pressure ulcers?",
+   "a": "• **Bedbound**: every **2 hours**\n• **Wheelchair-bound**: every **1 hour**\n• **Able to self-reposition**: every **15 minutes** (shift weight)",
+   "m": "Bed 2, chair 1, self a quarter",
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Apart from repositioning, what skin measures prevent pressure ulcers?",
+   "a": "• **Moisturising lotion** (prevents dry, cracking skin)\n• **Protective padding between extremities** (e.g. pillows between knees and ankles)\n• Keep skin clean and dry, manage incontinence, optimise nutrition",
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Which body sites are most prone to pressure ulcers?",
+   "a": "• Lying supine: **sacrum, heels, occiput, scapulae**\n• Lying on side: **greater trochanter, lateral malleolus**\n• Sitting: **ischial tuberosities**\n• All are bony prominences with thin soft-tissue cover",
+   "m": "Sit on ischium, lie on sacrum, heels always at risk",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IMMOB",
+   "q": "How are pressure injuries staged?",
+   "a": "• **Stage 1**: intact skin, **non-blanchable erythema**\n• **Stage 2**: partial-thickness loss, shallow open ulcer or blister\n• **Stage 3**: full-thickness skin loss, fat visible, no bone/tendon\n• **Stage 4**: full-thickness with **exposed bone, tendon or muscle**\n• **Unstageable** (base covered by slough/eschar) and **deep tissue injury**",
+   "m": "1 red, 2 blister, 3 fat, 4 bone",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IMMOB",
+   "q": "Which tool is used to assess pressure ulcer risk, and what score signals risk?",
+   "a": "• **Braden scale** - 6 domains: sensory perception, moisture, activity, mobility, nutrition, friction/shear\n• Score range **6-23**; **≤18 = at risk** (lower = higher risk)\n• Re-assess regularly and on any change in condition",
+   "m": "Braden: low score, high risk",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IMMOB",
+   "q": "What other complications of prolonged bed rest should you anticipate beyond those on the slide?",
+   "a": "• **Deconditioning**: muscle strength falls roughly **1-1.5% per day** of strict bed rest\n• **Joint contractures**\n• **Orthostatic hypotension** on getting up\n• **Bone loss** (immobilisation osteoporosis, hypercalciuria)\n• **Urinary retention / UTI**, **delirium**, depression",
+   "m": "A week in bed can cost a month of rehab",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "INCON",
+   "q": "Define urinary incontinence.",
+   "a": "• **Involuntary leakage of urine** caused by a **loss of bladder control**\n• Common, under-reported and **not a normal part of ageing** - ask actively",
+   "r": "Slide p8"
+  },
+  {
+   "t": "INCON",
+   "q": "What symptoms may an older person with urinary incontinence report?",
+   "a": "• **Involuntary leakage** of urine\n• **Incomplete emptying** of the bladder\n• **Constant dribbling**\n• **Frequent urination** and **nocturia**\n• **Sudden urge** to urinate",
+   "r": "Slide p8"
+  },
+  {
+   "t": "INCON",
+   "q": "List the risk factors for urinary incontinence.",
+   "a": "• **Increased age**\n• **Female** sex\n• **Obesity**\n• **Pregnancy** (and vaginal delivery)\n• **Diabetes**\n• **Smoking**\n• **Family history**",
+   "m": "Old Fat Pregnant Female Diabetic Smoker with Family history",
+   "r": "Slide p8"
+  },
+  {
+   "t": "INCON",
+   "q": "What does the mnemonic DIAPPERS stand for in urinary incontinence?",
+   "a": "Reversible (transient) causes:\n• **D**elirium\n• **I**nfection (UTI)\n• **A**trophic urethritis / vaginitis\n• **P**harmacological agents\n• **P**sychological / physiological disorder\n• **E**ndocrine (hyperglycaemia, hypercalcaemia → polyuria)\n• **R**educed mobility\n• **S**tool impaction",
+   "m": "Fix the DIAPPERS before buying diapers",
+   "r": "Slide p8"
+  },
+  {
+   "t": "INCON",
+   "q": "Which drugs commonly cause or worsen urinary incontinence in the elderly?",
+   "a": "• **Diuretics** (furosemide) → polyuria, urgency\n• **Anticholinergics, opioids, TCAs** → retention with **overflow**\n• **Alpha-blockers** (prazosin) → urethral relaxation, **stress** leak in women\n• **Sedatives / hypnotics** → reduced awareness, functional UI\n• **ACE inhibitors** → cough provoking stress leak",
+   "m": "Water pills fill, anticholinergics block, alpha-blockers open the gate",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "INCON",
+   "q": "How does atrophic urethritis/vaginitis cause incontinence, and how is it treated?",
+   "a": "• Post-menopausal **oestrogen deficiency** → thin, irritable urethral and vaginal mucosa\n• Causes **urgency, frequency, dysuria** and recurrent UTI; reduces urethral seal\n• Treat with **topical vaginal oestrogen**",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "INCON",
+   "q": "Stress incontinence: what is the pathology and classic presentation?",
+   "a": "• Pathology: **pelvic floor muscle weakness** or **poor urethral sphincter function**\n• Presentation: loss of **small amounts** of urine with **raised abdominal pressure** - coughing, sneezing, laughing, lifting, bending",
+   "m": "Stress = Sneeze",
+   "r": "Slide p9"
+  },
+  {
+   "t": "INCON",
+   "q": "Urge incontinence: what is the pathology and classic presentation?",
+   "a": "• Pathology: **detrusor overactivity / instability**\n• Presentation: **overwhelming need to pass urine** and **inability to control initiation** of voiding - often cannot reach the toilet in time\n• Often with frequency and nocturia (overactive bladder)",
+   "m": "Urge = Unstable detrusor, gotta go NOW",
+   "r": "Slide p9"
+  },
+  {
+   "t": "INCON",
+   "q": "Overflow incontinence: what is the pathology and classic presentation?",
+   "a": "• Pathology: **poor urinary stream / flaccid (underactive) bladder** due to **outlet obstruction** or **neuropathy**\n• Presentation: **frequent involuntary dribbling** from inability to empty the bladder completely\n• Exam may show a **palpable bladder**; PVR is high",
+   "m": "Overflow = a full bucket that spills",
+   "r": "Slide p9"
+  },
+  {
+   "t": "INCON",
+   "q": "Functional incontinence: what is the pathology and classic presentation?",
+   "a": "• Pathology: **impaired mobility, cognition or environmental barriers**\n• Presentation: **cannot reach or use the toilet in time** → leakage **despite normal bladder function**\n• Management targets the barrier: commode, clothing, toilet access, prompted voiding",
+   "m": "Bladder fine - the journey fails",
+   "r": "Slide p9"
+  },
+  {
+   "t": "INCON",
+   "q": "What is mixed urinary incontinence?",
+   "a": "• **Combination** of more than one type\n• Most often **stress + urge** incontinence\n• Treat the **predominant / most bothersome** component first",
+   "r": "Slide p9"
+  },
+  {
+   "t": "INCON",
+   "q": "What are the common causes of overflow incontinence in older men?",
+   "a": "• **Benign prostatic hyperplasia** (outlet obstruction) - most common\n• **Drugs**: anticholinergics, TCAs, opioids, decongestants\n• **Faecal impaction**\n• **Neuropathy**: diabetes, spinal cord disease, B12 deficiency",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "INCON",
+   "q": "What does the bladder (voiding) diary record, and for how long do the slides recommend it?",
+   "a": "• Kept for **1 week** (slide)\n• Records **fluid intake** (amount and type, e.g. caffeine), **voiding pattern** (times, volumes) and **leakage episodes with triggers**\n• Helps classify the type and guides bladder training",
+   "m": "Diary of drinks, drains and drips",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "Which physical examinations are done in an older patient with urinary incontinence?",
+   "a": "• **Abdominal** examination (palpable bladder, masses)\n• **Pelvic / gynaecological** (atrophy, prolapse) or **prostate** (DRE) examination\n• **Neurological** examination (lower limb, perineal sensation)\n• **Cough stress test** - leak on coughing supports stress UI",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "Which investigations are done for urinary incontinence in primary care?",
+   "a": "• **Urinalysis ± urine culture** (UTI, haematuria, glycosuria)\n• **Blood glucose** (diabetes → polyuria)\n• **Renal function**\n• **Ultrasound for post-void residual (PVR)** volume",
+   "m": "Dip, sugar, kidneys, scan",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "How do you interpret a post-void residual (PVR) volume?",
+   "a": "• **< 50 mL**: normal emptying\n• **50-200 mL**: borderline - repeat, review drugs\n• **> 200 mL**: significant retention → suspect **overflow** (obstruction or underactive detrusor); refer urology\n• Never start antimuscarinics in a patient with a high PVR",
+   "m": "Under 50 fine, over 200 refer",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "INCON",
+   "q": "What is the first-line management of urinary incontinence?",
+   "a": "**Behavioural intervention**:\n• **Lifestyle**: weight loss, smoking cessation, limit **caffeine and alcohol**\n• **Pelvic floor exercises** (stress UI)\n• **Bladder retraining** (urge UI)\n• **Environmental modification**: home safety, bathroom access",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "How are pelvic floor (Kegel) exercises prescribed for stress incontinence?",
+   "a": "• **First-line** treatment for **stress** UI\n• Slide: **3-5 contractions at least 3 times daily** → improvement in **50-80%**\n• Standard guidance (NICE): **at least 8 contractions, 3 times a day, for at least 3 months** before judging response\n• Note: slide's 3-5 contractions is lower than usual guidance",
+   "m": "Eight, three times a day, three months",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "What is bladder retraining (bladder drill) and which type of incontinence is it for?",
+   "a": "• For **urge incontinence** (overactive bladder)\n• Patient voids by a **schedule**, resisting urges in between\n• **Interval gradually increased** until continent for **3-4 hours**\n• Usually for at least 6 weeks",
+   "m": "Drill the bladder to wait longer",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "Which drug class is used for urge incontinence and for which type is it ineffective?",
+   "a": "• **Anticholinergics / antimuscarinics**: **oxybutynin, tolterodine**, (imipramine - TCA with anticholinergic effect)\n• Indication: **urge incontinence / overactive bladder**\n• **Ineffective for stress incontinence**\n• Combining drugs with **behavioural therapy** helps **60-75%**",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "What are the side effects and cautions of anticholinergic bladder drugs?",
+   "a": "• Side effects: **dry mouth, constipation, sedation, blurred vision, cognitive impairment**\n• Contraindicated: **narrow-angle glaucoma**, urinary retention / high PVR, **severe constipation**\n• Slide also lists **GERD** (a caution - they relax the lower oesophageal sphincter)",
+   "m": "Can't see, can't pee, can't spit, can't poo, can't think",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "Why is oxybutynin a poor choice for an older patient with dementia and urge incontinence, and what is the alternative?",
+   "a": "• Oxybutynin is highly **anticholinergic**, crosses the blood-brain barrier → **confusion, delirium, worsening dementia** (Beers list)\n• It also antagonises **cholinesterase inhibitors** (donepezil)\n• Alternative: **mirabegron** (β3-agonist; check BP - avoid in uncontrolled hypertension)\n• Always optimise bladder training / prompted voiding first",
+   "m": "Donepezil + oxybutynin = foot on brake and accelerator",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "INCON",
+   "q": "When is surgery indicated for urinary incontinence and how effective is it?",
+   "a": "• Reserved for **failure of conservative treatment**\n• Effective in about **80%** of genuine stress incontinence\n• Female stress UI: **bladder neck suspension** (suprapubic or vaginal approach) - in current practice the **mid-urethral sling** is the usual operation",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "What surgical options exist for refractory urge incontinence and for overflow due to prostate enlargement?",
+   "a": "• **Refractory urge**: **bladder augmentation** or **sacral nerve (root) neuromodulation** (also intravesical botulinum toxin)\n• **Overflow in men (BPH)**: **TURP**, laser therapy or thermotherapy of the prostate",
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "q": "What is the role of incontinence questionnaires?",
+   "a": "• Validated tools to **screen** for incontinence and measure **symptoms** and **impact on QoL**\n• **Not diagnostic** - abnormal results lead to further tests and evaluation\n• Symptoms: **UDI, UDI-6**, Incontinence Severity Index, ICS male, Dan-PSS\n• QoL impact: **IIQ, IIQ-7**, I-QOL, King's Health Questionnaire",
+   "r": "Slide p37"
+  },
+  {
+   "t": "INCON",
+   "q": "Describe the Urogenital Distress Inventory-6 (UDI-6) and its scoring.",
+   "a": "• **6 core symptoms**: frequency, urge leakage, activity/stress leakage, cough/sneeze leakage, emptying difficulty, lower abdominal/genital pain\n• Measures **symptom severity / distress** (developed in women)\n• Score = **total ÷ 18 × 100** (range 0-100; higher = more distress)\n• 0-19 minimal, 20-39 mild, 40-59 moderate, 60-79 severe, 80-100 very severe",
+   "m": "UDI-6: six items, divide by 18",
+   "r": "Slide p38"
+  },
+  {
+   "t": "INCON",
+   "q": "Describe the Incontinence Impact Questionnaire-7 (IIQ-7) and its scoring.",
+   "a": "• Assesses **impact of UI on daily activities and emotional well-being**\n• **4 domains**: physical activity, travel, social relationships, emotional health\n• Score = **total ÷ 21 × 100** (0-100; higher = greater impact)\n• 0-24 mild, 25-49 moderate, 50-74 severe, 75-100 very severe impact",
+   "m": "IIQ-7: seven items, divide by 21",
+   "r": "Slide p39"
+  },
+  {
+   "t": "INCON",
+   "q": "What is the QUID and how is it interpreted?",
+   "a": "• **Questionnaire for Urinary Incontinence Diagnosis**: self-administered, **6 items**\n• Distinguishes **stress (SUI)** from **urge (UUI)** incontinence in women\n• **Q1-3** = stress score; **Q4-6** = urge score\n• **Stress score ≥4 → SUI**; **urge score ≥6 → UUI**\n• History remains the most critical diagnostic factor",
+   "m": "QUID: 4 for stress, 6 for urge (S before U, 4 before 6)",
+   "r": "Slide p40"
+  },
+  {
+   "t": "INCON",
+   "q": "How is functional incontinence managed in a patient with dementia or poor mobility?",
+   "a": "• **Prompted / timed voiding** (caregiver offers toilet every 2-3 hours)\n• **Bedside commode** or urinal, raised toilet seat, grab rails, clear path and night light\n• **Easy-release clothing**\n• Review sedatives and diuretic timing\n• **Containment** products (pads) as adjunct, not first choice",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "INCON",
+   "q": "Why are long-term indwelling urinary catheters avoided in managing incontinence in the elderly?",
+   "a": "• High risk of **catheter-associated UTI**, urosepsis, stones, urethral trauma\n• Reduce mobility and dignity\n• Reserve for **chronic retention** not amenable to treatment, non-healing **sacral pressure ulcer**, or palliative comfort\n• Prefer **intermittent self-catheterisation** for retention when feasible",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FALL",
+   "q": "How common are falls in older adults, according to the slides?",
+   "a": "• Falls are the **leading cause of injury** in adults **≥65 years**\n• **1 in 4** older adults report falling **every year** (over 14 million, CDC)\n• Cause significant **morbidity and mortality**",
+   "m": "One in four, every year",
+   "r": "Slide p11"
+  },
+  {
+   "t": "FALL",
+   "q": "What are the consequences of a fall in an older person?",
+   "a": "• **Physical**: fractures (hip, wrist), head injury, long-lie complications, death\n• **Psychological**: **fear of falling**, loss of confidence, depression\n• **Social**: reduced activity, isolation, institutionalisation",
+   "r": "Slide p11"
+  },
+  {
+   "t": "FALL",
+   "q": "List the non-modifiable risk factors for falls.",
+   "a": "• **Age > 80**\n• **Female** sex\n• **Arthritis**\n• **Cognitive impairment**\n• **History of CVA or TIA**\n• **History of falls**\n• **History of fractures**",
+   "r": "Slide p11"
+  },
+  {
+   "t": "FALL",
+   "q": "List the modifiable risk factors for falls.",
+   "a": "• **Environmental hazards**\n• **Medication** (psychoactives, polypharmacy)\n• **Metabolic** factors\n• **Musculoskeletal**: gait, imbalance, weakness, pain\n• **Neuropsychological** factors\n• **Sensory impairment**: peripheral neuropathy, visual impairment",
+   "m": "HOME MEDS: Home hazards, Meds, Metabolic, Muscles, Mind, Senses",
+   "r": "Slide p11"
+  },
+  {
+   "t": "FALL",
+   "q": "What is the single strongest predictor of a future fall?",
+   "a": "• A **previous fall** (especially recurrent falls)\n• Every older patient should be asked **‘Have you fallen in the past year?’**\n• Others: gait/balance impairment, fear of falling, fall-risk drugs",
+   "m": "The best predictor of a fall is a fall",
+   "r": "Slide p11"
+  },
+  {
+   "t": "FALL",
+   "q": "Which screening tools assess instability and fall risk?",
+   "a": "• **Timed Up and Go (TUG)** - ≥12 s = increased falls risk\n• **Berg Balance Scale** - balance and mobility\n• **Morse Fall Scale** - mainly for inpatients",
+   "r": "Slide p12"
+  },
+  {
+   "t": "FALL",
+   "q": "When should an older person undergo further (multifactorial) falls evaluation?",
+   "a": "• **≥ 2 falls** in the past year\n• **1 fall + unsteadiness**\n• **Difficulty with gait or balance**\n• **A fall requiring medical attention**",
+   "m": "Two falls, one plus wobble, wobbly walk, or went to doctor",
+   "r": "Slide p12"
+  },
+  {
+   "t": "FALL",
+   "q": "What are the components of a multifactorial falls evaluation?",
+   "a": "• **Full history** of the fall\n• **Gait and balance** assessment\n• **Vision and hearing** assessment\n• **Orthostatic blood pressure** measurement\n• **Home assessment**\n(plus medication review, cognition, feet/footwear)",
+   "r": "Slide p12"
+  },
+  {
+   "t": "FALL",
+   "q": "What does a home hazard assessment look for?",
+   "a": "• **Poor lighting**\n• **Loose rugs / obstacles** / clutter / cables\n• **Stairs** (rails)\n• **Bathroom safety** (grab bars, non-slip mats, wet floors)\n• **Appropriate footwear**\n• **Suitability of walking aids**",
+   "m": "Light, Rugs, Stairs, Bathroom, Shoes, Sticks",
+   "r": "Slide p12"
+  },
+  {
+   "t": "FALL",
+   "q": "What does the AGS/BGS guideline recommend about falls screening?",
+   "a": "• Screen **all adults aged ≥65 years** for fall risk **annually**\n• Ask about falls in the past year and difficulty with walking or balance",
+   "r": "Slide p26"
+  },
+  {
+   "t": "FALL",
+   "q": "What are the four components of a falls risk assessment?",
+   "a": "• **Falls history**\n• **Medication review**\n• **Physical examination**\n• **Functional and environmental assessment**",
+   "m": "History, Drugs, Exam, Home",
+   "r": "Slide p26"
+  },
+  {
+   "t": "FALL",
+   "q": "Which past medical history items are relevant in a falls history?",
+   "a": "• **DM, hypertension, epilepsy**\n• **Previous falls**\n• **Cardiac** and **neurological** history\n• **Continence** state (rushing to toilet)\n• **Vision**\n• **Cognitive impairment**",
+   "r": "Slide p27"
+  },
+  {
+   "t": "FALL",
+   "q": "Which medications should be reviewed in an older person who falls?",
+   "a": "• **Antihypertensives**, **alpha-blockers**, **diuretics**\n• **Oral hypoglycaemic agents**\n• **Psychoactive** drugs (benzodiazepines, antipsychotics, antidepressants)\n• **Antiepileptics**, **analgesia** (opioids), **steroids**\n• **Cholinesterase inhibitors**\n• **Anticoagulants** (risk of bleeding if they fall)",
+   "r": "Slide p27"
+  },
+  {
+   "t": "FALL",
+   "q": "By what mechanism does each of these drug classes increase falls: alpha-blockers, sulfonylureas, benzodiazepines, cholinesterase inhibitors?",
+   "a": "• **Alpha-blockers / antihypertensives / diuretics** → **postural hypotension** (diuretics also urgency, dehydration)\n• **Sulfonylureas / insulin** → **hypoglycaemia**\n• **Benzodiazepines, antipsychotics, opioids** → **sedation, slowed reaction, ataxia**\n• **Cholinesterase inhibitors** → **bradycardia, syncope**\n• **Steroids** → myopathy, osteoporosis (fracture if they fall)",
+   "r": "Slide p27"
+  },
+  {
+   "t": "FALL",
+   "q": "What should you ask about the period before the fall?",
+   "a": "• Patient's view of the cause: **aware of impending fall** or **totally unexpected**; **trip or slip**\n• **Premonitory symptoms**\n• **Location and time** of day\n• **Alone? What were they doing?**\n• **General health** (infective symptoms, e.g. dysuria, cough, cellulitis)\n• **Usual mobility** (independent, stick, frame, supervision)",
+   "r": "Slide p28"
+  },
+  {
+   "t": "FALL",
+   "q": "Which activity at the time of a fall points to which cause?",
+   "a": "• **Getting up from lying/sitting** → **postural hypotension**\n• **From the toilet** → **vasovagal** (micturition/defecation syncope)\n• **In the middle of walking** → **arrhythmia**\n• **Turning the head** → **carotid sinus hypersensitivity**",
+   "m": "Stand-postural, Toilet-vagal, Walking-heart, Turning-carotid",
+   "r": "Slide p28"
+  },
+  {
+   "t": "FALL",
+   "q": "Which premonitory or associated symptoms should be asked about before a fall, and what does each suggest?",
+   "a": "• **Dizziness / light-headedness / vertigo** → postural hypotension, vestibular cause\n• **Palpitations, chest pain, breathlessness** → **cardiac** (arrhythmia, ischaemia, aortic stenosis)\n• **Sudden focal weakness, sensory loss, ataxia, confusion** → **stroke / TIA**\n• **Aura** → **seizure**",
+   "r": "Slide p28"
+  },
+  {
+   "t": "FALL",
+   "q": "What does the patient's usual mobility tell you in a falls history?",
+   "a": "• Whether they walk **independently** or need a **stick / frame / supervision**\n• Dependence on aids implies **underlying frailty and poor mobility**\n• Sets the baseline for rehabilitation goals",
+   "r": "Slide p28"
+  },
+  {
+   "t": "FALL",
+   "q": "What should you ask about during the fall?",
+   "a": "• **Do they remember falling?** (amnesia suggests loss of consciousness)\n• **Was it witnessed?** → take a detailed **collateral history**\n• **Any loss of consciousness?** (syncope or seizure vs mechanical)\n• Can they **describe the mechanism**?",
+   "r": "Slide p29"
+  },
+  {
+   "t": "FALL",
+   "q": "Which features after a fall suggest a seizure rather than syncope?",
+   "a": "• **Limb jerking** (prolonged)\n• **Urinary or faecal incontinence**\n• **Post-ictal confusion** - not well-oriented after the fall, slow recovery\n• Tongue biting (lateral)\n• Syncope: brief LOC, rapid full recovery, pallor",
+   "r": "Slide p29"
+  },
+  {
+   "t": "FALL",
+   "q": "Why ask how long the patient was on the floor after a fall ('long lie')?",
+   "a": "Lying > 1 hour risks:\n• **Rhabdomyolysis** → AKI (check CK, renal function)\n• **Pressure injury**\n• **Hypothermia** and **dehydration**\n• **Aspiration pneumonia**\n• Strong predictor of **fear of falling** and loss of independence - consider a **personal alarm**",
+   "m": "Long lie: muscles break, skin breaks, temperature drops",
+   "r": "Slide p29"
+  },
+  {
+   "t": "FALL",
+   "q": "How is orthostatic (postural) hypotension diagnosed?",
+   "a": "• Measure BP **supine** (after ~5 min lying) then **standing** at **1 and 3 minutes**\n• Positive: **SBP fall ≥ 20 mmHg** or **DBP fall ≥ 10 mmHg** within **3 minutes** of standing\n• Also note symptoms (dizziness) on standing",
+   "m": "20/10 in 3",
+   "r": "Slide p30"
+  },
+  {
+   "t": "FALL",
+   "q": "Why examine the cardiovascular system in an older person who has fallen?",
+   "a": "• To exclude **arrhythmia** (irregular pulse, bradycardia)\n• **Valvular heart disease** - especially **aortic stenosis** (ejection systolic murmur, exertional syncope)\n• **Heart failure**",
+   "r": "Slide p30"
+  },
+  {
+   "t": "FALL",
+   "q": "What does the musculoskeletal examination include in a falls assessment?",
+   "a": "• **Footwear**: stability and grip\n• **Remove footwear and examine the feet** (deformity, ulcers, nails, sensation)\n• **Major joints**: deformity, instability, stiffness\n• **Timed Up and Go test**",
+   "r": "Slide p30"
+  },
+  {
+   "t": "FALL",
+   "q": "What does the neurological examination aim to diagnose or exclude in a patient who falls?",
+   "a": "Assess **muscle strength and tone, sensation, coordination and gait** to look for:\n• **Stroke**\n• **Parkinson's disease**\n• **Myelopathy** (cervical spondylosis)\n• **Cerebellar degeneration**\n• **Cognitive impairment / dementia**",
+   "m": "SPMCC: Stroke, Parkinson's, Myelopathy, Cerebellum, Cognition",
+   "r": "Slide p30"
+  },
+  {
+   "t": "FALL",
+   "q": "Which blood tests are done after a fall and what is each looking for?",
+   "a": "• **FBC** - anaemia, infection\n• **Blood glucose** - hypoglycaemia\n• **Renal function** - CKD, electrolyte imbalance (e.g. hyponatraemia)\n• **Calcium and phosphate** - bone pathology\n• **TFT** - thyroid dysfunction\n• **Vitamin B12** - neurological abnormality (neuropathy, cognition)",
+   "r": "Slide p31"
+  },
+  {
+   "t": "FALL",
+   "q": "When are imaging and cardiac investigations indicated after a fall?",
+   "a": "• **Spine X-ray, CT, MRI, EEG** - suspected neurological cause (or head/spinal injury, seizure)\n• **ECG and echocardiogram** - suspected **cardiac** cause (syncope, murmur, arrhythmia)\n• Holter monitoring for recurrent unexplained falls with suspected arrhythmia",
+   "r": "Slide p31"
+  },
+  {
+   "t": "FALL",
+   "q": "How is the Timed Up and Go (TUG) test performed?",
+   "a": "• Patient sits in a chair, wearing **regular footwear**, may use their usual **walking aid**\n• On 'go': **stand up, walk 3 metres** at normal pace, **turn, walk back and sit down**\n• **Start timing when the patient stands up; stop when they sit back down**\n• **Always stay by the patient** for safety\n• Observe gait, stride length, sway and need for assistance",
+   "m": "Stand, 3 m, turn, return, sit",
+   "r": "Slide p32"
+  },
+  {
+   "t": "FALL",
+   "q": "How is the TUG result interpreted?",
+   "a": "• **< 10 s**: normal mobility\n• **10-20 s**: good mobility, independent\n• **20-30 s**: mobility impairment, needs assistance\n• **> 30 s**: high fall risk, dependent\n• Fall-risk cut-off: **≥ 12 s = at risk of falls** (slides p12 and p32)",
+   "m": "Twelve seconds = take the fall-risk pathway",
+   "r": "Slide p32"
+  },
+  {
+   "t": "FALL",
+   "q": "What are the main components of falls management and prevention in the elderly?",
+   "a": "1. **Acute medical management** - treat injuries, **taper/stop fall-risk-increasing drugs**\n2. **Active physical rehabilitation and exercise**\n3. **Targeted interventions** - environmental modification, **vitamin D**, treat underlying cause\n4. **Walking aids** if gait is unsteady",
+   "r": "Slide p14"
+  },
+  {
+   "t": "FALL",
+   "q": "Which exercise interventions reduce falls in older people?",
+   "a": "• **Progressive strength and balance training** (e.g. **Otago** home exercise programme)\n• **Tai chi**\n• Best when **individualised**, supervised by a physiotherapist, continued for **≥ 3 months**\n• Walking alone is not enough for falls prevention in frail patients",
+   "m": "Strength + balance beats just walking",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FALL",
+   "q": "What bone-health and targeted measures complement falls prevention?",
+   "a": "• **Vitamin D** supplementation (about **800-1000 IU/day**) in deficient or housebound patients, with adequate calcium\n• **Assess for osteoporosis** after a fragility fracture (DXA, FRAX) and treat (e.g. bisphosphonate)\n• **Hip protectors** in nursing-home residents\n• Treat cataract, postural hypotension, foot problems; review footwear",
+   "r": "Slide p14"
+  },
+  {
+   "t": "COG",
+   "q": "How do the slides define intellectual impairment?",
+   "a": "• A condition affecting **memory, thinking** and the **ability to perform daily activities**\n• Results from a **variety of diseases affecting the brain**\n• Affects **daily function** and **long-term care needs**",
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "q": "What are the risk factors for intellectual impairment?",
+   "a": "• **Non-modifiable**: **age > 65**, **female > male**, **genetic**\n• **Modifiable**: **multiple comorbidities**, **psychiatric illness**, **traumatic head injury**, **social isolation**\n• (Also hypertension, diabetes, smoking, hearing loss, physical inactivity)",
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "q": "What are the three common cognitive problems in the elderly (the 3 Ds)?",
+   "a": "• **Dementia** - chronic progressive decline in memory and acquired cognitive function\n• **Delirium** - acute confusional state with disturbed **attention** and cognition\n• **Depression** - can **mimic** cognitive decline\n• They often **coexist** (dementia is the biggest risk factor for delirium)",
+   "m": "3 Ds: Decline, Daze, Down",
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "q": "What symptoms of intellectual impairment are listed on the slides?",
+   "a": "• **Forgetfulness**\n• **Lack of concentration**\n• **Learning difficulties**\n• **Reduced effective thinking**\n• **Misjudging the spatial distance of objects** (visuospatial)",
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "q": "How does DSM-5 define major neurocognitive disorder (dementia)?",
+   "a": "• **Significant decline** from previous level in **≥ 1 cognitive domain** (memory, executive, attention, language, perceptual-motor, social cognition)\n• Deficits **interfere with independence** in everyday activities (at least IADLs)\n• **Not exclusively during delirium**, not better explained by another mental disorder (e.g. depression)\n• Mild NCD = modest decline, independence preserved",
+   "m": "Decline + loss of independence + not delirium",
+   "r": "Slide p16"
+  },
+  {
+   "t": "COG",
+   "q": "How do the slides define delirium?",
+   "a": "• **Acute confusional state**\n• Characterised by **disturbances in attention** and cognition\n• (Develops over hours to days, **fluctuates**, usually has an underlying medical cause)",
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "q": "How do you distinguish delirium from dementia?",
+   "a": "• **Onset**: delirium **acute** (hours-days); dementia **insidious** (months-years)\n• **Course**: delirium **fluctuates**; dementia slowly progressive\n• **Attention**: **impaired early** in delirium; preserved in early dementia\n• **Consciousness**: altered in delirium; clear in dementia\n• **Reversibility**: delirium usually reversible once cause treated",
+   "m": "Delirium: Dramatic onset, Distractible, Drifting level",
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "q": "What are the Confusion Assessment Method (CAM) criteria for delirium?",
+   "a": "Delirium = **1 + 2** and **either 3 or 4**:\n1. **Acute onset and fluctuating course**\n2. **Inattention**\n3. **Disorganised thinking**\n4. **Altered level of consciousness**",
+   "m": "1 and 2, plus 3 or 4",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "q": "What are the subtypes of delirium, and which is most often missed?",
+   "a": "• **Hyperactive**: agitated, restless, hallucinating\n• **Hypoactive**: drowsy, withdrawn, quiet - **most often missed**, worse prognosis; mistaken for depression or tiredness\n• **Mixed**: alternates between the two",
+   "m": "The quiet patient can be the most confused",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "q": "What are the common precipitants of delirium in an older person?",
+   "a": "**PINCH ME**:\n• **P**ain\n• **I**nfection (UTI, pneumonia)\n• **N**utrition\n• **C**onstipation (and urinary retention)\n• **H**ydration (dehydration, electrolytes - hyponatraemia)\n• **M**edication (anticholinergics, opioids, benzodiazepines) / alcohol withdrawal\n• **E**nvironment change (hospitalisation, sensory deprivation)",
+   "m": "PINCH ME",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "q": "How should delirium be managed?",
+   "a": "• **Find and treat the underlying cause** - this is the treatment\n• **Non-drug measures first**: reorientation, family presence, glasses and hearing aids, sleep hygiene, hydration, mobilise, avoid restraints and unnecessary catheters\n• **Low-dose haloperidol** only for severe agitation / distress or danger, short term\n• **Avoid benzodiazepines** (except alcohol withdrawal)\n• Note: slide lists antipsychotics as the delirium treatment; they are only a symptomatic last resort",
+   "r": "Slide p17"
+  },
+  {
+   "t": "COG",
+   "q": "Which features suggest depression ('pseudodementia') rather than dementia?",
+   "a": "• **Mood symptoms precede** cognitive complaints; relatively **rapid onset**\n• Patient **complains of** poor memory (in dementia, family usually notices)\n• **‘Don't know’** answers, poor effort; inconsistent deficits\n• Past psychiatric history\n• **Improves with antidepressant** treatment",
+   "m": "Depressed say ‘I don't know’; demented confabulate",
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "q": "Which tool screens for depression in older people, and what is the cut-off?",
+   "a": "• **Geriatric Depression Scale (GDS-15)** - 15 yes/no questions\n• Score **≥ 5** suggests depression → full assessment\n• Avoids somatic items that overlap with physical illness\n• Always ask about **suicidal ideation** (older men are a high-risk group)",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "q": "On what is the diagnosis of dementia based?",
+   "a": "• **Detailed history** (including collateral from family)\n• **Physical and neurological examination**\n• Supported by **cognitive, functional and behavioural assessment**\n• Diagnostic criteria: **DSM-5**; severity staged by functional status",
+   "r": "Slide p16"
+  },
+  {
+   "t": "COG",
+   "q": "What investigations are done in suspected dementia?",
+   "a": "• **Baseline bloods**: FBC, renal function and electrolytes, LFT, **TFT**, **vitamin B12 / folate**, calcium, glucose, lipids; syphilis/HIV serology if at risk\n• **Brain imaging**: **CT** or **MRI brain** (stroke, tumour, subdural haematoma, normal pressure hydrocephalus)\n• **EEG** when seizures or rapidly progressive disease suspected",
+   "r": "Slide p16"
+  },
+  {
+   "t": "COG",
+   "q": "Which potentially reversible causes must be excluded in an older person with cognitive decline?",
+   "a": "• **Hypothyroidism**\n• **Vitamin B12 deficiency**\n• **Depression**\n• **Drugs** (anticholinergics, benzodiazepines)\n• **Normal pressure hydrocephalus** (gait apraxia + incontinence + dementia)\n• **Chronic subdural haematoma**\n• Neurosyphilis, hypercalcaemia",
+   "m": "NPH: Wet, Wobbly, Wacky",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "q": "What lifestyle modifications are recommended to protect cognition?",
+   "a": "• **Regular physical activity**\n• **Cognitively stimulating activities**\n• **Active social life**\n• **Smoking cessation**\n• **Healthy diet**\n• **Good sleep hygiene**\n• **Educate caregivers** on management",
+   "m": "Move, think, mix, quit, eat, sleep, teach",
+   "r": "Slide p17"
+  },
+  {
+   "t": "COG",
+   "q": "What drug treatment is used for dementia?",
+   "a": "• **Acetylcholinesterase inhibitors (AChEI)**: **donepezil** (also rivastigmine, galantamine) - mild to moderate Alzheimer's disease\n• **Memantine** (NMDA antagonist) - moderate to severe Alzheimer's or if AChEI not tolerated\n• Started / supervised by specialist per **Malaysian CPG Management of Dementia (3rd ed, 2021)**; benefit is symptomatic, not curative",
+   "r": "Slides p17-18"
+  },
+  {
+   "t": "COG",
+   "q": "What are the important side effects of cholinesterase inhibitors such as donepezil?",
+   "a": "• **GI**: nausea, vomiting, diarrhoea, anorexia, weight loss\n• **Bradycardia, heart block, syncope** → falls (check pulse/ECG before starting)\n• **Urinary incontinence** - may trigger a **prescribing cascade** (oxybutynin added)\n• Vivid dreams, insomnia (give in the morning if so)",
+   "m": "Cholinergic = SLUDGE + slow heart",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "q": "How should behavioural and psychological symptoms of dementia (BPSD) be managed?",
+   "a": "• Look for triggers: **pain, constipation, infection, urinary retention, environment, caregiver approach**\n• **Non-pharmacological first**: routine, music, activity, caregiver training, respite\n• **Antipsychotics** only for severe distress or risk of harm, lowest dose, shortest time - they increase **stroke and mortality** in dementia\n• Support and educate the **caregiver**",
+   "r": "Slide p18"
+  },
+  {
+   "t": "COG",
+   "q": "Describe the Abbreviated Mental Test (AMT) and its cut-off.",
+   "a": "• **10-item** quick bedside cognitive screen (age, time, address recall, year, place, recognise 2 people, date of birth, year of a national event, head of state, count 20→1)\n• Each item 1 point, maximum **10**\n• Score **≤ 7** (cut-off 7/8) suggests **cognitive impairment** → assess further\n• Useful for delirium screening in acute settings",
+   "m": "AMT: 8 or more is great",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "q": "What is the structure of the Elderly Cognitive Assessment Questionnaire (ECAQ)?",
+   "a": "• **10 items**, each worth **1 point** (maximum 10)\n• 3 categories: **memory (3 items)**, **orientation (6 items)**, **memory recall (1 item)**\n• Developed in Singapore for Asian elderly with **less educational bias**; used in **BSSK-WE** screening",
+   "r": "Slide p41"
+  },
+  {
+   "t": "COG",
+   "q": "How is the ECAQ score interpreted?",
+   "a": "• **7-10**: normal\n• **5-6**: borderline cognitive impairment\n• **0-4**: probable dementia → full assessment / referral\n• Note: slide writes '>7 normal' and '<4 possible dementia', which leaves scores of 7 and 4 unclassified; the published bands are 7-10 / 5-6 / 0-4",
+   "m": "ECAQ: 7 up OK, 5-6 maybe, 4 down dementia",
+   "r": "Slide p41"
+  },
+  {
+   "t": "COG",
+   "q": "What does the MMSE test and how are its 30 points distributed?",
+   "a": "• **Orientation**: 10\n• **Registration** (short-term memory retention): 3\n• **Attention** (serial 7s / spell WORLD backwards): 5\n• **Recall**: 3\n• **Language** (naming, repetition, 3-stage command, reading, writing, copying): 9\n• Used to detect impairment, grade severity and **monitor over time**; most used for **Alzheimer's disease** screening",
+   "m": "10-3-5-3-9 = 30",
+   "r": "Slide p42"
+  },
+  {
+   "t": "COG",
+   "q": "How is an MMSE score interpreted?",
+   "a": "• Out of **30**; **< 24** generally suggests cognitive impairment\n• Severity (commonly used bands): **21-26 mild**, **10-20 moderate**, **< 10 severe**\n• Interpret in light of **education, literacy and language** - low education lowers scores; highly educated may score normally despite early dementia",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "q": "Describe the Montreal Cognitive Assessment (MoCA).",
+   "a": "• **30-point** screen designed to detect **early / mild cognitive impairment**\n• Takes about **10 minutes**\n• **Add 1 point if ≤ 12 years of education**\n• Domains: attention and concentration, **executive function**, memory, language, **visuoconstructional** skills, conceptual thinking, calculation, orientation",
+   "r": "Slide p43"
+  },
+  {
+   "t": "COG",
+   "q": "How is the MoCA score interpreted?",
+   "a": "• **26-30**: normal cognition\n• **18-25**: mild cognitive impairment\n• **10-17**: moderate cognitive impairment\n• **< 10**: severe cognitive impairment",
+   "m": "MoCA 26 is the pass mark",
+   "r": "Slide p43"
+  },
+  {
+   "t": "COG",
+   "q": "When would you choose the MoCA over the MMSE?",
+   "a": "• **MoCA** is more **sensitive for mild cognitive impairment** - it tests **executive function and visuospatial** skills (clock, cube, trail-making) that the MMSE misses\n• **MMSE** is widely used for Alzheimer's screening and monitoring severity, but has a **ceiling effect** in educated patients with early disease\n• For low-literacy patients, the **ECAQ** or AMT may be fairer",
+   "m": "MoCA catches the mild; MMSE measures the obvious",
+   "r": "Slides p42-43"
+  },
+  {
+   "t": "IATRO",
+   "q": "Define iatrogenesis in the elderly.",
+   "a": "• **Illness or complications caused by medical treatment or interventions**\n• Often from **polypharmacy**, **drug interactions** or **hospital stays**",
+   "m": "Iatros = doctor; genesis = origin",
+   "r": "Slide p19"
+  },
+  {
+   "t": "IATRO",
+   "q": "What are the risk factors for iatrogenic harm in older people?",
+   "a": "• **Drugs**: adverse effects even at **normal doses**; **polypharmacy**\n• **Comorbidities**: multiple chronic diseases\n• **Medical and surgical procedures**: invasive procedures\n• **Investigations that are not indicated**\n• **Prolonged hospitalisation**",
+   "r": "Slide p19"
+  },
+  {
+   "t": "IATRO",
+   "q": "How is polypharmacy defined?",
+   "a": "• Slide: **> 5 drugs**\n• Most guidelines (WHO): regular use of **≥ 5 medications**; ≥ 10 = hyperpolypharmacy\n• Risk of adverse drug reactions, interactions, falls and non-adherence rises with each extra drug\n• Note: slide says >5; the usual definition is 5 or more",
+   "m": "Five fingers, five drugs - one hand full",
+   "r": "Slide p19"
+  },
+  {
+   "t": "IATRO",
+   "q": "Why are older people more prone to adverse drug reactions?",
+   "a": "• **Reduced renal clearance** (lower GFR even with normal creatinine) → accumulation (digoxin, gabapentin, sulfonylureas)\n• **Reduced hepatic metabolism**\n• **More body fat, less body water** → fat-soluble drugs (diazepam) last longer; water-soluble drugs reach higher levels\n• **Lower albumin** → more free drug\n• **Increased CNS sensitivity**, impaired baroreflex and homeostasis",
+   "m": "Less kidney, less liver, more fat, more sensitive brain",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "q": "Which CNS drugs are potentially inappropriate in the elderly and why?",
+   "a": "• **Anticholinergics**\n• **Antihistamines** (first-generation)\n• **Sedatives** (benzodiazepines, Z-drugs)\n• Risks: **delirium, cognitive decline, falls**",
+   "r": "Slide p19"
+  },
+  {
+   "t": "IATRO",
+   "q": "Which cardiovascular drugs are potentially inappropriate in the elderly and why?",
+   "a": "• **Alpha-blockers** (e.g. prazosin, doxazosin as antihypertensives)\n• **Vasodilators**\n• Risk: **orthostatic hypotension** → syncope, falls",
+   "r": "Slide p19"
+  },
+  {
+   "t": "IATRO",
+   "q": "Which analgesics are potentially inappropriate in the elderly and why?",
+   "a": "• **Opioids / meperidine (pethidine)** → **neurotoxicity** (pethidine's metabolite norpethidine accumulates → delirium, seizures)\n• **NSAIDs** → **renal failure** and **GI bleeding** (also fluid retention, worsened heart failure and BP)\n• Prefer **paracetamol** first-line; topical NSAIDs for localised OA",
+   "r": "Slide p19"
+  },
+  {
+   "t": "IATRO",
+   "q": "What are the AGS Beers Criteria?",
+   "a": "• **American Geriatrics Society Beers Criteria (2023 update)**\n• A **medication review tool** listing drugs whose **risks outweigh benefits** in adults ≥65\n• Used to guide prescribing and **deprescribing**",
+   "r": "Slide p20"
+  },
+  {
+   "t": "IATRO",
+   "q": "Give the three categories of inappropriate drug use with the slide examples.",
+   "a": "1. **Drugs generally to avoid** - e.g. **long-acting benzodiazepine (diazepam)** → falls, confusion\n2. **Excess dosage** - e.g. **digoxin > 0.125 mg/day** for AF → toxicity due to reduced renal clearance\n3. **Drug-disease interactions** - e.g. **NSAIDs in CKD or heart failure** → worsening renal function, fluid retention",
+   "m": "Avoid, Dose, Disease",
+   "r": "Slide p20"
+  },
+  {
+   "t": "IATRO",
+   "q": "Why should digoxin doses in older people generally not exceed 0.125 mg/day?",
+   "a": "• Digoxin is **renally cleared**; age-related fall in GFR → **accumulation**\n• Narrow therapeutic index → **toxicity**: nausea, anorexia, confusion, visual (yellow-green) disturbance, bradyarrhythmias\n• Higher doses add little benefit in AF / heart failure\n• Toxicity worsened by **hypokalaemia** (diuretics)",
+   "r": "Slide p20"
+  },
+  {
+   "t": "IATRO",
+   "q": "What are the STOPP/START criteria?",
+   "a": "• European explicit criteria for older people\n• **STOPP** = Screening Tool of Older Persons' **Prescriptions** - potentially inappropriate drugs to **stop**\n• **START** = Screening Tool to Alert to Right Treatment - beneficial drugs that have been **omitted**\n• Unlike Beers, START also tackles **under-prescribing**",
+   "m": "STOPP the harm, START the missing",
+   "r": "Slide p20"
+  },
+  {
+   "t": "IATRO",
+   "q": "Give examples of START (omitted beneficial) medications in older people.",
+   "a": "• **Anticoagulant** in AF (unless contraindicated)\n• **Statin** in established cardiovascular disease (unless end of life)\n• **ACE inhibitor** in heart failure or diabetic nephropathy\n• **Vitamin D + calcium** / **bisphosphonate** in osteoporosis or after fragility fracture\n• **Laxative** with regular opioids",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "q": "Why are first-generation antihistamines (e.g. chlorpheniramine, diphenhydramine) avoided in the elderly?",
+   "a": "• Strongly **anticholinergic** and **sedating**\n• Cause **confusion, delirium, falls, urinary retention, constipation, dry mouth**\n• Often in cough / cold and sleep preparations\n• Prefer **non-sedating** antihistamines (loratadine, cetirizine at reduced dose)",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "q": "Why is glibenclamide avoided in older patients with diabetes, and what is preferred?",
+   "a": "• **Long-acting sulfonylurea** with active, renally cleared metabolites → **prolonged severe hypoglycaemia**\n• Hypoglycaemia → falls, fractures, arrhythmia, confusion\n• Prefer **metformin** (if eGFR allows), a short-acting sulfonylurea such as **gliclazide**, or a DPP-4 inhibitor\n• Use **relaxed HbA1c targets** in frail elderly",
+   "m": "Gliben-CLAMPS the sugar too low for too long",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "q": "What is a prescribing cascade? Give examples.",
+   "a": "• An **adverse drug effect is misread as a new condition** → a second drug is prescribed to treat it\n• **Amlodipine** → ankle oedema → **furosemide** → incontinence, hypokalaemia\n• **Donepezil** → urinary incontinence → **oxybutynin** → confusion\n• **Metoclopramide** → parkinsonism → **levodopa**\n• Always ask: could this new symptom be a drug side effect?",
+   "m": "New symptom? Suspect the last drug before adding a new one",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "q": "What are the key principles of safe prescribing in older adults?",
+   "a": "• **Start low, go slow** - low starting dose, slow titration\n• Clear indication for every drug; **review regularly**\n• Adjust for **renal function** (eGFR / creatinine clearance)\n• Simplify regimen (once-daily, blister packs, pill box)\n• Avoid drugs on **Beers/STOPP** lists; check interactions\n• Involve caregiver and pharmacist",
+   "m": "Start low, go slow, review, renal, simplify",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "q": "What strategies prevent and manage iatrogenesis in the elderly?",
+   "a": "1. **Early recognition and treatment** of illness\n2. **Close management of chronic illness**\n3. **Routine medication review** - prescribe using **Beers criteria**, **deprescribe** unnecessary drugs\n4. **Comprehensive Geriatric Assessment**\n5. **Caregiver and patient education** - clear dosing instructions, explain side effects",
+   "r": "Slide p21"
+  },
+  {
+   "t": "IATRO",
+   "q": "What is a Comprehensive Geriatric Assessment (CGA)?",
+   "a": "• **Multidimensional, multidisciplinary** evaluation of an older person's **medical, psychosocial and functional** status (plus environment)\n• Produces a **coordinated, individualised care plan** with follow-up\n• Reduces institutionalisation and improves the chance of living at home",
+   "r": "Slide p21"
+  },
+  {
+   "t": "IATRO",
+   "q": "What iatrogenic harms are linked to prolonged hospitalisation in older people?",
+   "a": "• **Hospital-acquired delirium**\n• **Hospital-acquired infections** including **catheter-associated UTI**\n• **Deconditioning** and loss of ADL function\n• **Falls** in an unfamiliar environment\n• **Pressure injuries**, malnutrition, VTE\n• Hence: **early mobilisation and early discharge planning**",
+   "r": "Slide p19"
+  },
+  {
+   "t": "IATRO",
+   "q": "How is deprescribing carried out safely in primary care?",
+   "a": "• **Brown-bag review**: patient brings all medicines, including OTC and traditional remedies\n• Identify drugs with **no indication, harms > benefit**, or duplicates\n• Prioritise, discuss goals with patient/family\n• **Taper** drugs with withdrawal risk (**benzodiazepines**, antidepressants, beta-blockers, PPIs)\n• Monitor for symptom recurrence and document",
+   "m": "Bag, Bin, Taper, Watch",
+   "r": "Slide p21"
+  },
+  {
+   "t": "SCRN",
+   "q": "What are the goals of health screening in the elderly?",
+   "a": "• **Detect disease early**\n• **Prevent disability** and complications\n• **Maintain independence**\n• **Improve quality of life**\n• **Promote healthy ageing**",
+   "r": "Slide p22"
+  },
+  {
+   "t": "SCRN",
+   "q": "Which form is used for elderly health screening in Malaysian health clinics?",
+   "a": "• **Borang Saringan Status Kesihatan Warga Emas (BSSK-WE)**\n• Version **BSSK/WE/2008 Pindaan 1/2014**\n• Two components: **health assessment** and **functional daily living assessment**",
+   "m": "BSSK-WE: the warga emas check-up form",
+   "r": "Slides p22-23"
+  },
+  {
+   "t": "SCRN",
+   "q": "What does the health assessment component of BSSK-WE cover?",
+   "a": "• **Sociodemographic** information\n• **Past medical and surgical history**\n• **Current health issues**\n• **Dietary intake** and **oral health**\n• **Physical activity**\n• **Substance intake**: drugs, smoking, alcohol",
+   "r": "Slide p23"
+  },
+  {
+   "t": "SCRN",
+   "q": "What does the functional assessment component of BSSK-WE cover?",
+   "a": "• Screening for **risk of falls** and **gait impairment**\n• **Mental health status** (cognition, depression)\n• **Activities of daily living (ADL)**\n• **History of abuse**\n• **Physical examination** of all symptoms\n• **Anthropometry** measurement",
+   "r": "Slide p23"
+  },
+  {
+   "t": "SCRN",
+   "q": "What types of elder abuse should be screened for, and what do you do if it is suspected?",
+   "a": "• Types: **physical, psychological/emotional, financial, sexual, neglect** (including self-neglect), abandonment\n• Clues: unexplained bruises, delays in seeking care, poor hygiene, fearful patient, money disappearing\n• Action: ensure safety, document carefully, involve **medical social worker** and refer to **JKM** / hospital **OSCC** as appropriate",
+   "m": "PPFSN: Physical, Psychological, Financial, Sexual, Neglect",
+   "r": "Slide p23"
+  },
+  {
+   "t": "SCRN",
+   "q": "How is nutritional risk screened in older people?",
+   "a": "• **Anthropometry**: weight, height, **BMI**, calf / mid-arm circumference\n• **Unintentional weight loss** (> 5% in 6 months is significant)\n• Tools: **Mini Nutritional Assessment - Short Form (MNA-SF)**\n• Ask about **oral health / dentures**, swallowing, appetite, finances and who cooks",
+   "r": "Slide p23"
+  },
+  {
+   "t": "SCRN",
+   "q": "Which other preventive checks should be offered to older people at a Klinik Kesihatan?",
+   "a": "• **BP, glucose, lipids**, renal function in those at risk\n• Cancer screening within age limits: **iFOBT** (colorectal), **mammogram**, Pap/HPV per programme\n• **Vision and hearing** screening\n• **Falls risk, cognition, mood**\n• **Osteoporosis** risk assessment\n• **Vaccinations**",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SCRN",
+   "q": "Which vaccines are recommended for older adults?",
+   "a": "• **Influenza** - annually\n• **Pneumococcal** (conjugate vaccine ± PPSV23) - especially ≥ 65 or with chronic disease\n• **Herpes zoster** (recombinant) - prevents shingles and post-herpetic neuralgia\n• **Tetanus (Td/Tdap)** booster - after injuries / every 10 years\n• COVID-19 boosters as per national guidance",
+   "m": "Flu, Pneumo, Zoster, Tetanus: FPZT",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SCRN",
+   "q": "Why is screening of older people focused on function rather than only disease?",
+   "a": "• Functional decline (ADL/IADL, mobility, cognition) predicts **hospitalisation, institutionalisation and death** better than diagnosis lists\n• Many problems (falls, incontinence, hearing loss) are **under-reported** and seen as normal ageing\n• Early detection allows **rehabilitation, aids and social support** to keep the person independent",
+   "r": "Slides p22-23"
+  },
+  {
+   "t": "SCRN",
+   "q": "Which geriatric problems are typically under-reported by older patients and so must be asked about directly?",
+   "a": "• **Urinary incontinence** (embarrassment)\n• **Falls** (fear of losing independence)\n• **Hearing loss** (thought to be normal ageing)\n• **Memory problems** and **depression**\n• **Elder abuse**\n• Use direct questions and the BSSK-WE checklist",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "Define frailty.",
+   "a": "• An **ageing-related syndrome of physiological decline**\n• Marked by **vulnerability to adverse outcomes**: **falls, disability, hospitalisation** (and death)\n• Minor stressors (e.g. a UTI) cause disproportionate decline",
+   "m": "Frail = low reserve: small push, big fall",
+   "r": "Slide p24"
+  },
+  {
+   "t": "FRAIL",
+   "q": "What is the Clinical Frailty Scale (CFS) used for?",
+   "a": "• A **well-validated** scale to quantify degree of frailty / disability\n• Lets clinicians **screen for frailty and fitness** based on **clinical judgement** and evaluation\n• Guides prognosis, intensity of treatment and advance care planning",
+   "r": "Slide p24"
+  },
+  {
+   "t": "FRAIL",
+   "q": "Describe CFS levels 1 to 3.",
+   "a": "• **1 - Very fit**: robust, active, energetic, exercises regularly\n• **2 - Fit / Well**: no active disease symptoms, exercises occasionally\n• **3 - Managing well**: medical problems well controlled, not regularly active beyond routine walking",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "What is CFS level 4?",
+   "a": "• **Vulnerable** (version 2: **living with very mild frailty**)\n• **Not dependent** on others for daily help\n• But symptoms **limit activities**; commonly complain of being **slowed up** or tired during the day",
+   "m": "4 = slowing down, still independent",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "What is CFS level 5?",
+   "a": "• **Mildly frail**\n• More evident slowing; **needs help with high-order IADLs** - finances, transport, heavy housework, medications\n• Progressive impairment of shopping, walking outside alone, meal preparation",
+   "m": "5 = first help with IADLs",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "How do CFS levels 6 and 7 differ?",
+   "a": "• **6 - Moderately frail**: needs help with **all outside activities** and housekeeping; problems with stairs; needs help or prompting with **bathing**\n• **7 - Severely frail**: **completely dependent for personal care** (physical or cognitive cause), but **stable** and not at high risk of dying within ~6 months",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "What are CFS levels 8 and 9?",
+   "a": "• **8 - Very severely frail**: completely dependent, **approaching end of life**; typically cannot recover even from minor illness\n• **9 - Terminally ill**: **life expectancy < 6 months**, may **not be otherwise evidently frail** (e.g. advanced cancer)",
+   "m": "9 = nine lives used up: terminal",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "How should the CFS be scored when a patient presents acutely unwell?",
+   "a": "• Score **baseline function about 2 weeks before** the acute illness\n• Use history from patient **and** family/caregiver\n• Designed for adults **≥ 65**; not validated in younger people or those with stable lifelong disability\n• In dementia, the degree of frailty matches the degree of dementia",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "What are the five criteria of the Fried frailty phenotype?",
+   "a": "• **Unintentional weight loss** (≥ 4.5 kg or ≥ 5% in past year)\n• **Self-reported exhaustion**\n• **Weakness** (low grip strength)\n• **Slow walking speed**\n• **Low physical activity**",
+   "m": "Shrinking, Tired, Weak, Slow, Inactive",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "How is the Fried frailty phenotype interpreted?",
+   "a": "• **0 criteria**: robust (not frail)\n• **1-2 criteria**: **pre-frail**\n• **≥ 3 criteria**: **frail**\n• Pre-frailty is the best window for intervention - it is often **reversible**",
+   "m": "3 of 5 = frail",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "How do frailty, disability and multimorbidity differ?",
+   "a": "• **Frailty**: reduced physiological **reserve** → vulnerability to stressors\n• **Disability**: **difficulty or dependence** in ADL/IADL\n• **Multimorbidity**: ≥ 2 chronic diseases\n• They overlap but are distinct - a person can be frail without disability, or multimorbid yet robust",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "q": "Which interventions can delay or reverse frailty in primary care?",
+   "a": "• **Progressive resistance (strength) exercise** and balance training - most effective\n• **Adequate protein and energy** intake; treat weight loss\n• **Medication review / deprescribing**\n• Correct **vitamin D** deficiency, treat anaemia, depression\n• **Comprehensive Geriatric Assessment** and social support",
+   "m": "Move, Eat, Deprescribe",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ADL",
+   "q": "What is the difference between basic ADL and instrumental ADL (IADL)?",
+   "a": "• **Basic ADL**: self-care tasks - **feeding, bathing, dressing, toileting, transferring, continence**\n• **IADL**: tasks for **independent living in the community** - shopping, cooking, housework, laundry, telephone, transport, medications, finances\n• IADLs need more complex cognition and are **lost first**",
+   "m": "ADL = look after my body; IADL = look after my house",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ADL",
+   "q": "What does the Lawton IADL scale assess?",
+   "a": "• **8 domains**: using the **telephone**, **shopping**, **food preparation**, **housekeeping**, **laundry**, **transport**, **responsibility for own medications**, **handling finances**\n• Scored 0-8 (higher = more independent)\n• **Early decline** often signals early dementia or frailty, before basic ADLs fail",
+   "m": "Phone, Shop, Cook, Clean, Wash, Travel, Pills, Money",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ADL",
+   "q": "What are the objectives of the Barthel Index?",
+   "a": "• Assess a patient's **capability to perform daily activities**\n• **Measure functional disability**\n• Determine the **degree of assistance required**\n• Total score categorises **dependency** from total to minimal assistance - informs **discharge and long-term care planning**",
+   "r": "Slide p33"
+  },
+  {
+   "t": "ADL",
+   "q": "In which settings and populations is the Barthel Index used?",
+   "a": "• Both **inpatient and outpatient** settings; **monitors change in function over time**\n• Most commonly used for **stroke** patients\n• Also older adults, ICU patients, neuromuscular disorders, head injury, malignancy\n• Typical places: hospitals, rehabilitation and stroke units, orthopaedic wards, long-term care facilities",
+   "r": "Slides p33, p36"
+  },
+  {
+   "t": "ADL",
+   "q": "What are the 10 domains of the Barthel Index?",
+   "a": "• **Feeding**\n• **Bathing**\n• **Grooming**\n• **Dressing**\n• **Bowel control**\n• **Bladder control**\n• **Toileting**\n• **Chair (bed) transfer**\n• **Ambulation** (mobility on level surfaces)\n• **Stair climbing**",
+   "m": "Barthel's Ten: eat, wash, groom, dress, bowel, bladder, toilet, transfer, walk, stairs",
+   "r": "Slide p34"
+  },
+  {
+   "t": "ADL",
+   "q": "How is each Barthel Index domain scored?",
+   "a": "• Each item scored from **0 (dependent)** upward according to degree of independence\n• **Bathing and grooming: 0-1**; feeding, dressing, bowels, bladder, toileting, stairs: **0-2**; **transfers and mobility: 0-3**\n• Total **0-20** (or ×5 = **0-100** version)\n• Note: slide states every item ranges 0 to 1-2; transfers and mobility actually go up to 3",
+   "r": "Slide p34"
+  },
+  {
+   "t": "ADL",
+   "q": "How is the total Barthel Index score (100-point version) interpreted?",
+   "a": "• **0-20**: total dependency\n• **21-60**: severe dependency\n• **61-90**: moderate dependency\n• **91-99**: slight dependency\n• **100**: independent\n• A score of 100 does not mean the person can live alone safely - IADLs are not tested",
+   "m": "Barthel 100 = can do basic self-care, not necessarily live alone",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ADL",
+   "q": "What is the Katz Index of Independence in ADL used for and how is it scored?",
+   "a": "• Considered the **most appropriate instrument** to assess **functional status** - ability to perform ADLs independently\n• Detects problems with ADLs and helps **plan care**\n• Scored **yes/no (independent or not)** for each of **six functions** → total **0-6**",
+   "r": "Slide p35"
+  },
+  {
+   "t": "ADL",
+   "q": "What are the six functions of the Katz ADL index?",
+   "a": "• **Bathing**\n• **Dressing**\n• **Toileting**\n• **Transferring**\n• **Continence**\n• **Feeding**",
+   "m": "Katz is a DEFTTB cat: Dressing, Eating, Faeces/continence, Toileting, Transfer, Bathing",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ADL",
+   "q": "How is the Katz ADL score interpreted?",
+   "a": "• **6**: full function\n• **4**: moderate impairment\n• **≤ 2**: severe functional impairment",
+   "m": "6 full, 4 moderate, 2 severe",
+   "r": "Slide p35"
+  },
+  {
+   "t": "ADL",
+   "q": "Compare the Barthel Index and the Katz Index.",
+   "a": "• **Barthel**: **detailed** assessment, 10 domains, graded scores; tracks **finer changes in rehabilitation**; used in hospitals, rehab and stroke units, long-term care\n• **Katz**: **quick screening** of basic ADLs only, 6 yes/no items; used in **primary care, CGA, community screening, nursing homes**\n• Katz creates a common language and flags function to **prevent iatrogenesis**",
+   "m": "Katz = quick clinic check; Barthel = detailed rehab ruler",
+   "r": "Slide p36"
+  },
+  {
+   "t": "ADL",
+   "q": "In what order are activities of daily living typically lost and regained?",
+   "a": "• Katz hierarchy: lost in order **bathing → dressing → toileting → transferring → continence → feeding**\n• **Bathing is lost first, feeding last**; recovery happens in the **reverse** order\n• IADLs (finances, medications, transport) decline even before basic ADLs",
+   "m": "First in the bath, last at the table",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SENS",
+   "q": "What is presbycusis?",
+   "a": "• **Sensorineural** hearing loss caused by **degeneration of the hearing organ** (cochlea) with age\n• Most common cause of hearing loss in adults **> 55 years**",
+   "m": "Presby = old, acusis = hearing",
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "q": "What are the typical features of presbycusis?",
+   "a": "• **Gradual** onset\n• **Bilateral and symmetrical**\n• Affects **high frequencies** (high-pitched sounds, consonants) first\n• **Men** have greater loss and earlier onset than women\n• Difficulty hearing **in noisy places** and understanding speech",
+   "m": "Old ears lose the high notes first",
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "q": "What should the clinical evaluation of hearing loss in an older adult include?",
+   "a": "• **History**: risk factors, especially **noise exposure** and **ototoxic medications**\n• **Examination**: otoscopy of the **auditory canal and tympanic membrane** for conductive causes (wax, effusion, perforation)\n• Tuning fork tests (Rinne, Weber) to separate conductive from sensorineural\n• **Gold standard: pure-tone audiogram**",
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "q": "Which drugs are ototoxic?",
+   "a": "• **Aminoglycosides** (gentamicin, streptomycin)\n• **Loop diuretics** (high-dose IV furosemide)\n• **Platinum chemotherapy** (cisplatin)\n• **High-dose salicylates** (aspirin) - often reversible tinnitus\n• **Quinine** / antimalarials",
+   "m": "A Loop of Cis-Aspirin-Quinine",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SENS",
+   "q": "What is the gold standard test for hearing loss and what pattern does presbycusis show?",
+   "a": "• **Standard (pure-tone) audiogram**\n• Presbycusis: **bilateral, symmetrical, down-sloping high-frequency sensorineural loss**\n• Air and bone conduction both reduced with **no air-bone gap**",
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "q": "Which hearing presentation in older adults needs urgent referral?",
+   "a": "• **Idiopathic sudden sensorineural hearing loss** (loss over ≤ 72 hours, usually one ear)\n• Refer **urgently to ENT** - early **corticosteroids** improve recovery\n• Also refer: unilateral or asymmetric loss (exclude vestibular schwannoma), associated focal neurology, painful discharging ear",
+   "m": "Sudden deafness = ENT emergency",
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "q": "How is hearing impairment managed in older adults?",
+   "a": "• **Treat underlying causes**: remove obstructions such as **cerumen (wax)**, stop or adjust **ototoxic medications**\n• **Residual hearing**: **hearing aids**, **assistive listening devices**, rehabilitation programmes\n• **Surgical implants** (e.g. cochlear implant) for severe loss",
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "q": "When and how should older adults be screened for hearing loss?",
+   "a": "• Recommended in adults **older than 50-60 years**\n• **HHIE-S questionnaire** - perceived social and emotional effects of hearing loss\n• **Whisper test**: stand **arm's length (about 60 cm) behind** the patient, mask the other ear by rubbing the tragus, whisper 3 numbers/letters; failure = inability to repeat most of them",
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "q": "How is the HHIE-S scored and interpreted?",
+   "a": "• **10 questions**, answers **yes (4) / sometimes (2) / no (0)** → total **0-40**\n• **0-8**: no handicap, no referral\n• **10-24**: mild to moderate handicap\n• **26-40**: significant / severe handicap → **refer to audiologist**\n• Score **≥ 10** = screen positive",
+   "m": "HHIE-S: 10 questions, 10 points positive",
+   "r": "Slide p45"
+  },
+  {
+   "t": "SENS",
+   "q": "Why do many older adults with hearing loss not receive treatment?",
+   "a": "• **Failure to recognise** the loss\n• Viewing it as a **normal part of ageing** or believing it **cannot be treated**\n• **Non-adherence with hearing aids**: stigma, cost, inconvenience, disappointing initial results",
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "q": "Why does sensory impairment matter so much in older people?",
+   "a": "• **Hearing loss**: social isolation, depression, and it is the largest **modifiable risk factor for dementia** in mid-life (Lancet Commission)\n• **Visual impairment**: **falls**, fractures, loss of driving, reduced ADL\n• Both can **mimic or worsen confusion** and **delirium** - always provide glasses and hearing aids",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SENS",
+   "q": "What are the key points on visual impairment in the elderly from the slides?",
+   "a": "• **Blindness prevalence** rises in those **> 70 years**\n• Commonly **asymptomatic in the early stage**\n• **Screening every 12 months**",
+   "m": "Eyes once a year after 60",
+   "r": "Slide p46"
+  },
+  {
+   "t": "SENS",
+   "q": "What are the common visual problems in the elderly?",
+   "a": "• **Cataract**\n• **Refractive error** (long/short-sightedness, presbyopia)\n• **Glaucoma**\n• **Retinal detachment**\n• **Age-related macular degeneration**\n• **Diabetic retinopathy**\n• Note: slide writes 'retinal displacement'; the correct term is retinal detachment",
+   "r": "Slide p46"
+  },
+  {
+   "t": "SENS",
+   "q": "Which eye examinations are used to screen older adults?",
+   "a": "• **Visual acuity** (Snellen chart, pinhole)\n• **Visual field** (confrontation)\n• **Colour vision**\n• **RAPD** (relative afferent pupillary defect - optic nerve disease)\n• **Light brightness**\n• **Ophthalmoscopy** (red reflex, disc, retina)\n• **Intraocular pressure** (IOP)",
+   "r": "Slide p46"
+  },
+  {
+   "t": "SENS",
+   "q": "How do cataract, primary open-angle glaucoma and age-related macular degeneration present differently?",
+   "a": "• **Cataract**: gradual **blurred / cloudy vision**, glare at night, **reduced red reflex**; vision improves with surgery\n• **Open-angle glaucoma**: painless, **peripheral field loss** first (tunnel vision), **cupped disc**, raised IOP\n• **AMD**: **central vision loss**, distortion (straight lines wavy on Amsler grid), drusen; wet AMD sudden → urgent referral",
+   "m": "Cataract = cloudy, Glaucoma = tunnel, AMD = central hole",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SENS",
+   "q": "What is the role of the primary care doctor in diabetic eye screening of older patients?",
+   "a": "• **Annual fundus screening** (fundus camera / dilated ophthalmoscopy) for all with type 2 diabetes from diagnosis\n• Refer to ophthalmology for **sight-threatening retinopathy** (pre-proliferative or proliferative, maculopathy)\n• **Sudden visual loss** in a diabetic (vitreous haemorrhage, retinal detachment) → same-day referral\n• Optimise glucose, BP and lipids",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "WARGA",
+   "q": "What is the Dasar Warga Emas Negara (DWEN)?",
+   "a": "• National Older Persons Policy, **established 1995, revised 2011**\n• **Vision**: elderly who are **independent, dignified and respected**\n• Key objective: **empower individuals, families and communities** to face ageing",
+   "r": "Slide p48"
+  },
+  {
+   "t": "WARGA",
+   "q": "What are the six strategies of the DWEN?",
+   "a": "• **Honour and dignity**\n• **Self-reliance**\n• **Participation**\n• **Care and protection**\n• **Research and development**\n• **Action plan**",
+   "m": "HSP-CRA: Honour, Self, Participate, Care, Research, Action",
+   "r": "Slide p48"
+  },
+  {
+   "t": "WARGA",
+   "q": "What is the Pelan Tindakan Warga Emas Negara (PTWEN) 2026-2030?",
+   "a": "• National Older Persons Action Plan - translates the **DWEN** into **actionable implementation**\n• **Launched 5 October 2025**, replacing the expired **PTWEN 2010-2020**\n• Target: **50,000 skilled elderly caregivers by 2030**",
+   "r": "Slide p48"
+  },
+  {
+   "t": "WARGA",
+   "q": "What are the National Ageing Blueprint (NAB) and the RUU Warga Emas?",
+   "a": "• **NAB 2025-2045**: White Paper to be tabled 2026-2027; **5 thrusts** - macroeconomics and fiscal policy, education and skills, **lifelong health**, **social protection**, **long-term care**\n• **RUU Warga Emas** (Older Persons Bill): draft completed June 2025, expected in Parliament 2026; **human-rights based**, protects elderly from **neglect and abuse** - Malaysia currently has **no dedicated elderly law**",
+   "r": "Slide p49"
+  },
+  {
+   "t": "WARGA",
+   "q": "What does the Care Centres Act 1993 (Act 506) regulate?",
+   "a": "• **Registration, control and inspection** of all **care centres** - for elderly, disabled and children\n• Requires **trained carers**, adequate **facilities** and **safety compliance**\n• **Amended 2018** to strengthen provisions\n• Advise families to choose a **registered** care centre",
+   "r": "Slide p49"
+  },
+  {
+   "t": "WARGA",
+   "q": "What is PAWE?",
+   "a": "• **Pusat Aktiviti Warga Emas** - **JKM** community centres promoting **healthy, active ageing**\n• **217 centres**, about **49,000 active members** (Feb 2026)\n• **Free** for all elderly members\n• Funding: RM100,000 one-off establishment grant + RM50,000 annual operating grant per centre",
+   "m": "PAWE = JKM day activity centre",
+   "r": "Slide p50"
+  },
+  {
+   "t": "WARGA",
+   "q": "What is KOSPEN Warga Emas?",
+   "a": "• **KKM (MOH)** programme for **NCD prevention at community level**\n• **Trained volunteers** monitor **BP, glucose and BMI**\n• Conducts **health screening and fitness activities**\n• Collaborates with **PAWE** for elderly exercise programmes",
+   "r": "Slide p50"
+  },
+  {
+   "t": "WARGA",
+   "q": "What are Kelab Warga Emas (KWE) and Khidmat Bantu di Rumah (KBDR)?",
+   "a": "• **KWE**: elderly clubs encouraging **community and NGO involvement** - **233 clubs under health clinics** (2017)\n• **KBDR**: **volunteer home-help** for elderly **living alone** - meal preparation, bathing, housekeeping, companionship, medication support, hospital visits (~1,000 volunteers serving 5,000 elderly)",
+   "m": "KWE = club at the clinic; KBDR = help at home",
+   "r": "Slide p50"
+  },
+  {
+   "t": "WARGA",
+   "q": "How do Rumah Seri Kenangan and Rumah Ehsan differ?",
+   "a": "• Both are **JKM residential homes** for poor elderly **aged 60+** without heirs or income\n• **Rumah Seri Kenangan (RSK)**: residents **able to self-care**, free from infectious / psychiatric disease\n• **Rumah Ehsan**: **frail, unable to self-care**, **certified chronically ill** by a government medical officer",
+   "m": "Seri Kenangan = Self-caring; Ehsan = Extra care",
+   "r": "Slide p51"
+  },
+  {
+   "t": "WARGA",
+   "q": "What is Bantuan Warga Emas (BWE) and who is eligible?",
+   "a": "• **JKM monthly cash assistance** for poor elderly - increased from **RM500 to RM600/month** (2025)\n• Eligibility: **aged 60+**, household income **below the poverty line (< RM2,589/month)**, **not in an institution**, not receiving other assistance\n• Over 160,000 recipients",
+   "m": "BWE: 60 years, RM600",
+   "r": "Slide p52"
+  },
+  {
+   "t": "WARGA",
+   "q": "What are mySalam and SMUE?",
+   "a": "• **mySalam**: national **takaful** protection for the **B40** group - expanded from **45 to 50 critical illnesses** (April 2025); most common claim **cancer**\n• **SMUE (Skim Mesra Usia Emas)**: Selangor scheme - **RM150 annual shopping voucher** + **RM2,500 funeral aid** (Khairat Darul Ehsan)",
+   "r": "Slide p52"
+  },
+  {
+   "t": "WARGA",
+   "q": "What does PEKA B40 offer and who is eligible?",
+   "a": "• **Free health screening** for **B40 individuals aged 40+** (STR recipients automatically eligible)\n• Covers physical examination, breast/prostate screening, blood tests (glucose, cholesterol, renal), urine test, **mental health screening**\n• **Medical device aid up to RM20,000** (e.g. hearing aids, walking aids)",
+   "r": "Slide p52"
+  },
+  {
+   "t": "WARGA",
+   "q": "How can a primary care doctor link an older patient to social support in Malaysia?",
+   "a": "• Identify needs during BSSK-WE / CGA (financial, caregiver, housing, abuse)\n• Refer to the **medical social worker** / **JKM** for BWE, RSK / Rumah Ehsan, KBDR\n• Encourage **PAWE**, **KWE** and **KOSPEN Warga Emas** for active ageing\n• Check eligibility for **PEKA B40** and **mySalam**",
+   "r": "Slides p50-52"
+  },
+  {
+   "t": "WARGA",
+   "q": "What does Surah al-Isra' (17:23) teach about the care of older people?",
+   "a": "• Honour parents; when they reach **old age**, never say even **‘ugh’** to them nor yell, but **speak respectfully**\n• Application: treat older patients with **patience, respect and dignity**, especially when frail, dependent or needing repeated help\n• Care should include **respectful communication and emotional support**, not just medical treatment",
+   "r": "Slide p53"
+  },
+  {
+   "t": "FALL",
+   "q": "Which findings in an older person who has fallen need same-day referral to hospital rather than KK follow-up?",
+   "a": "• **Head injury on an anticoagulant or antiplatelet**, or new confusion / vomiting / reduced GCS → urgent **CT brain** (subdural risk)\n• Suspected **hip fracture**: unable to weight-bear, **shortened, externally rotated leg**\n• **Long lie** with suspected **rhabdomyolysis**, hypothermia or pressure injury\n• Fall with **syncope plus cardiac features** (exertional, palpitations, murmur, abnormal ECG) or new **focal neurology**\n• Acute illness (sepsis) or unsafe to go home",
+   "m": "Bleed, Break, Long lie, Heart/Brain - 'BBLH' = send today",
+   "r": "Lecturer pearl"
+  }
+ ],
+ "mcq": [
+  {
+   "t": "GIANT",
+   "stem": "An 82-year-old woman is brought to the Klinik Kesihatan by her daughter. Over 2 days she has become muddled, fell once at home without injury, and has wet herself twice. She has no cough or fever. BP 128/76 mmHg, pulse 98/min, temperature 37.2 °C. She was fully independent last week.\nWhat is the most appropriate next step?",
+   "o": [
+    "Arrange an outpatient CT brain to look for vascular dementia",
+    "Start low-dose haloperidol at night to settle her confusion",
+    "Search for an acute precipitant: urine dipstick, glucose, examination",
+    "Start oxybutynin for her new-onset urinary incontinence",
+    "Refer for routine physiotherapy review of her fall next month"
+   ],
+   "a": 2,
+   "e": "Several geriatric giants appearing together over days (confusion, a fall, incontinence) are an atypical presentation of acute illness such as UTI, pneumonia, hypoglycaemia or drug toxicity. The first job is to find and treat the precipitant. Treating each giant separately with drugs or delayed referrals misses the cause.",
+   "w": [
+    "Wrong - an acute 2-day change is not dementia; imaging is not the first step",
+    "Wrong - antipsychotics do not treat the cause and add sedation and fall risk",
+    "Correct - acute multiple giants signal an underlying illness that must be found first",
+    "Wrong - oxybutynin is anticholinergic and would worsen confusion; the incontinence is likely transient",
+    "Wrong - delaying assessment risks missing sepsis or another treatable cause"
+   ],
+   "r": "Slide p5"
+  },
+  {
+   "t": "IMMOB",
+   "stem": "An 85-year-old man is bedbound at home after a dense left hemiparetic stroke. He cannot turn himself. His wife, the main caregiver, asks how often she should change his position to prevent pressure sores.\nWhat interval should you advise?",
+   "o": [
+    "Every 2 hours",
+    "Every 4 hours",
+    "Every 15 minutes",
+    "Every 1 hour",
+    "Every 8 hours"
+   ],
+   "a": 0,
+   "e": "Bedbound patients who cannot move themselves should be repositioned every 2 hours. Wheelchair-bound patients need repositioning every hour, and those able to shift their own weight should do so about every 15 minutes. Longer intervals allow ischaemia over bony prominences.",
+   "w": [
+    "Correct - 2-hourly turning is the standard for bedbound patients",
+    "Wrong - 4 hours is too long; ischaemic damage can begin within 2 hours",
+    "Wrong - 15-minute weight shifts apply to patients able to reposition themselves",
+    "Wrong - hourly repositioning is the interval for wheelchair-bound patients",
+    "Wrong - turning once per shift guarantees pressure injury over the sacrum and heels"
+   ],
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "stem": "An 80-year-old woman with advanced dementia now spends most of the day in a wheelchair at a care centre. She cannot lift or shift her own weight. The staff ask how often they should reposition her while she is seated.\nWhat interval is recommended?",
+   "o": [
+    "Every 15 minutes",
+    "Every 2 hours",
+    "Every 4 hours",
+    "Every 30 minutes",
+    "Every 1 hour"
+   ],
+   "a": 4,
+   "e": "Seated pressure over the ischial tuberosities is concentrated on a small area, so wheelchair-bound patients need repositioning every hour, more often than bedbound patients (every 2 hours). Fifteen-minute weight shifts are for patients who can do it themselves.",
+   "w": [
+    "Wrong - 15-minute shifts are for patients able to self-reposition",
+    "Wrong - 2 hours is the bedbound interval; sitting loads a smaller area",
+    "Wrong - 4 hours is far too long for any immobile patient",
+    "Wrong - not the recommended interval for staff-assisted repositioning",
+    "Correct - wheelchair-bound patients should be repositioned hourly"
+   ],
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "stem": "A 79-year-old man has been largely bedbound at home for 3 weeks after pneumonia. His daughter notices his right calf is swollen. The calf is 3 cm larger than the left, warm, with pitting oedema and mild tenderness along the deep veins. There is no fever and no skin break.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Cellulitis of the right leg",
+    "Deep vein thrombosis",
+    "Ruptured Baker's cyst",
+    "Lymphoedema from immobility",
+    "Bilateral heart failure oedema"
+   ],
+   "a": 1,
+   "e": "Immobility is a major risk factor for deep vein thrombosis. Unilateral calf swelling over 3 cm, pitting oedema and tenderness along the deep veins score highly on the Wells criteria. Arrange urgent compression ultrasound. Cellulitis usually has fever, spreading erythema and a skin portal of entry.",
+   "w": [
+    "Wrong - no fever, spreading erythema or skin break to suggest infection",
+    "Correct - immobile patient with unilateral swollen tender calf: DVT until proven otherwise",
+    "Wrong - possible, but there is no history of knee swelling or sudden calf pain",
+    "Wrong - lymphoedema is chronic, non-tender and develops over months",
+    "Wrong - heart failure gives bilateral oedema, not a single swollen tender calf"
+   ],
+   "r": "Slide p6"
+  },
+  {
+   "t": "IMMOB",
+   "stem": "A district nurse reviews an 88-year-old bedbound woman. Over the sacrum there is a 3 cm ulcer with full-thickness skin loss. Subcutaneous fat is visible in the base, but no bone, tendon or muscle is exposed, and the base is not covered by slough.\nWhat stage is this pressure injury?",
+   "o": [
+    "Stage 2",
+    "Stage 4",
+    "Unstageable",
+    "Stage 3",
+    "Deep tissue injury"
+   ],
+   "a": 3,
+   "e": "Stage 3 is full-thickness skin loss with visible fat but no exposed bone, tendon or muscle. Stage 2 is partial-thickness (blister or shallow ulcer), stage 4 exposes deeper structures, and unstageable means the base is hidden by slough or eschar.",
+   "w": [
+    "Wrong - stage 2 is partial-thickness only; fat is not visible",
+    "Wrong - stage 4 requires exposed bone, tendon or muscle",
+    "Wrong - the base is visible, so it can be staged",
+    "Correct - full-thickness loss with fat visible and no deeper exposure",
+    "Wrong - deep tissue injury is intact skin with purple or maroon discolouration"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IMMOB",
+   "stem": "An 84-year-old woman with bilateral knee osteoarthritis has gradually stopped leaving her house. She now walks slowly holding on to furniture, has weak quadriceps and poor balance, but no acute pain flare. Her X-rays show moderate OA. She wants to walk to the surau again.\nWhat is the most appropriate management to improve her mobility?",
+   "o": [
+    "Advise strict rest until the knees feel less stiff",
+    "Physiotherapy for strength, balance and gait with a walking aid",
+    "Prescribe diazepam at night to relieve muscle stiffness",
+    "Order an MRI of both knees before starting any exercise",
+    "Provide a wheelchair for all mobility outside the home"
+   ],
+   "a": 1,
+   "e": "Immobility is not normal ageing and worsens with rest. Rehabilitation with range-of-motion, strengthening, balance and gait training plus an appropriate walking aid restores function. Rest, sedatives and premature wheelchair use accelerate deconditioning.",
+   "w": [
+    "Wrong - rest causes further muscle wasting and stiffness",
+    "Correct - targeted physiotherapy plus a walking aid restores functional independence",
+    "Wrong - benzodiazepines cause sedation and falls in the elderly",
+    "Wrong - imaging adds nothing; exercise is safe and indicated in OA",
+    "Wrong - a wheelchair would remove remaining walking ability and accelerate decline"
+   ],
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "stem": "An 81-year-old man has become increasingly drowsy and weak over 2 months and now spends most of the day in bed. Six weeks ago amitriptyline was increased to 50 mg at night for diabetic neuropathic pain. Examination shows no focal neurology. Glucose and electrolytes are normal.\nWhat is the best first step to improve his mobility?",
+   "o": [
+    "Start a high-protein supplement and review in 3 months",
+    "Refer for a walking frame and home physiotherapy only",
+    "Arrange a CT brain to exclude a silent stroke",
+    "Reduce and then stop the amitriptyline, then reassess",
+    "Add modafinil in the morning to counter his drowsiness"
+   ],
+   "a": 3,
+   "e": "Medication review is part of immobility management: reduce or stop drugs that cause weakness, fatigue or sedation. Amitriptyline is sedating and anticholinergic and is a Beers-list drug in older adults. Adding another drug to counter a side effect is a prescribing cascade.",
+   "w": [
+    "Wrong - nutrition helps but does not address the cause of his sedation",
+    "Wrong - rehabilitation will fail while he remains sedated",
+    "Wrong - no focal signs; the temporal link with the dose increase points to the drug",
+    "Correct - the sedating anticholinergic drug is the likely cause and should be withdrawn",
+    "Wrong - treating a side effect with a new drug is a prescribing cascade"
+   ],
+   "r": "Slide p7"
+  },
+  {
+   "t": "IMMOB",
+   "stem": "A 78-year-old man with type 2 diabetes is bedbound after a hip fracture repair. You plan DVT prevention. His foot pulses are absent, the ankle-brachial pressure index is 0.6 and he has dry shiny skin on both shins.\nWhich DVT-prevention measure should be avoided?",
+   "o": [
+    "Graduated compression stockings",
+    "Active and passive leg exercises",
+    "Adequate oral fluid intake",
+    "Early mobilisation with physiotherapy",
+    "Regular turning in bed"
+   ],
+   "a": 0,
+   "e": "Compression stockings are contraindicated in significant peripheral arterial disease (ABPI below about 0.8) because they reduce arterial inflow and can cause skin necrosis. Other contraindications include severe neuropathy, fragile skin and severe leg oedema from heart failure.",
+   "w": [
+    "Correct - ABPI 0.6 means peripheral arterial disease; stockings can cause ischaemic necrosis",
+    "Wrong - leg exercises are safe and help venous return",
+    "Wrong - hydration is safe and reduces blood viscosity",
+    "Wrong - early mobilisation is the best DVT prevention",
+    "Wrong - turning prevents pressure injury and is safe"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 58-year-old woman, para 4, attends the Klinik Kesihatan complaining of leaking small amounts of urine when she coughs, laughs or lifts her grandchild. She has no urgency, no nocturia, and empties her bladder fully. Urinalysis is normal.\nWhat type of incontinence is most likely?",
+   "o": [
+    "Urge urinary incontinence",
+    "Overflow incontinence",
+    "Functional incontinence",
+    "Mixed urinary incontinence",
+    "Stress urinary incontinence"
+   ],
+   "a": 4,
+   "e": "Leakage of small amounts with raised intra-abdominal pressure, without urgency, points to stress incontinence from pelvic floor weakness or a poor urethral sphincter. Multiparity is a key risk factor. Mixed incontinence requires urge symptoms too.",
+   "w": [
+    "Wrong - urge incontinence features a sudden overwhelming need to void",
+    "Wrong - overflow causes constant dribbling from incomplete emptying",
+    "Wrong - functional incontinence occurs with normal bladder function but barriers to the toilet",
+    "Wrong - no urge symptoms, so it is not mixed",
+    "Correct - small leaks with coughing, laughing and lifting are classic stress incontinence"
+   ],
+   "r": "Slide p9"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 62-year-old woman has leaked urine on sneezing and jogging for a year. There is no urgency. Pelvic examination shows good pelvic floor contraction and no prolapse; urinalysis is normal. She is keen to avoid surgery.\nWhat is the most appropriate first-line treatment?",
+   "o": [
+    "Oxybutynin 2.5 mg twice daily for 3 months",
+    "Pelvic floor muscle training for at least 3 months",
+    "Bladder retraining with timed voiding for 6 weeks",
+    "Referral for a mid-urethral sling operation",
+    "Long-term indwelling urethral catheterisation"
+   ],
+   "a": 1,
+   "e": "Pelvic floor (Kegel) exercises are first-line for stress incontinence and help 50-80%; give a full trial of at least 3 months. Antimuscarinics are ineffective for stress incontinence, bladder training targets urge incontinence, and surgery is reserved for failed conservative treatment.",
+   "w": [
+    "Wrong - antimuscarinics treat urge, not stress incontinence",
+    "Correct - supervised pelvic floor training for at least 3 months is first-line",
+    "Wrong - bladder drill is the first-line behavioural treatment for urge incontinence",
+    "Wrong - surgery is reserved for failure of conservative therapy",
+    "Wrong - catheters carry infection risk and are not a treatment for stress leakage"
+   ],
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "stem": "An 83-year-old woman with mild Alzheimer's disease on donepezil has urgency and urge leakage. Urine culture is negative and post-void residual is 30 mL. Bladder training has helped only partly. Her daughter asks for medication.\nWhich drug is most likely to worsen her cognition?",
+   "o": [
+    "Mirabegron 25 mg daily",
+    "Vaginal oestriol cream",
+    "Lactulose 10 mL at night",
+    "Paracetamol 1 g as needed",
+    "Oxybutynin 5 mg three times daily"
+   ],
+   "a": 4,
+   "e": "Oxybutynin is a strongly anticholinergic, lipophilic drug that crosses the blood-brain barrier, causing confusion and delirium, and it directly opposes donepezil. It is on the Beers list for older adults. Mirabegron, a beta-3 agonist, is the preferred drug if one is needed.",
+   "w": [
+    "Wrong - mirabegron is not anticholinergic; check BP before use",
+    "Wrong - topical oestrogen helps atrophic symptoms without cognitive effects",
+    "Wrong - lactulose treats constipation and has no anticholinergic action",
+    "Wrong - paracetamol is safe for cognition",
+    "Correct - oxybutynin is highly anticholinergic and antagonises donepezil"
+   ],
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 76-year-old man with known prostate enlargement has had constant dribbling of urine for 2 weeks, since starting an over-the-counter cold remedy containing chlorpheniramine. A smooth tender mass rises out of the pelvis. Urine dipstick shows no nitrites.\nWhich investigation will best confirm the mechanism of his incontinence?",
+   "o": [
+    "Urodynamic pressure-flow study",
+    "Flexible cystoscopy",
+    "Ultrasound post-void residual volume",
+    "Serum prostate-specific antigen",
+    "Urine cytology for malignant cells"
+   ],
+   "a": 2,
+   "e": "Constant dribbling with a palpable bladder in a man with BPH, after an anticholinergic drug, suggests overflow incontinence from retention. A bladder ultrasound for post-void residual confirms it quickly (over 200 mL is significant). Catheterise, stop the anticholinergic and refer to urology.",
+   "w": [
+    "Wrong - urodynamics are a specialist test, not the first step",
+    "Wrong - cystoscopy assesses the bladder lining, not emptying",
+    "Correct - a high PVR confirms retention with overflow",
+    "Wrong - PSA does not show retention and may be raised by it",
+    "Wrong - cytology is for suspected urothelial cancer, not overflow"
+   ],
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "stem": "An 88-year-old woman with severe knee osteoarthritis and mild dementia wets herself most nights before she reaches the toilet, which is at the far end of the house. She has no urgency or dysuria. Urinalysis is normal and post-void residual is 40 mL.\nWhat is the most appropriate management?",
+   "o": [
+    "Start oxybutynin 2.5 mg at night",
+    "Bedside commode and prompted voiding schedule",
+    "Pelvic floor muscle training for 3 months",
+    "Insert a long-term indwelling catheter",
+    "Refer for urodynamic studies at the hospital"
+   ],
+   "a": 1,
+   "e": "Leakage despite normal bladder function because the patient cannot reach the toilet in time is functional incontinence. Management removes the barrier: bedside commode, clear lit path, easy clothing and prompted voiding by caregivers. Drugs and pelvic floor exercises do not address the cause.",
+   "w": [
+    "Wrong - the bladder is normal; an anticholinergic would worsen her dementia",
+    "Correct - remove the barrier with a commode and prompted voiding",
+    "Wrong - there is no stress leakage to treat",
+    "Wrong - catheters carry infection risk and are a last resort",
+    "Wrong - bladder function is already shown to be normal"
+   ],
+   "r": "Slide p9"
+  },
+  {
+   "t": "INCON",
+   "stem": "An 80-year-old woman has had new urinary leakage and frequency for 3 weeks. She has had no bowel opening for 6 days and takes codeine for back pain. Abdomen is soft with a palpable sigmoid colon. Rectal examination reveals a rectum loaded with hard stool. Urinalysis is normal.\nWhat is the most appropriate next step?",
+   "o": [
+    "Start tolterodine 2 mg twice daily",
+    "Arrange urodynamic studies",
+    "Refer to gynaecology for prolapse",
+    "Clear the impaction and give regular laxatives",
+    "Begin pelvic floor muscle exercises"
+   ],
+   "a": 3,
+   "e": "Stool impaction is a reversible cause of incontinence (the S in DIAPPERS); the loaded rectum presses on the bladder and urethra. Treat the impaction, review the codeine and prevent recurrence with laxatives before labelling a chronic type of incontinence.",
+   "w": [
+    "Wrong - antimuscarinics worsen constipation and miss the reversible cause",
+    "Wrong - investigate only if leakage persists after treating impaction",
+    "Wrong - no prolapse found; the cause is bowel loading",
+    "Correct - treat the reversible cause first",
+    "Wrong - exercises do not address a loaded rectum"
+   ],
+   "r": "Slide p8"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 74-year-old woman with urge incontinence has not improved after 8 weeks of bladder training. You consider an antimuscarinic. Her past history includes hypertension, type 2 diabetes and knee osteoarthritis. Post-void residual is 40 mL.\nWhich additional finding would most clearly contraindicate an antimuscarinic?",
+   "o": [
+    "Untreated angle-closure glaucoma",
+    "eGFR of 65 mL/min/1.73 m²",
+    "HbA1c of 7.2%",
+    "Blood pressure 136/82 mmHg",
+    "Mild knee effusion"
+   ],
+   "a": 0,
+   "e": "Antimuscarinics dilate the pupil and can precipitate acute angle closure, so untreated angle-closure glaucoma is a contraindication. Other contraindications are urinary retention (high PVR), severe constipation and gastric retention. Controlled hypertension and diabetes are not barriers.",
+   "w": [
+    "Correct - antimuscarinics can precipitate acute angle-closure glaucoma",
+    "Wrong - mild CKD only needs dose awareness",
+    "Wrong - reasonable glycaemic control is not a contraindication",
+    "Wrong - controlled BP does not affect antimuscarinic use (it matters more for mirabegron)",
+    "Wrong - knee effusion is irrelevant to antimuscarinic safety"
+   ],
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 55-year-old woman completes the QUID questionnaire at the Klinik Kesihatan. Her stress subscale score (questions 1-3) is 9 and her urge subscale score (questions 4-6) is 3.\nWhat does this result suggest?",
+   "o": [
+    "Stress urinary incontinence",
+    "Urge urinary incontinence",
+    "Mixed urinary incontinence",
+    "Overflow incontinence",
+    "No significant incontinence"
+   ],
+   "a": 0,
+   "e": "On the QUID, a stress score of 4 or more indicates stress incontinence and an urge score of 6 or more indicates urge incontinence. A stress score of 9 with an urge score of 3 meets only the stress threshold. Questionnaires support but do not replace history and examination.",
+   "w": [
+    "Correct - stress score ≥4 with urge score below 6",
+    "Wrong - urge score of 3 is below the cut-off of 6",
+    "Wrong - mixed requires both thresholds to be met",
+    "Wrong - QUID does not assess overflow",
+    "Wrong - the stress score clearly exceeds its threshold"
+   ],
+   "r": "Slide p40"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 67-year-old woman with urinary leakage completes the UDI-6 in clinic. The total of her six item scores is 9 (maximum possible 18).\nHow should her symptom distress be categorised?",
+   "o": [
+    "Minimal distress",
+    "Mild distress",
+    "Severe distress",
+    "Very severe distress",
+    "Moderate distress"
+   ],
+   "a": 4,
+   "e": "UDI-6 score = total ÷ 18 × 100, so 9 ÷ 18 × 100 = 50. The bands are 0-19 minimal, 20-39 mild, 40-59 moderate, 60-79 severe and 80-100 very severe. A score of 50 is moderate distress.",
+   "w": [
+    "Wrong - minimal is 0-19",
+    "Wrong - mild is 20-39",
+    "Wrong - severe is 60-79",
+    "Wrong - very severe is 80-100",
+    "Correct - 9/18 × 100 = 50, within the moderate band 40-59"
+   ],
+   "r": "Slide p38"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 72-year-old woman reports a sudden overwhelming need to void, with leakage before reaching the toilet, frequency every hour and nocturia twice. She drinks six cups of coffee a day. Urinalysis is normal and post-void residual is 20 mL.\nWhat is the most appropriate initial management?",
+   "o": [
+    "Start tolterodine 2 mg twice daily",
+    "Refer for sacral nerve neuromodulation",
+    "Refer for a mid-urethral sling procedure",
+    "Bladder retraining plus caffeine reduction",
+    "Intermittent self-catheterisation"
+   ],
+   "a": 3,
+   "e": "Urge incontinence is first managed behaviourally: reduce caffeine and alcohol and use bladder retraining, gradually lengthening voiding intervals until continent for 3-4 hours. Antimuscarinics are added if this fails, and neuromodulation is for refractory cases.",
+   "w": [
+    "Wrong - drugs are second-line after behavioural therapy",
+    "Wrong - neuromodulation is for refractory urge incontinence",
+    "Wrong - slings treat stress, not urge incontinence",
+    "Correct - behavioural therapy is first-line for urge incontinence",
+    "Wrong - her PVR is normal; she empties well"
+   ],
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 74-year-old man with benign prostatic hyperplasia has overflow dribbling and two episodes of acute retention despite 6 months of tamsulosin and finasteride. Post-void residual is 380 mL. Renal function is normal and he is fit for anaesthesia.\nWhich procedure is most appropriate?",
+   "o": [
+    "Bladder neck suspension",
+    "Sacral nerve neuromodulation",
+    "Transurethral resection of prostate",
+    "Augmentation cystoplasty",
+    "Mid-urethral tape insertion"
+   ],
+   "a": 2,
+   "e": "Overflow incontinence from prostatic obstruction that fails medical therapy is treated surgically with TURP (or laser/thermotherapy). Bladder neck suspension and slings are for female stress incontinence, and augmentation or neuromodulation are for refractory urge incontinence.",
+   "w": [
+    "Wrong - bladder neck suspension treats female stress incontinence",
+    "Wrong - neuromodulation treats refractory urge incontinence",
+    "Correct - TURP relieves the obstruction causing overflow",
+    "Wrong - augmentation enlarges an overactive bladder; it would worsen retention",
+    "Wrong - tapes treat stress incontinence in women"
+   ],
+   "r": "Slide p10"
+  },
+  {
+   "t": "INCON",
+   "stem": "A 79-year-old woman has urgency, frequency and burning on voiding for months. Three urine cultures have been negative. Speculum examination shows pale, thin, dry vaginal mucosa with petechiae and loss of rugae. Post-void residual is 25 mL.\nWhat is the most appropriate treatment?",
+   "o": [
+    "A 7-day course of oral ciprofloxacin",
+    "Topical vaginal oestrogen",
+    "Oxybutynin 2.5 mg twice daily",
+    "Systemic combined HRT",
+    "Mirabegron 50 mg daily"
+   ],
+   "a": 1,
+   "e": "Atrophic urethritis and vaginitis (the A in DIAPPERS) from oestrogen deficiency cause urgency, dysuria and recurrent symptoms with sterile urine. Low-dose topical vaginal oestrogen is effective and safe. Repeated antibiotics without infection, and anticholinergics, are inappropriate.",
+   "w": [
+    "Wrong - cultures are negative; antibiotics will not help",
+    "Correct - topical oestrogen treats atrophic urethritis",
+    "Wrong - treat the reversible cause before an anticholinergic",
+    "Wrong - systemic HRT carries more risk and is not needed",
+    "Wrong - drug treatment of urgency should follow correction of the reversible cause"
+   ],
+   "r": "Slide p8"
+  },
+  {
+   "t": "FALL",
+   "stem": "A 78-year-old woman attends the Klinik Kesihatan for her BSSK-WE review. She lives with her son, walks without an aid and is independent in all daily activities. She had no falls this year. On the Timed Up and Go test, wearing her usual sandals, she takes 15 seconds.\nHow should this result be interpreted?",
+   "o": [
+    "Normal mobility with no increase in falls risk",
+    "Mobility impairment requiring daily assistance",
+    "Independent mobility but at increased risk of falls",
+    "High falls risk and dependent on others for all mobility",
+    "Invalid result because she wore her own footwear"
+   ],
+   "a": 2,
+   "e": "On the slide's bands, 10-20 s indicates good, independent mobility, but an older adult taking 12 s or more is considered at risk of falls. She is therefore independent yet at increased risk and needs further evaluation and targeted prevention. Patients should wear their regular footwear and may use their usual aid.",
+   "w": [
+    "Wrong - normal is under 10 s, and 12 s or more already flags falls risk",
+    "Wrong - needing assistance corresponds to 20-30 s",
+    "Correct - 15 s is in the independent band but above the 12 s falls-risk cut-off",
+    "Wrong - high risk and dependence correspond to more than 30 s",
+    "Wrong - the test is meant to be done in regular footwear"
+   ],
+   "r": "Slide p32"
+  },
+  {
+   "t": "FALL",
+   "stem": "An 80-year-old man has had two falls in a month, both soon after getting out of bed, preceded by light-headedness. He takes doxazosin 4 mg and amlodipine 10 mg for hypertension. BP lying is 142/80 mmHg; after 3 minutes standing it is 118/72 mmHg with dizziness. ECG shows sinus rhythm.\nWhat is the most appropriate next step?",
+   "o": [
+    "Taper and stop the doxazosin, then recheck postural BP",
+    "Increase amlodipine to control the lying blood pressure",
+    "Start fludrocortisone and continue current antihypertensives",
+    "Refer for a tilt-table test before changing any medicine",
+    "Advise bed rest until the dizziness settles completely"
+   ],
+   "a": 0,
+   "e": "A systolic fall of 24 mmHg on standing (20 or more, or diastolic 10 or more, within 3 minutes) confirms orthostatic hypotension. Alpha-blockers are a classic cause in older adults and are on the potentially inappropriate list. Removing the offending drug comes before adding drugs or arranging specialist tests.",
+   "w": [
+    "Correct - the alpha-blocker is the likely cause of orthostatic hypotension and should be withdrawn",
+    "Wrong - more vasodilation will worsen the postural drop",
+    "Wrong - adding a drug to treat a drug side effect is a prescribing cascade",
+    "Wrong - the diagnosis is already made at the bedside",
+    "Wrong - bed rest causes deconditioning and worsens orthostatic intolerance"
+   ],
+   "r": "Slide p30"
+  },
+  {
+   "t": "FALL",
+   "stem": "A 76-year-old retired lorry driver reports two brief blackouts in 3 months. Both happened while shaving his neck and turning his head sharply to one side; he fell and recovered fully within seconds, with no confusion afterwards. Lying and standing BP are normal and the resting ECG is normal.\nWhat is the most likely cause of his falls?",
+   "o": [
+    "Orthostatic hypotension",
+    "Vasovagal syncope",
+    "Paroxysmal arrhythmia",
+    "Late-onset unprovoked epileptic seizure",
+    "Carotid sinus hypersensitivity"
+   ],
+   "a": 4,
+   "e": "Syncope triggered by head turning or neck pressure (shaving, tight collar) suggests carotid sinus hypersensitivity, a cause of unexplained falls in older men. Falls on rising suggest postural hypotension, on leaving the toilet suggest vasovagal, and mid-walk suggest arrhythmia. Refer for carotid sinus massage testing under monitoring.",
+   "w": [
+    "Wrong - postural BP is normal and the trigger was head turning, not standing",
+    "Wrong - vasovagal syncope typically follows micturition, defecation, pain or prolonged standing",
+    "Wrong - arrhythmia typically causes falls in the middle of walking, without a positional trigger",
+    "Wrong - rapid full recovery without confusion argues against a seizure",
+    "Correct - neck pressure and head turning are the classic triggers"
+   ],
+   "r": "Slide p28"
+  },
+  {
+   "t": "FALL",
+   "stem": "A 74-year-old woman is brought in after being found on the bathroom floor by her husband. He saw her stiffen and jerk all four limbs for about 2 minutes. She had wet herself, has a bitten lateral tongue and remained confused for 40 minutes afterwards. Capillary glucose is 6.2 mmol/L.\nWhat is the most likely cause of this fall?",
+   "o": [
+    "Vasovagal syncope after micturition",
+    "Generalised tonic-clonic seizure",
+    "Orthostatic hypotension on standing",
+    "Mechanical slip on a wet floor",
+    "Bradyarrhythmia with brief syncope"
+   ],
+   "a": 1,
+   "e": "Prolonged limb jerking, incontinence, lateral tongue biting and post-ictal confusion lasting many minutes point to a seizure. Syncope causes brief loss of consciousness with rapid full recovery, though a few jerks may occur. A new seizure in an older adult needs neuroimaging to look for stroke, tumour or subdural haematoma.",
+   "w": [
+    "Wrong - syncope recovers within seconds to a minute, not 40 minutes of confusion",
+    "Correct - prolonged jerking, tongue biting and post-ictal confusion indicate a seizure",
+    "Wrong - postural syncope recovers rapidly once the patient is flat",
+    "Wrong - a mechanical slip does not cause jerking or post-ictal confusion",
+    "Wrong - cardiac syncope is brief with rapid recovery and pallor"
+   ],
+   "r": "Slide p29"
+  },
+  {
+   "t": "FALL",
+   "stem": "An 84-year-old widow who lives alone is found by her neighbour on the kitchen floor. She fell during the night and could not get up, lying there for about 12 hours. She is alert, has no obvious fracture and wants to stay home. Her urine is dark brown.\nWhich investigation is most urgent?",
+   "o": [
+    "Thyroid function test",
+    "Vitamin B12 level",
+    "Dual-energy X-ray absorptiometry bone scan",
+    "Creatine kinase and renal function",
+    "Electroencephalogram"
+   ],
+   "a": 3,
+   "e": "A long lie (over 1 hour) risks rhabdomyolysis, which releases myoglobin (dark urine) and can cause acute kidney injury and hyperkalaemia. Creatine kinase, renal function and electrolytes are the urgent tests, and she needs hospital assessment. Other causes of the fall can be explored once she is safe.",
+   "w": [
+    "Wrong - thyroid disease may contribute to falls but is not urgent here",
+    "Wrong - B12 is part of the falls work-up but does not address the immediate danger",
+    "Wrong - bone density is a later osteoporosis assessment",
+    "Correct - dark urine after a long lie suggests rhabdomyolysis with risk of acute kidney injury",
+    "Wrong - there is no history suggesting a seizure"
+   ],
+   "r": "Slide p29"
+  },
+  {
+   "t": "FALL",
+   "stem": "You are reviewing five patients aged over 70 at a Klinik Kesihatan diabetes clinic. Each is asked about falls in the past year and observed walking.\nWhich patient meets the criteria for a multifactorial falls evaluation?",
+   "o": [
+    "No falls, steady gait and TUG of 8 seconds",
+    "One trip on a wet floor, steady gait, TUG 9 seconds",
+    "No falls, but worried about falling, TUG 10 seconds",
+    "One fall at home and now feels unsteady on walking",
+    "No falls, uses reading glasses, TUG of 9 seconds"
+   ],
+   "a": 3,
+   "e": "Further evaluation is indicated after two or more falls, one fall with unsteadiness, difficulty with gait or balance, or any fall needing medical attention. A single fall with a steady gait warrants advice and annual rescreening rather than a full multifactorial assessment.",
+   "w": [
+    "Wrong - no falls and a normal TUG need only annual screening",
+    "Wrong - a single fall with normal gait and TUG does not meet the criteria",
+    "Wrong - fear of falling deserves attention, but with a normal TUG it does not meet the criteria",
+    "Correct - one fall plus unsteadiness is an indication for full evaluation",
+    "Wrong - corrected vision with a normal TUG does not trigger evaluation"
+   ],
+   "r": "Slide p12"
+  },
+  {
+   "t": "FALL",
+   "stem": "A 79-year-old woman has had three falls in 6 months, usually when getting up at night. She feels drowsy in the mornings. Her medicines are amlodipine 5 mg, metformin 500 mg twice daily, atorvastatin 20 mg, omeprazole 20 mg and diazepam 5 mg at night, taken for 10 years. Postural BP and glucose are normal.\nWhich medication change is most likely to reduce her falls?",
+   "o": [
+    "Stop the atorvastatin to prevent muscle weakness",
+    "Gradually taper and stop the nightly diazepam",
+    "Stop the omeprazole to improve calcium absorption",
+    "Switch metformin to glibenclamide once daily",
+    "Reduce amlodipine to 2.5 mg at night only"
+   ],
+   "a": 1,
+   "e": "Long-acting benzodiazepines such as diazepam accumulate in older people, causing sedation, slowed reactions and ataxia, and are a leading drug cause of falls. After long-term use the dose must be tapered slowly to avoid withdrawal. Her postural BP and glucose are normal, so other drugs are less likely culprits.",
+   "w": [
+    "Wrong - she has no myopathy symptoms; statins are not a major falls risk",
+    "Correct - a long-acting sedative causing morning drowsiness is the main modifiable cause",
+    "Wrong - long-term PPI has bone effects but does not explain recurrent night-time falls",
+    "Wrong - glibenclamide causes prolonged hypoglycaemia and would increase falls",
+    "Wrong - her postural BP is normal, so amlodipine is not the cause"
+   ],
+   "r": "Slide p27"
+  },
+  {
+   "t": "FALL",
+   "stem": "An 86-year-old housebound woman has fallen twice this year. She rarely goes outdoors and wears a long telekung and covered clothing. Serum 25-hydroxyvitamin D is 22 nmol/L, calcium is normal and eGFR is 58. You plan a targeted intervention.\nWhat is the most appropriate supplementation?",
+   "o": [
+    "Daily cholecalciferol 800-1000 IU with adequate calcium",
+    "A single yearly oral dose of 500,000 IU vitamin D",
+    "Calcium carbonate 1.2 g daily without any vitamin D",
+    "Oral alendronate 70 mg weekly with no vitamin D replacement",
+    "Calcitriol 1 microgram daily without monitoring"
+   ],
+   "a": 0,
+   "e": "Vitamin D supplementation in deficient or housebound older adults is a targeted falls-prevention measure, given as regular daily (or weekly) dosing with adequate calcium. Very large annual boluses have been linked to more falls and fractures. Bisphosphonates should not be started while vitamin D is deficient.",
+   "w": [
+    "Correct - regular moderate-dose vitamin D with calcium suits a deficient housebound patient",
+    "Wrong - very high annual bolus doses were associated with increased falls",
+    "Wrong - calcium alone does not correct deficiency or improve muscle function",
+    "Wrong - correct vitamin D first; bisphosphonates can cause hypocalcaemia if deficient",
+    "Wrong - calcitriol risks hypercalcaemia and is reserved for advanced CKD"
+   ],
+   "r": "Slide p14"
+  },
+  {
+   "t": "FALL",
+   "stem": "An 82-year-old man fell twice at night on the way to the toilet. His house has dim corridors, a loose rug in the hallway and no rails in the bathroom. Gait is slightly slow but steady, and postural BP is normal. His wife asks what will help most.\nWhat is the most appropriate intervention?",
+   "o": [
+    "Bed rails at night to stop him getting up alone",
+    "A sleeping tablet so he does not wake to pass urine",
+    "An indwelling urinary catheter to avoid night-time toilet trips",
+    "Restrict all fluids after midday to prevent nocturia",
+    "Home hazard assessment with lighting, rails and rug removal"
+   ],
+   "a": 4,
+   "e": "Environmental hazards are a modifiable falls risk, and home hazard modification by an occupational therapist reduces falls in those with previous falls. Good lighting, removing rugs and fitting grab rails address his specific hazards. Restraints, sedatives and catheters all increase harm.",
+   "w": [
+    "Wrong - bed rails cause falls from greater height and entrapment",
+    "Wrong - hypnotics increase falls and confusion",
+    "Wrong - catheters cause infection and reduce mobility",
+    "Wrong - severe fluid restriction risks dehydration, constipation and postural hypotension",
+    "Correct - modifying the identified hazards targets the cause of his falls"
+   ],
+   "r": "Slide p12"
+  },
+  {
+   "t": "FALL",
+   "stem": "A 79-year-old man fell after briefly blacking out while climbing stairs. He has had exertional breathlessness for 3 months. Examination shows a slow-rising pulse and a harsh ejection systolic murmur radiating to the carotids. BP lying and standing is 118/80 mmHg. ECG shows left ventricular hypertrophy.\nWhich investigation is most appropriate?",
+   "o": [
+    "CT brain",
+    "Electroencephalogram",
+    "Echocardiogram",
+    "Cervical spine X-ray",
+    "Carotid Doppler ultrasound"
+   ],
+   "a": 2,
+   "e": "Exertional syncope with a slow-rising pulse and an ejection systolic murmur radiating to the carotids suggests severe aortic stenosis. Echocardiography confirms valve severity and guides urgent cardiology referral. ECG and echo are the falls investigations for a suspected cardiac cause.",
+   "w": [
+    "Wrong - there are no head injury or focal neurological features",
+    "Wrong - nothing suggests a seizure",
+    "Correct - an echo assesses suspected aortic stenosis causing exertional syncope",
+    "Wrong - neck imaging does not explain exertional syncope",
+    "Wrong - the murmur radiates to the carotids; it is not carotid disease"
+   ],
+   "r": "Slide p31"
+  },
+  {
+   "t": "FALL",
+   "stem": "A 75-year-old man with type 2 diabetes on metformin 1 g twice daily for 12 years has fallen three times. He reports numb feet and unsteadiness in the dark. Examination shows reduced vibration and joint-position sense in both feet and a positive Romberg test. FBC shows MCV 106 fL.\nWhich blood test is most likely to reveal a treatable cause?",
+   "o": [
+    "Vitamin B12 level",
+    "Thyroid function test",
+    "Calcium and phosphate",
+    "Fasting lipid profile",
+    "Serum creatine kinase"
+   ],
+   "a": 0,
+   "e": "Long-term metformin reduces vitamin B12 absorption. B12 deficiency causes macrocytosis and a dorsal column and peripheral neuropathy with sensory ataxia, a treatable cause of falls. B12 is checked in the falls work-up when there are neurological abnormalities.",
+   "w": [
+    "Correct - metformin-related B12 deficiency explains the macrocytosis and sensory ataxia",
+    "Wrong - hypothyroidism can raise MCV but does not cause dorsal column loss",
+    "Wrong - bone profile looks for bone pathology, not sensory ataxia",
+    "Wrong - lipids do not explain his neuropathy or falls",
+    "Wrong - CK is checked after a long lie, not for sensory ataxia"
+   ],
+   "r": "Slide p31"
+  },
+  {
+   "t": "FALL",
+   "stem": "A 66-year-old man attends the Klinik Kesihatan for routine hypertension follow-up. He has never fallen, walks briskly and has no dizziness. He asks how often his doctor will check his risk of falling.\nAccording to the AGS/BGS guideline on the slides, how often should he be screened?",
+   "o": [
+    "Only after his first fall",
+    "Every 5 years from age 65",
+    "Annually from age 65",
+    "Every 3 years from age 75",
+    "Only if he reports dizziness"
+   ],
+   "a": 2,
+   "e": "The AGS/BGS guideline recommends screening all adults aged 65 and over for falls risk every year, by asking about falls in the past year and difficulty with walking or balance. Waiting for a fall misses the chance for prevention.",
+   "w": [
+    "Wrong - screening aims to prevent the first fall",
+    "Wrong - 5-yearly screening is too infrequent",
+    "Correct - all adults aged 65 and over should be screened annually",
+    "Wrong - screening starts at 65, not 75",
+    "Wrong - many people at risk have no dizziness"
+   ],
+   "r": "Slide p26"
+  },
+  {
+   "t": "FALL",
+   "stem": "A 77-year-old woman with one previous fall has a TUG of 14 seconds, mild quadriceps weakness and poor single-leg stance. She has no cardiac or neurological disease and her home has been made safe. She wants to reduce her chance of falling again.\nWhich exercise prescription has the best evidence?",
+   "o": [
+    "Brisk walking alone for 20 minutes every day",
+    "Gentle stretching once a week at home",
+    "Avoid stairs and stay indoors where safe",
+    "Seated arm exercises with light weights",
+    "Progressive strength and balance training"
+   ],
+   "a": 4,
+   "e": "Individualised progressive strength and balance training (such as the Otago programme or tai chi), continued for at least 3 months, reduces falls in older adults. Walking alone does not improve balance enough and may increase exposure to falls in frail people. Activity restriction worsens deconditioning.",
+   "w": [
+    "Wrong - walking alone does not train balance and is not enough",
+    "Wrong - stretching once a week is too little to change strength or balance",
+    "Wrong - restricting activity causes deconditioning and more falls",
+    "Wrong - upper-limb exercise does not address leg weakness or balance",
+    "Correct - progressive lower-limb strength and balance work reduces falls"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "stem": "An 84-year-old man with mild Alzheimer's disease, usually calm and conversant, has become much more muddled over 2 days. He is worse at night, pulls at his clothes and cannot keep his attention on a conversation. His temperature is 38.1 °C and urine dipstick shows leucocytes and nitrites.\nWhat is the most likely explanation for his deterioration?",
+   "o": [
+    "Natural progression of Alzheimer's disease",
+    "Delirium superimposed on dementia",
+    "Late-onset major depressive disorder",
+    "Dementia with Lewy bodies",
+    "Sundowning without any acute illness"
+   ],
+   "a": 1,
+   "e": "An acute change over days, fluctuation and inattention indicate delirium, and dementia is its strongest risk factor. Here a UTI is the likely precipitant. Labelling the change as dementia progression or sundowning misses a treatable and dangerous illness.",
+   "w": [
+    "Wrong - dementia progresses over months to years, not 2 days",
+    "Correct - acute fluctuating inattention with fever is delirium on a background of dementia",
+    "Wrong - depression does not cause acute inattention with fever",
+    "Wrong - he has an established Alzheimer's diagnosis and an acute infective trigger",
+    "Wrong - fever and acute decline mean an illness must be sought"
+   ],
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "stem": "A medical officer assesses an 81-year-old woman whose daughter reports confusion that started yesterday and comes and goes. The officer applies the Confusion Assessment Method (CAM).\nApart from acute onset with a fluctuating course, which feature must be present for a positive CAM?",
+   "o": [
+    "Visual hallucinations",
+    "Disorganised thinking",
+    "Altered level of consciousness",
+    "Inattention",
+    "Short-term memory loss"
+   ],
+   "a": 3,
+   "e": "CAM requires feature 1 (acute onset and fluctuating course) AND feature 2 (inattention), plus EITHER feature 3 (disorganised thinking) OR feature 4 (altered consciousness). Inattention is the core of delirium; memory loss alone suggests dementia, and hallucinations are common but not required.",
+   "w": [
+    "Wrong - hallucinations are common in delirium but not a CAM criterion",
+    "Wrong - disorganised thinking is one of two alternatives, not mandatory",
+    "Wrong - altered consciousness is the other alternative, not mandatory",
+    "Correct - inattention is required in every positive CAM",
+    "Wrong - memory loss is not specific to delirium"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "stem": "An 86-year-old woman is cared for at home by her daughter. Over 2 days she has become restless, shouting at night and not recognising her daughter. She has dysuria and a temperature of 37.9 °C; urine dipstick shows nitrites. She is drinking and has no focal signs. Her daughter asks for a strong sleeping pill.\nWhat is the most appropriate management?",
+   "o": [
+    "Prescribe lorazepam 1 mg at night for agitation",
+    "Advise the family to restrain her in bed at night",
+    "Start regular haloperidol 5 mg three times daily",
+    "Refer urgently to psychiatry for admission",
+    "Treat the UTI, reorientate and keep family close"
+   ],
+   "a": 4,
+   "e": "The treatment of delirium is finding and treating the cause, here a UTI, plus non-drug measures: reorientation, familiar faces, glasses and hearing aids, hydration and good sleep routine. Benzodiazepines worsen delirium (except in alcohol withdrawal). Low-dose haloperidol is a short-term last resort for severe distress or danger.",
+   "w": [
+    "Wrong - benzodiazepines worsen delirium and increase falls",
+    "Wrong - restraints increase agitation, injury and pressure damage",
+    "Wrong - regular high-dose antipsychotics are inappropriate; only low-dose short-term if essential",
+    "Wrong - delirium is a medical problem; treat the cause first",
+    "Correct - treating the cause with supportive non-drug care is the core of delirium management"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "stem": "A 72-year-old retired teacher has complained for 3 months that her memory is poor. She sleeps badly, has lost interest in her grandchildren and cries easily since her husband died 5 months ago. In testing she often says 'I don't know' and gives up quickly. Her GDS-15 score is 10.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Depression with cognitive symptoms",
+    "Alzheimer's disease in its early stage",
+    "Hypoactive delirium",
+    "Vascular dementia",
+    "Frontotemporal dementia"
+   ],
+   "a": 0,
+   "e": "Mood symptoms that precede the memory complaint, a patient who herself complains of poor memory, 'don't know' answers with poor effort, and a high GDS score point to depression mimicking dementia (pseudodementia). It is treatable, and cognition usually improves with treatment of the depression.",
+   "w": [
+    "Correct - depression with cognitive complaints and a positive GDS-15 (5 or more)",
+    "Wrong - in Alzheimer's the family usually notices memory loss and the patient tends to minimise it",
+    "Wrong - nothing suggests an acute fluctuating course",
+    "Wrong - there are no vascular risk events or stepwise decline",
+    "Wrong - frontotemporal dementia presents with behaviour or language change"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "stem": "A 70-year-old man worried about his memory is assessed with the MoCA at a Klinik Kesihatan. He left school after 9 years of education. His raw MoCA score is 25 out of 30.\nHow should his result be interpreted?",
+   "o": [
+    "Mild cognitive impairment",
+    "Moderate cognitive impairment",
+    "Severe cognitive impairment",
+    "Normal cognition",
+    "Invalid - use the MMSE instead"
+   ],
+   "a": 3,
+   "e": "On the MoCA one point is added if the person has 12 years of education or less, so his score becomes 26. The bands are 26-30 normal, 18-25 mild, 10-17 moderate and under 10 severe impairment. Forgetting the education adjustment would wrongly label him with mild cognitive impairment.",
+   "w": [
+    "Wrong - this ignores the education point; 25 becomes 26",
+    "Wrong - moderate is 10-17",
+    "Wrong - severe is below 10",
+    "Correct - 25 plus 1 point for 9 years of education gives 26, in the normal band",
+    "Wrong - the MoCA is valid; the adjustment corrects for education"
+   ],
+   "r": "Slide p43"
+  },
+  {
+   "t": "COG",
+   "stem": "A 78-year-old woman is screened with the Elderly Cognitive Assessment Questionnaire (ECAQ) during her BSSK-WE visit. Her family say she has been getting lost in her own taman over the past year. She scores 3 out of 10.\nHow should this result be interpreted?",
+   "o": [
+    "Normal cognition for her age",
+    "Possible dementia needing full assessment",
+    "Borderline impairment, rescreen in a year",
+    "Result invalid because she has low education",
+    "Mild depression, start an antidepressant"
+   ],
+   "a": 1,
+   "e": "On the ECAQ (maximum 10), scores of 4 or less indicate possible dementia, 5-6 borderline impairment and 7 or more normal. A score of 3 with functional decline needs a full dementia assessment including history, examination, bloods for reversible causes and imaging. The ECAQ was designed to reduce educational bias.",
+   "w": [
+    "Wrong - normal is 7 or more",
+    "Correct - a score of 3 falls in the possible dementia range",
+    "Wrong - borderline is 5-6",
+    "Wrong - the ECAQ was designed for Asian elderly with less educational bias",
+    "Wrong - the ECAQ is not a depression scale"
+   ],
+   "r": "Slide p41"
+  },
+  {
+   "t": "COG",
+   "stem": "An 80-year-old man with Alzheimer's disease started donepezil 5 mg 6 weeks ago. He has since had two falls with dizziness and one brief faint. His pulse is regular at 44/min and BP is 118/70 mmHg. He takes no other rate-limiting drugs.\nWhat is the most appropriate next step?",
+   "o": [
+    "Increase donepezil to 10 mg for better effect",
+    "Add memantine and continue donepezil",
+    "Do an ECG and withhold the donepezil",
+    "Prescribe a walking frame and review in 3 months",
+    "Start low-dose atropine tablets twice daily"
+   ],
+   "a": 2,
+   "e": "Cholinesterase inhibitors increase vagal tone and can cause bradycardia, heart block and syncope, leading to falls. Check a pulse and ECG before and after starting. Withhold the drug and look for conduction disease; do not add drugs to counter the side effect.",
+   "w": [
+    "Wrong - a higher dose would worsen the bradycardia",
+    "Wrong - adding a drug ignores the dangerous side effect",
+    "Correct - symptomatic bradycardia needs an ECG and withdrawal of the cholinesterase inhibitor",
+    "Wrong - a walking aid does not treat drug-induced syncope",
+    "Wrong - treating a side effect with another drug is a prescribing cascade"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "stem": "A 76-year-old woman is brought by her son because of slowly worsening forgetfulness over a year. She also reports constipation, weight gain, hoarse voice and feeling cold all the time. Pulse is 54/min, her skin is dry and ankle reflexes relax slowly. ECAQ is 6 out of 10.\nWhich investigation is most likely to reveal a reversible cause?",
+   "o": [
+    "Thyroid function test",
+    "Electroencephalogram",
+    "Lumbar puncture",
+    "Amyloid PET brain scan",
+    "APOE genotype testing"
+   ],
+   "a": 0,
+   "e": "Before diagnosing dementia, exclude reversible causes such as hypothyroidism, B12 deficiency, depression, drugs, normal pressure hydrocephalus and subdural haematoma. Bradycardia, cold intolerance, weight gain, dry skin and slow-relaxing reflexes strongly suggest hypothyroidism, so a TFT is the key test.",
+   "w": [
+    "Correct - the clinical features point to hypothyroidism, a reversible cause of cognitive decline",
+    "Wrong - EEG is for suspected seizures or encephalopathy",
+    "Wrong - lumbar puncture is a specialist test for atypical or rapid dementia",
+    "Wrong - amyloid imaging is a research or specialist tool, not primary care",
+    "Wrong - genotyping does not diagnose dementia or change management"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "stem": "A 74-year-old man has had 6 months of a slow, broad-based, shuffling gait in which his feet seem stuck to the floor, urinary urgency with incontinence, and increasing forgetfulness and apathy. There is no tremor or rigidity in the arms. B12 and thyroid function are normal.\nWhich investigation is most appropriate next?",
+   "o": [
+    "Repeat serum vitamin B12 in 3 months",
+    "Electroencephalogram",
+    "CT or MRI brain",
+    "Urodynamic pressure-flow study",
+    "Nerve conduction studies of the legs"
+   ],
+   "a": 2,
+   "e": "The triad of magnetic gait apraxia, urinary incontinence and cognitive decline suggests normal pressure hydrocephalus, a potentially reversible cause of dementia. Brain imaging shows ventricular enlargement out of proportion to atrophy, and neurosurgical referral may lead to a CSF shunt.",
+   "w": [
+    "Wrong - B12 is already normal and does not explain the triad",
+    "Wrong - nothing suggests seizures",
+    "Correct - brain imaging looks for the ventriculomegaly of normal pressure hydrocephalus",
+    "Wrong - the incontinence is part of a neurological triad, not a primary bladder problem",
+    "Wrong - the gait is apraxic with preserved sensation, not neuropathic"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COG",
+   "stem": "A 79-year-old woman has a 2-year history of progressive memory loss and getting lost. She remains independent in personal care but needs help with finances. Bloods and CT brain exclude other causes and she is diagnosed with Alzheimer's disease. Her MMSE is 23/30, pulse 76/min and ECG normal.\nWhich drug is the most appropriate first-line treatment?",
+   "o": [
+    "Memantine",
+    "Haloperidol",
+    "Diazepam",
+    "Ginkgo biloba extract",
+    "Donepezil"
+   ],
+   "a": 4,
+   "e": "Acetylcholinesterase inhibitors such as donepezil are first-line for mild to moderate Alzheimer's disease; an MMSE of 23 indicates mild dementia. Memantine is used in moderate to severe disease or when cholinesterase inhibitors are not tolerated. Check pulse and ECG before starting because of bradycardia risk.",
+   "w": [
+    "Wrong - memantine is for moderate to severe disease or AChEI intolerance",
+    "Wrong - antipsychotics do not treat cognition and raise stroke and death risk",
+    "Wrong - benzodiazepines worsen cognition and cause falls",
+    "Wrong - ginkgo has no proven benefit",
+    "Correct - a cholinesterase inhibitor is first-line for mild Alzheimer's disease"
+   ],
+   "r": "Slide p17"
+  },
+  {
+   "t": "COG",
+   "stem": "An 83-year-old man with moderate dementia has frightening visual hallucinations and has hit his wife twice despite treating his constipation and pain and a month of non-drug measures. The geriatric team suggest low-dose risperidone for a short period. His wife wants to know the main risk.\nWhich serious risk must be explained before starting it?",
+   "o": [
+    "Severe drug-induced hepatotoxicity",
+    "Agranulocytosis",
+    "Hypothyroidism",
+    "Stroke and increased mortality",
+    "Hypoglycaemia"
+   ],
+   "a": 3,
+   "e": "Antipsychotics in people with dementia increase the risk of stroke and death, as well as falls, sedation and parkinsonism. They are used only for severe distress or risk of harm after non-drug measures, at the lowest dose for the shortest time, with regular review. People with Lewy body dementia are especially sensitive.",
+   "w": [
+    "Wrong - serious liver toxicity is not the key risk of risperidone",
+    "Wrong - agranulocytosis is the classic risk of clozapine",
+    "Wrong - lithium, not risperidone, causes hypothyroidism",
+    "Correct - antipsychotics raise stroke risk and mortality in dementia",
+    "Wrong - risperidone tends to cause weight gain and hyperglycaemia, not hypoglycaemia"
+   ],
+   "r": "Slide p18"
+  },
+  {
+   "t": "COG",
+   "stem": "A 68-year-old retired engineer is brought by his wife, who notices he struggles to plan trips, manage bills and follow recipes, which is new over a year. He scores 29/30 on the MMSE. Physical examination and bloods are normal.\nWhat is the most appropriate next step in cognitive assessment?",
+   "o": [
+    "Reassure him and repeat the MMSE in 2 years",
+    "Perform a Montreal Cognitive Assessment",
+    "Perform an Abbreviated Mental Test",
+    "Perform an ECAQ with his wife present",
+    "Reassure him as his score is above normal"
+   ],
+   "a": 1,
+   "e": "The MMSE has a ceiling effect in well-educated people and poorly tests executive function. The MoCA is more sensitive for mild cognitive impairment because it tests executive and visuospatial skills (clock, cube, trail-making). A normal MMSE does not exclude early impairment when the history is convincing.",
+   "w": [
+    "Wrong - a convincing history should not be dismissed",
+    "Correct - the MoCA detects executive and early impairment that the MMSE misses",
+    "Wrong - the AMT is a cruder screen with the same ceiling problem",
+    "Wrong - the ECAQ is a basic screen and will not detect subtle executive change",
+    "Wrong - the score is normal but the history suggests impairment"
+   ],
+   "r": "Slides p42-43"
+  },
+  {
+   "t": "COG",
+   "stem": "An 80-year-old woman went home 4 days after hip fracture surgery. Her daughter says she has become very quiet, sleeps most of the day and barely eats; the daughter thinks she is depressed. On review she is drowsy, drifts off mid-sentence and cannot name the months backwards, but is brighter in the evening. She is on regular codeine.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Major depressive episode",
+    "Normal post-operative fatigue",
+    "Hypoactive delirium",
+    "Progression of known dementia",
+    "Dementia with Lewy bodies"
+   ],
+   "a": 2,
+   "e": "Drowsiness, inattention and a fluctuating course arising acutely after surgery indicate delirium; the hypoactive form is the most often missed and mistaken for depression or tiredness. Opioids, pain, constipation and infection are likely precipitants. It carries a worse prognosis than hyperactive delirium.",
+   "w": [
+    "Wrong - depression does not cause acute inattention and fluctuating drowsiness",
+    "Wrong - inattention and fluctuation are not normal post-operative recovery",
+    "Correct - acute, fluctuating inattention with drowsiness is hypoactive delirium",
+    "Wrong - there is no history of dementia and the change is acute",
+    "Wrong - an acute post-operative change with a clear trigger points to delirium"
+   ],
+   "r": "Slide p15"
+  },
+  {
+   "t": "COG",
+   "stem": "A 77-year-old woman with hypertension has been increasingly confused and unsteady for a week. Her doctor added hydrochlorothiazide 25 mg to her amlodipine 6 weeks ago. She has no fever and no focal neurology. Serum sodium is 119 mmol/L, potassium 3.2 mmol/L and glucose 6.0 mmol/L.\nWhat is the most likely cause of her confusion?",
+   "o": [
+    "Thiazide-induced hyponatraemia",
+    "Progression of Alzheimer's disease",
+    "Primary hypothyroidism",
+    "Chronic subdural haematoma",
+    "Amlodipine-related hypotension"
+   ],
+   "a": 0,
+   "e": "Thiazides are a common cause of hyponatraemia in older women, often within weeks of starting, and a sodium of 119 mmol/L readily explains confusion and unsteadiness. Medication is a key precipitant of delirium. Stop the thiazide and arrange hospital correction if severe or symptomatic.",
+   "w": [
+    "Correct - recent thiazide plus sodium 119 mmol/L explains the delirium",
+    "Wrong - the onset is acute and there is a clear metabolic cause",
+    "Wrong - hypothyroidism is gradual and does not explain a newly low sodium",
+    "Wrong - possible in falls, but the metabolic cause and timing fit better",
+    "Wrong - there is no documented hypotension, and the sodium explains it"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "stem": "A 78-year-old woman started amlodipine 10 mg for hypertension 4 months ago. She then developed ankle swelling and was given furosemide 40 mg daily. She now has urinary urgency and leakage, and potassium is 3.3 mmol/L. Heart and lungs are normal and urine dipstick is negative.\nWhat is the most appropriate management?",
+   "o": [
+    "Add oxybutynin 2.5 mg twice daily for the leakage",
+    "Increase furosemide and add potassium supplements",
+    "Add spironolactone to correct the hypokalaemia",
+    "Stop furosemide and switch amlodipine to another drug",
+    "Prescribe compression stockings and continue all drugs"
+   ],
+   "a": 3,
+   "e": "This is a prescribing cascade: amlodipine caused dose-related ankle oedema, misread as fluid overload and treated with furosemide, which then caused urgency, incontinence and hypokalaemia. The fix is to remove the original culprit and the drug added for its side effect, not to add a third drug.",
+   "w": [
+    "Wrong - adding an anticholinergic extends the cascade and risks confusion",
+    "Wrong - more diuretic worsens incontinence and electrolytes",
+    "Wrong - another drug does not address the cause",
+    "Correct - remove the drug causing the oedema and stop the unnecessary diuretic",
+    "Wrong - continuing the cascade leaves her incontinent and hypokalaemic"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "stem": "An 80-year-old woman with type 2 diabetes has had early-morning sweating and confusion three times this month; capillary glucose was 2.8 mmol/L at one episode. She takes glibenclamide 10 mg twice daily and metformin 500 mg twice daily. HbA1c is 6.1% and eGFR is 35 mL/min/1.73 m².\nWhat is the most appropriate change to her treatment?",
+   "o": [
+    "Increase metformin to 1 g twice daily",
+    "Keep the same regimen and add a bedtime snack",
+    "Switch to premixed insulin twice daily",
+    "Reduce glibenclamide to 5 mg twice daily",
+    "Stop glibenclamide and use a DPP-4 inhibitor"
+   ],
+   "a": 4,
+   "e": "Glibenclamide is a long-acting sulfonylurea with renally cleared active metabolites that cause prolonged hypoglycaemia in older people with CKD; it is on the Beers list. With an HbA1c of 6.1% she is over-treated. Stop it and use a low-hypoglycaemia option such as a DPP-4 inhibitor (e.g. linagliptin), with relaxed targets.",
+   "w": [
+    "Wrong - metformin should be limited to 1 g a day at eGFR 30-44",
+    "Wrong - a snack does not remove the cause of recurrent hypoglycaemia",
+    "Wrong - insulin adds hypoglycaemia risk and complexity in a patient already over-treated",
+    "Wrong - any dose of this long-acting sulfonylurea remains hazardous in CKD",
+    "Correct - remove the long-acting sulfonylurea and use a drug with low hypoglycaemia risk"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "stem": "An 86-year-old woman with atrial fibrillation has had nausea, anorexia and blurred vision with a yellow tinge for a week. She takes digoxin 0.25 mg daily and bisoprolol 2.5 mg. Pulse is irregular at 48/min. eGFR is 30 mL/min/1.73 m² and potassium is 3.1 mmol/L.\nWhat is the most likely cause of her symptoms?",
+   "o": [
+    "Viral gastroenteritis",
+    "Bilateral cataracts",
+    "Digoxin toxicity",
+    "Sick sinus syndrome",
+    "Hypothyroidism"
+   ],
+   "a": 2,
+   "e": "Digoxin is renally cleared, so reduced GFR leads to accumulation; doses above 0.125 mg/day in older people increase toxicity risk, and hypokalaemia worsens it. Nausea, anorexia, visual disturbance (yellow-green) and bradyarrhythmia are classic. Check a digoxin level, ECG and electrolytes and withhold the drug.",
+   "w": [
+    "Wrong - gastroenteritis does not explain the visual change and slow AF",
+    "Wrong - cataracts cause gradual blurring, not acute yellow vision with nausea",
+    "Correct - high dose, poor renal function and hypokalaemia produce digoxin toxicity",
+    "Wrong - sick sinus does not cause nausea and xanthopsia",
+    "Wrong - hypothyroidism is gradual and does not cause yellow vision"
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "IATRO",
+   "stem": "A 78-year-old man with heart failure (ejection fraction 35%) and CKD with eGFR 38 mL/min/1.73 m² has painful knee osteoarthritis. He weighs 62 kg and has no liver disease. He asks for a stronger painkiller.\nWhich is the most appropriate first-line analgesic?",
+   "o": [
+    "Oral diclofenac sodium 50 mg three times daily",
+    "Regular paracetamol 1 g four times daily",
+    "Oral celecoxib 200 mg once daily",
+    "Intramuscular pethidine when needed",
+    "Oral ibuprofen 400 mg three times daily"
+   ],
+   "a": 1,
+   "e": "NSAIDs, including COX-2 inhibitors, are a drug-disease interaction in CKD and heart failure: they worsen renal function and cause fluid retention. Regular paracetamol is first-line in older adults (reduce the dose if under 50 kg or with liver disease). Pethidine is avoided because its metabolite norpethidine accumulates and causes neurotoxicity.",
+   "w": [
+    "Wrong - NSAIDs worsen renal function and heart failure",
+    "Correct - paracetamol is safe in CKD and heart failure at this weight",
+    "Wrong - COX-2 inhibitors carry the same renal and fluid-retention risks",
+    "Wrong - pethidine metabolites accumulate in CKD and cause seizures",
+    "Wrong - ibuprofen is also an NSAID with the same risks"
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "IATRO",
+   "stem": "An 83-year-old woman becomes confused, cannot pass urine and is constipated 3 days after buying an over-the-counter cough and cold syrup. The label lists several ingredients. She is afebrile and her chest is clear. A palpable bladder is found.\nWhich ingredient is most likely responsible?",
+   "o": [
+    "Chlorpheniramine",
+    "Paracetamol",
+    "Guaifenesin",
+    "Bromhexine hydrochloride",
+    "Loratadine"
+   ],
+   "a": 0,
+   "e": "First-generation antihistamines such as chlorpheniramine and diphenhydramine are strongly anticholinergic and sedating. In older people they cause confusion, urinary retention, constipation and falls, and are on the Beers list. Non-sedating antihistamines such as loratadine are preferred if an antihistamine is needed.",
+   "w": [
+    "Correct - a sedating anticholinergic antihistamine explains confusion, retention and constipation",
+    "Wrong - paracetamol is not anticholinergic",
+    "Wrong - guaifenesin is an expectorant without anticholinergic effects",
+    "Wrong - bromhexine is a mucolytic and does not cause retention",
+    "Wrong - loratadine is non-sedating with minimal anticholinergic effect"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "stem": "An 80-year-old man attends with a bag of medicines from three hospital clinics and a private GP. He takes 11 regular drugs, including two NSAIDs, two PPIs and a sleeping tablet, and feels dizzy and tired. He is not sure why he takes several of them.\nWhat is the most appropriate next step?",
+   "o": [
+    "Give a weekly pill organiser and change nothing",
+    "Refer him back to each specialist to review their drugs",
+    "Do a structured review with STOPP/Beers and deprescribe",
+    "Stop all his medicines at once and restart one by one",
+    "Continue all drugs as each was prescribed by a doctor"
+   ],
+   "a": 2,
+   "e": "Polypharmacy (here 11 drugs) with duplicates and symptoms calls for a structured brown-bag medication review using explicit criteria such as Beers or STOPP/START. Deprescribe drugs without an indication or with harms outweighing benefits, one at a time with tapering where needed, and coordinate care across prescribers.",
+   "w": [
+    "Wrong - an organiser helps adherence but leaves duplicates and harmful drugs",
+    "Wrong - fragmented review by several clinics caused the problem",
+    "Correct - a structured review removes duplicates and inappropriate drugs",
+    "Wrong - abrupt cessation risks withdrawal and decompensation",
+    "Wrong - the duplicates and symptoms show the regimen needs review"
+   ],
+   "r": "Slide p21"
+  },
+  {
+   "t": "IATRO",
+   "stem": "A 78-year-old widow has had difficulty sleeping since her husband died a year ago. She takes 2 hours to fall asleep, naps in the afternoon and drinks coffee after dinner. She is not depressed on screening and asks for the diazepam her friend uses.\nWhat is the most appropriate management?",
+   "o": [
+    "Diazepam 5 mg at night for 3 months",
+    "Chlorpheniramine 4 mg at night when needed",
+    "Amitriptyline 25 mg at night",
+    "Zolpidem 10 mg nightly long term",
+    "Sleep hygiene and CBT for insomnia"
+   ],
+   "a": 4,
+   "e": "Long-acting benzodiazepines such as diazepam should generally be avoided in the elderly because they accumulate and cause falls, confusion and dependence. Sedating antihistamines and tricyclics are anticholinergic, and Z-drugs carry similar falls risk. Sleep hygiene (no afternoon naps, no evening caffeine) and CBT for insomnia are first-line.",
+   "w": [
+    "Wrong - a long-acting benzodiazepine causes falls and confusion in older people",
+    "Wrong - sedating antihistamines are anticholinergic and cause confusion and retention",
+    "Wrong - amitriptyline is anticholinergic, sedating and causes postural hypotension",
+    "Wrong - Z-drugs also increase falls and fractures",
+    "Correct - non-drug measures address her clear sleep-hygiene problems"
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "IATRO",
+   "stem": "A 76-year-old man with atrial fibrillation, hypertension and diabetes (CHA2DS2-VASc 4) takes aspirin 100 mg only, because a previous doctor felt he was 'too old' for anticoagulation. He walks unaided, has not fallen, and has eGFR 62 and no bleeding history.\nWhat is the most appropriate change?",
+   "o": [
+    "Continue aspirin alone because he is now over 75 years",
+    "Add clopidogrel to his aspirin",
+    "Stop all antithrombotics due to his age",
+    "Switch to an oral anticoagulant such as apixaban",
+    "Add digoxin to control his heart rate"
+   ],
+   "a": 3,
+   "e": "Omission of anticoagulation in atrial fibrillation is a classic START criterion. Age increases stroke risk more than bleeding risk, and aspirin gives little stroke protection in AF. A DOAC such as apixaban is preferred, with renal function and bleeding risk reviewed.",
+   "w": [
+    "Wrong - aspirin is ineffective for stroke prevention in AF",
+    "Wrong - dual antiplatelets add bleeding without matching anticoagulant benefit",
+    "Wrong - age is a reason to anticoagulate, not to stop",
+    "Correct - an oral anticoagulant is indicated and was wrongly omitted",
+    "Wrong - rate control does not prevent stroke"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "IATRO",
+   "stem": "A 79-year-old man with CKD (eGFR 28 mL/min/1.73 m²) has severe pain from vertebral metastases. During a hospital stay he was given repeated intramuscular doses of one analgesic and developed tremor, myoclonic jerks, agitation and a seizure.\nWhich analgesic should be avoided in older people because of this toxicity?",
+   "o": [
+    "Paracetamol",
+    "Pethidine",
+    "Topical diclofenac gel",
+    "Low-dose buprenorphine patch",
+    "Transdermal fentanyl patch"
+   ],
+   "a": 1,
+   "e": "Pethidine (meperidine) is metabolised to norpethidine, which accumulates in renal impairment and causes neurotoxicity: tremor, myoclonus, agitation and seizures. It is listed as an analgesic to avoid in the elderly. Buprenorphine and fentanyl are less dependent on renal clearance.",
+   "w": [
+    "Wrong - paracetamol does not cause neuroexcitation",
+    "Correct - the metabolite norpethidine accumulates in CKD and causes seizures",
+    "Wrong - topical NSAID has minimal systemic absorption and no neuroexcitation",
+    "Wrong - buprenorphine is relatively safe in renal impairment",
+    "Wrong - fentanyl is largely hepatically cleared and preferred in CKD"
+   ],
+   "r": "Slide p19"
+  },
+  {
+   "t": "IATRO",
+   "stem": "An 84-year-old woman with heart failure, diabetes, knee osteoarthritis, recurrent falls, mild cognitive impairment and 9 regular medicines has had three hospital admissions in a year. She lives with her daughter, who works full time and feels overwhelmed.\nWhich approach is most likely to reduce further admissions?",
+   "o": [
+    "Comprehensive geriatric assessment by an MDT",
+    "Separate appointments with each specialist",
+    "Immediate admission to a private nursing home",
+    "Adding drugs to tighten each disease target",
+    "Annual review only at the Klinik Kesihatan"
+   ],
+   "a": 0,
+   "e": "Comprehensive geriatric assessment evaluates medical, psychosocial and functional needs to build a coordinated, individualised plan with medication review and caregiver support. It reduces readmission, institutionalisation and functional decline in frail older people. Fragmented disease-by-disease care drives polypharmacy.",
+   "w": [
+    "Correct - a coordinated multidisciplinary assessment and plan reduces admissions",
+    "Wrong - fragmented specialist care adds drugs and misses function and caregiver strain",
+    "Wrong - institutional care is not the first step and is not her wish",
+    "Wrong - tighter targets mean more drugs and more adverse events",
+    "Wrong - annual review is too infrequent for her needs"
+   ],
+   "r": "Slide p21"
+  },
+  {
+   "t": "SCRN",
+   "stem": "A 79-year-old woman attends for BSSK-WE screening with her son, who answers all questions. You notice bruises of different ages on both upper arms, poor hygiene and that she looks fearful. The son explains she is clumsy and says he manages her pension.\nWhat is the most appropriate next step?",
+   "o": [
+    "Accept the explanation and arrange a falls review",
+    "Confront the son about abuse in front of his mother",
+    "Interview her alone, document and refer to the MSW",
+    "Order a skeletal survey and review in 3 months",
+    "Advise the son to buy her a walking frame only"
+   ],
+   "a": 2,
+   "e": "Bruises of different ages, fearfulness, poor hygiene and financial control by a caregiver raise suspicion of physical, financial and neglect forms of elder abuse, which BSSK-WE screens for. Speak to the patient alone, document findings carefully, assess safety and refer to the medical social worker and JKM.",
+   "w": [
+    "Wrong - unexplained bruises in a fearful patient must not be accepted at face value",
+    "Wrong - confrontation may endanger the patient and prevent disclosure",
+    "Correct - private interview, documentation and social work referral protect the patient",
+    "Wrong - investigations alone delay safeguarding",
+    "Wrong - this ignores the warning signs of abuse"
+   ],
+   "r": "Slide p23"
+  },
+  {
+   "t": "SCRN",
+   "stem": "An 81-year-old man attends for BSSK-WE screening. His weight has fallen from 60 kg to 56 kg in 4 months, he has several missing teeth and loose dentures, and he lives alone. His calf circumference is reduced.\nWhich screening tool best quantifies his nutritional risk?",
+   "o": [
+    "Geriatric Depression Scale (GDS-15)",
+    "Braden pressure ulcer risk scale",
+    "Barthel Index of activities of daily living",
+    "Mini Nutritional Assessment Short Form",
+    "Morse Fall Scale for inpatients"
+   ],
+   "a": 3,
+   "e": "BSSK-WE includes anthropometry, dietary intake and oral health. Unintentional loss of over 5% of body weight in 6 months (here about 7%) is significant. The MNA-SF is a validated nutrition screen for older adults; positive results lead to dietitian and dental input and a search for causes such as depression or cancer.",
+   "w": [
+    "Wrong - depression may contribute, but the GDS does not quantify nutrition",
+    "Wrong - the Braden scale assesses pressure ulcer risk",
+    "Wrong - the Barthel Index measures ADL dependency",
+    "Correct - the MNA-SF is designed to screen older people for malnutrition",
+    "Wrong - the Morse scale assesses inpatient falls risk"
+   ],
+   "r": "Slide p23"
+  },
+  {
+   "t": "SCRN",
+   "stem": "A 70-year-old woman with type 2 diabetes and COPD attends the Klinik Kesihatan for her BSSK-WE review. She asks which of her vaccinations needs to be repeated every year.\nWhich vaccine should be given annually?",
+   "o": [
+    "Pneumococcal polysaccharide (PPSV23)",
+    "Tetanus-diphtheria (Td) booster",
+    "Recombinant herpes zoster vaccine",
+    "Hepatitis B vaccine booster",
+    "Seasonal influenza vaccine"
+   ],
+   "a": 4,
+   "e": "Influenza vaccine is given every year because circulating strains change; older adults with diabetes or COPD are a priority group. Pneumococcal vaccination is a one-off or limited course, zoster vaccine is a two-dose course, and tetanus boosters are given about every 10 years.",
+   "w": [
+    "Wrong - pneumococcal vaccine is not given annually",
+    "Wrong - tetanus boosters are about every 10 years",
+    "Wrong - recombinant zoster is a two-dose course, not yearly",
+    "Wrong - hepatitis B is not a routine annual booster",
+    "Correct - influenza vaccine is repeated every year"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SCRN",
+   "stem": "A 72-year-old woman completes BSSK-WE screening at a Klinik Kesihatan. She is asymptomatic, but the screen shows she has fallen once with unsteadiness this year and now needs help with bathing on the ADL section. Her BP and glucose are well controlled.\nWhat is the most appropriate next step?",
+   "o": [
+    "File the form and repeat the screen next year",
+    "Assess the positive domains and agree a care plan",
+    "Refer her directly to the hospital geriatric clinic",
+    "Start vitamin D and take no further action",
+    "Reassure her as her chronic diseases are controlled"
+   ],
+   "a": 1,
+   "e": "Screening aims to detect problems early, prevent disability and maintain independence, which only happens if positive findings are acted on. A fall with unsteadiness and new ADL dependence need a falls and functional assessment in primary care with a targeted plan (physiotherapy, home safety, medication review) and follow-up.",
+   "w": [
+    "Wrong - positive screens left unaddressed defeat the purpose of screening",
+    "Correct - positive domains need assessment and a targeted, followed-up plan",
+    "Wrong - most of this assessment can begin in primary care",
+    "Wrong - vitamin D alone does not address gait, home hazards or ADL support",
+    "Wrong - function and falls risk matter as much as disease control"
+   ],
+   "r": "Slides p22-23"
+  },
+  {
+   "t": "FRAIL",
+   "stem": "An 82-year-old man lives with his wife. He washes, dresses, feeds and toilets himself without help. Over the past year his son has taken over his banking, drives him to appointments and does the heavy housework, and his wife now organises his medicines because he forgets them.\nWhich Clinical Frailty Scale level best describes him?",
+   "o": [
+    "CFS 3 - managing well",
+    "CFS 4 - very mild frailty",
+    "CFS 7 - severely frail",
+    "CFS 5 - mildly frail",
+    "CFS 6 - moderately frail"
+   ],
+   "a": 3,
+   "e": "CFS 5 (mildly frail) describes people who need help with high-order instrumental activities such as finances, transport, heavy housework and medications, while personal care is intact. CFS 4 people are not dependent on others, and CFS 6 people need help with all outside activities and with bathing.",
+   "w": [
+    "Wrong - CFS 3 people have controlled conditions and need no help",
+    "Wrong - CFS 4 people are slowed but not dependent on others",
+    "Wrong - CFS 7 means complete dependence for personal care",
+    "Correct - help with finances, transport, housework and medicines with intact personal care is CFS 5",
+    "Wrong - CFS 6 requires help with all outside activities and with bathing"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "stem": "A 70-year-old woman with metastatic pancreatic cancer has an estimated life expectancy of about 3 months. Until now she has remained independent: she cooks, shops and walks to the market each day with no help.\nWhich Clinical Frailty Scale level should be recorded?",
+   "o": [
+    "CFS 9 - terminally ill",
+    "CFS 2 - fit",
+    "CFS 3 - managing well",
+    "CFS 4 - very mild frailty",
+    "CFS 8 - very severely frail"
+   ],
+   "a": 0,
+   "e": "CFS 9 (terminally ill) is used for people approaching the end of life with a life expectancy under 6 months who are not otherwise evidently frail. It is the exception on the scale, because it is based on prognosis rather than on function. CFS 8 people are completely dependent and approaching end of life.",
+   "w": [
+    "Correct - a life expectancy under 6 months defines CFS 9 even if function is preserved",
+    "Wrong - her terminal illness overrides her current fitness",
+    "Wrong - CFS 3 does not account for her limited prognosis",
+    "Wrong - CFS 4 describes being slowed up, not terminal illness",
+    "Wrong - CFS 8 requires complete dependence for personal care"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "stem": "A 78-year-old woman is assessed with the Fried frailty phenotype. She has unintentionally lost 5 kg in the past year and her timed 4-metre walk is slow. She denies exhaustion, her grip strength is normal for her sex and BMI, and she gardens for an hour every day.\nHow should she be classified?",
+   "o": [
+    "Robust",
+    "Frail",
+    "Severely frail",
+    "Not assessable without the CFS",
+    "Pre-frail"
+   ],
+   "a": 4,
+   "e": "The Fried phenotype has five criteria: unintentional weight loss, exhaustion, weakness (grip), slow walking speed and low physical activity. She meets two (weight loss and slow gait). One or two criteria indicate pre-frailty, three or more frailty. Pre-frailty is the best window for reversing decline.",
+   "w": [
+    "Wrong - robust means none of the five criteria",
+    "Wrong - frailty requires 3 or more criteria",
+    "Wrong - the Fried phenotype does not grade severe frailty",
+    "Wrong - the Fried phenotype is a stand-alone tool",
+    "Correct - two of five criteria indicate pre-frailty"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "stem": "An 80-year-old man has been admitted with pneumonia and is now bedbound and needs help with all personal care. His wife says that 2 weeks ago he walked to the mosque daily, managed his own affairs and had only well-controlled hypertension, though he did not exercise regularly.\nWhich CFS level should guide decisions about his treatment?",
+   "o": [
+    "CFS 7, based on his current dependence",
+    "CFS 8, as he is acutely unwell and bedbound",
+    "CFS 3, based on his baseline before illness",
+    "CFS 5, as an average of before and now",
+    "CFS 9, as pneumonia may be life-limiting"
+   ],
+   "a": 2,
+   "e": "The Clinical Frailty Scale should reflect baseline function about 2 weeks before the acute illness, using history from the patient and family. Scoring current acute dependence would wrongly label a robust man as severely frail and could lead to inappropriate limits on treatment.",
+   "w": [
+    "Wrong - acute illness dependence should not be scored",
+    "Wrong - acute bedbound state is not his baseline",
+    "Correct - score the baseline from 2 weeks before admission",
+    "Wrong - there is no averaging; use baseline",
+    "Wrong - CFS 9 is for known life expectancy under 6 months"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FRAIL",
+   "stem": "A 76-year-old woman is pre-frail: she has lost weight and her walking speed is slow, but she remains independent. She eats one small meal a day and spends most of the day seated. Bloods including vitamin D and thyroid function are normal.\nWhich intervention is most effective in reversing her frailty?",
+   "o": [
+    "Advise rest to conserve her limited energy",
+    "Resistance exercise with adequate protein intake",
+    "Testosterone or anabolic steroid therapy",
+    "High-dose vitamin E and multivitamin tablets",
+    "Early placement in a residential care home"
+   ],
+   "a": 1,
+   "e": "Progressive resistance and balance exercise combined with adequate protein and energy intake is the most effective intervention to delay or reverse frailty, especially in the pre-frail stage. Medication review and treating underlying problems add to it. Rest accelerates sarcopenia.",
+   "w": [
+    "Wrong - rest worsens sarcopenia and deconditioning",
+    "Correct - strength training plus protein is the core of frailty reversal",
+    "Wrong - hormone therapy is not recommended for frailty",
+    "Wrong - antioxidant supplements have no proven benefit",
+    "Wrong - she is independent; institutional care is unnecessary"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ADL",
+   "stem": "A 79-year-old woman is assessed with the Katz Index at a community screening. She feeds herself, is continent, transfers from bed to chair alone and uses the toilet independently. She needs help to wash her back and legs and to put on her baju kurung and fasten buttons.\nHow should her Katz score be interpreted?",
+   "o": [
+    "4 - moderate impairment",
+    "6 - full function",
+    "2 - severe functional impairment",
+    "5 - full function",
+    "3 - severe functional impairment"
+   ],
+   "a": 0,
+   "e": "The Katz Index scores six functions yes/no: bathing, dressing, toileting, transferring, continence and feeding. She is independent in four and dependent in bathing and dressing, giving 4, which the slides classify as moderate impairment. Six is full function and 2 or less severe impairment.",
+   "w": [
+    "Correct - independent in 4 of 6 functions is moderate impairment",
+    "Wrong - she needs help with bathing and dressing",
+    "Wrong - 2 or less means dependence in at least four functions",
+    "Wrong - she scores 4, and only 6 is full function",
+    "Wrong - she is independent in four functions, not three"
+   ],
+   "r": "Slide p35"
+  },
+  {
+   "t": "ADL",
+   "stem": "A 70-year-old man is in a stroke rehabilitation unit. The physiotherapist wants a tool that grades the degree of help needed in each of ten activities, including stairs and ambulation, so she can track small weekly gains and plan discharge.\nWhich instrument is most suitable?",
+   "o": [
+    "Katz Index of ADL",
+    "Lawton IADL scale",
+    "Barthel Index",
+    "Montreal Cognitive Assessment",
+    "Clinical Frailty Scale"
+   ],
+   "a": 2,
+   "e": "The Barthel Index has ten domains with graded scores, detecting finer changes during rehabilitation and informing discharge planning; it is widely used in stroke units. The Katz Index is a quick yes/no screen of six basic ADLs used in primary care and community screening.",
+   "w": [
+    "Wrong - Katz uses yes/no scoring and is too coarse for small gains",
+    "Wrong - the Lawton scale measures instrumental, not basic, ADLs",
+    "Correct - graded scoring across ten domains tracks rehabilitation progress",
+    "Wrong - the MoCA assesses cognition",
+    "Wrong - the CFS grades overall frailty, not specific ADLs"
+   ],
+   "r": "Slide p36"
+  },
+  {
+   "t": "ADL",
+   "stem": "An 83-year-old woman is assessed before discharge from a rehabilitation ward after a hip fracture. Her total Barthel Index score is 55 out of 100. Her family ask how much help she will need at home.\nHow is this score categorised?",
+   "o": [
+    "Total dependency",
+    "Moderate dependency",
+    "Slight dependency",
+    "Severe dependency",
+    "Independent"
+   ],
+   "a": 3,
+   "e": "On the 100-point Barthel Index, 0-20 is total dependency, 21-60 severe, 61-90 moderate, 91-99 slight and 100 independent. A score of 55 means severe dependency: she will need substantial daily help, which should shape the discharge and caregiver plan.",
+   "w": [
+    "Wrong - total dependency is 0-20",
+    "Wrong - moderate dependency is 61-90",
+    "Wrong - slight dependency is 91-99",
+    "Correct - 55 falls in the severe dependency band of 21-60",
+    "Wrong - independent is 100"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ADL",
+   "stem": "A 74-year-old retired clerk lives alone. Her niece notices that over 6 months she has repeatedly missed her pills and had her electricity cut off for unpaid bills. She still bathes, dresses and feeds herself well. ECAQ is 6 out of 10.\nWhich area of function is typically lost first in early cognitive decline?",
+   "o": [
+    "Feeding herself",
+    "Bladder continence",
+    "Bed to chair transfer",
+    "Bathing herself",
+    "Handling her finances"
+   ],
+   "a": 4,
+   "e": "Instrumental ADLs such as managing money, medications, transport and shopping need complex cognition and are lost before basic ADLs. The Lawton IADL scale detects this early decline. Among basic ADLs, bathing is usually lost first and feeding last.",
+   "w": [
+    "Wrong - feeding is the last basic ADL to be lost",
+    "Wrong - continence is lost late",
+    "Wrong - transfers are a basic ADL lost later",
+    "Wrong - bathing is the first basic ADL lost, but IADLs go before it",
+    "Correct - instrumental activities such as finances are lost first"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ADL",
+   "stem": "An 87-year-old man with advanced vascular dementia is losing function steadily. His daughter, who cares for him, asks which basic self-care activity he is likely to keep the longest.\nWhich activity is usually retained longest?",
+   "o": [
+    "Bathing",
+    "Feeding",
+    "Dressing",
+    "Toileting",
+    "Transferring"
+   ],
+   "a": 1,
+   "e": "The Katz hierarchy describes the usual order of loss: bathing, dressing, toileting, transferring, continence and finally feeding. Recovery tends to occur in the reverse order. Knowing this helps caregivers anticipate needs and plan support.",
+   "w": [
+    "Wrong - bathing is typically lost first",
+    "Correct - feeding is the last basic ADL to be lost",
+    "Wrong - dressing is lost early, after bathing",
+    "Wrong - toileting is lost before transferring and feeding",
+    "Wrong - transferring is lost before continence and feeding"
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SENS",
+   "stem": "A 72-year-old man has had gradually worsening hearing in both ears for several years. He struggles to follow conversation in noisy kenduri and cannot hear his granddaughter's high voice. Otoscopy is normal. Rinne is positive in both ears and Weber is central.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Bilateral impacted cerumen",
+    "Otosclerosis",
+    "Ménière's disease",
+    "Vestibular schwannoma",
+    "Presbycusis"
+   ],
+   "a": 4,
+   "e": "Presbycusis is a gradual, bilateral, symmetrical sensorineural loss affecting high frequencies first, typically with difficulty in background noise. Normal otoscopy, positive Rinne bilaterally and central Weber fit symmetrical sensorineural loss. A pure-tone audiogram is the gold standard to confirm it.",
+   "w": [
+    "Wrong - wax would be seen on otoscopy and gives conductive loss",
+    "Wrong - otosclerosis is conductive, so Rinne would be negative",
+    "Wrong - Ménière's causes episodic vertigo, tinnitus and fluctuating loss",
+    "Wrong - a vestibular schwannoma causes unilateral, asymmetric loss",
+    "Correct - gradual symmetrical high-frequency sensorineural loss in old age"
+   ],
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "stem": "A 68-year-old woman woke this morning with marked hearing loss in her left ear and tinnitus. She has no ear pain or discharge. Otoscopy is normal on both sides. Weber lateralises to the right ear and Rinne is positive on the left.\nWhat is the most appropriate management?",
+   "o": [
+    "Reassure and review her hearing in 1 month",
+    "Prescribe antibiotic-steroid ear drops",
+    "Same-day urgent referral to ENT",
+    "Arrange ear syringing at the clinic",
+    "Refer for routine hearing aid fitting"
+   ],
+   "a": 2,
+   "e": "Weber lateralising to the good ear with a positive Rinne on the affected side indicates sensorineural loss. Sudden sensorineural hearing loss is an ENT emergency: early corticosteroids improve recovery, and MRI is needed to exclude a vestibular schwannoma. Delay worsens the outcome.",
+   "w": [
+    "Wrong - waiting reduces the chance of recovery with steroids",
+    "Wrong - the ear canal and drum are normal; drops have no role",
+    "Correct - sudden sensorineural loss needs urgent ENT assessment",
+    "Wrong - otoscopy shows no wax",
+    "Wrong - urgent treatment comes before rehabilitation"
+   ],
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "stem": "An 80-year-old man's wife says he has become hard of hearing over 2 months, mainly on the right. He has no pain, vertigo or discharge. Otoscopy shows the right ear canal fully occluded by hard brown material; the left drum is normal.\nWhat is the most appropriate first step?",
+   "o": [
+    "Soften and remove the wax, then reassess",
+    "Fit a hearing aid in the right ear",
+    "Arrange a pure-tone audiogram first",
+    "Refer routinely to ENT for assessment",
+    "Request an MRI of the internal auditory meatus"
+   ],
+   "a": 0,
+   "e": "Cerumen impaction is a common reversible cause of conductive hearing loss in older people. Treat underlying physical obstructions first with softening drops then irrigation or microsuction, and reassess hearing afterwards. Audiometry and aids come after removing the obstruction.",
+   "w": [
+    "Correct - remove the reversible obstruction before further assessment",
+    "Wrong - the aid would be blocked and the cause is treatable",
+    "Wrong - an audiogram through impacted wax will be misleading",
+    "Wrong - wax removal can be done in primary care",
+    "Wrong - the cause is visible; no imaging is needed"
+   ],
+   "r": "Slide p44"
+  },
+  {
+   "t": "SENS",
+   "stem": "A 75-year-old woman completes the Hearing Handicap Inventory for the Elderly-Screening (HHIE-S) at her BSSK-WE visit. She answers 'yes' to most questions about avoiding social events and feeling embarrassed, giving a total of 28 out of 40.\nWhat does this score indicate?",
+   "o": [
+    "No handicap, so no referral is needed",
+    "Mild handicap, repeat screening in 5 years",
+    "Normal hearing for her age, reassure her",
+    "Significant handicap, refer to an audiologist",
+    "Moderate handicap, start ear drops now"
+   ],
+   "a": 3,
+   "e": "On the HHIE-S (0-40), 0-8 indicates no handicap, 10-24 mild to moderate handicap and 26-40 significant handicap with referral to an audiologist recommended. A score of 28 needs audiological assessment and likely amplification.",
+   "w": [
+    "Wrong - no handicap is 0-8",
+    "Wrong - mild to moderate is 10-24, and screening interval is not the issue",
+    "Wrong - the HHIE-S measures handicap, and 28 is high",
+    "Correct - 26-40 is significant handicap needing audiology referral",
+    "Wrong - ear drops do not treat hearing handicap"
+   ],
+   "r": "Slide p45"
+  },
+  {
+   "t": "SENS",
+   "stem": "A 70-year-old man with type 2 diabetes keeps bumping into door frames on both sides. He has no eye pain and his central vision is 6/9 in each eye. Fundoscopy shows large, deeply cupped optic discs, and intraocular pressure is 28 mmHg in both eyes.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Age-related cataract",
+    "Primary open-angle glaucoma",
+    "Age-related macular degeneration",
+    "Diabetic maculopathy",
+    "Retinal detachment"
+   ],
+   "a": 1,
+   "e": "Primary open-angle glaucoma causes painless, gradual peripheral field loss with preserved central acuity until late, enlarged optic disc cupping and often raised intraocular pressure. It is asymptomatic early, which is why older adults need regular eye screening. Refer to ophthalmology for treatment.",
+   "w": [
+    "Wrong - cataract causes generalised blurring and glare, not peripheral loss with cupping",
+    "Correct - painless peripheral field loss, disc cupping and raised IOP",
+    "Wrong - AMD affects central vision",
+    "Wrong - maculopathy reduces central acuity",
+    "Wrong - detachment is sudden, with flashes, floaters and a curtain"
+   ],
+   "r": "Slide p46"
+  },
+  {
+   "t": "SENS",
+   "stem": "A 78-year-old woman says straight lines such as door frames look wavy and there is a blurred patch in the centre of her vision when she reads the Quran. Peripheral vision is normal. Fundoscopy shows yellowish deposits at both maculae. She is not diabetic.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Age-related macular degeneration",
+    "Age-related cataract",
+    "Primary open-angle glaucoma",
+    "Retinal detachment",
+    "Diabetic retinopathy"
+   ],
+   "a": 0,
+   "e": "Age-related macular degeneration causes central vision loss and distortion (metamorphopsia) with drusen at the macula, while peripheral vision is spared. Sudden distortion suggests wet AMD, which needs urgent ophthalmology referral for anti-VEGF treatment.",
+   "w": [
+    "Correct - central distortion with macular drusen is AMD",
+    "Wrong - cataract causes overall blurring and glare without distortion",
+    "Wrong - glaucoma affects peripheral vision first",
+    "Wrong - detachment causes flashes, floaters and a field curtain",
+    "Wrong - she is not diabetic and the findings are drusen"
+   ],
+   "r": "Slide p46"
+  },
+  {
+   "t": "WARGA",
+   "stem": "A 72-year-old man has been bedbound since a stroke and needs help with all personal care. He has no family or heirs, no income and no home. A government medical officer has certified him as chronically ill. The hospital social worker is planning his long-term placement.\nWhich JKM facility is most appropriate?",
+   "o": [
+    "Rumah Seri Kenangan",
+    "Pusat Aktiviti Warga Emas",
+    "Rumah Ehsan",
+    "Kelab Warga Emas",
+    "KOSPEN Warga Emas"
+   ],
+   "a": 2,
+   "e": "Rumah Ehsan provides JKM residential care for elderly people who are frail, poor, without heirs and unable to care for themselves, certified chronically ill by a government medical officer. Rumah Seri Kenangan is for poor elderly without heirs who can still self-care.",
+   "w": [
+    "Wrong - Rumah Seri Kenangan requires residents to be able to self-care",
+    "Wrong - PAWE is a day activity centre, not residential care",
+    "Correct - Rumah Ehsan is for frail elderly unable to self-care",
+    "Wrong - KWE is a community club",
+    "Wrong - KOSPEN Warga Emas is a community NCD prevention programme"
+   ],
+   "r": "Slide p51"
+  },
+  {
+   "t": "WARGA",
+   "stem": "A 68-year-old widow who lives alone in a rented room tells you she often skips meals because she cannot afford food. Her only household income is RM900 a month from odd jobs. She does not live in an institution and receives no other welfare aid.\nWhich scheme provides the monthly cash support she should be referred for?",
+   "o": [
+    "mySalam takaful protection",
+    "Skim Mesra Usia Emas",
+    "PEKA B40",
+    "Bantuan Warga Emas",
+    "Khidmat Bantu di Rumah"
+   ],
+   "a": 3,
+   "e": "Bantuan Warga Emas is JKM monthly cash assistance (RM600 a month from 2025) for people aged 60 and over with household income below the poverty line (RM2,589 a month on the slide), not in an institution and not receiving other aid. Refer through the medical social worker or JKM office.",
+   "w": [
+    "Wrong - mySalam is takaful cover for critical illness, not monthly cash",
+    "Wrong - SMUE gives an annual voucher and funeral aid, not monthly support",
+    "Wrong - PEKA B40 provides health screening and device aid",
+    "Correct - BWE gives monthly cash to poor elderly aged 60 and over",
+    "Wrong - KBDR provides volunteer home help, not money"
+   ],
+   "r": "Slide p52"
+  },
+  {
+   "t": "WARGA",
+   "stem": "An 80-year-old widower lives alone in his own house and wants to stay there. He is cognitively intact but, since a knee replacement, struggles with cooking, cleaning and getting to hospital appointments. He has no family nearby and enough money for his basic needs.\nWhich programme best meets his needs?",
+   "o": [
+    "Rumah Seri Kenangan",
+    "Rumah Ehsan",
+    "Pusat Aktiviti Warga Emas",
+    "mySalam takaful protection",
+    "Khidmat Bantu di Rumah"
+   ],
+   "a": 4,
+   "e": "Khidmat Bantu di Rumah is a volunteer-based home support service for elderly people living alone, helping with meals, housekeeping, bathing, companionship, medicines and hospital visits. It supports ageing in place, which is his wish, rather than institutional care.",
+   "w": [
+    "Wrong - residential care is unnecessary and against his wishes",
+    "Wrong - he is not dependent for personal care",
+    "Wrong - PAWE offers activities at a centre, not help at home",
+    "Wrong - takaful does not provide practical home help",
+    "Correct - KBDR volunteers support elderly people living alone at home"
+   ],
+   "r": "Slide p50"
+  }
+ ]
+}

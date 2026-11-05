@@ -1,0 +1,2996 @@
+{
+ "id": "fever",
+ "title": "Fever and Rashes",
+ "short": "Fever & Rash",
+ "emoji": "🌡️",
+ "source": "Fever and rashes_261007_113501.pdf",
+ "topics": {
+  "DESC": "Describing rashes",
+  "VZV": "Varicella (chickenpox)",
+  "MEAS": "Measles",
+  "ROS": "Roseola infantum",
+  "HFMD": "Hand, foot and mouth disease",
+  "DEN": "Dengue",
+  "TYPH": "Typhus (scrub, murine, epidemic)",
+  "TYPD": "Typhoid and paratyphoid",
+  "SCAR": "Scarlet fever",
+  "TSS": "Toxic shock syndrome",
+  "MENC": "Meningococcaemia",
+  "SJS": "Stevens-Johnson syndrome / TEN",
+  "KAW": "Kawasaki disease"
+ },
+ "cards": [
+  {
+   "t": "DESC",
+   "q": "How do you distinguish a **macule** from a **patch**?",
+   "a": "• Both are **flat** lesions with a change in colour/texture – not raised or depressed\n• **Macule: <10 mm** (e.g. freckles, early chickenpox spots)\n• **Patch: >10 mm** (e.g. vitiligo, melasma)",
+   "m": "Same flatness, different size – a patch is just a big macule.",
+   "r": "Slide p4"
+  },
+  {
+   "t": "DESC",
+   "q": "What separates a **vesicle** from a **bulla**, and give a classic example of each?",
+   "a": "• Both are raised, **fluid-filled blisters**\n• **Vesicle: <5 mm** – chickenpox, herpes simplex\n• **Bulla: >5 mm** – bullous pemphigoid",
+   "m": "Vesicle = little vessel of fluid; bulla = big bubble.",
+   "r": "Slide p4"
+  },
+  {
+   "t": "DESC",
+   "q": "Define a **pustule** and name two common causes.",
+   "a": "• A raised lesion filled with **pus**\n• Examples: **acne vulgaris**, **folliculitis**\n• Varicella vesicles also evolve into pustules before crusting",
+   "r": "Slide p4"
+  },
+  {
+   "t": "DESC",
+   "q": "How does a **papule** differ from a **nodule**?",
+   "a": "• **Papule:** raised, palpable, **<5 mm** – acne, insect bite, wart\n• **Nodule:** raised, palpable, **>5 mm**, extends into the **dermis or subcutaneous tissue** – lipoma, dermatofibroma",
+   "m": "Nodule = deeper and bigger; feel it, don’t just see it.",
+   "r": "Slide p5"
+  },
+  {
+   "t": "DESC",
+   "q": "What is a **plaque**, and which two common conditions produce plaques?",
+   "a": "• A **palpable**, flat-topped lesion of large diameter, raised (or depressed) relative to surrounding skin\n• Slide uses **>20 mm**; many texts use >10 mm – the key is a broad, plateau-like lesion\n• Examples: **psoriasis**, **tinea corporis**",
+   "m": "Plaque = plateau.",
+   "r": "Slide p5"
+  },
+  {
+   "t": "DESC",
+   "q": "Describe a **wheal** and its typical causes.",
+   "a": "• Elevated, **pruritic**, red/pale lesion caused by **localised dermal oedema**\n• **Transient** – individual wheals usually fade within 24 hours\n• Causes: **urticaria**, insect bites",
+   "m": "Wheal comes and goes like a wave – here today, gone tomorrow.",
+   "r": "Slide p5"
+  },
+  {
+   "t": "DESC",
+   "q": "**Scaling** vs **crust** – what is the difference?",
+   "a": "• **Scale:** heaped-up accumulation of dead epithelium (**stratum corneum**) on the surface\n• **Crust:** **dried exudate** – serous, purulent or haemorrhagic\n• Chickenpox lesions end as **crusts**, not scales",
+   "m": "Scale = dead skin; crust = dried juice.",
+   "r": "Slide p6"
+  },
+  {
+   "t": "DESC",
+   "q": "What is **lichenification** and what causes it?",
+   "a": "• **Thickening of the skin** with **accentuated normal skin markings**\n• Caused by **repeated scratching or rubbing**\n• Classic in **chronic eczema** (itch–scratch cycle)",
+   "m": "Looks like tree-bark lichen – rubbed so often the skin toughens.",
+   "r": "Slide p6"
+  },
+  {
+   "t": "DESC",
+   "q": "**Nummular** vs **annular** configuration – how do they differ, with examples?",
+   "a": "• **Nummular:** **coin-shaped**, uniformly involved disc – nummular (discoid) eczema\n• **Annular:** **ring** with **central clearing** and active edge – tinea corporis",
+   "m": "Nummular = full coin; annular = ring with a hole.",
+   "r": "Slide p7"
+  },
+  {
+   "t": "DESC",
+   "q": "What do **gyrate** and **linear** configurations suggest?",
+   "a": "• **Gyrate:** reddish **curvilinear/wavy** or annular lesions – e.g. **erythema annulare centrifugum**\n• **Linear:** straight lines – suggests **excoriations from scratching** or an external cause",
+   "m": "Gyrate = gyrus-like swirls on the skin.",
+   "r": "Slide p7"
+  },
+  {
+   "t": "DESC",
+   "q": "**Erythema** vs **purpura** – mechanism and bedside test?",
+   "a": "• **Erythema:** **capillary dilatation**/increased dermal blood flow → **blanches** on pressure\n• **Purpura:** **haemorrhage** from small vessels into skin → **does not blanch**\n• Test by pressing with a clear glass (**glass/tumbler test**) or finger",
+   "m": "Blood in the vessel blanches; blood out of the vessel stays.",
+   "r": "Slide p8"
+  },
+  {
+   "t": "DESC",
+   "q": "Define **erythroderma** and its main causes.",
+   "a": "• Widespread reddening of **>90%** of the skin surface\n• Due to inflammatory skin disease – **psoriasis, eczema**, drug reactions\n• Risks: fluid/heat loss, hypothermia, infection → usually needs referral\n• Note: slide says 'psoriasis/edema'; it should read **eczema**",
+   "m": "Erythroderma = 'red all over'.",
+   "r": "Slide p8"
+  },
+  {
+   "t": "DESC",
+   "q": "How are **petechiae, purpura and ecchymoses** distinguished?",
+   "a": "• All are **non-blanching** bleeding into the skin\n• **Petechiae:** pinpoint, **<2 mm**\n• **Purpura:** **2–10 mm**\n• **Ecchymosis:** **>10 mm** (bruise)\n• Fever + petechiae/purpura = **meningococcaemia until proven otherwise**; also dengue",
+   "m": "Pin → coin → bruise as size grows.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "DESC",
+   "q": "How are the differential diagnoses of **fever with rash** grouped in this seminar?",
+   "a": "• **Viral:** varicella, measles, roseola, HFMD, dengue\n• **Bacterial/rickettsial:** typhoid, typhus, scarlet fever, toxic shock syndrome, meningococcaemia\n• **Drug-related/immune-mediated:** Stevens-Johnson syndrome/TEN\n• **Inflammatory/unknown:** Kawasaki disease",
+   "m": "Bugs (viral, bacterial), drugs, and the mystery vasculitis.",
+   "r": "Slides p9, p53, p57"
+  },
+  {
+   "t": "VZV",
+   "q": "What causes **varicella**, and how does it lead to shingles later?",
+   "a": "• **Varicella-zoster virus (VZV, HHV-3)** – primary systemic infection\n• Virus becomes **latent in dorsal root (sensory) ganglia**\n• **Reactivation** → **herpes zoster (shingles)** in a dermatome",
+   "m": "Chickenpox moves in, sleeps in the ganglia, wakes up as shingles.",
+   "r": "Slide p11"
+  },
+  {
+   "t": "VZV",
+   "q": "How is **varicella transmitted**?",
+   "a": "• **Airborne droplets**\n• **Direct contact with vesicular fluid**\n• Possibly respiratory secretions and fomites\n• **Highly contagious** – most susceptible household contacts become infected",
+   "r": "Slide p11"
+  },
+  {
+   "t": "VZV",
+   "q": "What is the **incubation period** of varicella?",
+   "a": "• Range **10–21 days**\n• Average **14–15 days**\n• Hence exposed contacts are watched for up to 21 days (28 days if VZIG given – pearl)",
+   "m": "About two weeks – 'chickenpox fortnight'.",
+   "r": "Slide p11"
+  },
+  {
+   "t": "VZV",
+   "q": "When is a patient with varicella **infectious**?",
+   "a": "• From about **1–2 days before rash onset** (slide: 2 days)\n• **Until all lesions have crusted**\n• Crusted lesions are not infectious",
+   "m": "Starts before you see it; ends when every spot is a scab.",
+   "r": "Slide p11"
+  },
+  {
+   "t": "VZV",
+   "q": "Describe the **evolution of the varicella rash**.",
+   "a": "• **Macule → papule → clear vesicle → pustule → crust**\n• Vesicles: 'dewdrop on a rose petal'\n• Appears in **crops**, so lesions at **different stages** coexist\n• **Intensely pruritic**; may involve oral, oropharyngeal and genital mucosa",
+   "m": "Crops = a garden with seedlings, flowers and dead heads at once (unlike smallpox, all same stage).",
+   "r": "Slides p11-12"
+  },
+  {
+   "t": "VZV",
+   "q": "What is the **distribution** of the varicella rash in an unvaccinated person?",
+   "a": "• **Centripetal** – densest on **chest and back**\n• Starts on chest, back and face, then spreads to the rest of the body\n• Fewer lesions on distal limbs\n• Contrast: smallpox is **centrifugal** (face and extremities, palms/soles)",
+   "m": "Centripetal = towards the centre (trunk).",
+   "r": "Slides p11-12"
+  },
+  {
+   "t": "VZV",
+   "q": "How does the **prodrome** of varicella differ between children and adults?",
+   "a": "• Prodrome ~**24 hours before rash**: fever, malaise, lethargy, headache, anorexia\n• **Children:** often **no prodrome** – rash is the first sign\n• **Adults:** prodrome usual, and illness is more severe",
+   "m": "Kids skip the trailer; adults get the full movie.",
+   "r": "Slide p12"
+  },
+  {
+   "t": "VZV",
+   "q": "What is **breakthrough varicella** and how does it present?",
+   "a": "• Wild-type VZV infection **>42 days after vaccination**\n• **Mild**: afebrile or low-grade fever, usually **<50 lesions**\n• Mainly **maculopapular** (few vesicles), shorter illness\n• **25–30%** of one-dose recipients with breakthrough disease look like unvaccinated cases\n• Still contagious",
+   "m": "Vaccinated kids get 'chickenpox-lite'.",
+   "r": "Slide p13"
+  },
+  {
+   "t": "VZV",
+   "q": "How is varicella **diagnosed**, and when is a test needed?",
+   "a": "• It is a **clinical diagnosis**\n• Tests only if atypical, immunocompromised, pregnant or severe: **PCR of vesicle fluid** (most sensitive) or VZV serology for immune status",
+   "r": "Slide p14"
+  },
+  {
+   "t": "VZV",
+   "q": "List the **non-pharmacological** measures for chickenpox.",
+   "a": "• **Rest and isolation**\n• Keep **well hydrated**\n• **Cool baths** with baking soda or colloidal/uncooked oatmeal\n• **Trim fingernails**, minimise scratching (prevents infection and scars)\n• Good hygiene, loose comfortable clothing",
+   "r": "Slide p14"
+  },
+  {
+   "t": "VZV",
+   "q": "What symptomatic **drugs** are used in uncomplicated childhood varicella?",
+   "a": "• **Itch:** calamine lotion + oral **antihistamine**\n• **Fever:** **paracetamol**\n• Antiviral therapy is **not routinely indicated** in healthy children",
+   "r": "Slide p14"
+  },
+  {
+   "t": "VZV",
+   "q": "Why must **aspirin** (and ideally NSAIDs) be avoided in varicella?",
+   "a": "• **Aspirin → Reye syndrome**: acute encephalopathy + fatty liver failure in children with viral illness (varicella, influenza)\n• **NSAIDs** (e.g. ibuprofen) are linked with severe **invasive group A streptococcal** skin/soft-tissue infection in varicella\n• Use **paracetamol** instead",
+   "m": "Pox + aspirin = Reye; pox + ibuprofen = flesh-eating strep risk.",
+   "r": "Slide p14"
+  },
+  {
+   "t": "VZV",
+   "q": "Which varicella patients should receive **oral antivirals**?",
+   "a": "• **Adolescents (≥13 years) and adults** – more severe disease\n• **Pregnant** women, **smokers**, chronic lung or skin disease, long-term steroid/salicylate use\n• **Immunocompromised** and neonates → usually **IV aciclovir** via hospital\n• Healthy children: symptomatic care only",
+   "m": "Big kids, adults, bumps (pregnancy) and broken immunity.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "VZV",
+   "q": "Give the **antiviral regimen and timing** for adult varicella.",
+   "a": "• **Aciclovir 800 mg five times daily for 7 days** (or valaciclovir 1 g three times daily)\n• Best **within 24 hours of rash onset**; slide: within 24–48 h of new vesicles appearing\n• **>48 h** after rash onset with **no new lesions** → symptomatic treatment only\n• Reduces severity and duration",
+   "m": "800 × 5 × 7.",
+   "r": "Slide p14"
+  },
+  {
+   "t": "VZV",
+   "q": "What is the **most common complication** of varicella in children?",
+   "a": "• **Secondary bacterial infection** of skin lesions – **Staphylococcus aureus** or **Streptococcus pyogenes** (impetigo, cellulitis)\n• Can leave **pitted scars**\n• Rarely invasive GAS → necrotising fasciitis or toxic shock",
+   "r": "Slide p15"
+  },
+  {
+   "t": "VZV",
+   "q": "What is the most important serious complication of varicella in **adults**, and its red flags?",
+   "a": "• **Varicella pneumonia** – higher risk in **smokers, pregnancy**, immunocompromised\n• Usually 1–6 days after rash onset\n• Red flags: **cough, breathlessness, chest pain, tachypnoea, hypoxia, haemoptysis**\n• → **Urgent hospital referral** for IV aciclovir",
+   "m": "Adult with pox and breathless = pneumonia until proven otherwise.",
+   "r": "Slide p15"
+  },
+  {
+   "t": "VZV",
+   "q": "Name the **neurological complications** of varicella.",
+   "a": "• **Acute cerebellar ataxia** – commonest in children, ~1 week after rash, usually benign and self-limiting\n• **Encephalitis** – drowsiness, seizures (serious)\n• Meningitis\n• Reye syndrome if aspirin given",
+   "m": "Wobbly but alert = cerebellitis; drowsy and fitting = encephalitis.",
+   "r": "Slide p15"
+  },
+  {
+   "t": "VZV",
+   "q": "Which varicella complications need **urgent referral to hospital**?",
+   "a": "• **Disseminated varicella** (immunocompromised)\n• **Varicella pneumonia** / ARDS\n• **Varicella encephalitis**\n• **Reye syndrome**\n• **Neonatal varicella** and congenital varicella syndrome",
+   "r": "Slide p15"
+  },
+  {
+   "t": "VZV",
+   "q": "What are the risks of **varicella in pregnancy**?",
+   "a": "• **Mother:** severe **varicella pneumonia**\n• **Fetus <20 weeks:** **congenital varicella syndrome** (~1–2%) – limb hypoplasia, cicatricial skin scarring, eye and brain defects\n• **Neonate:** severe **neonatal varicella** if maternal rash **5 days before to 2 days after delivery**\n• Non-immune exposed pregnant women → **VZIG**",
+   "r": "Slide p15"
+  },
+  {
+   "t": "VZV",
+   "q": "What is the **varicella vaccination** schedule on the slides, and its main contraindications?",
+   "a": "• **Two doses: 12–15 months and 4–6 years** (CDC schedule); can be given to susceptible older children and adults\n• **>90% effective** at preventing severe disease\n• In Malaysia it is **not in the national schedule** – optional (private)\n• **Live vaccine** → contraindicated in **pregnancy** and immunosuppression",
+   "r": "Slide p16"
+  },
+  {
+   "t": "VZV",
+   "q": "What **post-exposure prophylaxis** is available for varicella?",
+   "a": "• **Varicella vaccine within 3–5 days** of exposure – healthy, non-immune, non-pregnant contacts\n• **VZIG** for **high-risk** groups: immunocompromised, **non-immune pregnant women**, newborns – ideally ASAP (within 10 days)",
+   "m": "Healthy → vaccine; high-risk → immunoglobulin.",
+   "r": "Slide p16"
+  },
+  {
+   "t": "VZV",
+   "q": "What **isolation** advice do you give for chickenpox?",
+   "a": "• Isolate **until all lesions have crusted** (usually ~5–7 days after onset)\n• Avoid contact with **pregnant women, newborns and immunocompromised** people\n• Keep off school/childcare until crusted",
+   "r": "Slide p16"
+  },
+  {
+   "t": "MEAS",
+   "q": "What virus causes **measles**?",
+   "a": "• **Measles virus** – an RNA virus of the genus **Morbillivirus**, family **Paramyxoviridae**\n• Commonest in children\n• Humans are the only reservoir – hence elimination is possible",
+   "r": "Slide p17"
+  },
+  {
+   "t": "MEAS",
+   "q": "How is measles transmitted, and how infectious is it?",
+   "a": "• **Direct contact with infectious droplets**\n• **Airborne spread** when an infected person breathes, coughs or sneezes – virus lingers in room air\n• One of the **most contagious** diseases (R0 ~12–18)\n• Infectious from **4 days before to 4 days after rash onset** (pearl)",
+   "m": "Measles: 4 days either side of the rash.",
+   "r": "Slide p17"
+  },
+  {
+   "t": "MEAS",
+   "q": "What is the **clinical case definition** of measles used for notification?",
+   "a": "Any person with:\n• **Fever**, AND\n• **Maculopapular rash**, AND\n• **Cough OR coryza OR conjunctivitis**",
+   "m": "Fever + rash + one of the 3 Cs.",
+   "r": "Slide p17"
+  },
+  {
+   "t": "MEAS",
+   "q": "What are the **risk factors** for measles and severe measles?",
+   "a": "• **Immunosuppression**\n• **Unvaccinated** people, including travellers to endemic areas\n• **Malnourished children**, especially **vitamin A deficient**",
+   "r": "Slide p17"
+  },
+  {
+   "t": "MEAS",
+   "q": "Describe the **prodromal stage** of measles.",
+   "a": "• Lasts **2–4 days**\n• **Fever** + the **3 Cs: cough, coryza, conjunctivitis**\n• **Koplik spots** appear on the buccal mucosa near the end of the prodrome\n• Child is miserable and unwell",
+   "m": "3 Cs + K: Cough, Coryza, Conjunctivitis + Koplik.",
+   "r": "Slide p18"
+  },
+  {
+   "t": "MEAS",
+   "q": "What are **Koplik spots** and why are they useful?",
+   "a": "• Tiny **white spots like grains of salt** on a red **buccal mucosa** (opposite the lower molars)\n• **Pathognomonic** of measles\n• Appear **before the rash** and fade as the rash spreads – so look early",
+   "m": "Salt grains on a red tablecloth.",
+   "r": "Slide p18"
+  },
+  {
+   "t": "MEAS",
+   "q": "Describe the **measles rash** – onset, appearance and spread.",
+   "a": "• **Blotchy, bright red maculopapular** rash, generally **not itchy**\n• Appears ~day **4–5** of illness on the **face and behind the ears** (hairline)\n• Spreads **downwards** to trunk and extremities over **24–36 hours**\n• Palms and soles rarely involved; lesions become **confluent**",
+   "m": "Measles rash runs top-down like water poured over the head.",
+   "r": "Slide p18"
+  },
+  {
+   "t": "MEAS",
+   "q": "What happens in the **convalescent stage** of measles?",
+   "a": "• Rash fades in the order it appeared, leaving a **temporary brownish staining** (fine desquamation)\n• **Cough may persist 1–3 weeks**\n• Temporary immune suppression → watch for secondary infection",
+   "r": "Slide p18"
+  },
+  {
+   "t": "MEAS",
+   "q": "Which **investigations** confirm measles?",
+   "a": "• Suspected clinically: 3 Cs + **Koplik spots**\n• **RT-PCR** – **nasopharyngeal/throat swab** (preferred), urine or blood\n• **Serology:** **measles-specific IgM** in serum within the first few days of rash",
+   "r": "Slide p19"
+  },
+  {
+   "t": "MEAS",
+   "q": "What are the **public health actions** when you suspect measles in a KK?",
+   "a": "• **Notify** the District Health Office **within 24 hours** of clinical diagnosis – do not wait for lab results\n• **Isolate** the patient (airborne precautions; separate waiting area)\n• Supports Malaysia’s **Measles Elimination Programme** – contact tracing and outbreak vaccination",
+   "m": "Measles is a 24-hour disease – suspicion is enough.",
+   "r": "Slide p20"
+  },
+  {
+   "t": "MEAS",
+   "q": "Outline the **management** of uncomplicated measles.",
+   "a": "• **No specific antiviral** – supportive care\n• Plenty of fluids; treat **dehydration** from diarrhoea/vomiting\n• **Antibiotics** only for secondary pneumonia, ear or eye infection\n• **Vitamin A** to restore low levels and reduce complications",
+   "r": "Slide p20"
+  },
+  {
+   "t": "MEAS",
+   "q": "What is the WHO **vitamin A dose** for a child with measles?",
+   "a": "Two doses, **24 hours apart**:\n• **<6 months: 50 000 IU**\n• **6–11 months: 100 000 IU**\n• **≥12 months: 200 000 IU**\n• Third dose 2–4 weeks later if eye signs of vitamin A deficiency",
+   "m": "50–100–200 by age band.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MEAS",
+   "q": "When is **MMR** given in the Malaysian National Immunisation Programme, and why so early?",
+   "a": "• **9 months** and **12 months** of age\n• Early first dose because measles is common and severe in infants once maternal antibodies wane\n• Live vaccine – not in pregnancy or severe immunosuppression",
+   "r": "Slide p20"
+  },
+  {
+   "t": "MEAS",
+   "q": "List the **complications** of measles.",
+   "a": "• **Otitis media**\n• **Bronchopneumonia** – commonest cause of measles death\n• **Diarrhoea** and dehydration\n• **Encephalitis**\n• Keratitis/blindness (with vitamin A deficiency); late **SSPE**",
+   "r": "Slide p20"
+  },
+  {
+   "t": "MEAS",
+   "q": "What is **SSPE**?",
+   "a": "• **Subacute sclerosing panencephalitis** – rare, **fatal** degenerative CNS disease from persistent measles virus\n• Appears **7–10 years** after measles, higher risk if infected **<2 years** old\n• Presents with school decline, behaviour change, **myoclonic jerks**, then dementia\n• Prevented by **measles vaccination**",
+   "m": "Measles that comes back a decade later to destroy the brain.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MEAS",
+   "q": "What **post-exposure** options exist for measles contacts?",
+   "a": "• **MMR vaccine within 72 hours** of exposure for susceptible contacts aged ≥6 months\n• **Normal human immunoglobulin within 6 days** for high-risk contacts (infants <6 months, pregnant non-immune, immunocompromised)\n• Exclude case from school until **4 days after rash onset**",
+   "m": "Vaccine by day 3, immunoglobulin by day 6.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ROS",
+   "q": "What is **roseola infantum** and which age group gets it?",
+   "a": "• A **common, benign, self-limiting** viral illness of infancy\n• Peak age **6 months – 2 years**\n• Also called **exanthem subitum** or **sixth disease**",
+   "r": "Slide p22"
+  },
+  {
+   "t": "ROS",
+   "q": "What causes **roseola**?",
+   "a": "• **Human herpesvirus 6 (HHV-6)** – main cause\n• Less commonly **HHV-7**",
+   "m": "Sixth disease = HHV-6.",
+   "r": "Slide p22"
+  },
+  {
+   "t": "ROS",
+   "q": "How is roseola **transmitted**, and when is the child infectious?",
+   "a": "• **Respiratory droplets and saliva**, often from **asymptomatic shedding** adults/siblings\n• Most contagious during the **febrile phase**, until the rash appears and fever has resolved for 24 hours",
+   "r": "Slide p22"
+  },
+  {
+   "t": "ROS",
+   "q": "What is the **classic sequence** of roseola?",
+   "a": "• **Sudden high fever (>40°C) for 3–5 days**, child often surprisingly well\n• **Fever subsides → then the rash appears**\n• May have runny nose and mild cervical lymphadenopathy",
+   "m": "Fever goes, roses show.",
+   "r": "Slide p22"
+  },
+  {
+   "t": "ROS",
+   "q": "Describe the **rash of roseola**.",
+   "a": "• **Rose-pink macular/maculopapular**, **blanching**\n• Painless, non-itchy, **non-vesicular**\n• Mainly **trunk** and limbs, **usually spares the face**\n• Fades within **1–2 days**, **no desquamation**",
+   "r": "Slide p22"
+  },
+  {
+   "t": "ROS",
+   "q": "Which other examination findings may be seen in roseola?",
+   "a": "• **Mild cervical lymphadenopathy**\n• **Nagayama spots** – red papules on soft palate/uvula\n• Mild coryza; occasionally a **bulging fontanelle** during high fever\n• Rash after antibiotics is often mislabelled as **drug allergy**",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ROS",
+   "q": "How is roseola managed in primary care?",
+   "a": "• **Reassure parents** – benign and self-limiting\n• **Paracetamol** for comfort/fever\n• **Adequate fluid intake**\n• No antibiotics, no antivirals",
+   "r": "Slide p23"
+  },
+  {
+   "t": "ROS",
+   "q": "What is the **most common complication** of roseola?",
+   "a": "• **Febrile seizure** – during the high-fever phase (before the rash)\n• HHV-6 is an important cause of febrile seizures in infants\n• Usually simple and benign",
+   "m": "Roseola = fever, fit, then flowers.",
+   "r": "Slide p23"
+  },
+  {
+   "t": "ROS",
+   "q": "Which **rare serious complications** of roseola occur, and in whom?",
+   "a": "• **Encephalitis**\n• **Pneumonitis**\n• Mainly in **immunocompromised** patients (e.g. after transplant – HHV-6 reactivation)",
+   "r": "Slide p23"
+  },
+  {
+   "t": "ROS",
+   "q": "When should a child with roseola be **admitted/referred**?",
+   "a": "• **Complex febrile seizure** (focal, >15 min, or recurrent within 24 h)\n• **Status epilepticus**\n• **Prolonged lethargy**\n• Signs of **secondary bacterial infection**",
+   "r": "Slide p23"
+  },
+  {
+   "t": "ROS",
+   "q": "How is roseola **prevented**, and is it notifiable?",
+   "a": "• **Hand hygiene**; keep child at home while febrile\n• **No vaccine**\n• Most children are **immune by school age**\n• **Not a notifiable disease**",
+   "r": "Slide p23"
+  },
+  {
+   "t": "ROS",
+   "q": "**Roseola vs measles** – key clinical differences?",
+   "a": "• **Roseola:** rash appears **as fever settles**; child well; starts on **trunk**, spares face; fades in 1–2 days\n• **Measles:** rash at **peak of fever**; child ill with **3 Cs + Koplik spots**; starts on **face/behind ears**, spreads down; leaves staining\n• Roseola is not notifiable; measles is (24 h)",
+   "m": "Roseola: fever then rash. Measles: fever with rash.",
+   "r": "Slides p18, p22"
+  },
+  {
+   "t": "HFMD",
+   "q": "What is **HFMD** and who is mainly affected?",
+   "a": "• A common, **contagious viral illness**\n• Mainly **infants and children <5 years**\n• **Endemic in Malaysia**, with periodic outbreaks in nurseries/kindergartens",
+   "r": "Slide p25"
+  },
+  {
+   "t": "HFMD",
+   "q": "Which viruses cause HFMD, and which is most dangerous?",
+   "a": "• **Enteroviruses**: **coxsackievirus A16** (commonest, usually mild), other coxsackie A/B, echoviruses\n• **Enterovirus 71 (EV71)** – causes **severe neurological and cardiopulmonary** disease and deaths (Malaysian outbreaks)\n• Note: slide lists **polioviruses** – they are enteroviruses but **do not cause HFMD**",
+   "m": "A16 = annoying; 71 = deadly.",
+   "r": "Slide p25"
+  },
+  {
+   "t": "HFMD",
+   "q": "What are the **incubation period** and timing of blisters in HFMD?",
+   "a": "• Incubation **3–6 days**\n• Blisters appear **1–2 days after the fever** starts",
+   "r": "Slide p25"
+  },
+  {
+   "t": "HFMD",
+   "q": "How long is a child with HFMD **infectious**?",
+   "a": "• Until blisters have **ruptured and healed** – usually **7–10 days**\n• Virus is shed in **stool for several weeks** after recovery – hygiene matters even after return",
+   "r": "Slide p25"
+  },
+  {
+   "t": "HFMD",
+   "q": "How is HFMD **transmitted**?",
+   "a": "• **Respiratory:** cough, sneeze, saliva\n• **Contact:** contaminated surfaces/toys, **vesicle fluid**\n• **Faecal–oral:** contact with faeces (nappy changing)",
+   "r": "Slide p25"
+  },
+  {
+   "t": "HFMD",
+   "q": "Describe the **typical presentation** of HFMD.",
+   "a": "• **Fever**, sore throat, poor appetite, fatigue, headache\n• **Painful oral ulcers** – tongue, buccal mucosa, palate\n• **Flat/oval vesicles or maculopapular rash** on **palms and soles**, also **buttocks and genital area**\n• Rash is usually **not itchy**",
+   "r": "Slide p25"
+  },
+  {
+   "t": "HFMD",
+   "q": "What is the MOH **clinical case definition** of HFMD, and how is a case confirmed?",
+   "a": "• Any child (MOH: ≤10 years) with **mouth/tongue ulcer** AND **maculopapular rash and/or vesicles on palms and soles**, **with or without fever** = **suspected case**\n• **Confirmed:** lab detection of enterovirus **or** epidemiological link to a lab-confirmed case\n• Note: slide labels the clinical definition 'confirmed'; it defines a **suspected** case",
+   "r": "Slide p26"
+  },
+  {
+   "t": "HFMD",
+   "q": "What are the **notification rules** for HFMD in Malaysia?",
+   "a": "• Notify the District Health Office **within 24 hours** of a **suspected** case\n• **Laboratory confirmation is NOT required** for notification\n• Triggers **outbreak management** at the nursery/kindergarten",
+   "m": "HFMD: suspect it, report it – today.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "HFMD",
+   "q": "How is **uncomplicated HFMD** managed at a KK?",
+   "a": "• **Reassurance and explanation** – usually mild and self-limiting (7–10 days)\n• **Symptomatic:** paracetamol; cold soft foods/drinks for mouth pain\n• **Maintain hydration**\n• Careful hygiene; **notify**\n• Teach parents the **danger signs**",
+   "r": "Slide p26"
+  },
+  {
+   "t": "HFMD",
+   "q": "Which **general (non-neurological) criteria** warrant admission in HFMD?",
+   "a": "• **Unable to tolerate oral feeds** / risk of dehydration\n• **Toxic-looking** / clinically very ill\n• Serious alternative diagnosis cannot be excluded\n• **Hyperpyrexia persisting >48 hours**\n• **Parents unable to cope** / inadequate social support",
+   "r": "Slide p27"
+  },
+  {
+   "t": "HFMD",
+   "q": "Which **neurological danger signs** in HFMD need urgent referral?",
+   "a": "• **Increased lethargy/drowsiness**\n• **Myoclonic jerks** (startles, especially in sleep)\n• **Altered sensorium**\n• **Seizures**\n• Also: persistent vomiting, ataxia, limb weakness",
+   "m": "A sleepy, jerky, vomiting child with HFMD = EV71 brainstem trouble.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "HFMD",
+   "q": "Which signs suggest **cardiac/cardiopulmonary involvement** in HFMD?",
+   "a": "• **Tachycardia** out of proportion to fever, **breathlessness**\n• **Hypotension**, **low pulse volume**, poor perfusion\n• **Arrhythmia**\n• **Murmur or gallop rhythm**\n• → Immediate hospital referral",
+   "r": "Slide p27"
+  },
+  {
+   "t": "HFMD",
+   "q": "Why can **EV71** HFMD kill a previously well child within hours?",
+   "a": "• EV71 causes **brainstem encephalitis**\n• → sympathetic surge → **neurogenic pulmonary oedema** and **cardiopulmonary failure**\n• Deterioration can be rapid, often within 2–5 days of onset – hence strict danger-sign advice",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HFMD",
+   "q": "What **prevention advice** do you give families and nurseries about HFMD?",
+   "a": "• **Frequent hand washing** with soap and water\n• Cover coughs/sneezes; avoid close contact with sick children\n• **Clean and disinfect** toys, utensils, toilet floors\n• Do not share personal items; wash them with detergent\n• **Do not rupture blisters**",
+   "r": "Slide p26"
+  },
+  {
+   "t": "HFMD",
+   "q": "When can a child with HFMD return to **nursery/kindergarten**?",
+   "a": "• Keep at home until **fever has settled and all blisters have dried/healed** (usually 7–10 days)\n• During clusters the health office may **order temporary closure** of the premises\n• Continue strict hand hygiene – stool shedding continues for weeks",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HFMD",
+   "q": "**HFMD vs herpangina vs varicella** – how do you tell them apart?",
+   "a": "• **HFMD:** oral ulcers (anterior mouth) + vesicles on **palms, soles, buttocks**; not itchy\n• **Herpangina:** vesicles/ulcers on **posterior pharynx/soft palate only**, no hand–foot rash\n• **Varicella:** **itchy**, **centripetal** (trunk) vesicles in crops, different stages",
+   "m": "Hands and feet = HFMD; throat only = herpangina; trunk itch = pox.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "DEN",
+   "q": "What causes **dengue**, and why is a second infection more dangerous?",
+   "a": "• **Dengue virus** (flavivirus), **4 serotypes: DEN-1 to DEN-4**\n• Vectors: **Aedes aegypti** and **Aedes albopictus** (day-biting mosquitoes)\n• Infection gives lifelong immunity only to **that serotype**\n• **Subsequent infection with another serotype** → higher risk of severe dengue (antibody-dependent enhancement)",
+   "m": "Second dengue, different serotype = double danger.",
+   "r": "Slide p28"
+  },
+  {
+   "t": "DEN",
+   "q": "What are the **three phases** of dengue illness?",
+   "a": "• **Febrile phase:** high fever, usually **2–7 days**\n• **Critical phase:** around **defervescence (≈day 3–7)**, lasts **24–48 h** – **plasma leakage**, shock, bleeding\n• **Recovery phase:** **48–72 h** – reabsorption of leaked fluid; risk of **fluid overload**",
+   "m": "Fever → Fall (leak) → Fill-up (reabsorb).",
+   "r": "Slides p28-29"
+  },
+  {
+   "t": "DEN",
+   "q": "Why is the moment the **fever settles** in dengue so dangerous?",
+   "a": "• Defervescence coincides with the **critical phase** of **plasma leakage**\n• Patient may **feel better** while haematocrit rises and shock develops\n• So patients need **daily review** through days 3–7 even when afebrile",
+   "m": "In dengue, 'fever gone' does not mean 'danger gone'.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "DEN",
+   "q": "List the **warning signs** of dengue (MOH CPG).",
+   "a": "• **Abdominal pain or tenderness**\n• **Persistent vomiting**\n• **Clinical fluid accumulation** (pleural effusion, ascites)\n• **Mucosal bleeding**\n• **Lethargy/restlessness**\n• **Liver enlargement >2 cm**\n• Lab: **rising HCT with rapid fall in platelets**",
+   "m": "A-V-F-M-L-L-HCT: Abdomen, Vomiting, Fluid, Mucosa, Lethargy, Liver, Labs.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "DEN",
+   "q": "What key points do you cover in the **history** of suspected dengue?",
+   "a": "• Onset, duration and pattern of fever\n• **Warning signs**; change in mental state\n• **Oral fluid intake and urine output**\n• **Exposure:** family/neighbours ill, hotspot area, travel; **jungle trekking/waterfall** (consider leptospirosis, typhus, malaria)\n• Comorbidities, pregnancy",
+   "r": "Slide p30"
+  },
+  {
+   "t": "DEN",
+   "q": "What should the **physical examination** in dengue focus on?",
+   "a": "• **Mental state and GCS**\n• **Hydration**\n• Vital signs and perfusion – **CCTVR**: colour, capillary refill, temperature of extremities, pulse volume, rate\n• **Tachypnoea/acidotic breathing/pleural effusion**\n• **Abdominal tenderness, hepatomegaly, ascites**\n• **Bleeding** manifestations",
+   "r": "Slide p30"
+  },
+  {
+   "t": "DEN",
+   "q": "What is the 'isles of white in a sea of red' rash in dengue?",
+   "a": "• **Convalescent (recovery-phase) rash** – confluent erythema/petechiae with small islands of normal skin\n• Often **itchy**; appears as patient improves\n• A sign of recovery, not of bleeding risk",
+   "m": "White islands in a red sea = recovering dengue.",
+   "r": "Slide p30"
+  },
+  {
+   "t": "DEN",
+   "q": "How is the **tourniquet test** done and interpreted?",
+   "a": "• Inflate BP cuff **midway between systolic and diastolic** for **5 minutes**\n• Count petechiae in a **2.5 cm × 2.5 cm** square on the forearm\n• **≥10 petechiae = positive** – capillary fragility, supports dengue\n• A negative test does not exclude dengue",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "DEN",
+   "q": "What is the **notification** requirement for dengue?",
+   "a": "• Notify a **suspected** dengue case **within 24 hours** to the nearest District Health Office\n• Register in **e-dengue**\n• Enables vector control (fogging, source reduction) around the patient’s home",
+   "r": "Slide p30"
+  },
+  {
+   "t": "DEN",
+   "q": "When are **NS1 antigen** and **dengue IgM** most useful?",
+   "a": "• **NS1 antigen:** early febrile phase, **day 1–5**\n• **IgM:** from about **day 5** onwards (slide: primary infection IgM day 6–10)\n• **Secondary infection:** **IgG** rises early and markedly (slide: >day 7), IgM may be low\n• Negative NS1 after day 5 does **not** exclude dengue",
+   "m": "NS1 = Number 1 test (first 5 days); IgM = later.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "DEN",
+   "q": "What does the **rapid combo test (RCT)** detect?",
+   "a": "• **NS1 antigen + IgM + IgG** on one strip\n• Covers both early (NS1) and later (antibody) phases – widely used in KKs\n• Positive result supports a **suspected** dengue case for notification",
+   "r": "Slide p31"
+  },
+  {
+   "t": "DEN",
+   "q": "What is the role of **RT-PCR** in dengue?",
+   "a": "• Useful in the **early febrile phase (≤5 days)**\n• **Identifies the serotype**\n• Very accurate but **expensive** and **not routinely used** in primary care",
+   "r": "Slide p31"
+  },
+  {
+   "t": "DEN",
+   "q": "What **FBC changes** are typical in dengue?",
+   "a": "• **Leucopenia** in the early febrile phase\n• **Thrombocytopenia** – falling platelets\n• **Rising haematocrit** → **plasma leakage** (haemoconcentration)\n• Always interpret HCT against the patient’s **baseline**",
+   "r": "Slide p31"
+  },
+  {
+   "t": "DEN",
+   "q": "Which **combined FBC trend** signals plasma leakage and need for admission?",
+   "a": "• **Rising HCT** at the same time as a **rapid drop in platelet count**\n• Indicates entry into the **critical phase** → admit\n• Platelet count alone does not predict leakage",
+   "m": "HCT up + platelets down = leaking.",
+   "r": "Slide p32"
+  },
+  {
+   "t": "DEN",
+   "q": "Besides FBC, which **monitoring tests** are done in hospitalised dengue?",
+   "a": "• **LFT** (transaminitis, liver involvement)\n• **Renal profile and electrolytes**\n• **Coagulation profile**\n• **ABG** (acidosis in shock)\n• Also blood glucose, serum lactate in severe cases",
+   "r": "Slide p31"
+  },
+  {
+   "t": "DEN",
+   "q": "Which dengue patients can be **managed as outpatients**?",
+   "a": "• **Tolerating oral intake**, adequate urine output\n• **Stable vital signs**, **no warning signs**\n• **Stable serial HCT**\n• **No bleeding**, no change in mental state\n• **No comorbidity, not pregnant**\n• Must have **daily follow-up from day 3** of illness",
+   "r": "Slide p32"
+  },
+  {
+   "t": "DEN",
+   "q": "Why must outpatient dengue patients be reviewed **daily from day 3**?",
+   "a": "• Critical phase (leakage) usually begins around **day 3–7**, near defervescence\n• Daily **clinical review + FBC/HCT** detects warning signs early\n• Continue until clearly through the critical phase",
+   "r": "Slide p32"
+  },
+  {
+   "t": "DEN",
+   "q": "What are the **hospital admission criteria** for dengue?",
+   "a": "• **Any warning sign**\n• **Unable to tolerate oral fluids** or **reduced urine output**\n• **Bleeding** or **organ impairment**\n• **Special groups:** elderly, **pregnant**, comorbidities (e.g. diabetes, heart/renal disease)\n• **Rising HCT with dropping platelets**",
+   "r": "Slide p32"
+  },
+  {
+   "t": "DEN",
+   "q": "Which drugs and procedures must be **avoided** in dengue?",
+   "a": "• **NSAIDs** (ibuprofen, diclofenac, mefenamic acid) and **aspirin** – platelet dysfunction, bleeding, gastritis\n• **Intramuscular injections** – haematoma\n• Steroids (no benefit)\n• Use **paracetamol** only (adult max 4 g/day)",
+   "m": "Dengue: Paracetamol, Pee, Plenty of fluids – no NSAIDs, no needles in muscle.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "DEN",
+   "q": "What does the **dengue home care card** advise?",
+   "a": "• **Adequate rest**; **plenty of oral fluids** (water, juices, ORS – not just plain water)\n• **Paracetamol** and tepid sponging for fever; no NSAIDs/aspirin\n• **Monitor urine output**\n• **Return immediately** if warning signs: abdominal pain, persistent vomiting, bleeding, drowsiness/restlessness, no urine for 4–6 h, cold clammy limbs\n• Attend daily review",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "DEN",
+   "q": "How does **inpatient monitoring** differ across the three dengue phases?",
+   "a": "• **Febrile:** watch for progression – **daily FBC**, clinical signs, hydration\n• **Critical:** monitor **every 2–4 h** (**every 15–30 min in shock**); **HCT before and after fluid boluses**; watch for leakage, shock, bleeding\n• **Recovery:** watch for **fluid overload**; **taper or stop IV fluids**",
+   "r": "Slide p33"
+  },
+  {
+   "t": "DEN",
+   "q": "What **maintenance fluid rate** do the slides give for adult dengue, and which weight is used in obesity?",
+   "a": "• **Non-obese:** **1.2–1.5 ml/kg/h**\n• **Obese (BMI >27.5 kg/m²):** calculate using **adjusted body weight (ABW)**, not actual weight\n• Prevents fluid overload in obese patients",
+   "r": "Slide p33"
+  },
+  {
+   "t": "DEN",
+   "q": "How are **ideal and adjusted body weight** calculated for dengue fluid therapy?",
+   "a": "• **IBW female = 45.5 kg + 0.91 × (height cm − 152)**\n• **IBW male = 50.0 kg + 0.91 × (height cm − 152)**\n• **ABW = IBW + 0.4 × (actual weight − IBW)**",
+   "m": "ABW = ideal plus 40% of the excess.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "DEN",
+   "q": "What are the signs of the **recovery phase** in dengue, and its main risk?",
+   "a": "• Return of **appetite** and well-being, **diuresis**\n• HCT **stabilises or falls**, platelets and WBC start rising\n• **Bradycardia** and convalescent itchy rash\n• Main risk: **fluid overload** (pulmonary oedema) if IV fluids are not reduced",
+   "r": "Slide p33"
+  },
+  {
+   "t": "TYPH",
+   "q": "What is the **notification** requirement for typhus in Malaysia?",
+   "a": "• Notify the District Health Office **within 7 days** from the date of diagnosis\n• Contrast: dengue, measles and HFMD are **24-hour** notifications",
+   "r": "Slide p36"
+  },
+  {
+   "t": "TYPH",
+   "q": "How is **typhus** spread, and what are the risk factors?",
+   "a": "• Rickettsial infections spread by **fleas, lice and chiggers (mite larvae)**\n• Risks: **poor sanitation**, **crowded living**, exposure to infected fleas/lice, travel to outbreak areas, outdoor/jungle exposure",
+   "r": "Slide p36"
+  },
+  {
+   "t": "TYPH",
+   "q": "What causes **scrub typhus**, how is it transmitted, and where?",
+   "a": "• **Orientia tsutsugamushi**\n• **Mite-borne** – bite of infected **chiggers** (larval trombiculid mites)\n• **Rural Southeast Asia**, Indian subcontinent, northern Australia ('tsutsugamushi triangle') – includes Malaysia",
+   "m": "Scrub = scrubland chiggers.",
+   "r": "Slide p37"
+  },
+  {
+   "t": "TYPH",
+   "q": "What causes **murine typhus**, and how is it spread?",
+   "a": "• **Rickettsia typhi**\n• **Flea-borne** – infected **rat and cat fleas** (flea faeces into bite wounds)\n• Tropical, subtropical and temperate regions worldwide; often **urban/port** areas",
+   "m": "Murine = mouse/rat fleas.",
+   "r": "Slide p37"
+  },
+  {
+   "t": "TYPH",
+   "q": "What causes **epidemic typhus**, and in what setting?",
+   "a": "• **Rickettsia prowazekii**\n• **Louse-borne** – infected **body lice**\n• Settings of **extreme overcrowding** – refugee camps, war, prisons, homelessness",
+   "r": "Slide p37"
+  },
+  {
+   "t": "TYPH",
+   "q": "What is an **eschar**, and why must you search for it?",
+   "a": "• A **painless black necrotic crust** with red rim at the **chigger bite site**\n• Strongly suggests **scrub typhus**\n• Often hidden: **groin, axilla, waistband, under breasts, scrotum** – examine the whole body\n• Usually with **regional lymphadenopathy**",
+   "m": "Look for a cigarette-burn-like scab where clothes are tight.",
+   "r": "Slide p38"
+  },
+  {
+   "t": "TYPH",
+   "q": "Describe the **clinical features of scrub typhus**.",
+   "a": "• Onset **within ~10 days** of the bite\n• **Fever and chills, headache, myalgia**\n• **Eschar** + **enlarged lymph nodes**\n• **Maculopapular rash on the trunk** spreading to extremities\n• Dry cough; severe cases: pneumonitis, meningoencephalitis",
+   "r": "Slide p38"
+  },
+  {
+   "t": "TYPH",
+   "q": "Which **exposure history** should make you think of scrub typhus in Malaysia?",
+   "a": "• **Oil palm/rubber plantation** and agricultural workers, farmers\n• **Jungle trekking, camping**, soldiers, Orang Asli communities\n• Clearing grass/scrub, **waterfall** outings\n• Fever + eschar in such a patient → treat empirically",
+   "r": "Slide p30"
+  },
+  {
+   "t": "TYPH",
+   "q": "What are the **laboratory criteria** for diagnosing scrub typhus (MOH case definition)?",
+   "a": "• **Indirect immunoperoxidase test:** **IgG titre ≥1:400** or **IgM titre ≥1:50**\n• Or **four-fold rise** in antibody titre in paired sera\n• Or isolation of the organism (historically 'Rickettsia tsutsugamushi') by inoculating patient blood into mice",
+   "m": "IgM 50, IgG 400.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "TYPH",
+   "q": "What is the **Weil-Felix test** and its limitation?",
+   "a": "• Cheap **heterophile agglutination** test using **Proteus antigens**\n• **OX-K** positive → scrub typhus; **OX-19** → murine/epidemic typhus\n• **Poor sensitivity and specificity** – supportive only; immunoperoxidase/IFA preferred",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPH",
+   "q": "What is the **first-line treatment** of typhus, with doses?",
+   "a": "• **Doxycycline**, usually for **7–10 days**\n• **Adults: 100 mg twice daily**\n• **Children <45 kg: 2.2 mg/kg twice daily**\n• Fever usually settles within **24–48 h** – lack of response questions the diagnosis",
+   "m": "Doxy for the bugs that bite: ticks, mites, fleas, lice.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "TYPH",
+   "q": "Can **doxycycline** be used in children under 8 for rickettsial infection?",
+   "a": "• **Yes** – it is the **drug of choice at any age** for suspected rickettsial disease\n• Short courses carry minimal risk of dental staining (unlike older tetracyclines)\n• Delay in treatment causes more harm than the drug",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPH",
+   "q": "What are the **alternatives to doxycycline** for scrub typhus?",
+   "a": "• **Azithromycin** – preferred in **pregnancy** and an option in young children\n• **Chloramphenicol** – older alternative\n• Rifampicin in areas with poor doxycycline response",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPH",
+   "q": "What is the **referral rule** for typhus, and which complications are feared?",
+   "a": "• Slides: **all typhus cases should be referred to hospital**\n• Complications: **pneumonitis/ARDS**, **myocarditis**, **meningoencephalitis**, acute kidney injury, multi-organ failure\n• Start doxycycline early – do not wait for serology",
+   "r": "Slide p39"
+  },
+  {
+   "t": "TYPD",
+   "q": "What causes **typhoid (enteric) fever**?",
+   "a": "• **Salmonella enterica serovar Typhi** (typhoid) or **Paratyphi** A/B/C (paratyphoid)\n• Multisystemic, potentially life-threatening\n• Paratyphoid is generally **milder**; diagnosis and treatment are similar\n• **Humans are the only reservoir**",
+   "r": "Slide p40"
+  },
+  {
+   "t": "TYPD",
+   "q": "How is typhoid transmitted, and who is the commonest source?",
+   "a": "• **Faecal–oral** – ingestion of **contaminated food or water**\n• **Food handlers** are the most common carriers\n• Common where hygiene, safe water and sanitation are poor",
+   "m": "Typhoid travels by the 4 Fs: food, fingers, faeces, flies.",
+   "r": "Slide p40"
+  },
+  {
+   "t": "TYPD",
+   "q": "What are the **notification** rules for typhoid/paratyphoid in Malaysia?",
+   "a": "• **Suspected, probable and confirmed** cases must be notified **within 7 days** of diagnosis\n• Only **laboratory-confirmed** cases are registered\n• Triggers source tracing (food premises, food handlers, water)",
+   "r": "Slide p40"
+  },
+  {
+   "t": "TYPD",
+   "q": "Describe the **clinical features** of typhoid fever.",
+   "a": "• **Prolonged fever** – classically **step-ladder** rise in week 1 – with malaise, headache\n• Anorexia, **weight loss**\n• Abdominal pain, **constipation** (more often than diarrhoea in adults), vomiting\n• Abdominal tenderness, **splenomegaly**, **relative bradycardia**\n• **Rose spots**; bloody stools in complicated cases",
+   "m": "Typhoid climbs the stairs: fever steps up day by day.",
+   "r": "Slide p41"
+  },
+  {
+   "t": "TYPD",
+   "q": "What are **rose spots**?",
+   "a": "• Faint **salmon-pink, blanching macules** 2–4 mm\n• On the **abdomen, chest and back**, in small crops\n• Usually in the **second week**; hard to see on darker skin\n• Contain bacteria – a classic but often absent sign",
+   "r": "Slide p41"
+  },
+  {
+   "t": "TYPD",
+   "q": "What is **relative bradycardia** and in which fevers is it seen?",
+   "a": "• Pulse **lower than expected** for the degree of fever (pulse–temperature dissociation, **Faget sign**)\n• Classic in **typhoid**\n• Also in typhus, legionella, leptospirosis, dengue, yellow fever, drug fever",
+   "m": "Hot patient, slow heart – think typhoid.",
+   "r": "Slide p41"
+  },
+  {
+   "t": "TYPD",
+   "q": "How are typhoid cases **classified**?",
+   "a": "• **Suspected:** fulfils clinical criteria\n• **Probable:** suspected + **positive serology** (or antigen test)\n• **Confirmed:** clinical criteria + **laboratory isolation**\n• **Relapse:** recurrence with positive culture **<3 months**\n• **Reinfection:** recurrence with positive culture **>3 months**",
+   "m": "Relapse is early (<3 m), reinfection is later (>3 m).",
+   "r": "Slide p42"
+  },
+  {
+   "t": "TYPD",
+   "q": "What **history** is essential in suspected typhoid?",
+   "a": "• Onset and symptoms; **treatment already taken** (antibiotics reduce culture yield)\n• **Travel** in the **7–21 days** before illness\n• **Food and drink history**, including food premises\n• Contact with typhoid/paratyphoid cases\n• **Vaccination status**; list of **close contacts**",
+   "r": "Slide p43"
+  },
+  {
+   "t": "TYPD",
+   "q": "Which **specific tests** diagnose typhoid, and when is each best?",
+   "a": "• **Blood culture** – best in the **first week** (before antibiotics)\n• **Stool culture** – more often positive from week 2–3; screens carriers\n• **Bone marrow culture** – **most sensitive**, stays positive despite antibiotics\n• **PCR** – detects S. Typhi in **asymptomatic carriers/food handlers**; more sensitive than stool culture\n• Plus FBC, RFT, LFT",
+   "m": "BASU: Blood (wk 1), Antibodies, Stool (wk 2–3), Urine – blood first.",
+   "r": "Slide p43"
+  },
+  {
+   "t": "TYPD",
+   "q": "Why is the **Widal test** unreliable for diagnosing typhoid?",
+   "a": "• Measures **agglutinating antibodies** (O and H) – rises late (week 2+)\n• **False positives**: past infection, vaccination, cross-reacting infections, high background titres in endemic areas\n• **False negatives**: early disease, prior antibiotics\n• A single titre is **not diagnostic** – culture is the standard",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPD",
+   "q": "Which patients with typhoid must be **referred immediately**?",
+   "a": "• **Moderate to severe illness**, or confirmed typhoid with **complications**\n• **Hypotension or shock**; **severe dehydration**\n• **Persistent vomiting**/unable to tolerate oral intake\n• **Pregnant women, infants, elderly, immunocompromised** with suspected typhoid\n• Slides: adults with typhoid are referred to hospital",
+   "r": "Slides p43-44"
+  },
+  {
+   "t": "TYPD",
+   "q": "Which **antibiotics** are used for typhoid in Malaysia?",
+   "a": "• **Severe/inpatient:** **IV ceftriaxone**\n• **Uncomplicated:** **oral azithromycin** (e.g. 7 days)\n• **Fluoroquinolone (ciprofloxacin) resistance is common** in Asian isolates – avoid empirically\n• Guided by culture sensitivity; complete the full course",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPD",
+   "q": "What are the classic **complications** of typhoid and when do they occur?",
+   "a": "• Usually in the **third week**\n• **Intestinal perforation** and **GI haemorrhage** (ulcerated **Peyer patches** of the terminal ileum)\n• Typhoid encephalopathy, hepatitis, myocarditis, cholecystitis\n• Relapse; chronic carriage",
+   "m": "Week 1 fever, week 2 spots, week 3 holes.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPD",
+   "q": "What is a **chronic typhoid carrier**, and how are food handlers managed?",
+   "a": "• Excretes S. Typhi **>1 year** after infection – usually from the **gallbladder** (gallstones increase risk)\n• Infected/carrier **food handlers must not handle food** until cleared\n• MOH: discharge after **3 consecutive negative stool cultures**; follow-up stool cultures at **1, 2, 3, 6 and 12 months**",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPD",
+   "q": "Compare the two **typhoid vaccines**.",
+   "a": "• **Oral live attenuated Ty21a:** liquid or enteric-coated capsules, **3 doses 2 days apart** (not in pregnancy/immunosuppression)\n• **Injectable Vi capsular polysaccharide (Vi CPS):** **single IM dose**\n• **Food handlers:** regular **booster every 3 years**",
+   "m": "Ty21a = Taken by mouth ×3; Vi = Very simple, one jab.",
+   "r": "Slide p45"
+  },
+  {
+   "t": "TYPD",
+   "q": "What **hygiene advice** prevents typhoid?",
+   "a": "• **Hand washing with soap** before eating/handling food and after the toilet (or sanitiser)\n• Drink only **boiled or bottled water**\n• Avoid **uncooked vegetables and raw food**\n• Cook seafood, fish and meat **thoroughly**\n• Avoid ready-to-eat food from **roadside vendors**",
+   "m": "Boil it, cook it, peel it – or forget it.",
+   "r": "Slide p45"
+  },
+  {
+   "t": "SCAR",
+   "q": "What causes **scarlet fever** and the rash?",
+   "a": "• **Group A Streptococcus (Streptococcus pyogenes)**, usually pharyngitis\n• Strains producing **pyrogenic (erythrogenic) exotoxin**\n• Toxin causes an inflammatory response and **dilatation of dermal vessels** → rash",
+   "r": "Slide p46"
+  },
+  {
+   "t": "SCAR",
+   "q": "Who gets scarlet fever, how does it spread, and what is the incubation period?",
+   "a": "• Most common in children **5–15 years**\n• Crowded settings – schools, nursing homes\n• Spread by **respiratory droplets, direct contact, fomites**\n• Incubation **~2–5 days**",
+   "r": "Slide p46"
+  },
+  {
+   "t": "SCAR",
+   "q": "Describe the **rash** of scarlet fever.",
+   "a": "• Diffuse fine red rash that **feels rough like sandpaper**\n• Starts on neck/chest, spreads to trunk and limbs\n• **Blanches**; most intense in skin folds\n• **Peels** as it fades",
+   "m": "Scarlet = sandpaper.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "SCAR",
+   "q": "What are **Pastia lines**?",
+   "a": "• **Brighter red linear** accentuation of the rash in **skin creases** – **axilla, elbow (antecubital fossa), groin**\n• Due to capillary fragility in folds\n• Do not blanch completely",
+   "r": "Slide p47"
+  },
+  {
+   "t": "SCAR",
+   "q": "What facial sign is typical of scarlet fever?",
+   "a": "• **Flushed cheeks** with **circumoral pallor** – a pale area around the mouth\n• Contrast: Kawasaki has **red, cracked lips**",
+   "m": "Red face, white moustache.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "SCAR",
+   "q": "How does the **tongue** change in scarlet fever?",
+   "a": "• **Early:** **white strawberry tongue** – white coating with red swollen papillae\n• **Later (day 4–5):** **red strawberry tongue** – coating peels off\n• Strawberry tongue also occurs in **Kawasaki disease** and TSS",
+   "r": "Slide p47"
+  },
+  {
+   "t": "SCAR",
+   "q": "What **throat and neck** findings accompany scarlet fever?",
+   "a": "• **Very red throat**, red **swollen tonsils** with **white patches/streaks of pus**\n• **Palatal petechiae**\n• Tender, swollen **anterior cervical lymph nodes**\n• Plus fever ≥38°C, sore throat, painful swallowing, headache, vomiting, abdominal pain",
+   "r": "Slide p47"
+  },
+  {
+   "t": "SCAR",
+   "q": "Which **investigations** support scarlet fever?",
+   "a": "• **Throat (or nasal) swab culture**\n• **Rapid streptococcal antigen test**\n• **ASO titre** – evidence of recent strep (useful for complications)\n• Blood/urine – high WBC; albuminuria, haematuria (nephritis), haemolytic anaemia",
+   "r": "Slide p48"
+  },
+  {
+   "t": "SCAR",
+   "q": "What is the **antibiotic treatment** of scarlet fever?",
+   "a": "• **Phenoxymethylpenicillin (penicillin V)** or **amoxicillin** for **10 days**\n• **Penicillin allergy:** **erythromycin** (or other macrolide)\n• Severe pharyngitis: may need IV fluids and IV antibiotics\n• Antihistamine for itch",
+   "m": "Strep throat: 10 days of penicillin – no shortcuts.",
+   "r": "Slide p48"
+  },
+  {
+   "t": "SCAR",
+   "q": "Why must the **full 10-day course** be completed in streptococcal pharyngitis/scarlet fever?",
+   "a": "• To **eradicate GAS from the pharynx**\n• This **prevents acute rheumatic fever** (if started within 9 days of onset)\n• Antibiotics do **not** reliably prevent **post-streptococcal glomerulonephritis**",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SCAR",
+   "q": "When can a child with scarlet fever return to **school**?",
+   "a": "• After **24 hours of antibiotics** **and** clinically improving\n• Reinforce **hand and environmental hygiene**",
+   "m": "24 hours on penicillin, then back to class.",
+   "r": "Slide p48"
+  },
+  {
+   "t": "SCAR",
+   "q": "List the **suppurative complications** of GAS infection/scarlet fever.",
+   "a": "• **Peritonsillar (quinsy)** or retropharyngeal abscess\n• **Otitis media**, **sinusitis**\n• **Necrotising fasciitis**\n• Streptococcal **bacteraemia**\n• **Meningitis**, brain abscess",
+   "r": "Slide p48"
+  },
+  {
+   "t": "SCAR",
+   "q": "List the **non-suppurative complications** of GAS infection and their timing.",
+   "a": "• **Acute rheumatic fever** – ~**2–4 weeks** after pharyngitis\n• **Post-streptococcal glomerulonephritis** – ~**1–3 weeks** after throat (3–6 weeks after skin) infection\n• **Post-streptococcal reactive arthritis**\n• **Streptococcal toxic shock syndrome**",
+   "m": "Kidney comes first (1–3 wk), heart a bit later (2–4 wk).",
+   "r": "Slide p48"
+  },
+  {
+   "t": "SCAR",
+   "q": "**Scarlet fever vs Kawasaki disease** – how do you tell them apart?",
+   "a": "• Both: fever, rash, strawberry tongue, later peeling\n• **Scarlet fever:** age 5–15, **exudative tonsillitis**, sandpaper rash, **circumoral pallor**, **no conjunctivitis**; settles within 24–48 h of penicillin\n• **Kawasaki:** usually <5 years, **bilateral non-purulent conjunctivitis**, **red cracked lips**, swollen hands/feet, fever ≥5 days **despite antibiotics**",
+   "m": "Pus on tonsils and better on penicillin = scarlet; red eyes and no response = Kawasaki.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSS",
+   "q": "What is **toxic shock syndrome (TSS)** and which organisms cause it?",
+   "a": "• A **severe, acute, toxin-mediated** illness\n• **Staphylococcus aureus** (most common – **TSST-1** and enterotoxins)\n• **Group A Streptococcus** (streptococcal TSS)",
+   "r": "Slide p49"
+  },
+  {
+   "t": "TSS",
+   "q": "Why does TSS cause **shock so rapidly** (pathophysiology)?",
+   "a": "• Toxins act as **superantigens**\n• Bind **MHC class II** and **T-cell receptors** non-specifically → activate up to 20% of T cells\n• **Massive cytokine release** → capillary leak, vasodilatation, **shock and multi-organ failure**",
+   "m": "Superantigen = switches on the whole immune army at once.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSS",
+   "q": "What are the key **risk factors** for TSS?",
+   "a": "• **Tampon use** (menstrual TSS)\n• **Nasal packing**\n• **Recent wound/surgical infection**, burns\n• Postpartum infection, skin infection after varicella (streptococcal TSS)",
+   "r": "Slide p49"
+  },
+  {
+   "t": "TSS",
+   "q": "Describe the **clinical presentation** of TSS.",
+   "a": "• **Sudden high fever**\n• **Vomiting and diarrhoea**\n• **Sunburn-like diffuse rash** (macular erythroderma)\n• **Hypotension/shock**, confusion\n• Later **desquamation**",
+   "m": "Tampon + sunburn + shock = TSS.",
+   "r": "Slide p49"
+  },
+  {
+   "t": "TSS",
+   "q": "When and where does **desquamation** occur in TSS?",
+   "a": "• Usually **1–2 weeks after onset**\n• Especially **palms and soles** (fingertips)\n• A late, retrospective clue to the diagnosis",
+   "r": "Slide p49"
+  },
+  {
+   "t": "TSS",
+   "q": "What are the **CDC clinical criteria** for staphylococcal TSS?",
+   "a": "• **Fever ≥38.9°C**\n• **Diffuse macular erythroderma**\n• **Desquamation 1–2 weeks** after onset\n• **Hypotension** (adult SBP ≤90 mmHg)\n• **≥3 organ systems:** GI, muscular (CK), mucous membranes, renal, hepatic, haematological (platelets <100), CNS",
+   "m": "Fever, Flush, Flaking, Falling BP, Failure of 3 organs.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSS",
+   "q": "What is the **primary-care management** of suspected TSS?",
+   "a": "• **Stabilise ABC** – oxygen, **IV fluids**\n• **Remove the source** – tampon, nasal or wound packing\n• **Empirical antibiotics:** **ceftriaxone + clindamycin**\n• **Urgent hospital transfer**",
+   "r": "Slide p50"
+  },
+  {
+   "t": "TSS",
+   "q": "Why is **clindamycin** added in toxic shock syndrome?",
+   "a": "• It **inhibits bacterial protein synthesis** → **switches off toxin production**\n• Effective even with high bacterial load in stationary phase (Eagle effect limits beta-lactams)\n• Always combined with a bactericidal agent",
+   "m": "Clindamycin cuts the toxin factory’s power.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSS",
+   "q": "How does **streptococcal TSS** differ from staphylococcal TSS?",
+   "a": "• Usually follows **soft-tissue infection** (e.g. necrotising fasciitis, infected varicella), with **severe pain**\n• **Blood cultures usually positive** (rare in staph TSS)\n• Rash less common; **mortality higher** (30–70%)\n• May need urgent surgical debridement",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSS",
+   "q": "How is TSS **prevented**?",
+   "a": "• Good **hygiene** and **wound care**\n• **Tampons:** lowest absorbency needed, **change every 4–8 h**, alternate with pads, avoid overnight use\n• Prior TSS → avoid tampons (recurrence risk)",
+   "r": "Slide p50"
+  },
+  {
+   "t": "MENC",
+   "q": "What organism causes **meningococcaemia** and how does it spread?",
+   "a": "• **Neisseria meningitidis** – **Gram-negative diplococcus**; serogroups A, B, C, W, Y\n• Colonises the **nasopharynx** of healthy carriers (teenagers, young adults)\n• Spread by **respiratory droplets/close contact** (kissing, shared dormitories, Hajj)",
+   "r": "Slide p51"
+  },
+  {
+   "t": "MENC",
+   "q": "Describe the classic **rash** of meningococcaemia.",
+   "a": "• **Non-blanching petechial or purpuric** rash, often on limbs/trunk\n• May **start as a blanching maculopapular** rash – do not be falsely reassured\n• Can progress rapidly to **purpura fulminans** (large necrotic areas)\n• Fever + non-blanching rash = **treat immediately**",
+   "m": "Spots that won’t fade = time to act.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MENC",
+   "q": "How is the **glass (tumbler) test** performed and interpreted?",
+   "a": "• Press the side of a **clear glass** firmly against the rash\n• Rash **fades** = blanching (erythema)\n• Rash **still visible through the glass** = **non-blanching** (petechiae/purpura)\n• Non-blanching rash + fever → suspect **meningococcal septicaemia**; harder to see on dark skin – check conjunctivae, palms, soles",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MENC",
+   "q": "What are the **early warning features** of meningococcal sepsis that appear before the classic rash?",
+   "a": "• **Leg pain** / refusing to walk\n• **Cold hands and feet**, prolonged capillary refill\n• **Abnormal skin colour** – pallor, mottling\n• Tachycardia, tachypnoea, drowsiness\n• Classic meningism (neck stiffness, photophobia) may be **absent** in septicaemia",
+   "m": "Cold, colour, cramps (leg pain) – before the spots.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MENC",
+   "q": "How is meningococcal disease **diagnosed**?",
+   "a": "• Primarily a **clinical diagnosis** – treat on suspicion\n• **Culture and sensitivity** – blood, CSF (Gram-negative diplococci)\n• **Antigen/DNA detection by PCR** (blood, CSF) – stays positive after antibiotics",
+   "r": "Slide p52"
+  },
+  {
+   "t": "MENC",
+   "q": "What **pre-hospital benzylpenicillin** dose is recommended for suspected meningococcaemia?",
+   "a": "• Treatment is **extremely urgent** – give **before reaching hospital**\n• **Adult: benzylpenicillin 2.4 g IV or IM**\n• **Child: 60 mg/kg IV/IM (max 2.4 g)**\n• IM into thigh/deltoid is acceptable if no IV access",
+   "m": "Don’t drive, inject first.",
+   "r": "Slide p52"
+  },
+  {
+   "t": "MENC",
+   "q": "What is the **ceftriaxone** alternative for suspected meningococcaemia?",
+   "a": "• **Ceftriaxone 2 g IV or IM** (adults)\n• **Child >1 month: 50 mg/kg (max 2 g)**\n• Preferred in **penicillin allergy** (non-anaphylactic) and covers other meningitis organisms",
+   "r": "Slide p52"
+  },
+  {
+   "t": "MENC",
+   "q": "Why must antibiotics **not be delayed** for investigations in suspected meningococcaemia?",
+   "a": "• Can progress from first symptoms to **death within hours**\n• **Early antibiotics** reduce mortality and limb loss\n• Take blood culture only if it causes **no delay**; **PCR** still detects the organism after antibiotics\n• **Never** do a lumbar puncture in primary care before transfer",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MENC",
+   "q": "Who needs **chemoprophylaxis** after a meningococcal case, and with what?",
+   "a": "• **Close contacts** in the 7 days before onset – household, dormitory, kissing contacts\n• **Rifampicin** 600 mg twice daily for 2 days (child 10 mg/kg; <1 month 5 mg/kg)\n• **Ciprofloxacin** 500 mg single oral dose\n• **Ceftriaxone** 250 mg IM single dose (child 125 mg) – preferred in **pregnancy**\n• Give ASAP (ideally within 24 h)",
+   "m": "R-C-C: Rifampicin, Cipro, Ceftriaxone.",
+   "r": "Slide p52"
+  },
+  {
+   "t": "MENC",
+   "q": "Which **meningococcal vaccines** exist and which is required for pilgrims?",
+   "a": "• **MenACWY** (quadrivalent conjugate) – **mandatory for Hajj/Umrah** pilgrims (Saudi requirement)\n• **MenB** – separate vaccine for serogroup B\n• The two are **not interchangeable** – target different serogroups",
+   "r": "Slide p52"
+  },
+  {
+   "t": "MENC",
+   "q": "List the **complications** of meningococcal septicaemia.",
+   "a": "• **Septic shock** and **DIC**\n• **Purpura fulminans** → skin necrosis, **limb/digit amputation**\n• **Waterhouse–Friderichsen syndrome** (adrenal haemorrhage)\n• Meningitis sequelae: **sensorineural hearing loss**, seizures, cognitive impairment\n• Mortality ~10% even with treatment",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MENC",
+   "q": "What must you **counsel** when giving **rifampicin** prophylaxis?",
+   "a": "• Turns **urine, tears and sweat orange-red**; stains **soft contact lenses**\n• **Reduces efficacy of hormonal contraceptives** – use barrier methods\n• Interacts with warfarin, anticonvulsants, antiretrovirals\n• Avoid in pregnancy and severe liver disease – use ceftriaxone",
+   "m": "Rifampicin: red fluids, failed pill.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SJS",
+   "q": "What is **Stevens-Johnson syndrome (SJS)**?",
+   "a": "• A **severe, rare hypersensitivity reaction** affecting **skin and mucous membranes**\n• **Full-thickness epidermal necrosis** → **epidermal detachment**\n• Usually **drug-induced**; a dermatological emergency",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "q": "How are **SJS, SJS/TEN overlap and TEN** distinguished?",
+   "a": "By **body surface area (BSA) of epidermal detachment**:\n• **SJS: <10%**\n• **SJS/TEN overlap: 10–30%**\n• **Toxic epidermal necrolysis (TEN): >30%**",
+   "m": "10 and 30 – the two cut-offs.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SJS",
+   "q": "Which **drugs** most commonly cause SJS/TEN?",
+   "a": "• **Anticonvulsants:** **carbamazepine**, phenytoin, **lamotrigine**, phenobarbitone\n• **Allopurinol**\n• **Sulphonamides** (e.g. cotrimoxazole); beta-lactams less often\n• **Nevirapine**\n• **Oxicam NSAIDs** (piroxicam, meloxicam)\n• Note: slide lists 'salicylates' – the classic NSAID culprits are oxicams",
+   "m": "CALMS: Carbamazepine, Allopurinol, Lamotrigine, Meloxicam/oxicams, Sulphonamides (+ nevirapine).",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "q": "Which **genetic test** is done before carbamazepine in Malaysia, and why?",
+   "a": "• **HLA-B*15:02** genotyping – strongly associated with **carbamazepine-induced SJS/TEN** in **Han Chinese, Malays, Thais** and other Southeast Asians (also phenytoin)\n• Positive → **avoid carbamazepine** (and related aromatic anticonvulsants)\n• **HLA-B*58:01** → **allopurinol** SJS risk",
+   "m": "1502 = carbamazepine; 5801 = allopurinol.",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "q": "Which **infections** can trigger SJS?",
+   "a": "• **Mycoplasma pneumoniae** – commonest infective trigger, especially in **children** (mucositis-predominant)\n• **Herpes simplex virus**",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "q": "What is the typical **latency** between starting a drug and SJS onset?",
+   "a": "• Usually **4–28 days** (up to ~8 weeks) after starting a new drug\n• Re-exposure can trigger a reaction within **hours to days**\n• Always ask about **drugs started in the last 2 months**",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SJS",
+   "q": "Describe the **prodrome** of SJS.",
+   "a": "• **1–3 days** of **fever, sore throat, cough, malaise**\n• Looks like a **flu-like illness** – may be wrongly treated with more drugs\n• Then skin and mucosal lesions appear",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "q": "Describe the **acute skin lesions** of SJS.",
+   "a": "• Appear ~3–4 days after prodrome\n• **Painful red or purplish (dusky) macules** → **atypical target lesions**, mainly trunk/face\n• **Blisters** form; skin **peels off easily**\n• **Pain out of proportion** to the rash\n• Contrast: erythema multiforme – typical raised targets, acral, often HSV",
+   "m": "Painful dusky skin + sore mouth after a new drug = SJS.",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "q": "What is the **Nikolsky sign**?",
+   "a": "• Gentle **lateral pressure** on apparently normal skin → **epidermis shears off**\n• **Positive** in **SJS/TEN**, staphylococcal scalded skin syndrome and pemphigus vulgaris\n• Negative in bullous pemphigoid (subepidermal, tense blisters)",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "q": "Which **mucosal sites** are involved in SJS?",
+   "a": "• **Oral:** painful ulcers, **haemorrhagic crusted lips**\n• **Ocular:** red eyes, conjunctivitis, pseudomembranes\n• **Genital:** sores/erosions\n• Usually **≥2 mucosal sites** – helps distinguish from simple drug rash",
+   "r": "Slides p54-55"
+  },
+  {
+   "t": "SJS",
+   "q": "Which **investigations** are relevant in SJS, and should they delay referral?",
+   "a": "• **Skin biopsy** – confirms **full-thickness epidermal necrosis**\n• **FBC, LFT, renal profile, electrolytes** – systemic effects\n• **Urgent ophthalmic assessment** if eyes involved\n• **Do NOT delay referral** for investigations",
+   "r": "Slide p55"
+  },
+  {
+   "t": "SJS",
+   "q": "Outline the **management** of SJS/TEN.",
+   "a": "• **Stop the suspected drug immediately** (single most important step)\n• **Supportive care:** IV fluids, **pain control**, nutrition (possibly NG feeding), wound and eye care\n• **Urgent referral** to **ICU or burns unit** – MDT (dermatology, ophthalmology, nutrition)\n• Specific therapy (slide: **IV immunoglobulin**; ciclosporin also used) – evidence limited",
+   "r": "Slide p55"
+  },
+  {
+   "t": "SJS",
+   "q": "How do you **prevent recurrence** after SJS?",
+   "a": "• Give a **drug-allergy alert card**; document in all records\n• Advise **lifelong avoidance** of the culprit and structurally related drugs\n• Report the **adverse drug reaction** to NPRA (MADRAC)\n• Consider HLA screening for relatives before high-risk drugs",
+   "r": "Slide p55"
+  },
+  {
+   "t": "SJS",
+   "q": "What are the **complications and prognosis** of SJS/TEN?",
+   "a": "• Acute: **sepsis** (commonest cause of death), fluid/electrolyte loss, hypothermia, respiratory involvement\n• Long-term: **ocular scarring**, dry eye, **blindness**; nail loss, strictures\n• Mortality ~**5–10% in SJS**, ~**30% or more in TEN**; severity scored with **SCORTEN**",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "KAW",
+   "q": "What is **Kawasaki disease (KD)**?",
+   "a": "• An **acute systemic vasculitis** of **medium-sized arteries**\n• Usually in children **<5 years**; more common in Asian children\n• Aetiology **unknown** – likely an **infectious trigger** in genetically susceptible children",
+   "r": "Slide p58"
+  },
+  {
+   "t": "KAW",
+   "q": "What is the **most important complication** of Kawasaki disease?",
+   "a": "• **Coronary artery aneurysm**\n• → **thrombosis, acute myocardial infarction**, sudden death\n• Leading cause of **acquired heart disease in children** in developed countries",
+   "r": "Slide p58"
+  },
+  {
+   "t": "KAW",
+   "q": "What are the **diagnostic criteria** for classic Kawasaki disease?",
+   "a": "• **Fever for ≥5 days** (slide writes '>5 days'; standard criterion is ≥5 days)\n• **PLUS ≥4 of the 5 CRASH** principal features\n• Exclude look-alikes (measles, scarlet fever, TSS, drug reaction)",
+   "m": "5 days of fever + 4 of 5 features.",
+   "r": "Slide p58"
+  },
+  {
+   "t": "KAW",
+   "q": "Expand the **CRASH and BURN** mnemonic.",
+   "a": "• **C**onjunctivitis – **bilateral, non-purulent** (limbal sparing)\n• **R**ash – **polymorphous**\n• **A**denopathy – **unilateral cervical >1.5 cm**\n• **S**trawberry tongue / oral mucosal changes (red cracked lips)\n• **H**ands and feet – swelling, erythema, later desquamation\n• **BURN** = fever (≥5 days)",
+   "r": "Slide p58"
+  },
+  {
+   "t": "KAW",
+   "q": "When can Kawasaki disease be diagnosed with **fewer than 4 criteria**?",
+   "a": "• When **coronary artery abnormality** is shown on **echocardiography** in a child with prolonged fever\n• Also the basis of **incomplete KD** diagnosis with supportive labs",
+   "r": "Slide p58"
+  },
+  {
+   "t": "KAW",
+   "q": "Describe the **three phases** of Kawasaki disease.",
+   "a": "• **Acute (1–2 weeks):** fever, mucocutaneous signs\n• **Subacute (2–4 weeks):** defervescence, **periungual desquamation**, **thrombocytosis**, **coronary aneurysm** formation\n• **Convalescent (4–8 weeks):** signs resolve, inflammatory markers normalise",
+   "m": "Aneurysms and high platelets arrive as the fever leaves.",
+   "r": "Slide p59"
+  },
+  {
+   "t": "KAW",
+   "q": "What is **incomplete Kawasaki disease**, and who is at risk?",
+   "a": "• Features suggestive of KD but **fewer than 4 principal criteria**\n• Frequent in **infants <12 months**\n• Delayed diagnosis → late treatment → **more coronary complications**\n• Consider in any infant with **unexplained prolonged fever + raised inflammatory markers**; low threshold for echo",
+   "m": "The younger the baby, the fewer the signs, the bigger the risk.",
+   "r": "Slide p60"
+  },
+  {
+   "t": "KAW",
+   "q": "What **atypical presentations** of Kawasaki disease are described?",
+   "a": "• **Acute abdomen**\n• **Acute pancreatitis**\n• **Cholestatic jaundice** (gallbladder hydrops)\n• **Acute kidney injury**\n• **Pneumonia**",
+   "r": "Slide p60"
+  },
+  {
+   "t": "KAW",
+   "q": "When is **echocardiography** done in Kawasaki disease?",
+   "a": "• Transthoracic echo in **all suspected KD**\n• **At diagnosis**\n• At **2–3 weeks** after onset\n• At **6–8 weeks** after onset",
+   "m": "Echo at 0, 2–3 and 6–8 weeks.",
+   "r": "Slide p61"
+  },
+  {
+   "t": "KAW",
+   "q": "Give the **IVIG** regimen for Kawasaki disease.",
+   "a": "• **IVIG 2 g/kg single infusion over 10–12 hours**\n• Start **as early as possible**, preferably **within 10 days** of onset\n• Still give **after day 10** if persistent fever, coronary abnormality or ongoing inflammation (raised ESR/CRP)\n• Divided lower doses may be used in sick infants who cannot tolerate volume",
+   "m": "2 g/kg within 10 days.",
+   "r": "Slide p62"
+  },
+  {
+   "t": "KAW",
+   "q": "What is the **high-dose (anti-inflammatory) aspirin** regimen in Kawasaki disease?",
+   "a": "• **30–50 mg/kg/day** in divided doses (Malaysian Paediatric Protocol)\n• **Started together with IVIG**\n• Continued until afebrile",
+   "r": "Slide p62"
+  },
+  {
+   "t": "KAW",
+   "q": "What is the **low-dose (antiplatelet) aspirin** regimen in Kawasaki disease?",
+   "a": "• **3–5 mg/kg/day**\n• Started **48–72 hours after defervescence**\n• Continue **6–8 weeks** or until **ESR and platelet count normalise** (whichever is later) if no coronary abnormality\n• **Coronary involvement:** continue until lesions resolve or **indefinitely**",
+   "r": "Slide p62"
+  },
+  {
+   "t": "KAW",
+   "q": "Why is aspirin used in Kawasaki disease despite the **Reye syndrome** rule, and what precautions follow?",
+   "a": "• KD is the **key exception** – benefit (anti-inflammatory, antiplatelet) outweighs risk\n• Reye risk rises with **influenza or varicella** while on aspirin\n• Give **inactivated influenza vaccine**; review urgently if exposed to flu/chickenpox (may switch antiplatelet temporarily)\n• Avoid **ibuprofen** – blocks aspirin’s antiplatelet effect",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "KAW",
+   "q": "How does **IVIG affect vaccination** after Kawasaki disease?",
+   "a": "• IVIG antibodies **impair the response to live-attenuated viral vaccines** (MMR, varicella)\n• **Delay live vaccines for at least 11 months** after IVIG\n• Inactivated vaccines can be given on schedule",
+   "m": "IVIG = 11 months before MMR.",
+   "r": "Slide p62"
+  },
+  {
+   "t": "KAW",
+   "q": "How is a **giant coronary artery aneurysm** managed in KD?",
+   "a": "• High risk of **acute coronary thrombosis**\n• Add anticoagulation/extra antiplatelet to aspirin: **oral clopidogrel**, **oral warfarin**, **subcutaneous enoxaparin** or **IV heparin infusion**\n• Long-term cardiology follow-up",
+   "r": "Slide p62"
+  },
+  {
+   "t": "KAW",
+   "q": "When should a GP **suspect Kawasaki disease** and what is the next step?",
+   "a": "• Any young child with **fever ≥5 days** plus red eyes, red lips/tongue, rash, swollen hands/feet or neck node – especially if **not settling on antibiotics**\n• Supportive labs: raised **CRP/ESR**, neutrophilia, **low albumin**, raised ALT, **sterile pyuria**, **thrombocytosis** after day 7\n• → **Same-day paediatric referral** for echo and IVIG – do not start aspirin at the clinic",
+   "r": "Lecturer pearl"
+  }
+ ],
+ "mcq": [
+  {
+   "t": "DESC",
+   "stem": "A 78-year-old woman is brought to the Klinik Kesihatan with 2 weeks of itchy skin. On her thighs and lower abdomen there are several tense, fluid-filled blisters measuring 15–20 mm on a red base. Mucous membranes are spared and the Nikolsky sign is negative. She is afebrile.\nWhich term most accurately describes the primary lesions?",
+   "o": [
+    "Vesicles",
+    "Pustules",
+    "Bullae",
+    "Wheals",
+    "Plaques"
+   ],
+   "a": 2,
+   "e": "Fluid-filled raised lesions are vesicles if <5 mm and bullae if >5 mm, so blisters of 15–20 mm are bullae. Tense bullae in an elderly patient with intact mucosa and a negative Nikolsky sign suggest bullous pemphigoid. The trap is calling every blister a vesicle – size is the discriminator.",
+   "w": [
+    "Wrong - vesicles are fluid-filled blisters <5 mm, as in chickenpox or herpes simplex.",
+    "Wrong - pustules contain pus, not clear fluid, e.g. acne or folliculitis.",
+    "Correct - fluid-filled blisters larger than 5 mm are bullae; the classic example is bullous pemphigoid.",
+    "Wrong - wheals are transient oedematous swellings of urticaria with no fluid cavity.",
+    "Wrong - plaques are solid, palpable, plateau-like lesions (psoriasis, tinea), not fluid-filled."
+   ],
+   "r": "Slide p4"
+  },
+  {
+   "t": "DESC",
+   "stem": "A 6-year-old boy has had fever for 12 hours. His mother noticed small dark red spots on his shins. You press the side of a clear drinking glass firmly over the spots and they remain clearly visible through the glass.\nWhat does this finding indicate about the spots?",
+   "o": [
+    "Blood has leaked out of vessels into the skin",
+    "Dermal capillaries are dilated with increased flow",
+    "Fluid has collected in the dermis as oedema",
+    "Dead stratum corneum has heaped up on the surface",
+    "Dried serous exudate has formed on the surface"
+   ],
+   "a": 0,
+   "e": "Erythema is due to capillary dilatation and blanches because pressure empties the vessels; purpura and petechiae are haemorrhage outside the vessels, so pressure cannot push the colour away. A non-blanching rash with fever must be treated as meningococcal septicaemia until proven otherwise.",
+   "w": [
+    "Correct - non-blanching spots are extravasated blood (petechiae/purpura); with fever this is a red flag for meningococcaemia.",
+    "Wrong - capillary dilatation produces erythema, which blanches under the glass.",
+    "Wrong - dermal oedema produces wheals (urticaria), which also blanch.",
+    "Wrong - heaped-up stratum corneum is scale, a surface change, not a colour that persists under pressure.",
+    "Wrong - dried exudate is crust, e.g. on healing chickenpox lesions."
+   ],
+   "r": "Slide p8"
+  },
+  {
+   "t": "DESC",
+   "stem": "A 55-year-old man with long-standing psoriasis stopped his treatment 1 month ago. He now has bright red, mildly scaly skin over almost his entire body surface, with only small patches of normal skin left. He feels cold and is shivering; temperature 35.6°C, pulse 104/min.\nWhich descriptive term best fits this presentation?",
+   "o": [
+    "Generalised urticaria",
+    "Palpable purpura",
+    "Scaling",
+    "Lichenification",
+    "Erythroderma"
+   ],
+   "a": 4,
+   "e": "Erythroderma is widespread reddening of more than 90% of the skin, usually due to an underlying inflammatory dermatosis such as psoriasis or eczema. Loss of skin barrier function causes heat and fluid loss, hypothermia and high-output strain, so it needs hospital referral. Scale may be present but does not describe the whole picture.",
+   "w": [
+    "Wrong - urticaria is transient itchy wheals from dermal oedema, not fixed redness of the whole skin.",
+    "Wrong - purpura is non-blanching haemorrhage into the skin; this redness is inflammatory erythema.",
+    "Wrong - scaling is a surface change present here, but the defining feature is redness of >90% of the skin.",
+    "Wrong - lichenification is localised skin thickening from chronic rubbing, as in chronic eczema.",
+    "Correct - widespread reddening of >90% of the skin from inflammatory skin disease is erythroderma; urgent referral is needed."
+   ],
+   "r": "Slide p8"
+  },
+  {
+   "t": "DESC",
+   "stem": "A 30-year-old oil palm plantation worker presents with a 3-week history of an itchy lesion on his flank. It is a 4 cm ring with a raised, red, scaly advancing edge and a clear centre. Two smaller similar lesions are appearing nearby.\nWhich configuration and most likely cause fit best?",
+   "o": [
+    "Nummular – discoid eczema",
+    "Annular – tinea corporis",
+    "Linear – scratch excoriation",
+    "Gyrate – erythema annulare",
+    "Nummular – plaque psoriasis"
+   ],
+   "a": 1,
+   "e": "Annular lesions are rings with central clearing and an active edge; in a hot, humid occupation with itch and a scaly advancing border, tinea corporis is most likely. Nummular lesions are coin-shaped and uniformly involved without central clearing. Skin scrapings for KOH microscopy confirm the diagnosis.",
+   "w": [
+    "Wrong - nummular means coin-shaped and uniformly involved, without central clearing.",
+    "Correct - a ring with central clearing and a scaly active edge is annular; tinea corporis is the classic cause.",
+    "Wrong - linear lesions follow straight lines, typically excoriations from scratching.",
+    "Wrong - gyrate lesions are wavy, curvilinear arcs; erythema annulare centrifugum is much less likely in this setting.",
+    "Wrong - psoriatic plaques are uniformly scaly discs without a clear centre."
+   ],
+   "r": "Slide p7"
+  },
+  {
+   "t": "VZV",
+   "stem": "A 28-year-old man who smokes 20 cigarettes a day attends the Klinik Kesihatan. Itchy vesicles appeared on his chest and back 18 hours ago and new crops are still appearing. He has fever 38.5°C, no cough or breathlessness, respiratory rate 16/min and SpO2 98% on air.\nWhat is the most appropriate management?",
+   "o": [
+    "Calamine and antihistamine only, no antiviral",
+    "Oral ibuprofen for fever and review in 3 days",
+    "Refer for IV aciclovir for varicella pneumonia",
+    "Oral aciclovir 800 mg five times daily for 7 days",
+    "Oral co-amoxiclav to prevent secondary infection"
+   ],
+   "a": 3,
+   "e": "Adults (and adolescents) have more severe varicella, and smokers have a higher risk of pneumonia, so oral aciclovir is indicated when started within 24 hours of rash onset (slide: within 24–48 hours of new vesicles). He has no features of pneumonia, so IV therapy is not needed yet. Symptomatic-only care is for healthy children or adults presenting >48 hours with no new lesions.",
+   "w": [
+    "Wrong - symptomatic care alone suits healthy children; an adult smoker within 24 hours of rash benefits from an antiviral.",
+    "Wrong - NSAIDs are best avoided in varicella (invasive group A streptococcal infection) and the plan omits the antiviral.",
+    "Wrong - he has no cough, tachypnoea or hypoxia, so there is no evidence of pneumonia needing IV therapy.",
+    "Correct - an adult within 24 hours of rash onset, with smoking as an added risk factor, should receive oral aciclovir.",
+    "Wrong - prophylactic antibiotics are not indicated; treat secondary infection only if it develops."
+   ],
+   "r": "Slide p14"
+  },
+  {
+   "t": "VZV",
+   "stem": "A 6-year-old girl has had chickenpox for 4 days. She is afebrile and eating well, but a few new vesicles appeared this morning on her back; older lesions are crusting. Her mother asks when she can return to school.\nWhat is the correct advice?",
+   "o": [
+    "Once fever has settled for 24 hours",
+    "Once every lesion has crusted over",
+    "Seven days after the first exposure",
+    "Once the itch no longer needs treatment",
+    "Twenty-one days after the rash onset"
+   ],
+   "a": 1,
+   "e": "Varicella is infectious from about 1–2 days before the rash until all lesions have crusted, because vesicle fluid contains live virus. New vesicles mean she is still infectious even though she is afebrile. Exclusion is usually about 5–7 days from rash onset; 21 days is the upper incubation period, not the infectious period.",
+   "w": [
+    "Wrong - being afebrile does not end infectivity; fresh vesicles still shed virus.",
+    "Correct - the child remains infectious until every lesion has crusted, so she stays home until then.",
+    "Wrong - timing from exposure is irrelevant once she has the rash; infectivity depends on crusting.",
+    "Wrong - itch can continue after crusting and is not a marker of infectivity.",
+    "Wrong - 21 days is the upper limit of the incubation period, used for watching exposed contacts."
+   ],
+   "r": "Slides p11, p16"
+  },
+  {
+   "t": "VZV",
+   "stem": "A 24-year-old woman at 16 weeks of gestation attends the Klinik Kesihatan. Her 5-year-old son developed chickenpox 2 days ago. She does not remember having chickenpox and has never been vaccinated. She is well with no rash.\nWhat is the best next step?",
+   "o": [
+    "Give live varicella vaccine within 3–5 days",
+    "Reassure, as second-trimester infection is harmless",
+    "Counsel her that termination is advisable",
+    "Isolate her son and review only if a rash appears",
+    "Urgent VZV IgG; give VZIG if she is non-immune"
+   ],
+   "a": 4,
+   "e": "A pregnant woman with uncertain immunity after significant exposure should have urgent VZV IgG testing, and if non-immune she receives varicella-zoster immune globulin to attenuate infection. Varicella in pregnancy risks severe maternal pneumonia and, before 20 weeks, congenital varicella syndrome. The varicella vaccine is live and contraindicated in pregnancy.",
+   "w": [
+    "Wrong - the varicella vaccine is live and contraindicated in pregnancy.",
+    "Wrong - maternal pneumonia is a real risk and fetal varicella syndrome can occur before 20 weeks.",
+    "Wrong - the absolute fetal risk is low (about 1–2%) and exposure alone is not an indication for termination.",
+    "Wrong - waiting for a rash misses the window for post-exposure prophylaxis.",
+    "Correct - confirm immunity urgently and give VZIG to a non-immune pregnant contact."
+   ],
+   "r": "Slides p15-16"
+  },
+  {
+   "t": "VZV",
+   "stem": "A 4-year-old boy with day 2 of chickenpox has a temperature of 38.8°C and is irritable. His mother has ibuprofen syrup, aspirin tablets and paracetamol syrup at home and asks which to use.\nWhat is the most appropriate advice?",
+   "o": [
+    "Paracetamol, avoiding both ibuprofen and aspirin",
+    "Aspirin, because it also helps to reduce the itch",
+    "Ibuprofen, alternating with aspirin every 4 hours",
+    "Ibuprofen alone, as it is the most effective option",
+    "Mefenamic acid, because it is gentle on the stomach"
+   ],
+   "a": 0,
+   "e": "Aspirin in children with viral illnesses such as varicella or influenza can trigger Reye syndrome (encephalopathy with fatty liver failure). NSAIDs including ibuprofen are associated with severe invasive group A streptococcal skin and soft-tissue infection in varicella. Paracetamol is the antipyretic of choice.",
+   "w": [
+    "Correct - paracetamol is safe; aspirin risks Reye syndrome and NSAIDs are linked to invasive streptococcal infection.",
+    "Wrong - aspirin in a child with varicella can trigger Reye syndrome and has no antipruritic role.",
+    "Wrong - this combines both drugs that should be avoided.",
+    "Wrong - ibuprofen is linked with severe invasive group A streptococcal infection in varicella.",
+    "Wrong - mefenamic acid is also an NSAID and offers no advantage."
+   ],
+   "r": "Slide p14"
+  },
+  {
+   "t": "VZV",
+   "stem": "A 5-year-old girl had chickenpox 9 days ago and her lesions have crusted. Today she walks with a wide-based, unsteady gait and falls easily. She is alert, smiling and afebrile, with no headache, vomiting or neck stiffness. Examination shows nystagmus and intention tremor; power and reflexes are normal.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Varicella encephalitis",
+    "Reye syndrome",
+    "Acute cerebellar ataxia",
+    "Guillain-Barré syndrome",
+    "Bacterial meningitis"
+   ],
+   "a": 2,
+   "e": "Acute cerebellar ataxia is the commonest neurological complication of varicella in children, typically about a week after the rash, with ataxia and nystagmus in an alert child; it is usually self-limiting. Encephalitis causes reduced consciousness, seizures or fever. Guillain-Barré causes weakness with lost reflexes rather than cerebellar signs.",
+   "w": [
+    "Wrong - encephalitis causes drowsiness, confusion or seizures; this child is alert.",
+    "Wrong - Reye syndrome causes vomiting and encephalopathy with liver failure, usually after aspirin.",
+    "Correct - isolated cerebellar signs in an alert child about a week after chickenpox is acute cerebellar ataxia.",
+    "Wrong - Guillain-Barré causes ascending weakness with areflexia, not nystagmus and intention tremor.",
+    "Wrong - she has no fever, headache or meningism."
+   ],
+   "r": "Slide p15"
+  },
+  {
+   "t": "VZV",
+   "stem": "A 32-year-old man who smokes is on day 3 of chickenpox. Since last night he has a dry cough and breathlessness. Temperature 38.9°C, respiratory rate 28/min, SpO2 91% on air, scattered crackles in both lungs.\nWhat is the most appropriate next step?",
+   "o": [
+    "Oral aciclovir and review in 24 hours",
+    "Oral amoxicillin and outpatient chest X-ray",
+    "Nebulised salbutamol and a course of prednisolone",
+    "Oxygen and urgent referral for IV aciclovir",
+    "Paracetamol, calamine and daily review"
+   ],
+   "a": 3,
+   "e": "Varicella pneumonia is the most important serious complication in adults, especially smokers, pregnant women and the immunocompromised, and usually appears 1–6 days after the rash. Tachypnoea and hypoxia mean he needs oxygen and urgent hospital transfer for IV aciclovir. Oral therapy and outpatient review are unsafe once pneumonia is present.",
+   "w": [
+    "Wrong - oral aciclovir is not adequate once hypoxic pneumonia has developed.",
+    "Wrong - this is viral pneumonitis needing IV antiviral; outpatient care is unsafe with SpO2 91%.",
+    "Wrong - steroids are not first-line and may worsen viral infection; this is not asthma.",
+    "Correct - hypoxic varicella pneumonia needs oxygen and urgent transfer for IV aciclovir.",
+    "Wrong - symptomatic care ignores a life-threatening complication."
+   ],
+   "r": "Slide p15"
+  },
+  {
+   "t": "VZV",
+   "stem": "A 7-year-old boy who received two doses of varicella vaccine develops about 30 itchy lesions on his trunk, mostly red papules with only a few small vesicles. Temperature 37.6°C. His younger sister is 4 months old.\nWhat is the most appropriate advice to his parents?",
+   "o": [
+    "He is still contagious and should stay off school",
+    "He cannot be infectious as he is fully vaccinated",
+    "Vaccine failure means he needs a third dose soon",
+    "Such mild lesions must be due to insect bites",
+    "He needs oral aciclovir as vaccinated cases relapse"
+   ],
+   "a": 0,
+   "e": "Breakthrough varicella is wild-type infection more than 42 days after vaccination; it is milder (afebrile or low-grade fever, usually <50 mainly maculopapular lesions) but still contagious. He should be kept from school and away from the young infant until no new lesions appear and existing ones have crusted or faded. Antivirals are not routinely needed for a healthy child.",
+   "w": [
+    "Correct - breakthrough varicella is mild but contagious, so he needs exclusion and should avoid his infant sister.",
+    "Wrong - vaccinated children with breakthrough disease can transmit the virus.",
+    "Wrong - a further dose is not part of management of an active breakthrough infection.",
+    "Wrong - mild, few-lesion disease with low-grade fever after vaccination is typical of breakthrough varicella.",
+    "Wrong - healthy children do not need antivirals, and relapse is not a feature."
+   ],
+   "r": "Slide p13"
+  },
+  {
+   "t": "VZV",
+   "stem": "A 20-year-old female nursing student had prolonged face-to-face contact with a patient with chickenpox 2 days ago. Her VZV IgG is negative. She is healthy, not pregnant and takes no medication.\nWhat is the most appropriate post-exposure measure?",
+   "o": [
+    "Varicella-zoster immune globulin within 10 days",
+    "Reassurance only, as adults rarely become ill",
+    "Oral aciclovir for 7 days, starting immediately",
+    "Varicella vaccine within 3–5 days of exposure",
+    "Normal human immunoglobulin within 6 days"
+   ],
+   "a": 3,
+   "e": "For healthy, non-immune, non-pregnant contacts, varicella vaccine within 3–5 days of exposure can prevent or modify disease and gives future immunity. VZIG is reserved for high-risk contacts in whom live vaccine is contraindicated: immunocompromised people, non-immune pregnant women and newborns. Adults get more severe varicella, so reassurance alone is wrong.",
+   "w": [
+    "Wrong - VZIG is for high-risk contacts (immunocompromised, pregnant, neonates), not healthy adults.",
+    "Wrong - adults have more severe disease and higher pneumonia risk than children.",
+    "Wrong - immediate antiviral prophylaxis is not the standard measure for a healthy contact.",
+    "Correct - healthy non-immune contacts should be vaccinated within 3–5 days of exposure.",
+    "Wrong - normal human immunoglobulin is used for measles exposure, not varicella."
+   ],
+   "r": "Slide p16"
+  },
+  {
+   "t": "VZV",
+   "stem": "A woman develops a typical chickenpox rash 2 days before an uncomplicated term vaginal delivery. Her baby boy is well at birth, feeding and afebrile. The mother asks what will be done for the baby.\nWhat is the most appropriate management for the newborn?",
+   "o": [
+    "Give varicella vaccine at birth",
+    "Reassure, as maternal antibodies protect the baby",
+    "Give VZIG to the newborn and observe closely",
+    "Delay breastfeeding until the mother's lesions crust",
+    "Discharge home and review only if fever develops"
+   ],
+   "a": 2,
+   "e": "When maternal rash appears from 5 days before to 2 days after delivery, the baby is exposed to virus before protective maternal IgG has crossed the placenta, so severe neonatal varicella can occur. The newborn should receive VZIG promptly and be watched closely, with IV aciclovir if lesions develop. Breastfeeding can usually continue.",
+   "w": [
+    "Wrong - the live vaccine is not used in newborns and would not act quickly enough.",
+    "Wrong - maternal IgG takes about 5–7 days to form and cross the placenta, so this baby is unprotected.",
+    "Correct - babies of mothers with rash from 5 days before to 2 days after delivery need VZIG and close observation.",
+    "Wrong - breastfeeding is not contraindicated and stopping it does not prevent infection.",
+    "Wrong - neonatal varicella can be severe and progress quickly; prophylaxis should not be withheld."
+   ],
+   "r": "Slides p15-16"
+  },
+  {
+   "t": "MEAS",
+   "stem": "A 2-year-old unvaccinated girl has had fever, cough, runny nose and red watery eyes for 4 days. Today a blotchy red maculopapular rash started on her face and behind her ears and is spreading to the trunk. She looks miserable. Tiny white specks are seen on a red buccal mucosa opposite the molars.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Roseola infantum",
+    "Scarlet fever",
+    "Kawasaki disease",
+    "Rubella",
+    "Measles"
+   ],
+   "a": 4,
+   "e": "Fever with the 3 Cs (cough, coryza, conjunctivitis) for a few days, followed by a rash starting on the face and behind the ears and spreading downwards, is classic measles. Koplik spots (white grains on the buccal mucosa) are pathognomonic. Rubella is milder, with postauricular nodes and no Koplik spots.",
+   "w": [
+    "Wrong - in roseola the rash appears as the fever settles, starts on the trunk and the child is well.",
+    "Wrong - scarlet fever has a sandpaper rash with sore throat and strawberry tongue, not the 3 Cs.",
+    "Wrong - Kawasaki conjunctivitis is non-exudative and dry, with no coryza, cough or Koplik spots.",
+    "Wrong - rubella is a mild illness with postauricular lymphadenopathy and no Koplik spots.",
+    "Correct - the 3 Cs, Koplik spots and a cephalocaudal rash are diagnostic of measles."
+   ],
+   "r": "Slides p17-18"
+  },
+  {
+   "t": "MEAS",
+   "stem": "A Klinik Kesihatan doctor sees a 3-year-old with fever, maculopapular rash, cough and conjunctivitis. Throat swab and serum have been taken; results will take several days.\nWhich public health action is correct?",
+   "o": [
+    "Notify within 7 days once serology is positive",
+    "Notify within 24 hours, before any results",
+    "Notify only if a second linked case appears",
+    "Notify within 24 hours of a positive RT-PCR",
+    "Notify within 1 week after the rash has faded"
+   ],
+   "a": 1,
+   "e": "The child meets the clinical case definition of measles (fever, maculopapular rash and cough/coryza/conjunctivitis), so notification to the District Health Office is required within 24 hours of clinical diagnosis. Waiting for laboratory results delays contact tracing and outbreak vaccination under the measles elimination programme.",
+   "w": [
+    "Wrong - measles is a 24-hour notification and does not wait for serology.",
+    "Correct - a clinically suspected measles case is notified within 24 hours without waiting for results.",
+    "Wrong - a single suspected case must be notified.",
+    "Wrong - notification is based on clinical suspicion, not laboratory confirmation.",
+    "Wrong - the 7-day window applies to diseases such as typhoid and typhus, not measles."
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "MEAS",
+   "stem": "A 14-month-old boy weighing 10 kg is diagnosed with measles on day 5 of illness. He is drinking adequately, has no respiratory distress and no eye signs.\nWhich vitamin A regimen is recommended?",
+   "o": [
+    "50 000 IU as a single dose",
+    "100 000 IU as a single dose",
+    "100 000 IU on two consecutive days",
+    "200 000 IU as a single dose",
+    "200 000 IU on two consecutive days"
+   ],
+   "a": 4,
+   "e": "WHO recommends vitamin A for all children with measles as two doses 24 hours apart: 50 000 IU under 6 months, 100 000 IU at 6–11 months and 200 000 IU from 12 months. It reduces severe complications and death, especially in malnourished children. A third dose is given 2–4 weeks later if there are eye signs of deficiency.",
+   "w": [
+    "Wrong - 50 000 IU is the dose for infants under 6 months, and two doses are needed.",
+    "Wrong - 100 000 IU is the dose for 6–11 months, and it is given twice.",
+    "Wrong - this is the correct regimen for 6–11 months, but he is 14 months old.",
+    "Wrong - the dose is right for his age but a second dose 24 hours later is required.",
+    "Correct - children aged 12 months or more receive 200 000 IU on two consecutive days."
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "MEAS",
+   "stem": "A 9-year-old boy presents on day 2 of a maculopapular rash that began behind the ears, after 3 days of fever, cough and conjunctivitis. You want laboratory confirmation for the health office.\nWhich specimen is preferred?",
+   "o": [
+    "Serum measles IgG on the first day of rash",
+    "Nasopharyngeal or throat swab for RT-PCR",
+    "Blood culture taken before any antibiotic",
+    "Paired sera taken 6 weeks apart for IgM",
+    "Punch biopsy taken from an area of rash"
+   ],
+   "a": 1,
+   "e": "Measles is confirmed by RT-PCR, for which nasopharyngeal or throat swabs are the preferred specimens (urine or blood can also be used), and by serum measles-specific IgM in the first days of the rash. IgG indicates past infection or vaccination and is not diagnostic of acute illness.",
+   "w": [
+    "Wrong - IgG shows past infection or vaccination; IgM or PCR is needed for acute diagnosis.",
+    "Correct - a nasopharyngeal or throat swab for RT-PCR is the preferred confirmatory specimen.",
+    "Wrong - measles is viral; blood culture has no role in confirming it.",
+    "Wrong - IgM is detected within the first few days of rash; waiting 6 weeks is unnecessary and too late for public health action.",
+    "Wrong - skin biopsy is not used to diagnose measles."
+   ],
+   "r": "Slide p19"
+  },
+  {
+   "t": "MEAS",
+   "stem": "An 11-year-old boy is brought in because his school performance has declined over 6 months, with personality change and recent sudden jerking movements of his limbs. He had measles at 1 year of age and has no other history.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Acute disseminated encephalomyelitis",
+    "Juvenile myoclonic epilepsy",
+    "Wilson disease",
+    "Subacute sclerosing panencephalitis",
+    "Attention deficit hyperactivity disorder"
+   ],
+   "a": 3,
+   "e": "SSPE is a rare, fatal progressive encephalitis due to persistent measles virus, appearing about 7–10 years after measles, with higher risk if infection occurred before 2 years of age. It presents with intellectual and behavioural decline followed by myoclonic jerks and dementia. Measles vaccination prevents it.",
+   "w": [
+    "Wrong - ADEM is an acute illness days to weeks after an infection, not a slow decline years later.",
+    "Wrong - juvenile myoclonic epilepsy causes morning myoclonus without progressive cognitive decline.",
+    "Wrong - Wilson disease can cause neuropsychiatric change but the measles history and myoclonus point elsewhere.",
+    "Correct - progressive decline and myoclonus years after early measles is SSPE.",
+    "Wrong - ADHD is a developmental condition and does not cause new myoclonic jerks."
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "MEAS",
+   "stem": "A 3-year-old unvaccinated girl spent the afternoon playing with a cousin who was diagnosed with measles the next day. The contact was 48 hours ago. She is well and has no immunodeficiency.\nWhat is the most appropriate action?",
+   "o": [
+    "Give MMR now, within 72 hours of exposure",
+    "Give normal immunoglobulin within 6 days",
+    "Give vitamin A prophylaxis and observe",
+    "Wait and vaccinate at the next routine visit",
+    "Start oral ribavirin as post-exposure cover"
+   ],
+   "a": 0,
+   "e": "A susceptible contact aged 6 months or older should receive MMR within 72 hours of exposure, which can prevent or modify measles and completes her overdue vaccination. Normal human immunoglobulin within 6 days is reserved for high-risk contacts who cannot have a live vaccine, such as infants under 6 months, non-immune pregnant women and the immunocompromised.",
+   "w": [
+    "Correct - MMR within 72 hours protects a healthy susceptible contact and catches up her immunisation.",
+    "Wrong - immunoglobulin is for high-risk contacts unable to receive live vaccine.",
+    "Wrong - vitamin A is given to children with measles, not as prophylaxis for contacts.",
+    "Wrong - delaying vaccination misses the 72-hour post-exposure window.",
+    "Wrong - ribavirin is not used for measles post-exposure prophylaxis."
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "MEAS",
+   "stem": "An 18-month-old malnourished child is on day 6 of measles. The fever had begun to settle but has returned. He now has a respiratory rate of 58/min, subcostal recession and crackles at both lung bases.\nWhich complication is this, and which is the commonest cause of death from measles?",
+   "o": [
+    "Acute measles encephalitis",
+    "Acute suppurative otitis media",
+    "Secondary bronchopneumonia",
+    "Viral myocarditis",
+    "Vitamin A-related keratitis"
+   ],
+   "a": 2,
+   "e": "Bronchopneumonia, viral or secondary bacterial, is the commonest serious complication and the leading cause of death in measles, particularly in malnourished, vitamin A-deficient children. Recurrence of fever after initial improvement with tachypnoea suggests secondary bacterial infection, needing admission and antibiotics. Encephalitis is rarer and presents with altered consciousness or seizures.",
+   "w": [
+    "Wrong - encephalitis is serious but less common and presents with drowsiness or seizures.",
+    "Wrong - otitis media is common but rarely fatal and does not cause tachypnoea with crackles.",
+    "Correct - recurrent fever with tachypnoea and crackles is bronchopneumonia, the main cause of measles deaths.",
+    "Wrong - myocarditis is a rare complication and would not explain the chest signs.",
+    "Wrong - keratitis causes eye pain and blindness risk, not respiratory distress."
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "ROS",
+   "stem": "An 11-month-old boy had a temperature up to 40.2°C for 4 days, yet remained playful and fed well. The fever settled yesterday and this morning a pink, blanching maculopapular rash appeared on his trunk and upper limbs, sparing the face. There is mild cervical lymphadenopathy; no conjunctivitis, cough or mouth changes.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Measles",
+    "Rubella",
+    "Scarlet fever",
+    "Roseola infantum",
+    "Kawasaki disease"
+   ],
+   "a": 3,
+   "e": "Roseola (HHV-6) classically causes 3–5 days of high fever in a surprisingly well infant aged 6 months to 2 years, followed by a blanching rash on the trunk as the fever settles. The key discriminator is timing: the rash appears after defervescence. Measles and Kawasaki rashes appear while the fever is ongoing.",
+   "w": [
+    "Wrong - in measles the child is ill with the 3 Cs and the rash appears at the height of fever, starting on the face.",
+    "Wrong - rubella has low-grade fever with the rash starting on the face, not after 4 days of high fever.",
+    "Wrong - scarlet fever has a sandpaper rash with sore throat and is uncommon in infants.",
+    "Correct - high fever for several days in a well infant, then a truncal rash once the fever settles, is roseola.",
+    "Wrong - Kawasaki needs fever of 5 or more days with mucocutaneous signs; the fever does not end before the rash."
+   ],
+   "r": "Slide p22"
+  },
+  {
+   "t": "ROS",
+   "stem": "A 13-month-old girl was given amoxicillin by a private clinic on day 3 of a high fever without a source. On day 4 the fever settled and a pink, blanching rash appeared on her trunk. She is well and feeding normally. Her mother is worried that the girl is allergic to penicillin.\nWhat is the most appropriate advice?",
+   "o": [
+    "Record a lifelong penicillin allergy in her notes",
+    "Explain it is a viral rash, not a drug allergy",
+    "Start oral prednisolone and an antihistamine",
+    "Refer urgently to dermatology for patch testing",
+    "Admit for observation and intravenous fluids"
+   ],
+   "a": 1,
+   "e": "The roseola rash commonly appears after an antibiotic has been started for the unexplained fever, and is then mislabelled as a drug allergy. Recognising the fever-then-rash pattern avoids a false lifelong penicillin allergy label. Management is reassurance, paracetamol and fluids.",
+   "w": [
+    "Wrong - a false allergy label would deprive her of first-line antibiotics for life.",
+    "Correct - this is the typical roseola sequence; reassure and do not label her as penicillin-allergic.",
+    "Wrong - the rash is benign and fades within 1–2 days without treatment.",
+    "Wrong - no testing is needed for a self-limiting viral exanthem.",
+    "Wrong - a well child who is feeding normally does not need admission."
+   ],
+   "r": "Slides p22-23"
+  },
+  {
+   "t": "ROS",
+   "stem": "A 14-month-old boy has a temperature of 40.1°C on day 2 of illness with no rash and no focus on examination. At home he had a generalised tonic-clonic seizure lasting 3 minutes; he is now alert and playful. There is no family history of epilepsy.\nWhich virus is the most common cause of this pattern in this age group?",
+   "o": [
+    "Human herpesvirus 6",
+    "Enterovirus 71",
+    "Measles virus",
+    "Varicella-zoster virus",
+    "Parvovirus B19"
+   ],
+   "a": 0,
+   "e": "Primary HHV-6 infection (roseola) causes abrupt high fever in infants aged 6 months to 2 years and is an important cause of febrile seizures, which occur during the febrile phase before the rash. Most are simple seizures needing only reassurance. Parvovirus B19 causes slapped cheek with little fever.",
+   "w": [
+    "Correct - HHV-6 (roseola) commonly causes high fever with febrile seizures in infants before any rash appears.",
+    "Wrong - EV71 causes HFMD with oral ulcers and hand–foot lesions; neurological disease looks different (myoclonus, lethargy).",
+    "Wrong - measles has a prominent prodrome of cough, coryza and conjunctivitis.",
+    "Wrong - varicella presents with an itchy vesicular rash, not isolated high fever.",
+    "Wrong - parvovirus B19 causes erythema infectiosum with mild fever."
+   ],
+   "r": "Slide p23"
+  },
+  {
+   "t": "ROS",
+   "stem": "Several infants with presumed roseola are seen at a Klinik Kesihatan on the same day.\nWhich finding is an indication for hospital referral?",
+   "o": [
+    "Temperature of 40°C on day 3",
+    "Pink rash appearing as the fever settles",
+    "Mild cervical lymphadenopathy",
+    "Reduced appetite but drinking well",
+    "Focal seizure lasting 20 minutes"
+   ],
+   "a": 4,
+   "e": "Roseola is usually managed at home with reassurance, paracetamol and fluids. Referral is needed for complex febrile seizures (focal, longer than 15 minutes or recurrent within 24 hours), status epilepticus, prolonged lethargy or signs of secondary bacterial infection. High fever, the rash and mild lymphadenopathy are expected features.",
+   "w": [
+    "Wrong - fever above 40°C is typical of roseola and not on its own a referral criterion.",
+    "Wrong - a rash after defervescence is the expected course of roseola.",
+    "Wrong - mild cervical lymphadenopathy is a recognised benign feature.",
+    "Wrong - mild anorexia with adequate fluid intake can be managed at home.",
+    "Correct - a focal seizure lasting more than 15 minutes is a complex febrile seizure and needs referral."
+   ],
+   "r": "Slide p23"
+  },
+  {
+   "t": "HFMD",
+   "stem": "A 3-year-old girl from a kindergarten where other children are unwell has had fever for 1 day and is refusing food because of mouth pain. There are shallow ulcers on her tongue and buccal mucosa, and oval greyish vesicles on her palms, soles and buttocks. The lesions are not itchy.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Varicella",
+    "Herpangina",
+    "Hand, foot and mouth disease",
+    "Primary herpetic gingivostomatitis",
+    "Scarlet fever"
+   ],
+   "a": 2,
+   "e": "HFMD causes fever with painful oral ulcers and flat or oval vesicles on the palms, soles, buttocks and genital area in children under 5 years, often in nursery outbreaks. Herpangina affects only the posterior pharynx and soft palate without hand–foot lesions. Varicella is itchy and centripetal.",
+   "w": [
+    "Wrong - varicella vesicles are itchy, in crops on the trunk, and do not localise to palms and soles.",
+    "Wrong - herpangina causes vesicles on the soft palate and posterior pharynx without skin lesions.",
+    "Correct - oral ulcers plus non-itchy vesicles on palms, soles and buttocks in a toddler are typical of HFMD.",
+    "Wrong - herpetic gingivostomatitis causes swollen bleeding gums and perioral vesicles, not palmar–plantar lesions.",
+    "Wrong - scarlet fever has a sandpaper rash and exudative tonsillitis, not vesicles."
+   ],
+   "r": "Slide p25"
+  },
+  {
+   "t": "HFMD",
+   "stem": "A 2-year-old boy is on day 3 of HFMD. His mother says he has become sleepier and keeps startling with sudden jerks of his arms when falling asleep. Temperature 38.5°C, heart rate 170/min, capillary refill 2 seconds.\nWhat is the most appropriate next step?",
+   "o": [
+    "Same-day referral to hospital for admission",
+    "Paracetamol and review at the clinic in 48 hours",
+    "Oral rehydration at home with daily phone review",
+    "Oral aciclovir and review at the clinic tomorrow",
+    "Reassure that sleep jerks are common with fever"
+   ],
+   "a": 0,
+   "e": "Increasing lethargy and myoclonic jerks are neurological danger signs of severe enterovirus (especially EV71) infection, which can progress within hours to brainstem encephalitis, pulmonary oedema and cardiopulmonary collapse. Tachycardia out of proportion to fever adds concern. He must be referred to hospital urgently.",
+   "w": [
+    "Correct - myoclonic jerks, lethargy and tachycardia are danger signs requiring urgent hospital admission.",
+    "Wrong - deterioration with EV71 can occur within hours, so a 48-hour review is unsafe.",
+    "Wrong - home care is inappropriate once neurological danger signs appear.",
+    "Wrong - aciclovir has no activity against enteroviruses.",
+    "Wrong - myoclonic jerks in HFMD are a warning sign, not a benign feature of fever."
+   ],
+   "r": "Slide p27"
+  },
+  {
+   "t": "HFMD",
+   "stem": "A Klinik Kesihatan doctor sees a 4-year-old with fever, oral ulcers and vesicles on the palms and soles. A throat swab for enterovirus has been sent and the result will take a week.\nWhich statement about notification is correct?",
+   "o": [
+    "Notify only after the viral PCR is positive",
+    "Notify within 7 days of the clinical diagnosis",
+    "Notify within 24 hours as a suspected case",
+    "Notify only if another child in the class is ill",
+    "No notification is needed if the case is mild"
+   ],
+   "a": 2,
+   "e": "HFMD must be notified to the District Health Office within 24 hours of a suspected case, and laboratory confirmation is not required. Early notification allows outbreak control measures at the kindergarten or nursery, including closure if needed.",
+   "w": [
+    "Wrong - laboratory confirmation is not required before notifying HFMD.",
+    "Wrong - HFMD is a 24-hour notification; 7 days applies to diseases such as typhoid and typhus.",
+    "Correct - a suspected HFMD case is notified within 24 hours without waiting for results.",
+    "Wrong - a single suspected case is notifiable.",
+    "Wrong - severity does not change the duty to notify."
+   ],
+   "r": "Slide p27"
+  },
+  {
+   "t": "HFMD",
+   "stem": "An 18-month-old boy with oral ulcers and palmar vesicles for 2 days is now pale, with cold peripheries, heart rate 190/min, capillary refill 4 seconds, a gallop rhythm and fine crackles at both lung bases.\nWhich virus is most likely responsible for this severe course?",
+   "o": [
+    "Coxsackievirus A16",
+    "Echovirus 11",
+    "Poliovirus type 1",
+    "Herpes simplex virus 1",
+    "Enterovirus 71"
+   ],
+   "a": 4,
+   "e": "EV71 causes the severe and fatal forms of HFMD seen in Malaysian outbreaks: brainstem encephalitis leading to neurogenic pulmonary oedema and cardiopulmonary failure. Coxsackievirus A16 is the commonest cause but usually mild. Signs of cardiac involvement need immediate resuscitation and transfer.",
+   "w": [
+    "Wrong - coxsackievirus A16 is the commonest cause of HFMD but typically causes mild illness.",
+    "Wrong - echoviruses can cause HFMD-like illness but are not the classic cause of severe disease.",
+    "Wrong - polioviruses are enteroviruses but do not cause HFMD (the slide listing is a slip).",
+    "Wrong - HSV causes gingivostomatitis, not palmar–plantar vesicles with cardiopulmonary failure.",
+    "Correct - EV71 causes severe neurological and cardiopulmonary HFMD with deaths."
+   ],
+   "r": "Slides p25, p27"
+  },
+  {
+   "t": "HFMD",
+   "stem": "A 4-year-old girl with HFMD has been afebrile since day 3. On day 5 there are still several intact vesicles on her hands and feet, but she is eating well. Her mother wants to send her back to kindergarten tomorrow.\nWhat is the correct advice?",
+   "o": [
+    "Return now as fever has settled for a day",
+    "Return after a full course of antibiotics",
+    "Return once the mouth ulcers stop hurting",
+    "Keep home until all blisters have healed",
+    "Keep home for 21 days from rash onset"
+   ],
+   "a": 3,
+   "e": "Children with HFMD remain infectious until the blisters have ruptured and healed, usually 7–10 days, because vesicle fluid contains virus. She should stay away from kindergarten until then. Virus is shed in stool for weeks afterwards, so hand hygiene must continue after return.",
+   "w": [
+    "Wrong - being afebrile does not end infectivity while vesicles remain.",
+    "Wrong - HFMD is viral and antibiotics play no role.",
+    "Wrong - pain relief does not mean the skin lesions have stopped shedding virus.",
+    "Correct - she is infectious until the blisters have ruptured and healed, usually 7–10 days.",
+    "Wrong - 21 days is unnecessarily long; exclusion is based on healing of the blisters."
+   ],
+   "r": "Slide p25"
+  },
+  {
+   "t": "HFMD",
+   "stem": "During a nursery outbreak, five children with HFMD are seen at a Klinik Kesihatan.\nWhich child can safely be managed at home?",
+   "o": [
+    "A child refusing all fluids with no urine for 8 hours",
+    "A child with ulcers who is drinking well and playful",
+    "A child whose fever above 39°C has lasted 3 days",
+    "A child who is vomiting persistently and is lethargic",
+    "A child whose single mother says she cannot cope"
+   ],
+   "a": 1,
+   "e": "Uncomplicated HFMD is managed at home with reassurance, paracetamol, adequate fluids and teaching of danger signs. Admission criteria include inability to tolerate oral fluids, hyperpyrexia persisting more than 48 hours, neurological or cardiac signs, a toxic appearance, and parents unable to cope or inadequate social support.",
+   "w": [
+    "Wrong - inability to tolerate oral feeds with oliguria means dehydration risk and needs admission.",
+    "Correct - a playful child who is drinking well with only oral ulcers can be managed at home.",
+    "Wrong - hyperpyrexia persisting more than 48 hours is an admission criterion.",
+    "Wrong - persistent vomiting with lethargy suggests CNS involvement and requires admission.",
+    "Wrong - parents unable to cope or inadequate social support is an admission criterion."
+   ],
+   "r": "Slide p27"
+  },
+  {
+   "t": "HFMD",
+   "stem": "A kindergarten teacher attends a Klinik Kesihatan health talk after three children in her class developed HFMD. She asks for practical prevention advice.\nWhich advice is most appropriate?",
+   "o": [
+    "Prick the blisters so that they dry out faster",
+    "Children may share cups once their fever settles",
+    "Wash hands with soap after nappy changes for weeks",
+    "Hand sanitiser alone removes the need to clean toys",
+    "Apply antiseptic spray to the blisters twice daily"
+   ],
+   "a": 2,
+   "e": "Enteroviruses spread by respiratory secretions, vesicle fluid and the faecal–oral route, and virus is shed in stool for several weeks after recovery. Hand washing with soap and water, disinfecting toys and surfaces, not sharing personal items and not rupturing blisters are the key measures.",
+   "w": [
+    "Wrong - rupturing blisters releases virus-laden fluid and increases spread.",
+    "Wrong - personal items should not be shared; saliva remains infectious after fever settles.",
+    "Correct - faecal shedding continues for weeks, so soap-and-water hand washing after nappy changes is essential.",
+    "Wrong - toys and surfaces still need cleaning and disinfection; sanitiser is less effective than soap and water.",
+    "Wrong - antiseptic on blisters does not reduce transmission."
+   ],
+   "r": "Slides p25-26"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 30-year-old man from a dengue hotspot in Petaling Jaya presents on day 2 of high fever with severe myalgia, headache and retro-orbital pain. He is drinking well and vital signs are stable.\nWhich test is most useful to confirm the diagnosis today?",
+   "o": [
+    "Dengue IgM serology",
+    "Dengue IgG serology",
+    "Tourniquet test",
+    "Weil-Felix test",
+    "Dengue NS1 antigen"
+   ],
+   "a": 4,
+   "e": "NS1 antigen is detectable from day 1 to about day 5 of fever, so it is the test of choice early in the febrile phase. IgM appears from about day 5 (slides: primary infection day 6–10), so it is often negative on day 2. The tourniquet test only supports capillary fragility and does not confirm dengue.",
+   "w": [
+    "Wrong - IgM usually appears from about day 5 and is often negative on day 2.",
+    "Wrong - IgG indicates past or secondary infection and does not confirm acute primary dengue early.",
+    "Wrong - the tourniquet test is supportive only and a negative result does not exclude dengue.",
+    "Wrong - Weil-Felix is a non-specific test for rickettsial infection (typhus).",
+    "Correct - NS1 antigen is positive in the early febrile phase (days 1–5)."
+   ],
+   "r": "Slide p31"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 25-year-old woman with NS1-positive dengue attends her daily review on day 5. Her fever settled this morning and she feels better, but has mild abdominal pain. Haematocrit has risen from 39% to 47% and platelets have fallen from 140 to 45 × 10⁹/L over 24 hours. BP 110/80 mmHg.\nWhat is the most appropriate next step?",
+   "o": [
+    "Discharge to work as the fever has resolved",
+    "Admit for the critical (leakage) phase",
+    "Home care with repeat FBC in 48 hours",
+    "Refer for prophylactic platelet transfusion",
+    "Oral prednisolone and review tomorrow"
+   ],
+   "a": 1,
+   "e": "Defervescence around days 3–7 marks the start of the critical phase, when plasma leakage may cause shock even though the patient feels better. A rising haematocrit with a rapid fall in platelets, plus abdominal pain (a warning sign), are criteria for admission. Prophylactic platelet transfusion and steroids have no role.",
+   "w": [
+    "Wrong - defervescence is the most dangerous time in dengue, not a sign of recovery.",
+    "Correct - rising HCT with falling platelets and abdominal pain mean plasma leakage; she must be admitted.",
+    "Wrong - she has a warning sign and haemoconcentration; a 48-hour delay could miss shock.",
+    "Wrong - prophylactic platelet transfusion is not recommended in stable patients without bleeding.",
+    "Wrong - steroids have no proven benefit in dengue."
+   ],
+   "r": "Slides p28-29, p32"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 22-year-old male student presents on day 3 of fever with a positive NS1. He is drinking well and passing urine normally, with no abdominal pain, vomiting or bleeding. BP 118/76 mmHg, pulse 88/min, capillary refill <2 seconds. HCT 42% (stable), platelets 130 × 10⁹/L. He has no comorbidities.\nWhat is the most appropriate management?",
+   "o": [
+    "Home care with daily review and FBC",
+    "Admit for IV maintenance fluids",
+    "Home care, return only if he bleeds",
+    "Ibuprofen and review in 3 days",
+    "Admit for 6-hourly platelet counts"
+   ],
+   "a": 0,
+   "e": "Patients tolerating oral fluids, with stable vital signs, stable serial HCT, no warning signs, no bleeding and no comorbidity or pregnancy can be managed at home. They need daily clinical review with FBC from day 3 because the critical phase usually begins around days 3–7. Bleeding is only one of several warning signs.",
+   "w": [
+    "Correct - he meets the outpatient criteria and needs daily review with FBC through the critical phase.",
+    "Wrong - IV fluids are not needed when he is drinking well with stable vital signs.",
+    "Wrong - waiting for bleeding misses silent plasma leakage; daily review is required from day 3.",
+    "Wrong - NSAIDs are avoided in dengue and a 3-day gap crosses the critical phase.",
+    "Wrong - admission criteria are not met; platelet count alone does not decide admission."
+   ],
+   "r": "Slide p32"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 29-year-old woman at 24 weeks of gestation presents on day 3 of fever with a positive dengue NS1. She is drinking well, has no warning signs, BP 112/70 mmHg, pulse 90/min, HCT 36% and platelets 150 × 10⁹/L.\nWhat is the most appropriate management?",
+   "o": [
+    "Home care with daily review from day 3",
+    "Home care with a review on day 5 only",
+    "Admit only if platelets fall below 50",
+    "Admit to hospital for monitoring now",
+    "Home care with daily phone follow-up"
+   ],
+   "a": 3,
+   "e": "Pregnancy is a special risk group in the MOH dengue CPG, as are the elderly and patients with comorbidities, so she should be admitted even without warning signs. Pregnancy also masks haemoconcentration and shock, because of physiological haemodilution and tachycardia.",
+   "w": [
+    "Wrong - this suits a low-risk non-pregnant adult; pregnancy is an admission criterion.",
+    "Wrong - a single review on day 5 is unsafe in any dengue patient, especially in pregnancy.",
+    "Wrong - admission is based on her risk group, not on a platelet threshold.",
+    "Correct - pregnant women with dengue meet the special-risk admission criteria.",
+    "Wrong - telephone follow-up cannot detect plasma leakage and is unsafe here."
+   ],
+   "r": "Slide p32"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 35-year-old man with NS1-positive dengue on day 2 is managed as an outpatient. He has severe myalgia and headache and asks for an injection to relieve the pain quickly. He has no allergies.\nWhich analgesic plan is most appropriate?",
+   "o": [
+    "Intramuscular diclofenac 75 mg",
+    "Oral paracetamol, max 4 g per day",
+    "Oral mefenamic acid 500 mg three times daily",
+    "Oral aspirin 300 mg four times daily",
+    "Oral naproxen 250 mg twice daily"
+   ],
+   "a": 1,
+   "e": "Paracetamol is the only recommended analgesic and antipyretic in dengue. NSAIDs and aspirin impair platelet function and cause gastritis and bleeding, and intramuscular injections cause haematomas in thrombocytopenic patients. Tepid sponging can be added for fever.",
+   "w": [
+    "Wrong - this combines an NSAID with an intramuscular injection, both avoided in dengue.",
+    "Correct - paracetamol within the maximum daily dose is the safe choice.",
+    "Wrong - mefenamic acid is an NSAID and increases bleeding risk.",
+    "Wrong - aspirin is an antiplatelet drug and is contraindicated in dengue.",
+    "Wrong - naproxen is an NSAID and is avoided in dengue."
+   ],
+   "r": "Slide p32"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 27-year-old woman with confirmed dengue is reviewed on day 4 of illness at a Klinik Kesihatan. Her blood pressure is 116/78 mmHg and she is drinking well.\nWhich single finding is a dengue warning sign requiring admission?",
+   "o": [
+    "Platelet count of 110 × 10⁹/L",
+    "Severe retro-orbital headache with myalgia",
+    "Facial flushing with generalised arthralgia",
+    "Tender liver 3 cm below the costal margin",
+    "Temperature of 39.8°C"
+   ],
+   "a": 3,
+   "e": "MOH CPG warning signs are abdominal pain or tenderness, persistent vomiting, clinical fluid accumulation, mucosal bleeding, lethargy or restlessness, tender liver enlargement more than 2 cm, and a rising HCT with a rapid fall in platelets. Headache, myalgia, flushing, high fever and a modest fall in platelets are expected febrile-phase features.",
+   "w": [
+    "Wrong - mild thrombocytopenia alone is expected and is not a warning sign.",
+    "Wrong - retro-orbital headache and myalgia are typical febrile-phase symptoms.",
+    "Wrong - flushing and arthralgia are expected features of the febrile phase.",
+    "Correct - liver enlargement of more than 2 cm with tenderness is a warning sign needing admission.",
+    "Wrong - high fever is typical of the febrile phase and is not itself a warning sign."
+   ],
+   "r": "Slides p28-29, p32"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 40-year-old man presents on day 7 of a febrile illness with myalgia and a falling platelet count. A rapid combo test shows NS1 negative and IgM positive. He had no fever in the past year.\nWhat is the best interpretation?",
+   "o": [
+    "Dengue is likely; NS1 wanes after day 5",
+    "Dengue is excluded as the NS1 is negative",
+    "A false-positive IgM; repeat the NS1 now",
+    "Evidence of a dengue infection years ago",
+    "Cross-reaction from a recent vaccination"
+   ],
+   "a": 0,
+   "e": "NS1 is detectable mainly in the first 5 days and often becomes negative later, while IgM rises from about day 5. A negative NS1 with positive IgM on day 7 is therefore consistent with current dengue. Interpreting tests according to the day of illness is the key skill.",
+   "w": [
+    "Correct - by day 7 NS1 often becomes negative and IgM is positive, supporting current dengue.",
+    "Wrong - a negative NS1 after day 5 does not exclude dengue.",
+    "Wrong - there is no reason to suspect a false positive; repeating NS1 late adds nothing.",
+    "Wrong - IgM indicates recent infection; past infection is shown by IgG.",
+    "Wrong - there is no vaccination history to explain a positive IgM."
+   ],
+   "r": "Slide p31"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 32-year-old man admitted with dengue is on day 8 of illness. His appetite has returned, he is passing large volumes of urine and has an itchy rash described as 'isles of white in a sea of red'. He is still receiving IV fluids at 3 ml/kg/h. He is now breathless with bilateral basal crackles; HCT has fallen to 36%.\nWhat is the most appropriate next step?",
+   "o": [
+    "Increase IV fluids for ongoing leakage",
+    "Transfuse platelets to prevent bleeding",
+    "Stop IV fluids and consider a diuretic",
+    "IV hydrocortisone for the itchy rash",
+    "IV ceftriaxone for hospital pneumonia"
+   ],
+   "a": 2,
+   "e": "Return of appetite, diuresis, a falling HCT and the convalescent rash mark the recovery phase, when leaked fluid is reabsorbed. Continuing IV fluids now causes fluid overload and pulmonary oedema, so fluids should be stopped or tapered, with a diuretic if overloaded.",
+   "w": [
+    "Wrong - leakage has stopped; extra fluid will worsen pulmonary oedema.",
+    "Wrong - the problem is fluid overload, not bleeding.",
+    "Correct - in the recovery phase IV fluids are stopped or tapered and a diuretic is considered for overload.",
+    "Wrong - the convalescent rash is benign and does not need steroids.",
+    "Wrong - the picture of recovery with diuresis and crackles is fluid overload, not pneumonia."
+   ],
+   "r": "Slide p33"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 38-year-old woman (height 162 cm, weight 90 kg, BMI 34.3 kg/m²) is admitted with dengue and needs maintenance IV fluids. Following the MOH CPG, you calculate the body weight to use.\nWhich body weight should be used for her maintenance fluid calculation?",
+   "o": [
+    "90.0 kg",
+    "54.6 kg",
+    "72.3 kg",
+    "61.7 kg",
+    "68.8 kg"
+   ],
+   "a": 4,
+   "e": "In obese patients (BMI >27.5 kg/m²) the CPG uses adjusted body weight. Ideal body weight for a woman = 45.5 + 0.91 × (162 − 152) = 54.6 kg; adjusted body weight = 54.6 + 0.4 × (90 − 54.6) = 68.8 kg. Using actual weight would overload her; using ideal weight would under-hydrate her.",
+   "w": [
+    "Wrong - actual body weight overestimates fluid needs in obesity and risks overload.",
+    "Wrong - this is her ideal body weight; the CPG adds 40% of the excess weight.",
+    "Wrong - this is the simple average of actual and ideal weight, not the CPG formula.",
+    "Wrong - this adds only 20% of the excess weight; the CPG uses 0.4.",
+    "Correct - adjusted body weight = IBW 54.6 + 0.4 × (90 − 54.6) = 68.8 kg."
+   ],
+   "r": "Slide p33"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 19-year-old man with NS1-positive dengue is managed at home and is on day 4 of illness. Before he leaves the Klinik Kesihatan you explain the dengue home care card.\nWhich symptom should make him return to the clinic immediately?",
+   "o": [
+    "Itchy rash on the legs with white patches",
+    "Mild headache relieved by paracetamol",
+    "Increased appetite and passing more urine",
+    "Slow pulse of 56/min while feeling well",
+    "No urine passed in the last 6 hours"
+   ],
+   "a": 4,
+   "e": "The home care card tells patients to return at once for warning symptoms: abdominal pain, persistent vomiting, bleeding, drowsiness or restlessness, cold clammy limbs, or no urine for 4–6 hours, which suggests shock from plasma leakage. An itchy 'isles of white' rash, improving appetite, diuresis and relative bradycardia are features of recovery.",
+   "w": [
+    "Wrong - the itchy convalescent rash is a sign of recovery.",
+    "Wrong - mild headache controlled by paracetamol is expected in the febrile phase.",
+    "Wrong - returning appetite and diuresis indicate the recovery phase.",
+    "Wrong - bradycardia in a well patient is a recognised recovery-phase finding.",
+    "Correct - no urine for 4–6 hours suggests hypovolaemia from plasma leakage and needs urgent review."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "DEN",
+   "stem": "A 26-year-old woman on day 3 of fever has a blood pressure of 120/80 mmHg. A tourniquet test is performed with the cuff inflated to 100 mmHg for 5 minutes. Afterwards 25 petechiae are counted in a 2.5 cm × 2.5 cm square on the forearm.\nHow should this result be interpreted?",
+   "o": [
+    "Negative; positive needs more than 50 petechiae",
+    "Invalid; the cuff should be held at systolic pressure",
+    "Positive; supports capillary fragility in dengue",
+    "Positive; confirms dengue and excludes other causes",
+    "Negative; the cuff must stay inflated for 10 minutes"
+   ],
+   "a": 2,
+   "e": "The tourniquet test is done with the cuff midway between systolic and diastolic pressure for 5 minutes; 10 or more petechiae in a 2.5 cm square is positive. A positive result supports capillary fragility in dengue, but it is not diagnostic, and a negative result does not exclude dengue.",
+   "w": [
+    "Wrong - the threshold is 10 or more petechiae per 2.5 cm square.",
+    "Wrong - the cuff is correctly held midway between systolic and diastolic pressure (100 mmHg).",
+    "Correct - 25 petechiae is a positive test supporting capillary fragility, consistent with dengue.",
+    "Wrong - a positive tourniquet test is supportive, not confirmatory; NS1 or serology confirms dengue.",
+    "Wrong - the standard inflation time is 5 minutes."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPH",
+   "stem": "A 45-year-old oil palm plantation worker in Pahang has had fever, chills, headache, myalgia and a dry cough for 6 days. Examination shows a painless black crusted lesion with a red rim in his left groin, tender inguinal lymph nodes and a maculopapular rash on the trunk.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Leptospirosis",
+    "Scrub typhus",
+    "Murine typhus",
+    "Dengue fever",
+    "Typhoid fever"
+   ],
+   "a": 1,
+   "e": "An eschar (painless black crust at the chigger bite site) with regional lymphadenopathy, fever and a truncal rash in a rural or plantation worker is classic scrub typhus, caused by Orientia tsutsugamushi. Eschars hide in the groin, axilla and waistband, so the whole body must be examined. Murine typhus has no eschar.",
+   "w": [
+    "Wrong - leptospirosis causes fever, myalgia (calves) and conjunctival suffusion but no eschar.",
+    "Correct - an eschar with regional nodes and fever in a plantation worker is scrub typhus.",
+    "Wrong - murine typhus is flea-borne, usually urban, and does not produce an eschar.",
+    "Wrong - dengue causes fever, myalgia and rash but not an eschar or lymphadenopathy.",
+    "Wrong - typhoid causes step-ladder fever, abdominal symptoms and rose spots, not an eschar."
+   ],
+   "r": "Slides p37-38"
+  },
+  {
+   "t": "TYPH",
+   "stem": "A 70 kg man with fever for 6 days has an eschar on his waistline and a maculopapular truncal rash after clearing scrub in a rubber estate. He is not allergic to any drug. You plan to start treatment before transferring him to hospital.\nWhich antibiotic regimen is first-line?",
+   "o": [
+    "Oral amoxicillin 500 mg three times daily",
+    "Oral ciprofloxacin 500 mg twice daily",
+    "Oral cloxacillin 500 mg four times daily",
+    "Oral doxycycline 100 mg twice daily",
+    "Oral cefuroxime 250 mg twice daily"
+   ],
+   "a": 3,
+   "e": "Doxycycline 100 mg twice daily for 7–10 days is first-line for all rickettsial infections, including scrub typhus; fever usually settles within 24–48 hours. Beta-lactams do not act on intracellular Orientia. The slides advise referring all typhus cases to hospital, but treatment should not be delayed for serology.",
+   "w": [
+    "Wrong - beta-lactams are ineffective against intracellular rickettsiae.",
+    "Wrong - fluoroquinolones are not first-line for scrub typhus and treatment failures occur.",
+    "Wrong - cloxacillin targets staphylococci and has no rickettsial activity.",
+    "Correct - doxycycline 100 mg twice daily is first-line for scrub typhus.",
+    "Wrong - cephalosporins do not treat rickettsial infection."
+   ],
+   "r": "Slide p39"
+  },
+  {
+   "t": "TYPH",
+   "stem": "A 6-year-old boy weighing 20 kg from an Orang Asli settlement has fever for 7 days, an eschar behind his knee and a truncal rash. His mother is worried that the medicine will stain his teeth.\nWhat is the most appropriate treatment?",
+   "o": [
+    "Doxycycline 2.2 mg/kg twice daily",
+    "Amoxicillin 25 mg/kg twice daily",
+    "Cefuroxime 15 mg/kg twice daily",
+    "Cloxacillin 25 mg/kg four times daily",
+    "No antibiotic until serology returns"
+   ],
+   "a": 0,
+   "e": "Doxycycline is the drug of choice for suspected rickettsial disease at any age, including children under 8 years; children under 45 kg receive 2.2 mg/kg twice daily (44 mg here). Short courses carry minimal risk of dental staining, unlike older tetracyclines, whereas delayed treatment causes serious complications.",
+   "w": [
+    "Correct - doxycycline 2.2 mg/kg twice daily is first-line in children; short courses rarely stain teeth.",
+    "Wrong - amoxicillin does not treat rickettsial infection.",
+    "Wrong - cefuroxime has no activity against Orientia tsutsugamushi.",
+    "Wrong - cloxacillin is an anti-staphylococcal penicillin and ineffective here.",
+    "Wrong - treatment must not wait for serology when the clinical picture is typical."
+   ],
+   "r": "Slide p39"
+  },
+  {
+   "t": "TYPH",
+   "stem": "A 38-year-old jungle trekker is investigated for prolonged fever with lymphadenopathy. Several serology results come back from the state laboratory.\nWhich result meets the MOH laboratory criterion for scrub typhus?",
+   "o": [
+    "Weil-Felix OX-K titre of 1:80",
+    "Immunoperoxidase IgG titre of 1:200",
+    "Immunoperoxidase IgM titre of 1:25",
+    "Immunoperoxidase IgG titre of 1:800",
+    "Two-fold rise in titre in paired sera"
+   ],
+   "a": 3,
+   "e": "The MOH case definition requires an immunoperoxidase IgG titre of 1:400 or more, an IgM titre of 1:50 or more, or a four-fold rise in titre in paired sera (or isolation of the organism). Weil-Felix is cheap but has poor sensitivity and specificity, so it is not a laboratory criterion.",
+   "w": [
+    "Wrong - Weil-Felix is only supportive and is not part of the case definition.",
+    "Wrong - an IgG of 1:200 is below the 1:400 threshold.",
+    "Wrong - an IgM of 1:25 is below the 1:50 threshold.",
+    "Correct - an IgG titre of 1:800 exceeds the 1:400 criterion.",
+    "Wrong - a four-fold rise in paired sera is required, not two-fold."
+   ],
+   "r": "Slide p39"
+  },
+  {
+   "t": "TYPH",
+   "stem": "A 30-year-old warehouse worker at Port Klang, where rats are commonly seen, has fever, headache, myalgia and a dry cough for 8 days. A maculopapular rash is present over the axillae, the inner surfaces of the arms and the trunk. A careful search finds no eschar.\nWhich organism is most likely?",
+   "o": [
+    "Rickettsia typhi",
+    "Orientia tsutsugamushi",
+    "Rickettsia prowazekii",
+    "Leptospira interrogans",
+    "Salmonella Typhi"
+   ],
+   "a": 0,
+   "e": "Murine typhus is caused by Rickettsia typhi, spread by rat and cat fleas, often in urban or port areas, with a rash over the axillae, inner arms and trunk and a non-productive cough. Scrub typhus (Orientia) usually produces an eschar, and epidemic typhus (R. prowazekii) is louse-borne in overcrowded settings.",
+   "w": [
+    "Correct - flea-borne R. typhi causes murine typhus in rat-infested urban and port settings, without an eschar.",
+    "Wrong - Orientia causes scrub typhus after chigger bites in rural areas and typically leaves an eschar.",
+    "Wrong - R. prowazekii is louse-borne and occurs with extreme overcrowding such as refugee camps.",
+    "Wrong - leptospirosis is rat-associated but does not typically cause this truncal and axillary rash.",
+    "Wrong - typhoid causes rose spots on the abdomen with abdominal symptoms."
+   ],
+   "r": "Slides p37-38"
+  },
+  {
+   "t": "TYPD",
+   "stem": "A 24-year-old man has had fever for 9 days, rising a little higher each day, with headache, anorexia, constipation and vague abdominal pain. Temperature 39.6°C, pulse 84/min. He has mild abdominal tenderness, a palpable spleen and a few faint salmon-pink blanching macules on the upper abdomen.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Dengue fever",
+    "Scrub typhus",
+    "Typhoid fever",
+    "Leptospirosis",
+    "Acute hepatitis A"
+   ],
+   "a": 2,
+   "e": "Step-ladder prolonged fever, abdominal symptoms with constipation, splenomegaly, relative bradycardia (pulse 84 at 39.6°C) and rose spots on the abdomen are classic enteric fever. Dengue fever lasts 2–7 days, and scrub typhus would usually show an eschar.",
+   "w": [
+    "Wrong - dengue fever usually lasts 2–7 days without step-ladder fever or splenomegaly.",
+    "Wrong - scrub typhus typically has an eschar with lymphadenopathy.",
+    "Correct - step-ladder fever, relative bradycardia, splenomegaly and rose spots indicate typhoid.",
+    "Wrong - leptospirosis causes abrupt fever, calf myalgia and conjunctival suffusion.",
+    "Wrong - hepatitis A causes jaundice and tender hepatomegaly, with fever settling as jaundice appears."
+   ],
+   "r": "Slide p41"
+  },
+  {
+   "t": "TYPD",
+   "stem": "A 33-year-old woman has had fever for 5 days with headache and abdominal discomfort. She has taken no antibiotics. You suspect enteric fever.\nWhich investigation is the most appropriate first confirmatory test?",
+   "o": [
+    "Single Widal titre",
+    "Stool culture",
+    "Urine culture",
+    "Bone marrow aspirate culture",
+    "Blood culture"
+   ],
+   "a": 4,
+   "e": "Blood culture gives its best yield in the first week of illness, before antibiotics, and is the standard confirmatory test. Bone marrow culture is the most sensitive but invasive and reserved for difficult cases. Stool culture becomes positive more often from weeks 2–3, and a single Widal titre is unreliable.",
+   "w": [
+    "Wrong - Widal is unreliable, with false positives in endemic areas and false negatives early.",
+    "Wrong - stool culture is more often positive from the second or third week.",
+    "Wrong - urine culture has low yield in typhoid.",
+    "Wrong - bone marrow culture is the most sensitive but is invasive and not the first test.",
+    "Correct - blood culture before antibiotics is the first-line test in week 1."
+   ],
+   "r": "Slide p43"
+  },
+  {
+   "t": "TYPD",
+   "stem": "A 28-year-old man with blood-culture-confirmed typhoid is clinically stable and able to take oral medication. Sensitivity results are pending. The physician plans oral treatment for uncomplicated disease.\nWhich empirical antibiotic is most appropriate, given resistance patterns in Asia?",
+   "o": [
+    "Ciprofloxacin",
+    "Azithromycin",
+    "Amoxicillin",
+    "Doxycycline",
+    "Cotrimoxazole"
+   ],
+   "a": 1,
+   "e": "Fluoroquinolone (ciprofloxacin) resistance is common in Salmonella Typhi isolates from Asia, so oral azithromycin is preferred for uncomplicated typhoid, and IV ceftriaxone for severe disease. Older first-line agents (amoxicillin, cotrimoxazole, chloramphenicol) are limited by multidrug resistance. Therapy is adjusted once sensitivities are known.",
+   "w": [
+    "Wrong - reduced ciprofloxacin susceptibility is widespread in Asian isolates, so it is avoided empirically.",
+    "Correct - oral azithromycin is the preferred empirical oral agent for uncomplicated typhoid.",
+    "Wrong - amoxicillin is limited by multidrug resistance and is not used empirically.",
+    "Wrong - doxycycline is for rickettsial infection, not typhoid.",
+    "Wrong - cotrimoxazole is limited by multidrug resistance."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPD",
+   "stem": "A 30-year-old woman completed treatment for culture-confirmed typhoid. Six weeks later she again develops fever and headache, and a blood culture grows Salmonella Typhi.\nHow should this episode be classified?",
+   "o": [
+    "Typhoid reinfection",
+    "Typhoid relapse",
+    "Probable case",
+    "Chronic carrier",
+    "Suspected case"
+   ],
+   "a": 1,
+   "e": "The MOH case classification defines relapse as recurrence of typhoid symptoms with a positive culture within 3 months, and reinfection as recurrence with a positive culture after more than 3 months. A chronic carrier is asymptomatic and excretes the organism for more than a year.",
+   "w": [
+    "Wrong - reinfection is defined as a positive-culture recurrence more than 3 months later.",
+    "Correct - a culture-positive recurrence within 3 months is a relapse.",
+    "Wrong - a probable case is a suspected case with positive serology.",
+    "Wrong - a carrier is asymptomatic and excretes the organism for more than a year.",
+    "Wrong - a suspected case meets the clinical criteria only, without laboratory evidence."
+   ],
+   "r": "Slide p42"
+  },
+  {
+   "t": "TYPD",
+   "stem": "A 40-year-old woman who runs a nasi lemak stall has recovered from culture-confirmed typhoid and finished her antibiotics. She is well and anxious to reopen her stall. The district health office is following her up.\nWhen can she return to handling food?",
+   "o": [
+    "Once she has completed the full antibiotic course",
+    "After a single negative stool culture",
+    "After two symptom-free weeks at home",
+    "After a negative Widal test on review",
+    "After 3 consecutive negative stool cultures"
+   ],
+   "a": 4,
+   "e": "Food handlers are the commonest source of typhoid and may become carriers, usually from the gallbladder. They must not handle food until cleared by three consecutive negative stool cultures, with further follow-up cultures. Feeling well or finishing antibiotics does not prove clearance.",
+   "w": [
+    "Wrong - finishing antibiotics does not exclude ongoing faecal excretion.",
+    "Wrong - shedding is intermittent, so a single negative culture is insufficient.",
+    "Wrong - being symptom-free does not exclude carriage.",
+    "Wrong - Widal does not detect carriage and is unreliable.",
+    "Correct - clearance requires three consecutive negative stool cultures before returning to food handling."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPD",
+   "stem": "A 22-year-old man in the third week of untreated enteric fever develops sudden severe abdominal pain. He is pale and sweaty, pulse 128/min, BP 90/60 mmHg, with a rigid, silent abdomen.\nWhat is the most likely complication?",
+   "o": [
+    "Acute cholecystitis",
+    "Typhoid hepatitis",
+    "Acute pancreatitis",
+    "Ileal perforation",
+    "Mesenteric adenitis"
+   ],
+   "a": 3,
+   "e": "Intestinal perforation and haemorrhage typically occur in the third week of typhoid, when the inflamed Peyer patches of the terminal ileum ulcerate. Sudden pain with peritonism and shock needs resuscitation and an urgent surgical referral.",
+   "w": [
+    "Wrong - cholecystitis causes right upper quadrant pain, not generalised peritonitis with a silent abdomen.",
+    "Wrong - typhoid hepatitis causes tender hepatomegaly and jaundice, not a rigid abdomen.",
+    "Wrong - pancreatitis is an uncommon complication and gives epigastric pain radiating to the back.",
+    "Correct - perforation of ulcerated Peyer patches in the third week causes peritonitis and shock.",
+    "Wrong - mesenteric adenitis causes milder right iliac fossa pain without peritonism or shock."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYPD",
+   "stem": "A 35-year-old food handler attends a Klinik Kesihatan for mandatory typhoid vaccination. He prefers a single injection rather than tablets.\nWhich vaccine schedule is correct?",
+   "o": [
+    "Vi polysaccharide, single IM dose, booster every 3 years",
+    "Ty21a, single IM dose, booster every 3 years",
+    "Vi polysaccharide, 3 oral doses, booster every 10 years",
+    "Ty21a, 3 oral doses, no booster needed",
+    "Vi polysaccharide, single IM dose, lifelong protection"
+   ],
+   "a": 0,
+   "e": "The injectable Vi capsular polysaccharide vaccine is a single IM dose, while oral live attenuated Ty21a is given as 3 doses 2 days apart. Food handlers in Malaysia need a booster every 3 years because protection wanes. Ty21a is live and avoided in pregnancy and immunosuppression.",
+   "w": [
+    "Correct - Vi polysaccharide is a single IM dose, with boosters every 3 years for food handlers.",
+    "Wrong - Ty21a is an oral live vaccine, not an injection.",
+    "Wrong - Vi polysaccharide is injected, not taken orally.",
+    "Wrong - Ty21a is not injectable and food handlers do need boosters.",
+    "Wrong - protection wanes, so boosters every 3 years are required."
+   ],
+   "r": "Slide p45"
+  },
+  {
+   "t": "SCAR",
+   "stem": "A 7-year-old girl has had fever and a painful sore throat for 2 days. She has a fine, red rash on her neck and trunk that feels rough to touch, accentuated in the antecubital fossae. Her cheeks are flushed with pallor around the mouth, and her tonsils are swollen with white exudate. There is no conjunctivitis.\nWhich organism is most likely responsible?",
+   "o": [
+    "Staphylococcus aureus",
+    "Epstein-Barr virus",
+    "Streptococcus pyogenes",
+    "Human herpesvirus 6",
+    "Measles virus"
+   ],
+   "a": 2,
+   "e": "Scarlet fever is caused by toxin-producing group A Streptococcus (Streptococcus pyogenes), usually with pharyngitis in children aged 5–15 years. The sandpaper rash, Pastia lines in skin creases and circumoral pallor are characteristic. EBV causes exudative tonsillitis but not this rash, except after amoxicillin.",
+   "w": [
+    "Wrong - Staphylococcus aureus causes toxic shock syndrome or scalded skin syndrome, not exudative tonsillitis with a sandpaper rash.",
+    "Wrong - EBV causes exudative tonsillitis but not a sandpaper rash with Pastia lines.",
+    "Correct - group A Streptococcus pharyngitis with an erythrogenic toxin causes scarlet fever.",
+    "Wrong - HHV-6 causes roseola in infants, with a rash after the fever settles.",
+    "Wrong - measles has the 3 Cs and Koplik spots with a blotchy maculopapular rash."
+   ],
+   "r": "Slides p46-47"
+  },
+  {
+   "t": "SCAR",
+   "stem": "An 8-year-old boy weighing 25 kg has exudative tonsillitis, a sandpaper rash and a strawberry tongue. A rapid streptococcal antigen test is positive. He has no drug allergies and is drinking adequately.\nWhat is the most appropriate treatment?",
+   "o": [
+    "Oral penicillin V for 10 days",
+    "Oral penicillin V for 5 days",
+    "Oral cloxacillin for 7 days",
+    "Oral ciprofloxacin for 7 days",
+    "Symptomatic care, no antibiotic"
+   ],
+   "a": 0,
+   "e": "Group A streptococcal pharyngitis and scarlet fever are treated with phenoxymethylpenicillin (or amoxicillin) for a full 10 days to eradicate the organism from the pharynx and prevent acute rheumatic fever. Erythromycin or another macrolide is used if he is allergic to penicillin.",
+   "w": [
+    "Correct - a 10-day course of penicillin V eradicates GAS and prevents rheumatic fever.",
+    "Wrong - 5 days is too short to reliably eradicate pharyngeal GAS.",
+    "Wrong - cloxacillin is anti-staphylococcal and is not first-line for GAS.",
+    "Wrong - ciprofloxacin has poor streptococcal activity and is not used in children for this.",
+    "Wrong - antibiotics are needed to prevent complications and reduce spread."
+   ],
+   "r": "Slide p48"
+  },
+  {
+   "t": "SCAR",
+   "stem": "A mother brings her 9-year-old daughter, who is on day 3 of penicillin V for scarlet fever. The fever has gone and the girl feels well. The mother wants to stop the medicine to avoid 'too many antibiotics'.\nWhat is the main reason to complete the full 10-day course?",
+   "o": [
+    "To prevent post-streptococcal glomerulonephritis",
+    "To stop the rash from coming back",
+    "To prevent acute rheumatic fever",
+    "To prevent penicillin resistance in GAS",
+    "To shorten the infectious period"
+   ],
+   "a": 2,
+   "e": "A full 10-day course eradicates group A Streptococcus from the pharynx and prevents acute rheumatic fever if started within 9 days of onset. Antibiotics do not reliably prevent post-streptococcal glomerulonephritis, which is the trap. Infectivity is already low after 24 hours of antibiotics.",
+   "w": [
+    "Wrong - antibiotic treatment does not reliably prevent post-streptococcal glomerulonephritis.",
+    "Wrong - the rash fades and peels regardless; preventing its recurrence is not the reason.",
+    "Correct - completing 10 days eradicates GAS and prevents acute rheumatic fever.",
+    "Wrong - GAS remains universally penicillin-sensitive.",
+    "Wrong - infectivity falls within 24 hours of starting antibiotics; the long course is for eradication."
+   ],
+   "r": "Slide p48"
+  },
+  {
+   "t": "SCAR",
+   "stem": "A 9-year-old boy had a sore throat and a rough red rash 2 weeks ago that was not treated. He now has puffy eyes in the mornings, reduced urine output and cola-coloured urine. BP 130/85 mmHg. Urine dipstick shows blood 3+ and protein 1+.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Acute rheumatic fever",
+    "IgA nephropathy",
+    "Haemolytic uraemic syndrome",
+    "Nephrotic syndrome",
+    "Acute post-streptococcal GN"
+   ],
+   "a": 4,
+   "e": "Post-streptococcal glomerulonephritis follows group A streptococcal pharyngitis by about 1–3 weeks, causing haematuria, oedema, hypertension and oliguria. IgA nephropathy causes haematuria within 1–2 days of an upper respiratory infection (synpharyngitic). An ASO titre and low C3 support the diagnosis.",
+   "w": [
+    "Wrong - rheumatic fever presents with arthritis, carditis or chorea 2–4 weeks after GAS pharyngitis, not nephritis.",
+    "Wrong - IgA nephropathy causes haematuria at the same time as the throat infection, not 2 weeks later.",
+    "Wrong - HUS follows bloody diarrhoea, with haemolytic anaemia and thrombocytopenia.",
+    "Wrong - nephrotic syndrome causes heavy proteinuria and oedema without marked haematuria or hypertension.",
+    "Correct - nephritic syndrome 1–3 weeks after streptococcal pharyngitis is post-streptococcal glomerulonephritis."
+   ],
+   "r": "Slide p48"
+  },
+  {
+   "t": "SCAR",
+   "stem": "A 6-year-old boy started amoxicillin for scarlet fever yesterday afternoon. Today, after 24 hours of treatment, he is afebrile and eating. His parents both work and ask when he can return to school.\nWhat is the correct advice?",
+   "o": [
+    "Only after the full 10-day course is complete",
+    "After 24 hours of antibiotics if he is improving",
+    "Once the skin has finished peeling",
+    "After a negative repeat throat swab",
+    "Once he has been afebrile for 48 hours"
+   ],
+   "a": 1,
+   "e": "Children with scarlet fever may return to school or daycare after completing 24 hours of antibiotics, provided they are clinically improving, because infectivity falls rapidly with treatment. Skin peeling can continue for weeks and is not infectious. Hand and environmental hygiene should be reinforced.",
+   "w": [
+    "Wrong - he does not need to finish the course before returning; infectivity falls within 24 hours.",
+    "Correct - return is allowed after 24 hours of antibiotics if he is clinically improving.",
+    "Wrong - desquamation can last weeks and is not a marker of infectivity.",
+    "Wrong - a test of cure is not required for return to school.",
+    "Wrong - the criterion is 24 hours of antibiotics plus clinical improvement, not 48 hours without fever."
+   ],
+   "r": "Slide p48"
+  },
+  {
+   "t": "TSS",
+   "stem": "A 22-year-old woman on day 3 of her period, using tampons, presents with sudden high fever (39.8°C), vomiting, watery diarrhoea and confusion. She has a diffuse, blanching, sunburn-like erythema over her trunk and limbs. BP 80/50 mmHg, pulse 130/min. There is no petechial rash or neck stiffness.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Meningococcaemia",
+    "Scarlet fever",
+    "Stevens-Johnson syndrome",
+    "Toxic shock syndrome",
+    "Dengue shock syndrome"
+   ],
+   "a": 3,
+   "e": "Toxic shock syndrome is a toxin-mediated illness, usually from Staphylococcus aureus, with sudden high fever, a diffuse sunburn-like erythroderma, hypotension and multi-organ involvement (GI, CNS). Tampon use, nasal packing and wound infection are classic risk factors, and desquamation follows 1–2 weeks later.",
+   "w": [
+    "Wrong - meningococcaemia typically has a non-blanching petechial or purpuric rash.",
+    "Wrong - scarlet fever has a sandpaper rash with pharyngitis and rarely causes shock.",
+    "Wrong - SJS causes painful dusky macules, blisters and mucosal erosions after a drug.",
+    "Correct - tampon use with fever, sunburn-like rash, hypotension and GI and CNS involvement is toxic shock syndrome.",
+    "Wrong - dengue shock occurs at defervescence after several days of fever, not with an erythroderma."
+   ],
+   "r": "Slide p49"
+  },
+  {
+   "t": "TSS",
+   "stem": "A 19-year-old woman is brought to a Klinik Kesihatan on day 4 of her menstrual period. She has had sudden fever, vomiting and diarrhoea since this morning and is now drowsy. She has a diffuse, blanching, sunburn-like erythema. Temperature 40.1°C, BP 78/40 mmHg, pulse 138/min, SpO2 95% on room air. She confirms she is still wearing a tampon. Oxygen is started and two large-bore IV cannulae are inserted.\nWhat is the best next step?",
+   "o": [
+    "Start oral cloxacillin and review her in clinic within 24 hours",
+    "Give IM hydrocortisone and promethazine, then observe for 2 hours",
+    "Remove the tampon, give an IV crystalloid bolus and transfer urgently",
+    "Send blood cultures and FBC and start antibiotics once results return",
+    "Give oral paracetamol and refer to the dermatology clinic tomorrow"
+   ],
+   "a": 2,
+   "e": "Suspected toxic shock syndrome is an emergency: stabilise ABC with oxygen and IV fluids, remove the toxin source (tampon, nasal or wound packing) and arrange urgent hospital transfer with empirical antibiotics. Leaving the tampon in place allows continued toxin production. Antibiotics must never wait for laboratory results in a shocked patient.",
+   "w": [
+    "Wrong - oral antibiotics and outpatient review are unsafe in a hypotensive, drowsy patient.",
+    "Wrong - this treats anaphylaxis; the picture of fever, shock and erythroderma with a tampon is toxin-mediated, not allergic.",
+    "Correct - source removal, fluid resuscitation and urgent transfer are the key primary-care actions in toxic shock.",
+    "Wrong - cultures are useful but antibiotics must not be delayed for results in septic shock.",
+    "Wrong - this misreads the rash as a skin problem and ignores life-threatening shock."
+   ],
+   "r": "Slide p50"
+  },
+  {
+   "t": "TSS",
+   "stem": "A 34-year-old man is seen at a health clinic 4 days after a nasal fracture was treated with nasal packing. He has fever 39.6°C, vomiting, myalgia, confusion and a diffuse macular erythroderma including the palms. BP 82/50 mmHg after a 1 L saline bolus. The packing has been removed and an ambulance is on its way.\nWhich empirical antibiotic combination is most appropriate to start now?",
+   "o": [
+    "Ceftriaxone plus clindamycin",
+    "Ceftriaxone plus doxycycline",
+    "Amoxicillin plus metronidazole",
+    "Benzylpenicillin plus gentamicin",
+    "Azithromycin plus ciprofloxacin"
+   ],
+   "a": 0,
+   "e": "Empirical therapy for toxic shock syndrome combines a broad-spectrum beta-lactam (ceftriaxone) with clindamycin. Clindamycin inhibits bacterial protein synthesis and so switches off toxin production, and it still works when the bacterial load is high and organisms are not dividing. Doxycycline is the drug for rickettsial illness, not toxin-mediated staphylococcal or streptococcal shock.",
+   "w": [
+    "Correct - a beta-lactam plus clindamycin covers S. aureus and group A streptococcus and suppresses toxin production.",
+    "Wrong - doxycycline targets rickettsiae (scrub typhus) and does not suppress staphylococcal toxin.",
+    "Wrong - this covers anaerobes and gut flora, and amoxicillin does not cover most S. aureus.",
+    "Wrong - gentamicin is not used for toxin suppression, and penicillin alone misses most S. aureus.",
+    "Wrong - this combination is not a recommended regimen for toxic shock syndrome."
+   ],
+   "r": "Slide p50"
+  },
+  {
+   "t": "TSS",
+   "stem": "A 24-year-old woman attends a Klinik Kesihatan 11 days after admission for tampon-associated toxic shock syndrome. She completed IV antibiotics and feels well. She is worried because the skin of her palms and soles is now peeling in large sheets. She is afebrile, BP 116/72 mmHg, with no mucosal lesions, no blisters elsewhere and no pain.\nWhat is the most likely explanation for the peeling?",
+   "o": [
+    "Stevens-Johnson syndrome caused by her clindamycin",
+    "Recurrent toxic shock syndrome needing readmission",
+    "Contact dermatitis from hospital antiseptic washes",
+    "Hand eczema triggered by repeated alcohol hand rub",
+    "Normal late desquamation after the toxin rash"
+   ],
+   "a": 4,
+   "e": "Desquamation of the palms and soles typically appears 1–2 weeks after the acute illness in toxic shock syndrome and is part of the expected course, not a new disease. A well, afebrile patient with painless peeling and no mucosal involvement needs reassurance plus advice to avoid tampons because TSS can recur.",
+   "w": [
+    "Wrong - SJS is painful, starts with dusky target lesions and involves mucosa; she is well with painless peeling.",
+    "Wrong - recurrence would bring back fever, rash and hypotension; she is afebrile and normotensive.",
+    "Wrong - contact dermatitis is itchy and inflamed at the contact site rather than sheet-like acral peeling.",
+    "Wrong - eczema is itchy and fissured and does not involve the soles after a single admission.",
+    "Correct - palm and sole desquamation 1–2 weeks after onset is the classic late sign of toxic shock syndrome."
+   ],
+   "r": "Slide p49"
+  },
+  {
+   "t": "MENC",
+   "stem": "A 17-year-old boarding-school student is brought to a Klinik Kesihatan with fever for 6 hours, headache, leg pains and cold hands. There are several purple spots on his thighs that do not fade under a pressed glass. Temperature 39.4°C, pulse 124/min, BP 100/60 mmHg, CRT 3 seconds. The hospital is 40 minutes away by ambulance.\nWhat is the most appropriate immediate action?",
+   "o": [
+    "Take blood cultures first, then refer to hospital by ambulance",
+    "Give benzylpenicillin 2.4 g IV or IM now, then transfer urgently",
+    "Check FBC for platelets before deciding whether to give antibiotics",
+    "Give oral amoxicillin 1 g stat and review him again in 6 hours",
+    "Arrange lumbar puncture in hospital before any antibiotic is given"
+   ],
+   "a": 1,
+   "e": "Fever with a non-blanching rash is meningococcal septicaemia until proven otherwise, and the slides stress that treatment is extremely urgent and should be given before reaching hospital. Benzylpenicillin 2.4 g IV/IM (or ceftriaxone 2 g) is given in the clinic, then the patient is transferred. Investigations, including cultures and lumbar puncture, must never delay the first dose.",
+   "w": [
+    "Wrong - a delay to obtain cultures is not justified; give antibiotics first if cultures cannot be taken immediately.",
+    "Correct - pre-hospital parenteral benzylpenicillin followed by urgent transfer saves lives in meningococcaemia.",
+    "Wrong - a platelet count does not change the decision and wastes time in a rapidly progressive illness.",
+    "Wrong - oral antibiotics and delayed review are dangerous in suspected meningococcal sepsis.",
+    "Wrong - lumbar puncture is contraindicated in septic shock and must never delay antibiotics."
+   ],
+   "r": "Slide p52"
+  },
+  {
+   "t": "MENC",
+   "stem": "A 4-year-old boy weighing 16 kg is seen at a rural Klinik Kesihatan with fever for 8 hours, lethargy, cold peripheries and a spreading non-blanching purpuric rash on his legs. He has no drug allergies. IM benzylpenicillin is to be given before the ambulance transfer.\nWhat is the correct dose?",
+   "o": [
+    "240 mg",
+    "480 mg",
+    "2400 mg",
+    "960 mg",
+    "1600 mg"
+   ],
+   "a": 3,
+   "e": "The pre-hospital benzylpenicillin dose for a child is 60 mg/kg, to a maximum of 2.4 g. For 16 kg this is 16 × 60 = 960 mg. Under-dosing loses precious bactericidal effect, while the adult dose of 2.4 g is only reached at 40 kg.",
+   "w": [
+    "Wrong - 240 mg is only 15 mg/kg, a quarter of the required dose.",
+    "Wrong - 480 mg is 30 mg/kg, half the required dose.",
+    "Wrong - 2400 mg is the adult maximum and is reached only at 40 kg body weight.",
+    "Correct - 60 mg/kg × 16 kg = 960 mg, below the 2.4 g ceiling.",
+    "Wrong - 1600 mg is 100 mg/kg, well above the recommended weight-based dose."
+   ],
+   "r": "Slide p52"
+  },
+  {
+   "t": "MENC",
+   "stem": "A 25-year-old woman shares a flat with a colleague admitted yesterday with confirmed meningococcal septicaemia. She is well. She takes a combined oral contraceptive pill and wears soft contact lenses. You prescribe rifampicin 600 mg twice daily for 2 days as chemoprophylaxis.\nWhich counselling point is most important for her?",
+   "o": [
+    "Take it with milk to reduce the risk of tendon rupture",
+    "Avoid sunlight for 2 weeks because of photosensitivity",
+    "Stop the pill for a month because rifampicin raises oestrogen",
+    "Use condoms too; rifampicin makes the pill less reliable",
+    "Expect a metallic taste and avoid all alcohol for 48 hours"
+   ],
+   "a": 3,
+   "e": "Rifampicin is a potent liver enzyme inducer that lowers oestrogen and progestogen levels, so combined pill users need additional barrier contraception during the course and for 4 weeks afterwards. She should also be warned that urine, tears and sweat turn orange-red and may stain soft contact lenses. The distractors describe side effects of quinolones, doxycycline and metronidazole.",
+   "w": [
+    "Wrong - tendon rupture is a fluoroquinolone (ciprofloxacin) warning, not rifampicin.",
+    "Wrong - photosensitivity is the key warning for doxycycline.",
+    "Wrong - rifampicin lowers, not raises, hormone levels; stopping the pill leaves her unprotected.",
+    "Correct - enzyme induction reduces contraceptive efficacy, so extra barrier protection is needed.",
+    "Wrong - metallic taste and the alcohol reaction belong to metronidazole."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MENC",
+   "stem": "A 2-year-old girl is brought to a health clinic with fever for 7 hours. She cries when her legs are touched and refuses to walk. Her hands and feet are cold and her skin looks mottled. Temperature 39.2°C, heart rate 180/min, CRT 4 seconds. There is a single 2 mm non-blanching spot on her ankle. No cough, no diarrhoea.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Meningococcal septicaemia",
+    "Dengue fever, febrile phase",
+    "Influenza with viral myositis",
+    "Henoch-Schönlein purpura",
+    "Post-viral reactive arthritis"
+   ],
+   "a": 0,
+   "e": "Leg pain, cold hands and feet and abnormal skin colour are early signs of meningococcal sepsis that often appear within the first hours, before the classic purpuric rash spreads. Tachycardia with prolonged CRT means compensated shock. Even a single non-blanching spot in a febrile, unwell child demands immediate parenteral antibiotics and transfer.",
+   "w": [
+    "Correct - early leg pain, cold peripheries, mottling and shock with a non-blanching spot are meningococcal sepsis.",
+    "Wrong - dengue shock occurs at defervescence (around day 3–7), not 7 hours into the fever.",
+    "Wrong - viral myositis does not cause shock, mottling or a non-blanching rash.",
+    "Wrong - HSP gives palpable purpura on buttocks and legs in a usually well, normotensive child.",
+    "Wrong - reactive arthritis follows an infection by weeks and does not cause shock."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "MENC",
+   "stem": "A 45-year-old man with well-controlled hypertension visits a Klinik Kesihatan to prepare for Umrah in 6 weeks. He received no vaccines as an adult. He asks which vaccine Saudi Arabia requires for pilgrims.\nWhich vaccine is mandatory?",
+   "o": [
+    "Meningococcal B (MenB) vaccine",
+    "Typhoid Vi polysaccharide vaccine",
+    "Meningococcal ACWY conjugate vaccine",
+    "Monovalent meningococcal C vaccine",
+    "Yellow fever live attenuated vaccine"
+   ],
+   "a": 2,
+   "e": "Saudi Arabia requires proof of quadrivalent meningococcal ACWY vaccination for Hajj and Umrah pilgrims, given at least 10 days before arrival. MenB and MenACWY are separate vaccines covering different serogroups, so MenB does not satisfy the requirement. Yellow fever is required only for travellers from endemic countries.",
+   "w": [
+    "Wrong - MenB covers serogroup B only and is not the pilgrimage requirement.",
+    "Wrong - typhoid vaccine is advisable for some travellers but is not mandatory for Umrah.",
+    "Correct - MenACWY is the mandatory vaccine for Hajj and Umrah pilgrims.",
+    "Wrong - MenC alone misses serogroups A, W and Y, which caused Hajj-related outbreaks.",
+    "Wrong - yellow fever is required only for travellers from endemic countries, not Malaysia."
+   ],
+   "r": "Slide p52"
+  },
+  {
+   "t": "MENC",
+   "stem": "A 20-year-old university student was admitted last night with confirmed meningococcal septicaemia. The district health office asks you to identify contacts at a Klinik Kesihatan. Several people are worried and attend today; all are well.\nWhich person most clearly needs antibiotic chemoprophylaxis?",
+   "o": [
+    "The ambulance driver who transported him to hospital",
+    "The clinic nurse who measured his blood pressure",
+    "A classmate who sat across the lecture hall from him",
+    "A colleague who met him briefly in an office last week",
+    "His girlfriend, who kissed him 2 days before onset"
+   ],
+   "a": 4,
+   "e": "Chemoprophylaxis is for close contacts with prolonged or intimate exposure to oral secretions in the 7 days before illness onset: household and dormitory contacts and kissing contacts. Casual contacts and most healthcare workers do not need it unless directly exposed to respiratory secretions (for example during intubation without a mask). Give it as soon as possible, ideally within 24 hours.",
+   "w": [
+    "Wrong - transporting a patient is casual contact without secretion exposure.",
+    "Wrong - routine examination is not an indication; only direct airway secretion exposure is.",
+    "Wrong - sitting in the same lecture hall is casual contact.",
+    "Wrong - a brief meeting is casual contact and carries no significant risk.",
+    "Correct - kissing contacts in the 7 days before onset are close contacts needing prophylaxis."
+   ],
+   "r": "Slide p52"
+  },
+  {
+   "t": "SJS",
+   "stem": "A 32-year-old man attends a Klinik Kesihatan. He started carbamazepine from a private clinic 3 weeks ago for trigeminal neuralgia. Two days of fever, sore throat and malaise were followed by painful dusky red macules with dark centres on his trunk, erosions of the lips and mouth, and red eyes. Gentle lateral pressure shears off the epidermis. Detached skin is estimated at about 5% of body surface area.\nWhich diagnosis best fits?",
+   "o": [
+    "Erythema multiforme major",
+    "Stevens-Johnson syndrome",
+    "SJS/TEN overlap syndrome",
+    "Toxic epidermal necrolysis",
+    "Scalded skin syndrome (SSSS)"
+   ],
+   "a": 1,
+   "e": "Drug exposure 1–4 weeks earlier, a flu-like prodrome, painful dusky macules, mucosal erosions at two or more sites and a positive Nikolsky sign indicate epidermal necrolysis. Classification is by detached body surface area: SJS below 10%, overlap 10–30% and TEN above 30%. Erythema multiforme major has typical raised acral targets, is usually HSV-triggered and lacks widespread detachment.",
+   "w": [
+    "Wrong - EM major has typical acral target lesions, usually follows HSV and does not cause Nikolsky-positive detachment.",
+    "Correct - a drug-triggered mucocutaneous reaction with detachment under 10% BSA is SJS.",
+    "Wrong - overlap requires 10–30% BSA detachment.",
+    "Wrong - TEN requires more than 30% BSA detachment.",
+    "Wrong - SSSS affects young children, spares mucosa and is toxin-mediated, not drug-induced."
+   ],
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "stem": "A 58-year-old man with gout was started on allopurinol 300 mg daily 2 weeks ago. He presents to a Klinik Kesihatan with 2 days of fever and sore throat, followed by painful dusky macules with blistering on his chest, oral erosions and gritty red eyes. Nikolsky sign is positive. Temperature 38.6°C, BP 118/76 mmHg, pulse 104/min.\nWhat is the best next step?",
+   "o": [
+    "Continue allopurinol, add oral prednisolone and review in 3 days",
+    "Stop allopurinol at once and refer urgently to hospital",
+    "Keep allopurinol until a skin biopsy confirms the diagnosis",
+    "Switch allopurinol to febuxostat and give oral cetirizine",
+    "Give IM chlorpheniramine and discharge with calamine lotion"
+   ],
+   "a": 1,
+   "e": "In suspected SJS/TEN the single most important step is to stop the suspected drug immediately, then refer urgently for supportive care in hospital (ICU or burns unit with dermatology and ophthalmology input). Delay in withdrawing the culprit worsens prognosis. Investigations such as skin biopsy must not delay referral, and antihistamines or calamine treat urticaria, not epidermal necrolysis.",
+   "w": [
+    "Wrong - continuing the culprit drug allows the reaction to progress; steroids do not replace drug withdrawal.",
+    "Correct - immediate withdrawal of the culprit and urgent hospital referral are the key steps.",
+    "Wrong - biopsy confirms full-thickness necrosis but must never delay stopping the drug or referral.",
+    "Wrong - starting a new urate-lowering drug during an acute reaction is inappropriate, and antihistamines do not help.",
+    "Wrong - this treats a mild allergic rash and dangerously underestimates a mucocutaneous emergency."
+   ],
+   "r": "Slide p55"
+  },
+  {
+   "t": "SJS",
+   "stem": "A 26-year-old woman of Chinese ethnicity has newly diagnosed focal epilepsy. The neurologist plans to start carbamazepine and she visits a Klinik Kesihatan for pre-treatment blood tests. She has no drug allergies.\nWhich test is most important before the first dose to prevent a severe cutaneous reaction?",
+   "o": [
+    "Baseline serum carbamazepine level",
+    "Liver function tests and albumin",
+    "HLA-B*5801 genotype screening",
+    "HLA-B*1502 genotype screening",
+    "Skin patch test with carbamazepine"
+   ],
+   "a": 3,
+   "e": "HLA-B*1502 is strongly associated with carbamazepine-induced SJS/TEN in Asian populations, including Han Chinese and Malays, so screening is recommended before starting carbamazepine; carriers should receive an alternative drug. HLA-B*5801 is the allele linked to allopurinol reactions. Patch testing is not a reliable predictor before first exposure.",
+   "w": [
+    "Wrong - a drug level is meaningless before the drug is started and does not predict hypersensitivity.",
+    "Wrong - liver tests are reasonable baseline monitoring but do not predict SJS risk.",
+    "Wrong - HLA-B*5801 predicts allopurinol hypersensitivity, not carbamazepine.",
+    "Correct - HLA-B*1502 carriers have a high risk of carbamazepine-induced SJS/TEN.",
+    "Wrong - patch testing is not validated to predict SJS risk before the drug is ever taken."
+   ],
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "stem": "A 9-year-old boy has had a dry cough and low-grade fever for 8 days; his chest X-ray shows patchy bilateral infiltrates. Over 2 days he has developed severe painful erosions of the lips and mouth, bilateral conjunctivitis and a few target-like lesions on his trunk. He has taken only paracetamol. There are no vesicles on the hands or feet and no Koplik spots.\nWhat is the most likely trigger of his mucocutaneous reaction?",
+   "o": [
+    "Mycoplasma pneumoniae",
+    "Streptococcus pyogenes",
+    "Staphylococcus aureus",
+    "Measles (rubeola) virus",
+    "Coxsackievirus A16"
+   ],
+   "a": 0,
+   "e": "Besides drugs, infections can trigger SJS, and Mycoplasma pneumoniae is the commonest infective trigger in children, followed by HSV. An atypical pneumonia with dry cough and infiltrates followed by prominent mucositis and sparse skin lesions is the typical pattern. HFMD causes oral ulcers with hand and foot vesicles, and measles causes conjunctivitis with Koplik spots and a descending rash.",
+   "w": [
+    "Correct - Mycoplasma atypical pneumonia is the leading infective trigger of SJS in children.",
+    "Wrong - group A streptococcus causes scarlet fever and pharyngitis, not mucositis with atypical pneumonia.",
+    "Wrong - S. aureus causes toxin-mediated SSSS or TSS without severe mucosal erosions.",
+    "Wrong - measles gives coryza, Koplik spots and a descending maculopapular rash.",
+    "Wrong - coxsackie A16 causes HFMD with hand and foot vesicles, which are absent here."
+   ],
+   "r": "Slide p54"
+  },
+  {
+   "t": "SJS",
+   "stem": "A 40-year-old woman is diagnosed at a Klinik Kesihatan with a cotrimoxazole-induced mucocutaneous reaction: dusky target lesions with blistering on 6% of body surface area, oral erosions and bilateral red, painful eyes with discharge and photophobia. The drug has been stopped and an ambulance is arranged.\nWhich specialist assessment should the referral letter request most urgently?",
+   "o": [
+    "Dermatology patch testing to confirm the drug",
+    "Skin biopsy to be done before she is admitted",
+    "HLA-B*1502 genotyping to guide future drugs",
+    "Rheumatology review for an autoimmune screen",
+    "Ophthalmology assessment of the eye involvement"
+   ],
+   "a": 4,
+   "e": "Ocular involvement in SJS/TEN can lead to corneal scarring, symblepharon and blindness, so urgent ophthalmology assessment is needed whenever the eyes are involved. Patch testing is done only after recovery, and biopsy must not delay referral. Genetic testing does not change acute management.",
+   "w": [
+    "Wrong - patch testing is a post-recovery tool and has no role in the acute phase.",
+    "Wrong - biopsy is done in hospital and must never delay transfer.",
+    "Wrong - HLA testing is a pre-prescribing screen for carbamazepine, not acute care.",
+    "Wrong - an autoimmune screen does not address the threat to her vision.",
+    "Correct - eye involvement needs urgent ophthalmology input to prevent scarring and blindness."
+   ],
+   "r": "Slide p55"
+  },
+  {
+   "t": "KAW",
+   "stem": "A 3-year-old boy is seen at a Klinik Kesihatan with fever for 6 days despite paracetamol. He is very irritable. He has bilateral non-purulent conjunctival injection sparing the limbus, red cracked lips with a red bumpy tongue, a polymorphous rash on the trunk and swollen, red hands and feet. No cough or coryza, no Koplik spots. A rapid strep test is negative.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Measles",
+    "Scarlet fever",
+    "Kawasaki disease",
+    "Adenovirus infection",
+    "Toxic shock syndrome"
+   ],
+   "a": 2,
+   "e": "Fever for 5 days or more with at least 4 of the 5 CRASH features (Conjunctivitis, Rash, Adenopathy, Strawberry tongue and mucosal changes, Hand and foot changes) meets the criteria for Kawasaki disease; this child has 4. The look-alikes are excluded by the absence of coryza and Koplik spots (measles), a negative strep test (scarlet fever) and normal blood pressure (TSS). Note: the slide writes fever >5 days; the standard criterion is 5 days or more.",
+   "w": [
+    "Wrong - measles has cough, coryza, Koplik spots and a rash starting behind the ears.",
+    "Wrong - scarlet fever shows a sandpaper rash with exudative pharyngitis and a positive strep test.",
+    "Correct - 6 days of fever plus 4 CRASH features is classic Kawasaki disease.",
+    "Wrong - adenovirus gives exudative conjunctivitis and pharyngitis but not hand and foot changes.",
+    "Wrong - TSS presents with hypotension and erythroderma, and he is not shocked."
+   ],
+   "r": "Slide p58"
+  },
+  {
+   "t": "KAW",
+   "stem": "An 8-month-old girl is brought to a health clinic with fever for 7 days and marked irritability. She has bilateral non-purulent conjunctival injection and a faint maculopapular rash, but no lip, hand, foot or lymph node changes. Blood tests: WBC 18 × 10⁹/L, platelets 560 × 10⁹/L, CRP 110 mg/L, albumin 28 g/L; urine microscopy shows sterile pyuria.\nWhat is the best next step?",
+   "o": [
+    "Refer urgently to paediatrics for assessment and echocardiogram",
+    "Reassure the mother, as she does not meet 4 of the 5 criteria",
+    "Treat the pyuria as a UTI with oral cefuroxime for 7 days",
+    "Repeat the FBC and CRP at the clinic in 1 week to see the trend",
+    "Start high-dose oral aspirin at the clinic and review in 2 days"
+   ],
+   "a": 0,
+   "e": "Incomplete Kawasaki disease, with fewer than 4 principal features, is most common in infants under 12 months, who also have the highest risk of coronary aneurysm. Unexplained prolonged fever with raised inflammatory markers, thrombocytosis, low albumin and sterile pyuria should prompt urgent paediatric referral with a low threshold for echocardiography. Delayed diagnosis leads to late IVIG and more coronary complications.",
+   "w": [
+    "Correct - suspected incomplete KD in an infant needs urgent paediatric review and echocardiography.",
+    "Wrong - infants often have incomplete KD; failing to meet 4 criteria does not exclude it.",
+    "Wrong - sterile pyuria is a known feature of KD, and treating it as UTI delays the diagnosis.",
+    "Wrong - waiting a week risks missing the window for IVIG and coronary protection.",
+    "Wrong - aspirin is started alongside IVIG in hospital after diagnosis, not alone at the clinic."
+   ],
+   "r": "Slide p60"
+  },
+  {
+   "t": "KAW",
+   "stem": "A 4-year-old boy weighing 18 kg is admitted on day 6 of fever and meets the criteria for classic Kawasaki disease. His first echocardiogram shows no coronary abnormality. The ward medical officer asks for the first-line regimen according to the Paediatric Protocols for Malaysian Hospitals.\nWhich regimen is correct?",
+   "o": [
+    "IVIG 400 mg/kg daily for 5 days plus aspirin 3–5 mg/kg/day",
+    "Oral prednisolone 2 mg/kg/day alone, with aspirin avoided",
+    "IVIG 2 g/kg over 10–12 hours plus aspirin 30–50 mg/kg/day",
+    "IVIG 2 g/kg over 10–12 hours plus ibuprofen 10 mg/kg tds",
+    "IV methylprednisolone 30 mg/kg plus aspirin 3–5 mg/kg/day"
+   ],
+   "a": 2,
+   "e": "First-line treatment is a single IVIG infusion of 2 g/kg over 10–12 hours, ideally within 10 days of onset, together with anti-inflammatory aspirin 30–50 mg/kg/day in divided doses. Kawasaki disease is the key exception to the rule of avoiding aspirin in children. Ibuprofen should be avoided because it blocks aspirin’s antiplatelet effect, and steroids are reserved for IVIG resistance.",
+   "w": [
+    "Wrong - divided 5-day IVIG is not the standard regimen, and 3–5 mg/kg/day is the later antiplatelet dose.",
+    "Wrong - steroids are not first line and aspirin is specifically indicated in KD.",
+    "Correct - single-dose IVIG 2 g/kg plus high-dose aspirin is first-line therapy.",
+    "Wrong - ibuprofen antagonises aspirin’s antiplatelet effect and is not part of KD treatment.",
+    "Wrong - pulsed steroids are reserved for IVIG-resistant disease, not first-line use."
+   ],
+   "r": "Slide p62"
+  },
+  {
+   "t": "KAW",
+   "stem": "A 2-year-old girl with Kawasaki disease received IVIG 2 g/kg and has been on aspirin 40 mg/kg/day in divided doses. Her fever settled 3 days ago and she is now eating well. Her echocardiogram is normal.\nWhen should her aspirin be reduced to the low antiplatelet dose of 3–5 mg/kg/day?",
+   "o": [
+    "As soon as the IVIG infusion has finished",
+    "Only after a fixed 14-day course at high dose",
+    "Once the platelet count has fully normalised",
+    "After a normal echocardiogram at 6–8 weeks",
+    "At 48–72 hours after the fever has settled"
+   ],
+   "a": 4,
+   "e": "Anti-inflammatory aspirin (30–50 mg/kg/day) is started with IVIG and reduced to antiplatelet aspirin (3–5 mg/kg/day) 48–72 hours after defervescence. The low dose then continues for 6–8 weeks or until ESR and platelets normalise, whichever is later, and indefinitely or until resolution if coronary lesions are present. Platelets rise in the subacute phase, so waiting for them to normalise would prolong high-dose exposure.",
+   "w": [
+    "Wrong - the fever may persist after IVIG and high-dose aspirin is still needed for inflammation.",
+    "Wrong - the switch is guided by defervescence, not a fixed 14-day period.",
+    "Wrong - thrombocytosis peaks in the subacute phase; platelet normalisation guides stopping low-dose aspirin, not the switch.",
+    "Wrong - the 6–8 week echo guides stopping low-dose aspirin, not when to reduce the high dose.",
+    "Correct - aspirin is stepped down to 3–5 mg/kg/day 48–72 hours after defervescence."
+   ],
+   "r": "Slide p62"
+  },
+  {
+   "t": "KAW",
+   "stem": "A mother brings her 11-month-old son to a Klinik Kesihatan for his scheduled MMR dose next week. Six weeks ago he was treated in hospital for Kawasaki disease with IVIG 2 g/kg and aspirin; he is now well and his echo is normal. His other immunisations are up to date.\nWhat is the most appropriate advice about his MMR vaccine?",
+   "o": [
+    "Give the MMR vaccine next week as scheduled",
+    "Delay it 4 weeks, then give the MMR vaccine",
+    "Omit the MMR vaccine permanently after IVIG",
+    "Delay MMR until at least 11 months after IVIG",
+    "Give a double dose of MMR vaccine next week"
+   ],
+   "a": 3,
+   "e": "High-dose IVIG contains antibodies that neutralise live attenuated viral vaccines such as MMR and varicella, so these should be delayed for at least 11 months after IVIG. Inactivated vaccines on the schedule can be given as normal. The child is not contraindicated permanently, and a larger dose does not overcome the passive antibody.",
+   "w": [
+    "Wrong - IVIG antibodies would neutralise the live vaccine and the dose may fail.",
+    "Wrong - 4 weeks is far too short for passively acquired antibodies to wane after 2 g/kg IVIG.",
+    "Wrong - the vaccine is only postponed, not contraindicated permanently.",
+    "Correct - live vaccines are delayed for at least 11 months after high-dose IVIG.",
+    "Wrong - doubling the dose does not overcome passive antibody and is not recommended."
+   ],
+   "r": "Slide p62"
+  },
+  {
+   "t": "KAW",
+   "stem": "A 5-year-old boy is discharged after treatment for Kawasaki disease. His echocardiogram at diagnosis was normal. His mother asks the Klinik Kesihatan doctor whether more heart scans are needed, because he now seems completely well.\nWhen should follow-up echocardiograms be done?",
+   "o": [
+    "None are needed if the first echo was normal",
+    "At 2–3 weeks and 6–8 weeks after onset",
+    "Only if chest pain or breathlessness occur",
+    "Every month for a year, then once a year",
+    "At 6 months and 12 months after discharge"
+   ],
+   "a": 1,
+   "e": "Coronary aneurysms usually develop in the subacute phase (2–4 weeks), so a normal echo at diagnosis does not exclude them. Transthoracic echocardiography is done at diagnosis, at 2–3 weeks and at 6–8 weeks after onset. Aneurysms are often silent until thrombosis causes myocardial infarction, so waiting for symptoms is unsafe.",
+   "w": [
+    "Wrong - aneurysms form in the subacute phase and can be missed by the first echo.",
+    "Correct - the protocol repeats echo at 2–3 weeks and 6–8 weeks after onset.",
+    "Wrong - aneurysms are usually silent until thrombosis, so symptom-triggered scans are too late.",
+    "Wrong - monthly scans for a year are unnecessary when the scheduled echoes are normal.",
+    "Wrong - these timings miss the subacute window when aneurysms develop."
+   ],
+   "r": "Slide p61"
+  }
+ ]
+}

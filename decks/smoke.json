@@ -1,0 +1,3081 @@
+{
+ "id": "smoke",
+ "title": "Smoking Cessation",
+ "short": "Smoking",
+ "emoji": "🚭",
+ "source": "L5 Smoking Cessation.pptx.pdf",
+ "topics": {
+  "EPI": "Epidemiology, cigarette content & WHO MPOWER",
+  "HARM": "Smoking-related disease & benefits of quitting",
+  "NIC": "Nicotine pharmacology & addiction",
+  "BI": "Brief intervention (5A, 3A, ABC) & stages of change",
+  "FTND": "Fagerström test, assessment & withdrawal",
+  "UNW": "5R approach for smokers unwilling to quit",
+  "BEH": "Behavioural intervention & Malaysian quit services",
+  "NRT": "Nicotine replacement therapy",
+  "NNP": "Varenicline, bupropion & nortriptyline",
+  "SPEC": "Special populations",
+  "ECIG": "E-cigarettes & EVALI",
+  "ISL": "Islamic perspective"
+ },
+ "cards": [
+  {
+   "t": "EPI",
+   "q": "According to WHO, how many deaths does tobacco cause each year worldwide, and how many are from second-hand smoke?",
+   "a": "• About **8 million deaths per year** from tobacco\n• **Over 1 million** of these are non-smokers exposed to **second-hand smoke**\n• Up to half of long-term users die from a tobacco-related disease",
+   "m": "8 million a year = roughly one tobacco death every 4 seconds.",
+   "r": "Slide p4"
+  },
+  {
+   "t": "EPI",
+   "q": "What proportion of all cancer deaths globally is attributed to tobacco use?",
+   "a": "• **25%** (one in four) of all cancer deaths globally (WHO)\n• Non-smokers exposed to second-hand smoke are also at risk of **lung cancer**",
+   "m": "One in four cancer deaths has a cigarette behind it.",
+   "r": "Slide p4"
+  },
+  {
+   "t": "EPI",
+   "q": "What are the main adult health risks of second-hand smoke exposure in non-smokers?",
+   "a": "• **Lung cancer** in never-smokers (WHO slide fact)\n• Coronary heart disease and stroke\n• Contributes to the **>1 million** annual deaths from second-hand smoke\n• There is **no safe level** of exposure – ventilation and opening windows do not remove the risk",
+   "m": "Second-hand smoke: the non-smoker pays the smoker's bill.",
+   "r": "Slide p4"
+  },
+  {
+   "t": "EPI",
+   "q": "What was the prevalence of current smoking among Malaysian adults in NHMS 2019?",
+   "a": "• **21.3%** of Malaysians aged **15 years and above** were current smokers\n• About **4.8 million** people",
+   "m": "NHMS 2019: 21.3% ≈ one in five adults, 4.8 million smokers.",
+   "r": "Slide p5"
+  },
+  {
+   "t": "EPI",
+   "q": "How does smoking prevalence differ between Malaysian men and women (NHMS 2019)?",
+   "a": "• **Male 40.5%** vs **female 1.2%**\n• Smoking in Malaysia is overwhelmingly a male behaviour – ask every adult man about tobacco use at every visit\n• Still ask women: low prevalence does not mean zero, and pregnancy makes it high-stakes",
+   "m": "Men 40, women 1 – about 2 in 5 Malaysian men smoke.",
+   "r": "Slide p5"
+  },
+  {
+   "t": "EPI",
+   "q": "What was the adult smoking prevalence in Malaysia in NHMS 2023, and how does it compare with 2019?",
+   "a": "• NHMS 2023: about **19%** of adults are smokers\n• Down from **21.3%** in NHMS 2019 – a slow fall, so most smokers remain untreated",
+   "r": "Slide p5"
+  },
+  {
+   "t": "EPI",
+   "q": "What proportion of current Malaysian smokers attempted to quit in the past 12 months (NHMS 2019), and what is the clinical implication?",
+   "a": "• **Less than half** of current smokers made a quit attempt in the last 12 months\n• Implication: clinicians must **ask and advise opportunistically** at every consultation rather than wait for the patient to raise it",
+   "m": "Most smokers will not walk in asking – every contact counts.",
+   "r": "Slide p5"
+  },
+  {
+   "t": "EPI",
+   "q": "What is the greatest preventable cause of death, and which component of tobacco causes addiction?",
+   "a": "• **Tobacco use** is the greatest preventable cause of death\n• **Nicotine** is the drug in tobacco that causes **addiction**\n• Disease is caused mainly by the other components (tar, carbon monoxide, toxins), not nicotine",
+   "m": "People smoke for the nicotine but die from the tar and CO.",
+   "r": "Slide p7"
+  },
+  {
+   "t": "EPI",
+   "q": "What are the three main harmful components of cigarette smoke and what does each do?",
+   "a": "• **Nicotine** – addiction; sympathetic stimulation\n• **Tar** – contains carcinogens (e.g. polycyclic aromatic hydrocarbons, nitrosamines) → cancers, airway damage\n• **Carbon monoxide** – binds haemoglobin → reduced oxygen delivery, cardiovascular damage\n• Smoke contains about **7,000 chemicals**, at least **70 known carcinogens**",
+   "m": "N-T-C: Nicotine hooks, Tar cancers, CO chokes.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "EPI",
+   "q": "Name some toxic chemicals in cigarette smoke with everyday comparisons useful when counselling patients.",
+   "a": "• **Ammonia** – toilet cleaner\n• **Formaldehyde** – used to preserve dead bodies\n• **Arsenic** – rat poison\n• **Hydrogen cyanide** – poison gas\n• **Cadmium** – batteries; **acetone** – nail polish remover\n• **Carbon monoxide** – car exhaust; **polonium-210** – radioactive",
+   "m": "'You would not drink toilet cleaner or rat poison – why inhale them 20 times a day?'",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "EPI",
+   "q": "How does carbon monoxide in cigarette smoke harm the body?",
+   "a": "• CO binds haemoglobin with about **200–250 times** the affinity of oxygen → **carboxyhaemoglobin**\n• Reduces oxygen delivery → tissue hypoxia, extra cardiac work\n• Damages endothelium → atherosclerosis\n• Chronic hypoxia → **secondary polycythaemia**\n• Pulse oximetry over-reads because it cannot distinguish carboxyhaemoglobin",
+   "m": "CO is a seat-stealer: it sits on haemoglobin's oxygen seat and will not get up.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "EPI",
+   "q": "Since when has Malaysia been a party to the WHO Framework Convention on Tobacco Control (FCTC)?",
+   "a": "• Since **2005**\n• The WHO FCTC uses the **MPOWER** package of measures for tobacco control and cessation",
+   "r": "Slide p7"
+  },
+  {
+   "t": "EPI",
+   "q": "What does each letter of the WHO MPOWER package stand for?",
+   "a": "• **M** – Monitor tobacco use and prevention policies\n• **P** – Protect people from **tobacco smoke**\n• **O** – Offer help to quit tobacco use\n• **W** – Warn about the dangers of tobacco\n• **E** – Enforce bans on tobacco advertising, promotion and sponsorship\n• **R** – Raise taxes on tobacco\n• Note: slide p8 says 'Protect people from tobacco use'; the WHO wording is 'from tobacco **smoke**'",
+   "m": "MPOWER: Monitor, Protect, Offer, Warn, Enforce, Raise taxes.",
+   "r": "Slide p8"
+  },
+  {
+   "t": "EPI",
+   "q": "Which MPOWER component are healthcare providers responsible for?",
+   "a": "• **O – Offer help to quit** tobacco use\n• Delivered through brief intervention (5A/3A/ABC), quit clinics and pharmacotherapy",
+   "m": "Doctors hold the 'O' – the Offer.",
+   "r": "Slide p7"
+  },
+  {
+   "t": "EPI",
+   "q": "Within MPOWER, what do the 'E' and 'R' measures involve, and why is 'R' important?",
+   "a": "• **E** – Enforce bans on tobacco advertising, promotion and sponsorship\n• **R** – Raise taxes on tobacco\n• Tax increases are one of the **most effective** population measures, especially for price-sensitive young people and low-income smokers",
+   "m": "Price up, packs down.",
+   "r": "Slide p8"
+  },
+  {
+   "t": "EPI",
+   "q": "How do you calculate pack-years? Work out Mr Ali's exposure (30 sticks/day for 30 years).",
+   "a": "• **Pack-years = (sticks per day ÷ 20) × years smoked**\n• Mr Ali: (30 ÷ 20) × 30 = **45 pack-years**\n• Used to quantify cumulative risk (e.g. COPD, lung cancer)",
+   "m": "One pack = 20 sticks; one pack a day for one year = 1 pack-year.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "What are the main categories of smoking-related disease?",
+   "a": "• **Cardiovascular** – coronary heart disease, stroke, peripheral arterial disease, aortic aneurysm\n• **Respiratory** – COPD, lung cancer, asthma exacerbations, TB\n• **Cancers** – many sites beyond the lung\n• **Reproductive** – infertility, erectile dysfunction, pregnancy complications\n• **Others** – diabetes, osteoporosis, cataract, periodontal disease, poor wound healing",
+   "m": "Smoking harms almost every organ – head (stroke) to toe (gangrene).",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "Which cancers are causally linked to smoking?",
+   "a": "• **Lung** (about 85% of cases), **oral cavity, pharynx, larynx, oesophagus**\n• **Stomach, pancreas, liver, colorectum**\n• **Kidney and bladder**\n• **Cervix**\n• **Acute myeloid leukaemia**",
+   "m": "Smoke travels: mouth → lungs → blood → kidney → bladder. Cancer follows the path.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "How does smoking cause cardiovascular disease?",
+   "a": "• **Endothelial dysfunction** and oxidative stress\n• **Prothrombotic** state – platelet activation, raised fibrinogen\n• Atherogenic lipids – **lower HDL**, oxidised LDL\n• **Sympathetic stimulation** by nicotine – higher heart rate and BP, coronary vasoconstriction\n• **Carbon monoxide** – reduced oxygen delivery",
+   "m": "Smoking makes blood sticky, vessels narrow and the heart work harder.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "Which vascular disease classically affects young male heavy smokers and how is it managed?",
+   "a": "• **Thromboangiitis obliterans (Buerger's disease)**\n• Inflammatory occlusion of small/medium arteries of hands and feet → claudication, rest pain, digital ulcers, gangrene\n• Typically young (<45) male smokers without other atherosclerotic risk factors\n• **Complete smoking cessation** is the only treatment that halts progression; continued smoking → amputation",
+   "m": "Buerger's: 'Butt' (cigarette) → amputation if it goes on.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "What is the most important cause of COPD, and which intervention best slows lung function decline?",
+   "a": "• **Cigarette smoking** is the main cause of COPD\n• **Smoking cessation** is the intervention proven to slow the accelerated decline in **FEV1**\n• Inhalers relieve symptoms and exacerbations but do not change the smoking-driven decline",
+   "m": "Fletcher–Peto curve: stop smoking and the FEV1 slope returns towards normal.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "What are the complications of smoking in pregnancy?",
+   "a": "• **Miscarriage**, ectopic pregnancy\n• **Placental abruption**, placenta praevia, preterm prelabour rupture of membranes\n• **Fetal growth restriction / low birth weight**, **preterm birth**, stillbirth\n• **Sudden infant death syndrome** after birth\n• Orofacial clefts",
+   "m": "Smoking in pregnancy hits the placenta, the growth and the cot.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "How does smoking affect eligibility for the combined oral contraceptive pill (UKMEC)?",
+   "a": "• Age **≥35 and ≥15 cigarettes/day** → **UKMEC 4** (unacceptable risk)\n• Age ≥35 and <15/day, or stopped <1 year ago → **UKMEC 3**\n• Age <35 smoker → UKMEC 2\n• Offer progestogen-only methods or LARC instead",
+   "m": "35 and 15 = COC is 4-bidden.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "List non-cancer, non-cardiorespiratory conditions caused or worsened by smoking.",
+   "a": "• **Peptic ulcer** (delayed healing), **Crohn's disease** (worse course)\n• **Osteoporosis** and hip fracture\n• **Cataract** and **age-related macular degeneration**\n• **Periodontal disease**, tooth loss\n• **Erectile dysfunction**, reduced fertility\n• **Type 2 diabetes**, psoriasis, Graves' ophthalmopathy, poor wound healing",
+   "m": "Bones, eyes, gums, gut, bedroom – all suffer.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "Smoking worsens Crohn's disease – which inflammatory bowel disease is the notable exception?",
+   "a": "• **Ulcerative colitis** – smokers have lower risk, and some patients flare after quitting\n• This is **never** a reason to start or continue smoking – the overall harms vastly outweigh it\n• Crohn's disease: smoking increases risk, relapse and surgery",
+   "m": "Crohn's loves Cigarettes; UC is Un-Cigaretted (but never prescribe smoking).",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "Why is smoking relevant to tuberculosis control in Malaysia?",
+   "a": "• Smoking increases the risk of **TB infection, active TB, and death from TB**\n• Smokers have more relapse and poorer treatment outcomes\n• Every TB patient who smokes should receive cessation support during treatment",
+   "m": "Smoke damages the lung's cleaners (cilia, macrophages) – TB walks in.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "How does smoking affect diabetes?",
+   "a": "• Increases the risk of developing **type 2 diabetes** (about 30–40% higher)\n• Worsens **insulin resistance** and glycaemic control\n• Accelerates **macrovascular** (MI, stroke, PAD) and **microvascular** (nephropathy, retinopathy) complications\n• Smoking cessation is part of every diabetic review",
+   "m": "Diabetes + smoking = double hit on the arteries.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "When should a smoker stop before elective surgery, and why?",
+   "a": "• Ideally **at least 4 weeks (preferably 6–8) before** surgery\n• Reduces **wound infection**, wound dehiscence, pulmonary and cardiac complications\n• Any period of abstinence helps – CO clears within a day\n• Stay smoke-free throughout recovery",
+   "m": "Four weeks smoke-free = healthier wounds and lungs on the operating table.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "What happens within 20 minutes and within 12 hours of stopping smoking (WHO timeline)?",
+   "a": "• **20 minutes** – heart rate and blood pressure drop\n• **12 hours** – carbon monoxide level in the blood drops to **normal**",
+   "m": "20 minutes for the heart, 12 hours for the CO.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "What benefits occur at 2–12 weeks and 1–9 months after quitting (WHO timeline)?",
+   "a": "• **2–12 weeks** – circulation improves and **lung function increases**\n• **1–9 months** – **coughing and shortness of breath decrease**",
+   "m": "Weeks for circulation, months for cough.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "How is the risk of coronary heart disease reduced at 1 year and 15 years after quitting?",
+   "a": "• **1 year** – CHD risk is about **half** that of a continuing smoker\n• **15 years** – CHD risk is the **same as a non-smoker**",
+   "m": "1 year: half the heart risk; 15 years: heart like a non-smoker.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "How do stroke and lung cancer risks fall after quitting (WHO timeline)?",
+   "a": "• **Stroke** – reduced to that of a non-smoker **5–15 years** after quitting\n• **Lung cancer** – at **10 years**, risk falls to about **half** that of a smoker\n• Risks of mouth, throat, oesophagus, bladder, cervix and pancreas cancers also decrease",
+   "m": "5 for stroke, 10 for lung, 15 for heart.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "How much life expectancy does smoking cost, and does quitting late still help?",
+   "a": "• Lifelong smokers lose about **10 years** of life\n• Quitting **before about 40** avoids around **90%** of the excess risk of death\n• Quitting at **any age** gains life-years – even at 60, about 3 years",
+   "m": "It is never too late, but earlier is better.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "Is quitting worthwhile after a myocardial infarction?",
+   "a": "• Yes – quitting after coronary heart disease reduces **all-cause mortality by about one-third**\n• Benefit is comparable to or greater than many secondary-prevention drugs\n• Cessation support is a core part of cardiac rehabilitation",
+   "m": "After an MI, stopping smoking works like an extra life-saving drug.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "What are the harms of second-hand smoke in children?",
+   "a": "• **Sudden infant death syndrome**\n• **Asthma** onset and exacerbations\n• **Otitis media** (glue ear)\n• **Lower respiratory tract infections** (bronchiolitis, pneumonia)\n• Advise a completely **smoke-free home and car**",
+   "m": "SALO: SIDS, Asthma, LRTI, Otitis media.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "q": "How much does smoking increase the risk of lung cancer?",
+   "a": "• Smokers have about **15–30 times** the lung cancer risk of never-smokers\n• About **85%** of lung cancers are caused by smoking\n• Risk rises with **pack-years** and falls progressively after quitting",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NIC",
+   "q": "Describe the chemistry of nicotine.",
+   "a": "• **Natural liquid alkaloid** from *Nicotiana tabacum*\n• **Colourless, volatile base**, **pKa 8.0**\n• Structure: a **pyridine ring** joined to a **pyrrolidine ring**",
+   "m": "Nicotine is a base – bases love alkaline places.",
+   "r": "Slide p11"
+  },
+  {
+   "t": "NIC",
+   "q": "Why is nicotine absorption pH-dependent?",
+   "a": "• Nicotine is a **weak base (pKa 8.0)**\n• In **alkaline** media it is mainly **un-ionised** → crosses membranes → **well absorbed**\n• In **acidic** media it is **ionised** → poorly absorbed",
+   "m": "Alkaline = absorbed; Acidic = Avoided.",
+   "r": "Slides p11-12"
+  },
+  {
+   "t": "NIC",
+   "q": "Why do cigar, pipe and spit-tobacco users absorb nicotine through the mouth, while cigarette smokers mostly do not?",
+   "a": "• Mouth pH is about **7.0**\n• **Cigarette smoke is acidic** → nicotine ionised → **limited buccal absorption** → cigarette smokers must inhale to absorb nicotine in the lungs\n• **Pipes, cigars, spit tobacco and oral nicotine products are alkaline** → **significant buccal absorption**",
+   "m": "Cigarettes need the lungs; cigars can do it in the cheek.",
+   "r": "Slide p13"
+  },
+  {
+   "t": "NIC",
+   "q": "Through which routes is nicotine absorbed?",
+   "a": "• **Respiratory epithelium** – rapid (smoking)\n• **Intact skin** – basis of the **nicotine patch**\n• **Buccal mucosa** – gum, lozenge, inhaler, spray\n• **Small intestine** – swallowed nicotine (but large first-pass metabolism)\n• Note: slide p12 lists these routes under 'Distribution'; they describe **absorption**",
+   "m": "Lungs, skin, cheek, gut – every NRT form uses one of these doors.",
+   "r": "Slide p12"
+  },
+  {
+   "t": "NIC",
+   "q": "What is the pH inside the mouth and how can beverages affect nicotine absorption?",
+   "a": "• Mouth pH is about **7.0**\n• Drinks change oral pH and therefore absorption\n• **Acidic drinks** (coffee, cola, fruit juice) lower pH → nicotine ionised → **less buccal absorption** from gum, lozenge or inhaler",
+   "m": "Coffee and cola make the cheek acidic – nicotine bounces off.",
+   "r": "Slide p13"
+  },
+  {
+   "t": "NIC",
+   "q": "How quickly does inhaled nicotine reach the brain, and why does this speed matter?",
+   "a": "• About **11 seconds** after inhalation – faster than an IV injection\n• **Arterial** levels peak far higher than **venous** levels\n• A rapid, high bolus gives an immediate reward linked to each puff → **strong reinforcement and addiction**\n• NRT delivers nicotine slowly and at lower peaks, so it is far less addictive",
+   "m": "Puff to brain in 11 seconds – the fastest drug delivery system on the market.",
+   "r": "Slide p14"
+  },
+  {
+   "t": "NIC",
+   "q": "How is nicotine metabolised and excreted?",
+   "a": "• Metabolised in the liver, mainly by **CYP2A6**\n• **70–80%** converted to **cotinine**; other metabolites about 10%\n• Excreted in **urine** and in **breast milk**",
+   "m": "Nicotine → Cotinine (C for 'converted').",
+   "r": "Slide p12"
+  },
+  {
+   "t": "NIC",
+   "q": "Compare the half-lives of nicotine and cotinine. Which is used as a biomarker of tobacco exposure?",
+   "a": "• Nicotine half-life about **2 hours**\n• Cotinine half-life about **16–20 hours**\n• **Cotinine** (saliva, urine, serum) is the preferred biomarker of nicotine intake over the previous few days\n• Limitation: cotinine is also positive in people using **NRT** or e-cigarettes",
+   "m": "Nicotine is a sprinter (2 h); cotinine is a marathon runner (~16–20 h).",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NIC",
+   "q": "Why does nicotine excretion in breast milk matter clinically?",
+   "a": "• Nicotine passes into **breast milk** → infant exposure\n• Breastfeeding mothers should be supported to quit\n• If NRT is needed, use **short-acting** forms **immediately after** a feed to minimise levels at the next feed\n• Breastfeeding should still be encouraged",
+   "m": "Feed first, then NRT.",
+   "r": "Slide p12"
+  },
+  {
+   "t": "NIC",
+   "q": "Where in the body does nicotine act, and what is its overall effect?",
+   "a": "• **Central** and **peripheral nervous systems**\n• **Cardiovascular system**, **adrenal medulla** (catecholamine release)\n• **Exocrine glands**, **gastrointestinal system**\n• **Neuromuscular junction**, sensory receptors\n• Overall: **predominantly stimulant** effects",
+   "r": "Slide p15"
+  },
+  {
+   "t": "NIC",
+   "q": "Which receptor and pathway mediate nicotine addiction?",
+   "a": "• Nicotine binds **α4β2 nicotinic acetylcholine receptors** in the **ventral tegmental area**\n• Triggers **dopamine release** in the **nucleus accumbens** (mesolimbic reward pathway)\n• Same pathway targeted by **varenicline** (α4β2 partial agonist)",
+   "m": "α4β2 → VTA → dopamine in the nucleus accumbens = the reward circuit.",
+   "r": "Slide p16"
+  },
+  {
+   "t": "NIC",
+   "q": "Describe the cycle of nicotine addiction.",
+   "a": "• Nicotine stimulates **dopamine release** → **pleasurable feelings**\n• Leads to **repeat administration**\n• **Tolerance** develops (more needed for the same effect)\n• **Discontinuation → withdrawal symptoms** → smoking again to relieve them",
+   "m": "Pleasure → repeat → tolerance → withdrawal → relapse: the nicotine loop.",
+   "r": "Slide p16"
+  },
+  {
+   "t": "NIC",
+   "q": "What are the central nervous system effects of nicotine?",
+   "a": "• **Pleasure**\n• **Arousal**\n• **Anxiety relief**\n• **Improved task performance** (concentration)\n• These perceived benefits explain why smokers feel they 'need' a cigarette to cope",
+   "m": "PAAI: Pleasure, Arousal, Anxiety relief, Improved performance.",
+   "r": "Slide p17"
+  },
+  {
+   "t": "NIC",
+   "q": "What are the cardiovascular effects of nicotine?",
+   "a": "• **↑ Heart rate**\n• **↑ Cardiac output**\n• **↑ Blood pressure**\n• **Coronary vasoconstriction**\n• Mediated by sympathetic stimulation and adrenal catecholamine release",
+   "m": "Nicotine revs the engine and narrows the fuel line.",
+   "r": "Slide p17"
+  },
+  {
+   "t": "NIC",
+   "q": "Which non-CNS, non-CVS effects of nicotine explain weight gain after quitting?",
+   "a": "• Nicotine causes **appetite suppression** and **increased metabolic rate**\n• It also causes **skeletal muscle relaxation**\n• On quitting, appetite rises and metabolic rate falls → average gain of about **4–5 kg** in the first year",
+   "m": "Remove the appetite-suppressant and the metabolic booster → the scale goes up.",
+   "r": "Slide p17"
+  },
+  {
+   "t": "NIC",
+   "q": "Which seven neurotransmitters are released by nicotine?",
+   "a": "• **Dopamine**\n• **Norepinephrine**\n• **Acetylcholine**\n• **Glutamate**\n• **Serotonin**\n• **β-Endorphin**\n• **GABA**\n• Each mediates part of the 'benefit' smokers feel – and its loss on quitting",
+   "m": "Seven messengers: Dopamine, NE, ACh, Glutamate, Serotonin, β-Endorphin, GABA – 'Do Not Accept Gifts So Easily, Guys'.",
+   "r": "Slide p18"
+  },
+  {
+   "t": "NIC",
+   "q": "Which nicotine-released neurotransmitters reduce anxiety and tension, and which modulate mood?",
+   "a": "• **β-Endorphin** and **GABA** – reduction of **anxiety and tension**\n• **Serotonin** – **mood modulation** and appetite suppression\n• Explains why smokers report smoking to 'calm down' and why mood dips during withdrawal",
+   "m": "GABA and endorphins = the calm-down pair.",
+   "r": "Slide p18"
+  },
+  {
+   "t": "NIC",
+   "q": "Match dopamine, norepinephrine, acetylcholine and glutamate to their effects after nicotine.",
+   "a": "• **Dopamine** – pleasure, reward\n• **Norepinephrine** – arousal, appetite suppression\n• **Acetylcholine** – arousal, cognitive enhancement\n• **Glutamate** – learning, memory enhancement",
+   "m": "Dopamine delights, Noradrenaline wakes, ACh thinks, Glutamate remembers.",
+   "r": "Slide p18"
+  },
+  {
+   "t": "NIC",
+   "q": "Is nicotine itself the main cause of smoking-related disease? Why does this matter for NRT?",
+   "a": "• **No** – disease is caused mainly by **tar (carcinogens)**, **carbon monoxide** and other combustion products\n• Nicotine causes **addiction** and modest haemodynamic effects\n• Therefore medicinal nicotine (NRT) is **far safer than smoking**, even in cardiovascular disease",
+   "m": "Nicotine is the hook, not the bullet.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NIC",
+   "q": "Why is the first cigarette of the morning the most satisfying, and why does it reflect dependence?",
+   "a": "• Overnight abstinence → nicotine falls → **nicotinic receptors recover sensitivity** and withdrawal begins\n• The first cigarette relieves withdrawal and gives the strongest reward\n• Smoking **soon after waking** therefore signals high dependence – the highest-scoring item on the **Fagerström test**",
+   "m": "The sooner the first cigarette, the stronger the chain.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "BI",
+   "q": "What is a brief intervention for smoking cessation and why should every clinician deliver it?",
+   "a": "• A short, structured interaction (often **under 3–5 minutes**) during a routine consultation – **5A, 3A or ABC**\n• Even **advice lasting less than 3 minutes** increases quit rates\n• Because most smokers see a doctor yearly, brief intervention gives huge population impact",
+   "m": "Three minutes of advice can add ten years of life.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "BI",
+   "q": "What are the 5A of brief intervention?",
+   "a": "• **Ask** – about tobacco use\n• **Advise** – to quit\n• **Assess** – willingness to quit\n• **Assist** – in the quit attempt\n• **Arrange** – follow-up",
+   "m": "Ask, Advise, Assess, Assist, Arrange – 'Ask Advice Before Assisting And Arranging'.",
+   "r": "Slide p22"
+  },
+  {
+   "t": "BI",
+   "q": "What are the 3A, and when are they used instead of the 5A?",
+   "a": "• **Ask**, **Advise**, **Assist** (the 'Assist' may be direct help or **referral** to a quit service)\n• Used by busy clinicians or those without cessation expertise\n• The 5A adds **Assess** willingness and **Arrange** follow-up",
+   "m": "3A is the express lane: ask, advise, and get them help.",
+   "r": "Slide p22"
+  },
+  {
+   "t": "BI",
+   "q": "In the 'Ask' step, what question is asked and what are the four possible answers?",
+   "a": "• 'Are you smoking?'\n• **1.** Smoker, **willing** to make a quit attempt\n• **2.** Smoker, **not willing** to make a quit attempt\n• **3.** **Ex-smoker**\n• **4.** **Non-smoker**",
+   "r": "Slide p24"
+  },
+  {
+   "t": "BI",
+   "q": "Why should smoking status be documented at every visit?",
+   "a": "• Smoking status should be treated like a **vital sign**\n• Documentation triggers advice at each contact and tracks progress\n• Ex-smokers need reinforcement (relapse prevention); non-smokers need reinforcement and second-hand-smoke advice",
+   "m": "BP, pulse, temperature – and tobacco.",
+   "r": "Slide p30"
+  },
+  {
+   "t": "BI",
+   "q": "How should the 'Advise' step be delivered? Give an example.",
+   "a": "• **Clear, strong and personalised** advice\n• Example: 'I think it is important for you to quit smoking now and I can help you'\n• Or: 'As your clinician, I need you to know that quitting smoking is the most important thing you can do to protect your health now and in the future. The clinic staff and I will help you'\n• Link to the patient's own illness where possible",
+   "m": "Clear, Strong, Personal – no 'cut down a bit'.",
+   "r": "Slide p25"
+  },
+  {
+   "t": "BI",
+   "q": "What does the 'Assess' step determine and how does it direct the next action?",
+   "a": "• Asks: 'Are you willing to quit smoking?'\n• **Willing** → provide **assistance** (counselling, pharmacotherapy, STAR)\n• **Unwilling** → provide **motivational intervention using the 5R**",
+   "m": "Willing → Assist; Unwilling → 5R.",
+   "r": "Slide p26"
+  },
+  {
+   "t": "BI",
+   "q": "Which model describes how smokers move towards quitting, and what are its stages?",
+   "a": "• **Stages of change (transtheoretical model) – Prochaska & DiClemente**\n• **Precontemplation → Contemplation → Preparation → Action → Maintenance**, with **Relapse** possible at any stage\n• Movement is a cycle, not a straight line",
+   "m": "Please Can Pete Act More Reliably.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "BI",
+   "q": "Describe the precontemplation stage.",
+   "a": "• 'I am **not aware** my smoking is a problem. I have **no intention** to quit'\n• Not intending to change in the **next 6 months**\n• Approach: raise awareness with the **5R**; respect autonomy and repeat at each visit",
+   "m": "Pre-contemplation = pre-thinking: has not even thought about quitting.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "BI",
+   "q": "Describe the contemplation stage.",
+   "a": "• 'I know my smoking is a problem. I want to stop but **no plan yet**'\n• Intends to change within the next **6 months**; **ambivalent**\n• Approach: **5R / motivational interviewing** to resolve ambivalence",
+   "m": "Contemplation = thinking about it, sitting on the fence.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "BI",
+   "q": "Describe the preparation stage and the matching intervention.",
+   "a": "• 'I am **making plans** and changing things'\n• Intends to quit within the **next 30 days**; may have taken small steps\n• Approach: **set a quit date (STAR)**, offer **pharmacotherapy** and counselling",
+   "m": "Preparation = packing the bags; set the departure (quit) date.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "BI",
+   "q": "How are the action and maintenance stages distinguished?",
+   "a": "• **Action** – 'I have stopped smoking'; quit within the past **6 months**\n• **Maintenance** – 'I am continuing to not smoke. I sometimes miss it, but I am still not smoking'; abstinent for **more than 6 months**\n• Both need follow-up and relapse-prevention support",
+   "m": "Under 6 months = Action; over 6 months = Maintenance.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "BI",
+   "q": "How should relapse be viewed and managed?",
+   "a": "• 'I miss smoking so much that I need a cigarette again'\n• A **normal part of the cycle** – many smokers make **several attempts** before stopping for good\n• Avoid blame; review what triggered it, learn from it and re-enter **contemplation/preparation**",
+   "m": "Relapse is a lesson, not a failure.",
+   "r": "Slides p27, p30"
+  },
+  {
+   "t": "BI",
+   "q": "Match each stage of change to the most appropriate intervention.",
+   "a": "• **Precontemplation / contemplation** → **5R** motivational intervention\n• **Preparation** → set quit date (**STAR**), pharmacotherapy, counselling\n• **Action** → close follow-up, manage withdrawal, adjust medication\n• **Maintenance** → reinforce success, relapse prevention\n• **Relapse** → non-judgemental review, re-plan",
+   "m": "Not ready → motivate; ready → assist; done → protect.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "BI",
+   "q": "What are the components of the 'Assist' step?",
+   "a": "• **Counselling**\n• **Pharmacotherapy**\n• **STAR** method\n• **Others** – supportive healthcare environment, explore past quit experience, limit/abstain from alcohol, provide supplementary materials",
+   "r": "Slide p28"
+  },
+  {
+   "t": "BI",
+   "q": "What does the STAR method stand for?",
+   "a": "• **S – Set** a quit date (**within 2 weeks**)\n• **T – Tell** family, friends and co-workers about quitting\n• **A – Anticipate** challenges, including withdrawal symptoms\n• **R – Remove** tobacco products (home, car, workplace)",
+   "m": "STAR: Set, Tell, Anticipate, Remove.",
+   "r": "Slide p28"
+  },
+  {
+   "t": "BI",
+   "q": "Why is the quit date set within 2 weeks?",
+   "a": "• Close enough to **keep motivation high**\n• Far enough to **prepare** – tell others, remove cigarettes, plan for triggers\n• Allows **pre-loading** of varenicline or bupropion (started 1–2 weeks before the quit date)",
+   "m": "Within 2 weeks: before the motivation fades, after the medicine kicks in.",
+   "r": "Slide p28"
+  },
+  {
+   "t": "BI",
+   "q": "Why ask about past quit attempts and alcohol use during 'Assist'?",
+   "a": "• **Past quit experience** – what helped, what caused relapse (e.g. withdrawal, stress, social triggers) → tailor the plan\n• **Alcohol** – a major relapse trigger; advise to **limit or abstain** during the quit attempt\n• Also provide a **supportive healthcare environment** and **supplementary materials**",
+   "m": "Yesterday's relapse is today's roadmap.",
+   "r": "Slide p28"
+  },
+  {
+   "t": "BI",
+   "q": "What is the recommended follow-up schedule after the quit date?",
+   "a": "• **First week** after the quit date\n• **Weekly** in the first month\n• **Every 2 weeks** in the 2nd and 3rd months\n• **Monthly** thereafter up to **6 months**",
+   "m": "1 – weekly – fortnightly – monthly: the follow-up slows as the risk falls.",
+   "r": "Slide p29"
+  },
+  {
+   "t": "BI",
+   "q": "Why is the first follow-up arranged within the first week after the quit date?",
+   "a": "• **Withdrawal symptoms peak** in the first few days and **relapse risk is highest** early\n• Early review allows dose adjustment, managing side effects and reinforcing motivation",
+   "m": "The first week is the danger week.",
+   "r": "Slide p29"
+  },
+  {
+   "t": "BI",
+   "q": "What should be done at each follow-up visit?",
+   "a": "• Can be **in person, by telephone or virtual**\n• **Assess pharmacotherapy use** and problems (adherence, side effects)\n• **Congratulate** if abstinent\n• If tobacco use has occurred: **review the situation** and **assess commitment to total abstinence**",
+   "r": "Slide p29"
+  },
+  {
+   "t": "BI",
+   "q": "A patient smoked a few cigarettes during the quit attempt. How do you manage this lapse?",
+   "a": "• Do **not** label it a failure or stop treatment\n• **Review the circumstances** (trigger, place, people, alcohol)\n• **Reassess commitment** to total abstinence and recommit to 'not a single puff'\n• **Continue pharmacotherapy**; check dose and technique",
+   "m": "A slip is not a fall – unless you stop the treatment.",
+   "r": "Slide p29"
+  },
+  {
+   "t": "BI",
+   "q": "What does the ABC approach stand for?",
+   "a": "• **A – Ask** about and document smoking status\n• **B – Brief advice** to stop\n• **C – Cessation support** – provide it, or **refer** to a smoking cessation service\n• An alternative to 5A for busy settings",
+   "m": "ABC: Ask, Brief advice, Cessation support.",
+   "r": "Slide p30"
+  },
+  {
+   "t": "BI",
+   "q": "What are the four elements of 'Brief advice' in the ABC approach?",
+   "a": "• **Advise all** people who smoke\n• **Personalise** the advice – link smoking to the current health problem and how stopping may help; highlight the benefits of quitting\n• **Acknowledge** that many people make **several attempts** before stopping completely\n• **Document** that advice was given",
+   "m": "All, Personal, Acknowledge, Document – 'APAD'.",
+   "r": "Slide p30"
+  },
+  {
+   "t": "BI",
+   "q": "In the ABC approach, what is 'Cessation support' and who should refer rather than treat?",
+   "a": "• **Provide support** if able: set a quit date, assess nicotine dependence, arrange medication and follow-up\n• **Refer** to a smoking cessation service if the healthcare worker lacks the **expertise or time**\n• Either way, every smoker leaves with a route to help",
+   "m": "C = Care yourself, or Connect to a quit service.",
+   "r": "Slide p30"
+  },
+  {
+   "t": "FTND",
+   "q": "What is the Fagerström Test for Nicotine Dependence (FTND) and why is it used?",
+   "a": "• A **6-item** questionnaire scored **0–10**\n• Measures the **degree of physical nicotine dependence**\n• Guides the **intensity and dose of pharmacotherapy** and predicts withdrawal severity",
+   "m": "FTND tells you how tight the nicotine grip is.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "FTND",
+   "q": "How is the FTND item 'How soon after waking do you smoke your first cigarette?' scored?",
+   "a": "• **Within 5 minutes – 3 points**\n• **5–30 minutes – 2 points**\n• **31–60 minutes – 1 point**\n• **After 60 minutes – 0 points**",
+   "m": "5–30–60: 3–2–1–0.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "FTND",
+   "q": "How is the FTND item 'How many cigarettes do you smoke each day?' scored?",
+   "a": "• **10 or fewer – 0**\n• **11–20 – 1**\n• **21–30 – 2**\n• **31 or more – 3**",
+   "m": "Each extra 10 sticks above 10 adds a point.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "FTND",
+   "q": "Which four FTND items score 1 point for a 'yes' answer?",
+   "a": "• **Difficult not to smoke** where forbidden (e.g. school, cinema, library, bus, hospital)\n• The cigarette you would most hate to give up is **the first one in the morning**\n• Smoke **more during the first few hours** after waking than the rest of the day\n• Still smoke when **so ill you are in bed** most of the day",
+   "m": "Forbidden places, First of the morning, First few hours, Flat in bed – the four F's.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "FTND",
+   "q": "How is the total FTND score interpreted (per the lecture)?",
+   "a": "• Maximum score **10**\n• **7–10 – highly dependent**\n• **4–6 – moderately dependent**\n• **<4 – minimally dependent**",
+   "m": "Seven and above = heavy grip; four to six = medium; under four = mild.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "FTND",
+   "q": "Which two FTND items carry the most weight, and what short tool uses them?",
+   "a": "• **Time to first cigarette** after waking and **cigarettes per day** (each scores up to 3)\n• Together they form the **Heaviness of Smoking Index (HSI, 0–6)** – a quick screen in a busy clinic\n• Time to first cigarette is the single best predictor of dependence",
+   "m": "When and how many – the two questions that matter most.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "q": "Mr Ali (50, COPD) smokes 30 sticks/day, smokes right after waking and failed a 2-day cold-turkey attempt because of withdrawal. His FTND is 9/10. Interpret this.",
+   "a": "• FTND **9 = highly dependent** (7–10)\n• Explains early relapse with cold turkey: withdrawal overwhelmed him\n• Needs **intensive behavioural support plus effective pharmacotherapy** (e.g. **varenicline** or **combination NRT**) to control withdrawal",
+   "m": "High score, high support – willpower alone failed for a reason.",
+   "r": "Slide p68"
+  },
+  {
+   "t": "FTND",
+   "q": "How is a carbon monoxide (CO) breath analyser used in smoking cessation?",
+   "a": "• Measures **exhaled CO in ppm**; reflects smoking over roughly the past **day**\n• Smokers usually read above about **10 ppm**; non-smokers usually below about **7 ppm** (cut-offs vary)\n• **Motivates** patients (visible fall after quitting) and **verifies abstinence**\n• Unaffected by NRT – unlike cotinine\n• Recommended to record status in psychiatric patients together with FTND",
+   "m": "CO meter = a breathalyser for smoke.",
+   "r": "Slide p54"
+  },
+  {
+   "t": "FTND",
+   "q": "What happens physiologically when a smoker stops smoking?",
+   "a": "• Body **nicotine level falls**\n• The brain, adapted to nicotine (upregulated receptors, reduced dopamine tone without it), reacts → **withdrawal symptoms**\n• Withdrawal is the commonest reason for early relapse",
+   "r": "Slide p37"
+  },
+  {
+   "t": "FTND",
+   "q": "List the symptoms of nicotine withdrawal.",
+   "a": "• **Irritability**, frustration or anger\n• **Anxiety** and **restlessness**\n• **Difficulty concentrating**\n• **Depressed mood**\n• **Insomnia**\n• **Increased appetite** / weight gain\n• **Cravings** (urges to smoke)",
+   "m": "Withdrawal makes you 'MAD-HIC': Mood low, Anxiety, Difficulty concentrating, Hunger, Irritability, Cravings (+ insomnia).",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "q": "What is the time course of nicotine withdrawal?",
+   "a": "• Begins within **hours** of the last cigarette\n• **Peaks in the first few days** (first week)\n• Most symptoms **subside over 2–4 weeks**\n• This is why early follow-up (first week) is crucial",
+   "m": "Hours to start, days to peak, weeks to fade.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "q": "How long does a single strong urge to smoke typically last?",
+   "a": "• Usually only about **3 minutes**\n• Teach patients to **ride it out** with the **4D** (deep breathing, drink water, divert thinking, discuss with a friend)\n• Each urge resisted weakens the next",
+   "m": "The urge is a wave – it peaks and passes in about 3 minutes.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "FTND",
+   "q": "Which withdrawal-related features persist longest after quitting?",
+   "a": "• **Increased appetite** – may last **10 weeks or more**\n• **Cravings** – can persist for **months**, often **cue-triggered** (coffee, meals, alcohol, stress, smoking friends)\n• Other symptoms (irritability, poor concentration, insomnia) usually settle in **2–4 weeks**",
+   "m": "Hunger and cravings are the last guests to leave the party.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "q": "A patient's cough worsens 1–2 weeks after quitting. What is the likely explanation?",
+   "a": "• Recovery of **mucociliary clearance** – cilia start clearing accumulated mucus\n• Usually **temporary** and settles within weeks\n• Reassure, but evaluate if red flags (haemoptysis, weight loss, fever, persistent cough beyond several weeks)",
+   "m": "The cough after quitting is the lungs spring-cleaning.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "q": "Why do withdrawal symptoms matter when planning a quit attempt?",
+   "a": "• They are the **most common cause of early relapse** (e.g. Mr Ali relapsed after 2 days of cold turkey)\n• **Anticipate** them (STAR) and treat with **pharmacotherapy** plus coping strategies\n• Fear of withdrawal is itself a **roadblock** that stops people trying",
+   "m": "Treat the withdrawal and you protect the quit.",
+   "r": "Slide p68"
+  },
+  {
+   "t": "FTND",
+   "q": "Why might a recent quitter who drinks a lot of coffee develop jitteriness and palpitations?",
+   "a": "• Tobacco smoke (polycyclic aromatic hydrocarbons) **induces CYP1A2**, which metabolises **caffeine**\n• After quitting, induction wears off → **caffeine levels can roughly double**\n• Symptoms mimic withdrawal (anxiety, insomnia, palpitations)\n• Advise **halving caffeine intake** during the quit attempt",
+   "m": "Same coffee, half the clearance – cut the cups.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "UNW",
+   "q": "Which smokers should receive the 5R motivational intervention?",
+   "a": "• Smokers who are **unwilling to quit** at present (precontemplation and contemplation)\n• Identified at the **Assess** step of the 5A\n• Aim: **enhance motivation** to make a future quit attempt",
+   "m": "5R is for the 'not now' smoker.",
+   "r": "Slide p26"
+  },
+  {
+   "t": "UNW",
+   "q": "What are the 5R?",
+   "a": "• **Relevance**\n• **Risks**\n• **Rewards**\n• **Roadblocks**\n• **Repetition**",
+   "m": "Real Reasons Reward Removing Roadblocks Repeatedly.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "q": "What does 'Relevance' involve in the 5R?",
+   "a": "• Encourage the patient to say **why quitting is personally relevant**, as **specifically** as possible\n• E.g. own disease (asthma, diabetes, angina), family situation, children, age, past quit experience",
+   "m": "Relevance = 'Why does this matter to YOU?'",
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "q": "What does 'Risks' involve in the 5R? Give examples.",
+   "a": "• Ask the patient to **identify negative consequences** of tobacco use\n• **Acute** – breathlessness, asthma exacerbations, erectile dysfunction, infertility, raised CO\n• **Long-term** – MI, stroke, cancers, COPD\n• **Environmental** – second-hand smoke harming spouse and children",
+   "m": "Risks = what smoking takes away.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "q": "What does 'Rewards' involve in the 5R? Give examples.",
+   "a": "• Ask the patient to **identify potential benefits of stopping**\n• Better health, improved **taste and smell**, **saving money**, better breathing and fitness\n• Healthier children and babies, being a good role model, fresher breath and home, feeling in control",
+   "m": "Rewards = what quitting gives back.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "q": "What does 'Roadblocks' involve in the 5R?",
+   "a": "• Ask the patient to **identify barriers** to quitting\n• Then provide **treatment or solutions that address those barriers** (e.g. pharmacotherapy for withdrawal, dietary advice for weight concerns)",
+   "m": "Roadblocks: name the obstacle, then clear it.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "q": "What does 'Repetition' involve in the 5R?",
+   "a": "• The motivational intervention is **repeated every time** an unmotivated patient visits the clinic\n• Most smokers need **multiple contacts and attempts** before quitting\n• Document each discussion",
+   "m": "Repetition: drip, drip, drip – the stone eventually wears.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "q": "List common roadblocks to quitting.",
+   "a": "• **Withdrawal symptoms**\n• **Fear of failure**\n• **Weight gain**\n• **Lack of support**\n• **Depression**\n• **Enjoyment of tobacco**\n• **Being around tobacco users**\n• **Limited knowledge** of effective treatment options",
+   "m": "'WFW LDE BL' – Withdrawal, Failure, Weight, Lack of support, Depression, Enjoyment, Being around smokers, Limited knowledge.",
+   "r": "Slide p34"
+  },
+  {
+   "t": "UNW",
+   "q": "How can the roadblocks of withdrawal, weight gain and depression be addressed?",
+   "a": "• **Withdrawal** → effective **pharmacotherapy** (NRT, varenicline, bupropion) and coping skills\n• **Weight gain** → explain average gain (about 4–5 kg) is far less harmful than smoking; diet and exercise; NRT/bupropion can **delay** gain\n• **Depression** → screen and treat; bupropion or nortriptyline may help both",
+   "m": "Match each barrier to a specific fix.",
+   "r": "Slide p34"
+  },
+  {
+   "t": "UNW",
+   "q": "How do you address 'fear of failure' as a roadblock?",
+   "a": "• Normalise: most ex-smokers needed **several attempts** before succeeding\n• Each attempt teaches what triggers relapse\n• Using **pharmacotherapy plus behavioural support** greatly improves the odds compared with willpower alone",
+   "m": "Every failed attempt is a rehearsal for the successful one.",
+   "r": "Slides p30, p34"
+  },
+  {
+   "t": "UNW",
+   "q": "How do you address 'enjoyment of tobacco' and 'being around tobacco users' as roadblocks?",
+   "a": "• Identify the **situations and people** linked with smoking\n• Change routines (e.g. leave the table after meals), avoid smoking areas early on\n• Ask family and colleagues not to smoke around or offer cigarettes; make home and car **smoke-free**\n• Replace the 'reward' with alternatives (exercise, hobbies, saved money)",
+   "m": "Change the scene and the script changes.",
+   "r": "Slide p34"
+  },
+  {
+   "t": "UNW",
+   "q": "How does 'limited knowledge of effective treatment options' act as a roadblock, and how is it overcome?",
+   "a": "• Many smokers believe quitting relies on **willpower alone** (cold turkey), which has low success\n• Explain that **pharmacotherapy roughly doubles** quit rates and **combining it with behavioural support** improves them further\n• Tell them about free help at **Klinik Kesihatan quit clinics** and **mQuit** services",
+   "m": "They are not weak – they were just unarmed.",
+   "r": "Slides p34, p36"
+  },
+  {
+   "t": "UNW",
+   "q": "What are the core principles of motivational interviewing used with unwilling smokers?",
+   "a": "• **Express empathy** – reflective listening, no lecturing\n• **Develop discrepancy** – between smoking and the patient's own goals\n• **Roll with resistance** – avoid arguing\n• **Support self-efficacy** – belief that change is possible\n• Skills: **OARS** – Open questions, Affirmations, Reflections, Summaries",
+   "m": "Guide, don't drag.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "BEH",
+   "q": "Which services provide smoking cessation help in Malaysia?",
+   "a": "• **Klinik Kesihatan** (quit smoking clinics)\n• **Hospitals**\n• **mQuit services** – a smoking cessation programme involving the **public and private sectors**",
+   "r": "Slide p20"
+  },
+  {
+   "t": "BEH",
+   "q": "What is mQuit and why is it useful for patients?",
+   "a": "• MOH smoking cessation programme linking **public and private** providers (e.g. government clinics, hospitals, private GP clinics, community pharmacies)\n• Gives smokers more **access points** near home or work\n• Useful referral route when the treating clinician lacks time or expertise",
+   "m": "mQuit = many doors to quitting.",
+   "r": "Slide p20"
+  },
+  {
+   "t": "BEH",
+   "q": "What are the two arms of smoking cessation treatment?",
+   "a": "• **Non-pharmacological** – behavioural intervention\n• **Pharmacological** – **nicotine-based** (NRT) and **non-nicotine-based** (varenicline, bupropion, nortriptyline)",
+   "r": "Slide p36"
+  },
+  {
+   "t": "BEH",
+   "q": "Which smokers attempting to quit should be offered pharmacotherapy?",
+   "a": "• **All** smokers attempting to quit, **unless contraindicated**\n• Pharmacotherapy is not reserved for heavy smokers – dose is adjusted to dependence",
+   "m": "Every quit attempt deserves medication unless there's a reason not to.",
+   "r": "Slide p36"
+  },
+  {
+   "t": "BEH",
+   "q": "What is the most effective overall strategy for quitting?",
+   "a": "• **Combining behavioural intervention with medication** increases the chance of quitting more than either alone\n• Medication blunts withdrawal; behavioural support handles habits, triggers and motivation",
+   "m": "Pills for the chemistry, counselling for the habit.",
+   "r": "Slide p36"
+  },
+  {
+   "t": "BEH",
+   "q": "In what formats can behavioural support be delivered?",
+   "a": "• **Individual** face-to-face counselling\n• **Group** sessions\n• **Telephone** counselling / quitlines\n• **Text messaging**, apps and websites\n• **Self-help materials**\n• More sessions and more contact time give higher quit rates (dose–response)",
+   "m": "More contact, more quitters.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "BEH",
+   "q": "What are the 4D for overcoming a strong urge to smoke?",
+   "a": "• **Deep breathing**\n• **Drink plenty of water**\n• **Divert your thinking** (do something else)\n• **Discuss with a friend**\n• The urge typically passes in about **3 minutes**",
+   "m": "4D: Deep breathe, Drink, Divert, Discuss.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "BEH",
+   "q": "Give practical examples of 'Divert your thinking' during an urge.",
+   "a": "• **Wash face and hands**\n• **5 minutes of exercise**\n• **Cold bath**\n• **Munch something** (preferably healthy)\n• **Keep hands busy**",
+   "m": "Busy hands, busy mind, no cigarette.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "BEH",
+   "q": "How does exercise help a person who is quitting?",
+   "a": "• Even **short bouts** (about 5 minutes) reduce cravings and withdrawal symptoms\n• Improves mood and stress\n• Helps limit **post-cessation weight gain**",
+   "m": "Move when the urge comes.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "BEH",
+   "q": "How do you help a smoker identify and manage triggers (e.g. Mr Ali smokes after meals, when bored or stressed, and with colleagues)?",
+   "a": "• Ask the patient to list **when, where and with whom** they smoke (a smoking diary helps)\n• Plan a **specific alternative** for each trigger: leave the table/brush teeth after meals, a hobby for boredom, breathing or a walk for stress, avoid smoking breaks with colleagues\n• Use short-acting NRT for predictable high-risk moments",
+   "m": "Know the trigger, prepare the swap.",
+   "r": "Slide p68"
+  },
+  {
+   "t": "BEH",
+   "q": "Why advise a smoke-free home and car, and what does Malaysian law say about smoke-free places?",
+   "a": "• Removes cues, protects family from **second-hand smoke**, supports abstinence\n• Smoking is banned at **all eating premises** in Malaysia (from **2019**)\n• The **Control of Smoking Products for Public Health Act 2024 (Act 852)** regulates tobacco **and vape** products, including a ban on sale to under-18s",
+   "m": "Smoke-free spaces make smoke-free people.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "BEH",
+   "q": "Abrupt cessation or gradual reduction – which approach is recommended?",
+   "a": "• **Abrupt cessation** on a quit date gives slightly higher success\n• **Gradual reduction** ('cut down to quit', often with NRT) is acceptable for those unwilling to stop abruptly\n• Unassisted 'cold turkey' with willpower alone succeeds in only about **3–5%** at one year – offer support and medication",
+   "m": "Stopping on a date beats drifting down – but any route with help beats none.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "BEH",
+   "q": "What relapse-prevention skills should a quitter be taught?",
+   "a": "• Recognise **high-risk situations**: alcohol, stress, social gatherings with smokers, meals and coffee\n• Have a **coping plan** for each (4D, short-acting NRT, leave the situation)\n• Adopt a **'not a single puff'** rule – one cigarette often leads to full relapse\n• Seek help early after any lapse",
+   "m": "One puff opens the door – keep it shut.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "List the pharmacological options for smoking cessation.",
+   "a": "• **Nicotine-based (NRT)** – gum, patch, spray, inhaler, lozenges\n• **Non-nicotine-based** – **varenicline**, **bupropion SR**, **nortriptyline**",
+   "m": "Five nicotine forms, three non-nicotine pills.",
+   "r": "Slide p40"
+  },
+  {
+   "t": "NRT",
+   "q": "What four factors guide the choice of first-line pharmacotherapy?",
+   "a": "• **Efficacy**\n• **Safety**\n• **Suitability** (patient preference, comorbidities, contraindications, previous experience)\n• **Cost**",
+   "m": "ESSC: Efficacy, Safety, Suitability, Cost.",
+   "r": "Slide p41"
+  },
+  {
+   "t": "NRT",
+   "q": "How does nicotine replacement therapy work?",
+   "a": "• Delivers nicotine to **replace the nicotine obtained from cigarettes**\n• **Reduces withdrawal symptoms** and cravings\n• Without the tar, CO and other toxins of smoke",
+   "m": "NRT keeps the nicotine, cuts the poison.",
+   "r": "Slide p42"
+  },
+  {
+   "t": "NRT",
+   "q": "How long is NRT used?",
+   "a": "• **8–12 weeks**\n• **Longer if needed** to prevent relapse\n• Dose is usually tapered towards the end",
+   "r": "Slide p43"
+  },
+  {
+   "t": "NRT",
+   "q": "How does the level of dependence affect NRT dosing?",
+   "a": "• **Heavier smokers usually need higher doses**\n• Use **FTND / time to first cigarette / cigarettes per day** to choose strength (e.g. 21 mg patch, 4 mg gum)\n• Under-dosing is a common reason for NRT failure",
+   "m": "Dose to the dependence, not to the fear.",
+   "r": "Slide p43"
+  },
+  {
+   "t": "NRT",
+   "q": "Can NRT be used by smokers who are not yet ready to stop completely?",
+   "a": "• **Yes** – NRT can be used to **reduce cigarette intake before stopping** ('cut down to quit')\n• Aim to set a quit date as the patient's confidence grows\n• Smoking while using NRT is not dangerous",
+   "r": "Slide p43"
+  },
+  {
+   "t": "NRT",
+   "q": "What is the legal status of NRT products in Malaysia?",
+   "a": "• **Group C poisons** under the **Poisons Act 1952**\n• Group C items can be supplied by a **registered pharmacist** without a doctor's prescription (as well as by doctors)\n• Makes NRT accessible through community pharmacies",
+   "m": "Group C = Chemist can supply.",
+   "r": "Slide p43"
+  },
+  {
+   "t": "NRT",
+   "q": "Why is NRT far less addictive than smoking?",
+   "a": "• Cigarettes deliver a **rapid, high arterial bolus** reaching the brain in about **11 seconds**\n• NRT gives **slower absorption and lower peak levels** → much weaker reinforcement\n• Long-term NRT dependence is uncommon and far safer than smoking",
+   "m": "Speed is what makes a drug addictive – NRT drives slowly.",
+   "r": "Slide p14"
+  },
+  {
+   "t": "NRT",
+   "q": "Compare long-acting and short-acting NRT.",
+   "a": "• **Long-acting – patch**: steady background nicotine level; easy adherence; cannot be adjusted for sudden cravings\n• **Short-acting – gum, lozenge, inhaler, spray**: patient-controlled doses for **breakthrough cravings** and trigger situations\n• Short-acting forms need correct technique and frequent dosing",
+   "m": "Patch = baseline; short-acting = rescue.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "What is the most effective way to use NRT?",
+   "a": "• **Combination NRT** – **patch plus a short-acting form** (gum, lozenge, inhaler or spray)\n• More effective than any single NRT form\n• Efficacy similar to **varenicline**\n• Particularly for **highly dependent** smokers",
+   "m": "Two NRTs are better than one.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "NRT",
+   "q": "What are the common nicotine patch strengths and how is the starting dose chosen?",
+   "a": "• **24-hour patch**: 21 mg, 14 mg, 7 mg\n• **16-hour patch**: 25 mg, 15 mg, 10 mg\n• **>10 cigarettes/day** → start **21 mg/24 h** (or 25 mg/16 h)\n• **≤10 cigarettes/day** → start **14 mg/24 h** (or 15 mg/16 h)\n• Step down over 8–12 weeks",
+   "m": "Ten is the dividing line: more than 10 sticks → the highest patch.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "How should a nicotine patch be applied?",
+   "a": "• Apply each morning to **clean, dry, hairless skin** (upper arm, chest, back, hip)\n• Press firmly for about **10 seconds**\n• **Rotate sites** daily; avoid the same site for several days\n• Start on the **quit date**; can shower with it on",
+   "m": "New day, new patch, new place.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "How do 16-hour and 24-hour patches differ, and when is each preferred?",
+   "a": "• **24-hour**: covers **morning cravings** on waking\n• **16-hour** (worn while awake, removed at bedtime): fewer **sleep disturbances / vivid dreams**\n• If a 24-hour patch causes vivid dreams or insomnia, **remove it at bedtime**",
+   "m": "Bad dreams? Take the patch off at bedtime.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "What are the common adverse effects of the nicotine patch and how are they managed?",
+   "a": "• **Local skin irritation** (redness, itch) – rotate sites; topical hydrocortisone; change brand if persistent\n• **Sleep disturbance / vivid dreams** – remove at bedtime\n• Generalised rash is rare – stop if it occurs",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "How is the strength of nicotine gum chosen?",
+   "a": "• **4 mg** for highly dependent smokers – e.g. first cigarette **within 30 minutes** of waking (or about 20–25 or more cigarettes/day)\n• **2 mg** for less dependent smokers",
+   "m": "Smokes within 30 minutes → 4 mg.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "Describe the 'chew and park' technique for nicotine gum.",
+   "a": "• **Chew slowly** until a **peppery taste or tingling** appears\n• **Park** the gum between cheek and gum until the tingle fades (about a minute)\n• Repeat chew-and-park for about **30 minutes**, then discard\n• Nicotine is absorbed through the **buccal mucosa**, not swallowed",
+   "m": "Chew – tingle – park – repeat.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "How often should nicotine gum be used?",
+   "a": "• Regular use: **1 piece every 1–2 hours** initially (at least about 9 pieces a day)\n• Plus extra pieces for cravings; maximum about **24 pieces a day**\n• Reduce gradually over about **12 weeks**\n• Using too little, too late is a common reason for failure",
+   "m": "By the clock, not only by the craving.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "A patient chews nicotine gum like ordinary gum and gets hiccups, heartburn and nausea. Why?",
+   "a": "• Vigorous chewing releases nicotine too fast → it is **swallowed** rather than absorbed buccally\n• Swallowed nicotine causes **hiccups, dyspepsia, nausea** and is less effective (first-pass metabolism)\n• Re-teach **chew-and-park**\n• Gum also causes jaw ache and is unsuitable with **dentures** or TMJ problems – consider a lozenge",
+   "m": "Chewing gum is not chewing gum – park it.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "What drink advice should be given with nicotine gum or lozenges?",
+   "a": "• Avoid **acidic drinks** (coffee, cola, fruit juice, carbonated drinks) **for 15 minutes before and during** use\n• They lower oral pH → nicotine becomes ionised → **less buccal absorption**\n• Also avoid eating while using",
+   "m": "No coffee with your gum.",
+   "r": "Slide p13"
+  },
+  {
+   "t": "NRT",
+   "q": "How should nicotine lozenges be used?",
+   "a": "• **Suck slowly** and move from side to side until dissolved (about 20–30 minutes)\n• **Do not chew or swallow** whole\n• **4 mg** if first cigarette within 30 minutes of waking; otherwise **2 mg**\n• Suitable for people who cannot use gum (dentures, jaw problems)",
+   "m": "Lozenge: let it melt, don't bite.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "What is the nicotine inhaler and which smoker does it suit?",
+   "a": "• A plastic mouthpiece holding a **nicotine cartridge**; puffing delivers nicotine absorbed in the **mouth and throat**, not the lungs\n• Suits smokers who miss the **hand-to-mouth ritual**\n• Needs frequent puffing; side effects: **throat irritation, cough**",
+   "m": "Inhaler: the ritual without the smoke.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "What are the features of nicotine spray (nasal or oral)?",
+   "a": "• **Fastest-acting** NRT – useful for sudden strong cravings and highly dependent smokers\n• Side effects: **nasal/throat irritation, sneezing, watery eyes, cough**\n• Usually combined with a patch",
+   "m": "Spray = the fastest rescue.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "Is NRT safe in cardiovascular disease?",
+   "a": "• Safe in **stable cardiovascular disease** – far safer than continued smoking (no CO or tar)\n• **Caution** in the acute phase: **MI within about 2 weeks**, **unstable/worsening angina**, **serious arrhythmias**, recent stroke\n• In these, prioritise behavioural support and use NRT **under medical supervision**",
+   "m": "Stable heart: NRT is fine. Fresh MI: go carefully, but smoking is still worse.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "What are the signs of nicotine excess from NRT?",
+   "a": "• **Nausea, vomiting**, abdominal pain\n• **Dizziness, headache**\n• **Palpitations**, cold sweat, weakness\n• Common cause: **continuing to smoke heavily** on high-dose NRT\n• Action: stop smoking, **reduce the NRT dose**",
+   "m": "Too much nicotine feels like the first cigarette ever – sick and dizzy.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "A patient on NRT smokes a cigarette. Is it dangerous, and what should you advise?",
+   "a": "• **Not dangerous** – the old myth that smoking on NRT causes a heart attack is unfounded\n• Encourage **continuing NRT** and recommitting to abstinence\n• Check dose is adequate and review the trigger",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "q": "What is a reasonable treatment plan for Mr Ali (30 sticks/day, FTND 9, COPD, failed cold turkey due to withdrawal, worried and confused)?",
+   "a": "• Address worries: explain withdrawal and that medication controls it\n• **Pharmacotherapy**: **varenicline** or **combination NRT** (21 mg patch + 4 mg gum/lozenge for cravings)\n• **Behavioural support**: STAR, trigger plan (meals, boredom, stress, colleagues), 4D\n• **Follow-up**: first week, then weekly in month 1\n• Optimise COPD care",
+   "m": "High dependence + previous withdrawal failure = strongest medication + support.",
+   "r": "Slides p68-70"
+  },
+  {
+   "t": "NNP",
+   "q": "How does varenicline work?",
+   "a": "• A selective **α4β2 nicotinic receptor partial agonist**\n• **Agonist** action → maintains a **moderate dopamine level** → relieves **withdrawal** and cravings\n• **Antagonist** action → blocks nicotine binding → **reduces smoking satisfaction**",
+   "m": "Varenicline: half key in the lock – opens a little, blocks the real key.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "NNP",
+   "q": "How effective is varenicline compared with NRT?",
+   "a": "• About **50% more effective** than any **single-form NRT**\n• **Similar efficacy** to **combination NRT** (two NRTs)",
+   "m": "Varenicline ≈ two NRTs > one NRT.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "NNP",
+   "q": "What is the standard varenicline dosing schedule?",
+   "a": "• **Days 1–3: 0.5 mg once daily**\n• **Days 4–7: 0.5 mg twice daily**\n• **Day 8 onwards: 1 mg twice daily**\n• Total course **12 weeks**",
+   "m": "3 days half-once, 4 days half-twice, then one-twice.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "When is varenicline started relative to the quit date, and how long is it continued?",
+   "a": "• Start **1–2 weeks before the quit date** (quit usually between **day 8 and day 14**)\n• Continue for **12 weeks**\n• A further **12 weeks** may be given to those who have quit, to reduce relapse",
+   "m": "Start first, quit second.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "NNP",
+   "q": "What should a patient be told when starting varenicline?",
+   "a": "• Keep smoking normally during the first week while the dose builds up\n• Cigarettes may become **less satisfying** – this is the drug working\n• Stop completely on the quit date (day 8–14); a flexible quit date up to about day 35 is also acceptable\n• Take **after food with a full glass of water**",
+   "m": "Week one: smoke and titrate. Quit day: stop.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "What are the common adverse effects of varenicline?",
+   "a": "• **Nausea** – the **commonest** (about 3 in 10); reduce by taking **after food with water**\n• **Abnormal / vivid dreams**\n• **Sleep disturbance** (insomnia)\n• Also headache",
+   "m": "Varenicline = Vomit-y, Vivid dreams.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "NNP",
+   "q": "What serious adverse effects are listed for varenicline, and what should a patient do if mood changes?",
+   "a": "• **Cardiovascular events**, **depression**, **suicidal ideation**, **suicide**\n• If mood or behaviour changes → **stop varenicline and contact a healthcare provider immediately**\n• Note: the large EAGLES trial (2016) did not show a significant excess of neuropsychiatric events, but monitoring is still advised",
+   "r": "Slide p47"
+  },
+  {
+   "t": "NNP",
+   "q": "Who cannot use varenicline?",
+   "a": "• **Pregnant** or **breastfeeding** women\n• **Adolescents under 18 years**\n• Use with caution / reduced dose in severe renal impairment",
+   "m": "Not for the bump, the breast or the young.",
+   "r": "Slide p48"
+  },
+  {
+   "t": "NNP",
+   "q": "How is varenicline adjusted in renal impairment, and why does it have few drug interactions?",
+   "a": "• Excreted **largely unchanged by the kidneys** – minimal hepatic metabolism → **few drug interactions**\n• Severe renal impairment (**CrCl <30 mL/min**): start **0.5 mg once daily**, maximum **0.5 mg twice daily**\n• End-stage renal disease on dialysis: maximum 0.5 mg once daily",
+   "m": "Kidney clears it, so kidneys set the dose.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "What is bupropion and how does it help smokers quit?",
+   "a": "• An **atypical antidepressant** – inhibits **dopamine and noradrenaline reuptake**; also a nicotinic receptor antagonist\n• **Reduces the severity of tobacco withdrawal**\n• Approximately **doubles** the chance of stopping smoking",
+   "m": "Bupropion boosts dopamine without nicotine.",
+   "r": "Slide p49"
+  },
+  {
+   "t": "NNP",
+   "q": "When is bupropion started and how long is it used?",
+   "a": "• Start **at least 1 week before the quit date** (usually 1–2 weeks)\n• Use for **at least 7 weeks** (typically 7–12 weeks)\n• Needs time to reach steady state before the quit date",
+   "m": "Bupropion: one week before, seven weeks after.",
+   "r": "Slide p49"
+  },
+  {
+   "t": "NNP",
+   "q": "What is the usual dose of bupropion SR for smoking cessation?",
+   "a": "• **150 mg once daily** for the first few days (3 days in most regimens; 6 days in the UK label)\n• Then **150 mg twice daily**, doses **at least 8 hours apart**\n• **Maximum 300 mg/day**; 150 mg daily only in hepatic/renal impairment or seizure risk factors",
+   "m": "150 then 150 × 2 – never more than 300.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "What are the common adverse effects of bupropion and how is insomnia minimised?",
+   "a": "• **Dry mouth**, **insomnia**, **headache**\n• Also nausea, tremor, rash, raised blood pressure\n• Insomnia: give the second dose in the **afternoon** (at least 8 h after the first) rather than at bedtime",
+   "m": "Bupropion keeps you up: Dry, Awake, Headachy.",
+   "r": "Slide p49"
+  },
+  {
+   "t": "NNP",
+   "q": "What are the contraindications to bupropion?",
+   "a": "• **Seizure disorder** or history of seizures; **CNS tumour**\n• **Eating disorders** (bulimia, anorexia nervosa)\n• **Bipolar disorder**\n• **Abrupt withdrawal from alcohol or benzodiazepines**\n• **MAOI** use within 14 days; severe hepatic cirrhosis\n• Per lecture: not in **pregnancy, breastfeeding or under 18**",
+   "m": "Bupropion lowers the seizure threshold – anything that already lowers it is a no.",
+   "r": "Slide p49"
+  },
+  {
+   "t": "NNP",
+   "q": "What is the seizure risk with bupropion and which factors increase it?",
+   "a": "• About **1 in 1,000**\n• Risk increased by: **alcohol misuse**, head trauma, **diabetes treated with insulin or sulfonylureas**, stimulants/anorectics\n• Drugs lowering seizure threshold: **antipsychotics, antidepressants, tramadol, theophylline, systemic steroids**, antimalarials\n• If risk factors present: avoid, or use maximum 150 mg/day",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "In which smokers does bupropion offer particular advantages?",
+   "a": "• Smokers **concerned about weight gain** – bupropion **delays** post-cessation weight gain\n• Smokers with a history of **depression** (without contraindications)\n• Those who prefer a tablet to NRT or cannot tolerate varenicline",
+   "m": "Bupropion: mood and weight friendly – seizure unfriendly.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "Why should blood pressure be monitored on bupropion?",
+   "a": "• Bupropion can **raise blood pressure**\n• Risk is higher when **combined with the nicotine patch**\n• Check BP at baseline and during follow-up",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "Which important drug interaction does bupropion have via CYP2D6?",
+   "a": "• Bupropion is a **strong CYP2D6 inhibitor**\n• Raises levels of CYP2D6 substrates: **tricyclic antidepressants**, some **SSRIs**, **antipsychotics**, **beta-blockers** (e.g. metoprolol), flecainide\n• Reduces activation of **tamoxifen** – avoid in women on tamoxifen",
+   "m": "Bupropion blocks 2D6 – check every 2D6 drug.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "What is nortriptyline's role in smoking cessation?",
+   "a": "• A **tricyclic antidepressant**\n• **Reduces tobacco withdrawal symptoms**\n• A **second-line** option when first-line agents fail or are unsuitable (off-label)",
+   "m": "Nortriptyline = the old reserve player.",
+   "r": "Slide p51"
+  },
+  {
+   "t": "NNP",
+   "q": "How is nortriptyline started and how long is it given?",
+   "a": "• Start about **1 week before the quit date** (some regimens 10–28 days)\n• Start low (about 25 mg daily) and titrate to 75–100 mg daily\n• Use for **12 weeks**",
+   "m": "Nortriptyline: like bupropion, start before; like varenicline, 12 weeks.",
+   "r": "Slide p51"
+  },
+  {
+   "t": "NNP",
+   "q": "What are the adverse effects of nortriptyline?",
+   "a": "• Common: **dry mouth**, **drowsiness** (sedation)\n• Anticholinergic: constipation, blurred vision, urinary retention\n• **Cardiac arrhythmias**, postural hypotension\n• **Dangerous in overdose**",
+   "m": "Nortriptyline = Dry and Drowsy.",
+   "r": "Slide p51"
+  },
+  {
+   "t": "NNP",
+   "q": "Who should not use nortriptyline for smoking cessation?",
+   "a": "• **Pregnant** and **breastfeeding** women; **under 18 years** (per lecture)\n• **Recent MI**, **arrhythmias** or heart block\n• Patients at risk of **overdose/suicide**\n• Caution with urinary retention, glaucoma",
+   "r": "Slide p51"
+  },
+  {
+   "t": "NNP",
+   "q": "Which smoking cessation drugs are first-line and which are second-line?",
+   "a": "• **First-line**: **NRT** (all forms), **varenicline**, **bupropion SR**\n• **Second-line**: **nortriptyline** (clonidine elsewhere)\n• Most effective options: **varenicline** and **combination NRT**",
+   "m": "First team: NRT, varenicline, bupropion. Bench: nortriptyline.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "q": "When is each pharmacotherapy started relative to the quit date?",
+   "a": "• **NRT** – **on the quit date** (or earlier when cutting down to quit)\n• **Varenicline** – **1–2 weeks before**\n• **Bupropion** – **at least 1 week before**\n• **Nortriptyline** – about **1 week before**",
+   "m": "Only nicotine starts on the day; the three tablets start a week or more early.",
+   "r": "Slides p43-51"
+  },
+  {
+   "t": "NNP",
+   "q": "Compare the treatment durations of NRT, varenicline, bupropion and nortriptyline.",
+   "a": "• **NRT** – **8–12 weeks** (longer if needed)\n• **Varenicline** – **12 weeks** (+12 more if quit)\n• **Bupropion** – **at least 7 weeks**\n• **Nortriptyline** – **12 weeks**",
+   "m": "Everything is about 12 weeks – except bupropion's minimum of 7.",
+   "r": "Slides p43-51"
+  },
+  {
+   "t": "NNP",
+   "q": "Match the typical adverse effect to the drug: nausea; insomnia with seizure risk; drowsiness with dry mouth.",
+   "a": "• **Nausea** (plus vivid dreams) → **varenicline**\n• **Insomnia, dry mouth, headache; seizure risk** → **bupropion**\n• **Drowsiness, dry mouth**; arrhythmia → **nortriptyline**",
+   "m": "V = Vomit, B = Brain buzz (awake, fits), N = Nod off.",
+   "r": "Slides p47-51"
+  },
+  {
+   "t": "SPEC",
+   "q": "Which special populations need a tailored approach to smoking cessation?",
+   "a": "• **Pregnant and lactating women**\n• **Psychiatric patients**\n• **Adolescents**\n• **Elderly patients**",
+   "m": "PPAE: Pregnant, Psychiatric, Adolescent, Elderly.",
+   "r": "Slide p52"
+  },
+  {
+   "t": "SPEC",
+   "q": "What is the first-line approach for pregnant and breastfeeding women who smoke?",
+   "a": "• **Multi-session behavioural smoking cessation interventions** for **all** pregnant and breastfeeding smokers\n• Ask at booking and every antenatal visit; include partner and household",
+   "m": "In pregnancy, talk first – multiple sessions.",
+   "r": "Slide p53"
+  },
+  {
+   "t": "SPEC",
+   "q": "Which non-nicotine pharmacotherapies cannot be used in pregnancy or breastfeeding?",
+   "a": "• **Varenicline**, **bupropion** and **nortriptyline** – all not for pregnant or breastfeeding women\n• So **NRT** is the only pharmacological option if behavioural support alone fails",
+   "m": "In pregnancy, the only drug on the table is nicotine itself.",
+   "r": "Slides p48-51"
+  },
+  {
+   "t": "SPEC",
+   "q": "If a pregnant woman cannot stop with behavioural support alone, how should NRT be used?",
+   "a": "• NRT may be used after discussing risks and benefits – **safer than smoking**\n• Prefer **intermittent short-acting** forms (gum, lozenge, inhaler, spray) to limit total fetal exposure\n• If a patch is needed, **remove it at bedtime** (16-hour use)",
+   "m": "Pregnancy NRT: short, intermittent, and patch off at night.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SPEC",
+   "q": "Why is it worth quitting even late in pregnancy, and when is the benefit greatest?",
+   "a": "• Quitting at **any stage** improves fetal growth and reduces risk\n• Stopping **early (ideally before about 15 weeks)** brings risks of **preterm birth and low birth weight** close to those of non-smokers\n• Quitting also reduces the infant's risk of **SIDS**",
+   "m": "Early quit, normal baby weight.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SPEC",
+   "q": "How should smoking cessation be approached in a patient with a psychiatric illness?",
+   "a": "• **Record smoking status**, preferably with **FTND** and **CO analyser**\n• Provide **5A** intervention\n• **Set the quit date when mental status is stable**\n• **Offer pharmacotherapy to all** (NRT, bupropion, nortriptyline, varenicline), monitoring neuropsychiatric symptoms – especially with varenicline and bupropion\n• Provide behavioural support where available\n• Note: slide p54's caution line is garbled ('varencline'); the intended message is above",
+   "m": "Stable mind first, then the quit date.",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SPEC",
+   "q": "Does stopping smoking worsen mental health in people with psychiatric illness?",
+   "a": "• **No** – quitting is associated with **improved anxiety, depression and stress**\n• People with mental illness smoke more heavily and **die 10–20 years earlier**, much of it from smoking\n• They are as motivated to quit as others and should be offered full support",
+   "m": "Smoking does not calm the mind – it just relieves its own withdrawal.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SPEC",
+   "q": "Can varenicline or bupropion be used in a smoker with a stable psychiatric illness (e.g. treated depression or schizophrenia)?",
+   "a": "• **Yes** – pharmacotherapy should be offered to all smokers with psychiatric conditions\n• The EAGLES trial (2016) found no significant increase in serious neuropsychiatric events with varenicline or bupropion versus placebo in this group\n• Still **monitor mood and behaviour** at each review and coordinate with the psychiatric team\n• Bupropion: check seizure risk and drug interactions (antipsychotics, antidepressants)",
+   "m": "Mental illness is a reason for closer follow-up, not for withholding treatment.",
+   "r": "Slide p54"
+  },
+  {
+   "t": "SPEC",
+   "q": "Why do clozapine and olanzapine levels rise when a patient stops smoking?",
+   "a": "• **Polycyclic aromatic hydrocarbons** in tobacco **smoke** (not nicotine) **induce CYP1A2**\n• On quitting, induction wears off over about a week → clozapine/olanzapine levels **rise markedly**\n• Risk: sedation, hypersalivation, hypotension, **seizures**\n• **NRT does not prevent this** – reduce the dose and monitor levels with the psychiatry team",
+   "m": "It is the smoke, not the nicotine, that speeds up CYP1A2.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SPEC",
+   "q": "Besides antipsychotics, which drugs need review when a patient stops smoking?",
+   "a": "• **Theophylline/aminophylline** – risk of toxicity\n• **Caffeine** – levels rise\n• **Warfarin** – monitor INR\n• **Insulin** – requirements may change\n• Others metabolised by **CYP1A2** (e.g. fluvoxamine, ropinirole)",
+   "m": "Theo, Coffee, Clozapine, Warfarin – the CYP1A2 quit-check list.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SPEC",
+   "q": "What is the first-line approach for adolescent smokers?",
+   "a": "• **Counselling and behavioural interventions**\n• Involve family/school support; address peer influence and vaping",
+   "m": "Teens: talk before tablets.",
+   "r": "Slide p55"
+  },
+  {
+   "t": "SPEC",
+   "q": "When can pharmacotherapy be considered for adolescent smokers?",
+   "a": "• When there is **evidence of nicotine dependence** and a **desire to quit**\n• **NRT** is the usual option (bupropion SR is mentioned on slide p55)\n• **Varenicline is not for under-18s**\n• Note: slide p49 states bupropion cannot be used under 18 while slide p55 lists it for adolescents – NRT is the safer choice",
+   "r": "Slide p55"
+  },
+  {
+   "t": "SPEC",
+   "q": "Is it worth helping elderly smokers to quit?",
+   "a": "• **Yes** – cessation **reduces the excess risk of cardiovascular events and mortality even at older age**\n• Quitting also slows lung function decline and improves wound healing and surgical outcomes",
+   "m": "Never too old to quit.",
+   "r": "Slide p55"
+  },
+  {
+   "t": "SPEC",
+   "q": "Which interventions are effective in elderly smokers?",
+   "a": "• **Counselling**, **physician advice**\n• **Buddy support** programmes\n• **Age-tailored self-help materials**\n• **Telephone counselling**\n• **Nicotine patch**; NRT increases cessation success",
+   "r": "Slide p55"
+  },
+  {
+   "t": "ECIG",
+   "q": "What is an e-cigarette and what are its components?",
+   "a": "• A **handheld device** that delivers nicotine or other chemicals by **aerosolisation**\n• Components: **aerosol generator** (heating coil/atomiser), **battery**, **solution storage area** (cartridge/tank)",
+   "r": "Slide p57"
+  },
+  {
+   "t": "ECIG",
+   "q": "What does e-cigarette liquid contain?",
+   "a": "• **Propylene glycol** and **glycerol** (the base)\n• **Nicotine** (variable, sometimes very high, e.g. nicotine salts)\n• **Flavourings**\n• Stored in **disposable or refillable** cartridges",
+   "m": "PG + VG + nicotine + flavour.",
+   "r": "Slide p57"
+  },
+  {
+   "t": "ECIG",
+   "q": "What harms can inhaling e-cigarette aerosol cause?",
+   "a": "• Acute effects of **nicotine, flavourants, chemicals** and particulates\n• **Accidental nicotine overdose** (e.g. children swallowing e-liquid)\n• **Developmental effects on the adolescent brain**\n• Uptake of **illicit drug use**\n• **Negative psychosocial health**\n• **Battery explosion** and burns",
+   "m": "Vapour is not just water.",
+   "r": "Slide p59"
+  },
+  {
+   "t": "ECIG",
+   "q": "What is meant by the 'gateway' and 'dual use' concerns with e-cigarettes?",
+   "a": "• **Gateway** – young people who vape are more likely to start **conventional cigarettes**\n• **Dual use** – many adults use **both** e-cigarettes and cigarettes, so harm is not reduced and nicotine dependence is maintained",
+   "m": "Vape as a bridge – too often to the cigarette, not away from it.",
+   "r": "Slide p59"
+  },
+  {
+   "t": "ECIG",
+   "q": "What is the case definition of EVALI?",
+   "a": "• **E-cigarette or vaping product use-associated lung injury**\n• Use of e-cigarettes **within 90 days** before symptom onset\n• **Pulmonary infiltrates** on imaging (e.g. bilateral ground-glass opacities)\n• **No other plausible cause** (infection excluded)",
+   "m": "EVALI: vaped within 90 days + infiltrates + nothing else explains it.",
+   "r": "Slide p60"
+  },
+  {
+   "t": "ECIG",
+   "q": "What is the epidemiology of EVALI in the USA and Malaysia?",
+   "a": "• Large case series first reported in the **USA in 2019**\n• By **2020**: **2,807 cases** and **68 deaths** reported to the CDC\n• Malaysia: **17 EVALI cases** recorded up to **June 2023**",
+   "r": "Slide p60"
+  },
+  {
+   "t": "ECIG",
+   "q": "What is the main cause of EVALI and how does it present and get managed?",
+   "a": "• Strongly linked to **vitamin E acetate**, an additive in **THC (cannabis)-containing** vaping liquids\n• Presentation: cough, breathlessness, chest pain **plus GI symptoms** (nausea, vomiting, abdominal pain) and **fever**, weight loss; hypoxia\n• Diagnosis of exclusion; refer to hospital – **stop vaping**, supportive care, often **systemic corticosteroids**",
+   "m": "Vitamin E is good to eat, deadly to vape.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ECIG",
+   "q": "Should e-cigarettes be recommended as a smoking cessation aid in Malaysia?",
+   "a": "• **No** – they are **not an approved smoking cessation therapy** in Malaysia and are not recommended in the MOH CPG\n• Offer **evidence-based** treatment: behavioural support plus NRT, varenicline or bupropion\n• Risk of **dual use** and continued nicotine dependence",
+   "m": "Swap the stick for a proven medicine, not a vape.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ISL",
+   "q": "What did the 1995 Muzakarah of the National Fatwa Committee decide about smoking?",
+   "a": "• The **37th Muzakarah (1995)** of the Fatwa Committee of the National Council of Islamic Religious Affairs Malaysia decided that **smoking is forbidden (haram)**\n• Useful as a culturally relevant motivator for Muslim patients",
+   "r": "Slide p62"
+  },
+  {
+   "t": "ISL",
+   "q": "What is the Malaysian fatwa ruling on e-cigarettes and vaping?",
+   "a": "• In **2015**, the Muzakarah of the National Fatwa Committee decided that **smoking e-cigarettes or vapour is prohibited (haram)**",
+   "r": "Slide p62"
+  },
+  {
+   "t": "ECIG",
+   "q": "How do heated tobacco products differ from e-cigarettes, and are they a safer way to quit?",
+   "a": "• **Heated tobacco products** (e.g. IQOS) heat real **tobacco leaf** to about **350 °C** without burning it\n• **E-cigarettes** heat a **liquid** (propylene glycol, glycerol, nicotine, flavours) – no tobacco leaf\n• Both deliver **addictive nicotine** plus toxicants; neither is proven safe\n• Neither is a recommended cessation aid in Malaysia – offer behavioural support plus NRT, varenicline or bupropion",
+   "m": "Heat-not-burn is still tobacco – 'no smoke' does not mean 'no harm'",
+   "r": "Lecturer pearl"
+  }
+ ],
+ "mcq": [
+  {
+   "t": "EPI",
+   "stem": "A 55-year-old taxi driver attends a Klinik Kesihatan for a BSSK health screening. He has smoked 15 cigarettes a day since the age of 15 and is still smoking. The medical officer wants to document his cumulative tobacco exposure before deciding on lung cancer screening eligibility.\nWhat is his smoking history in pack-years?",
+   "o": [
+    "20 pack-years",
+    "40 pack-years",
+    "30 pack-years",
+    "60 pack-years",
+    "15 pack-years"
+   ],
+   "a": 2,
+   "e": "Pack-years = (cigarettes per day ÷ 20) × years smoked. He has smoked for 40 years at 0.75 pack per day, giving 30 pack-years. The common trap is to multiply cigarettes by years without dividing by 20, or to forget to calculate the years from age at onset.",
+   "w": [
+    "Wrong - 20 pack-years would need only about 27 years at this rate.",
+    "Wrong - 40 is the number of years smoked, not pack-years.",
+    "Correct - (15 ÷ 20) × 40 years = 30 pack-years.",
+    "Wrong - 60 pack-years would mean a full 1.5 packs a day for 40 years.",
+    "Wrong - 15 is the age he started, not his exposure."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "EPI",
+   "stem": "Dr Aina, a medical officer at a Klinik Kesihatan, starts asking every adult in the outpatient clinic about tobacco use and enrols those who are willing into the clinic's quit smoking service, where they receive counselling and pharmacotherapy.\nUnder the WHO FCTC MPOWER package, which component is she delivering?",
+   "o": [
+    "Offer help to quit tobacco use",
+    "Monitor tobacco use and prevention policies",
+    "Protect people from tobacco smoke",
+    "Warn about the dangers of tobacco",
+    "Enforce bans on tobacco advertising"
+   ],
+   "a": 0,
+   "e": "Healthcare providers are responsible for the 'O' of MPOWER – Offer help to quit, delivered through brief intervention, quit clinics and medication. Asking about tobacco use in a clinic is part of the cessation process, not population surveillance ('Monitor'), which is done through surveys such as NHMS.",
+   "w": [
+    "Correct - providing cessation support is the 'O' component, the healthcare provider's role.",
+    "Wrong - 'Monitor' refers to population surveillance such as NHMS, not individual clinic care.",
+    "Wrong - 'Protect' refers to smoke-free laws for public places.",
+    "Wrong - 'Warn' refers to mass media campaigns and pictorial health warnings on packs.",
+    "Wrong - 'Enforce' is a regulatory measure against tobacco marketing."
+   ],
+   "r": "Slides p7-8"
+  },
+  {
+   "t": "EPI",
+   "stem": "A family medicine specialist in a district health office is preparing a talk for Klinik Kesihatan staff on why every consultation should include tobacco screening. She reviews the National Health and Morbidity Survey 2019 data on adult smokers.\nWhich statement about smoking in Malaysia is accurate according to NHMS 2019?",
+   "o": [
+    "About 40% of all Malaysian adults are current smokers",
+    "About 10% of Malaysian women are current smokers",
+    "About 1 million Malaysians aged 15 and above smoke",
+    "Most current smokers had tried to quit at least once in the past year",
+    "Fewer than half of current smokers tried to quit last year"
+   ],
+   "a": 4,
+   "e": "NHMS 2019 found 21.3% current smokers (about 4.8 million people aged 15 and above), 40.5% of men and 1.2% of women, and less than half of current smokers had attempted to quit in the previous 12 months. The low quit-attempt rate is the reason clinicians must ask and advise opportunistically. The 40% figure applies to men only.",
+   "w": [
+    "Wrong - about 40% (40.5%) is the prevalence in men; overall it was 21.3%.",
+    "Wrong - female prevalence was only about 1.2%.",
+    "Wrong - about 4.8 million Malaysians aged 15 and above smoke.",
+    "Wrong - less than half attempted to quit in the last 12 months.",
+    "Correct - less than half of current smokers attempted to quit in the previous 12 months."
+   ],
+   "r": "Slide p5"
+  },
+  {
+   "t": "EPI",
+   "stem": "A 52-year-old lorry driver who smokes 40 cigarettes a day attends a Klinik Kesihatan for a routine review. He has no snoring or daytime sleepiness, no splenomegaly and no itch after bathing. BMI 23 kg/m². SpO2 98% on air. FBC: Hb 18.4 g/dL, haematocrit 0.55, normal white cell and platelet counts.\nWhat is the most likely explanation for his raised haemoglobin?",
+   "o": [
+    "Polycythaemia vera from an acquired JAK2 mutation",
+    "Secondary polycythaemia from carboxyhaemoglobin-induced hypoxia",
+    "Relative polycythaemia from reduced plasma volume with dehydration",
+    "Erythropoietin secretion from an occult renal cell carcinoma",
+    "Nocturnal hypoxia from undiagnosed obstructive sleep apnoea"
+   ],
+   "a": 1,
+   "e": "Carbon monoxide binds haemoglobin about 200–250 times more avidly than oxygen, causing tissue hypoxia and a compensatory secondary polycythaemia in heavy smokers. Pulse oximetry cannot distinguish carboxyhaemoglobin, so a normal SpO2 does not exclude it. Isolated raised Hb with normal white cells and platelets and no splenomegaly argues against polycythaemia vera; cessation usually normalises the count.",
+   "w": [
+    "Wrong - polycythaemia vera usually raises white cells and platelets too, often with splenomegaly and aquagenic itch.",
+    "Correct - heavy smoking raises carboxyhaemoglobin, causing hypoxia-driven erythropoietin release.",
+    "Wrong - nothing suggests dehydration, and relative polycythaemia would not explain a smoker's typical picture.",
+    "Wrong - possible but far less likely; smoking is the obvious, common cause here.",
+    "Wrong - he has no snoring, sleepiness or obesity to suggest sleep apnoea."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "stem": "A 34-year-old man who smokes 25 cigarettes a day presents to a Klinik Kesihatan with a painful ulcer on the tip of his right big toe and cold, painful fingers in the cold. He has no diabetes; his lipid profile and blood pressure are normal. Dorsalis pedis and posterior tibial pulses are absent on the right.\nWhich intervention is most important to halt progression of his disease?",
+   "o": [
+    "Start aspirin and high-intensity atorvastatin",
+    "Refer for an early below-knee amputation",
+    "Start cilostazol to improve claudication distance",
+    "Complete and permanent smoking cessation",
+    "Prescribe oral antibiotics and daily dressings"
+   ],
+   "a": 3,
+   "e": "A young male heavy smoker without other atherosclerotic risk factors, with distal limb ischaemia, digital ulceration and Raynaud-like symptoms, suggests thromboangiitis obliterans (Buerger's disease). Complete cessation of all tobacco is the only intervention proven to halt progression; continued smoking leads to amputation. Antiplatelets and vasodilators are adjuncts only.",
+   "w": [
+    "Wrong - antiplatelet and statin therapy do not halt this inflammatory small-vessel disease.",
+    "Wrong - amputation is the outcome to prevent; cessation may save the limb.",
+    "Wrong - cilostazol is a symptomatic adjunct at best.",
+    "Correct - total smoking cessation is the only measure that stops progression of Buerger's disease.",
+    "Wrong - wound care helps the ulcer but not the underlying vasculitis."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "stem": "A 37-year-old woman attends a Klinik Kesihatan family planning clinic requesting the combined oral contraceptive pill. She smokes 20 cigarettes a day and is not ready to quit. BP 124/78 mmHg, BMI 24 kg/m², no migraine and no history of venous thromboembolism.\nWhat is the most appropriate contraceptive advice?",
+   "o": [
+    "Advise against the COC and offer a progestogen-only method or LARC",
+    "Prescribe a low-dose 20 microgram ethinylestradiol COC",
+    "Prescribe the COC as her blood pressure is within normal limits",
+    "Prescribe the COC once she has cut down to 10 cigarettes daily",
+    "Prescribe the COC with yearly lipid profile and blood pressure monitoring"
+   ],
+   "a": 0,
+   "e": "Under UKMEC, a woman aged 35 or older who smokes 15 or more cigarettes a day is UKMEC 4 for combined hormonal contraception – an unacceptable arterial thrombotic risk. Cutting down to fewer than 15 a day only moves her to UKMEC 3, where risks still usually outweigh benefits. Offer progestogen-only methods or LARC and offer cessation support.",
+   "w": [
+    "Correct - age 35 or older with 15 or more cigarettes a day is UKMEC 4; offer POP, implant, injectable or IUD.",
+    "Wrong - a lower oestrogen dose does not remove the unacceptable risk.",
+    "Wrong - normal BP does not offset the risk from age plus heavy smoking.",
+    "Wrong - smoking under 15 a day at 35 or older is still UKMEC 3, generally not recommended.",
+    "Wrong - monitoring does not make a UKMEC 4 method acceptable."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "stem": "A 58-year-old man who smokes 20 cigarettes a day is seen at a Klinik Kesihatan. He is listed for an elective inguinal hernia repair at the district hospital in 3 months and asks when he should stop smoking.\nWhat is the best advice?",
+   "o": [
+    "Stop smoking on the morning of the operation",
+    "Stop smoking 24 hours before the operation",
+    "Stop now, ideally at least 4–8 weeks before surgery",
+    "Stop smoking only after the surgical wound has fully healed",
+    "Cut down to 5 cigarettes a day in the week before surgery"
+   ],
+   "a": 2,
+   "e": "Stopping at least 4 weeks, and preferably 6–8 weeks, before surgery reduces wound infection, wound dehiscence and cardiopulmonary complications. Any abstinence helps (carbon monoxide clears within a day), but the greatest benefit needs several weeks. He should remain smoke-free through recovery.",
+   "w": [
+    "Wrong - too late to gain wound-healing and respiratory benefits.",
+    "Wrong - clears carbon monoxide but gives little benefit for wound and lung complications.",
+    "Correct - at least 4 weeks, ideally 6–8 weeks, before surgery gives the greatest reduction in complications.",
+    "Wrong - smoking during healing increases wound infection and dehiscence.",
+    "Wrong - cutting down briefly gives minimal benefit; complete cessation is advised."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "stem": "A 45-year-old man with hypertension attends his Klinik Kesihatan review. He stopped smoking exactly 12 months ago after 20 years of smoking a pack a day, and asks how much his risk of coronary heart disease has changed.\nWhat is the most accurate answer?",
+   "o": [
+    "Already equal to that of a lifelong non-smoker",
+    "No different from that of someone still smoking",
+    "Reduced by only about 10% compared with a smoker",
+    "About half that of a continuing smoker",
+    "Reduced to about one tenth of a smoker's risk"
+   ],
+   "a": 3,
+   "e": "After 1 year of abstinence, the excess risk of coronary heart disease is about half that of a continuing smoker; after about 15 years it approaches that of a never-smoker. Cardiovascular benefits begin within hours (heart rate, BP, carbon monoxide), which makes them powerful motivators to share with patients.",
+   "w": [
+    "Wrong - CHD risk approaches that of a non-smoker only after about 15 years.",
+    "Wrong - benefit begins quickly; by 1 year the excess risk is substantially lower.",
+    "Wrong - this underestimates the benefit; the excess risk is about halved.",
+    "Correct - at 1 year, CHD risk is about half that of a continuing smoker.",
+    "Wrong - this overstates the 1-year benefit."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "stem": "A 40-year-old man with ulcerative colitis has been in remission on mesalazine for 5 years. He stopped smoking 6 weeks ago with NRT support at a Klinik Kesihatan. He now has 6 loose stools a day with blood for 1 week. He is afebrile, pulse 88/min, abdomen soft.\nWhat is the most appropriate management?",
+   "o": [
+    "Advise him to resume smoking to control the colitis",
+    "Use high-dose nicotine gum as treatment for the colitis",
+    "Reassure him that these are nicotine withdrawal symptoms",
+    "Treat the colitis flare and support continued abstinence",
+    "Stop mesalazine and repeat colonoscopy in 12 months"
+   ],
+   "a": 3,
+   "e": "Ulcerative colitis is the notable exception in which smoking appears protective, and some patients flare after quitting. This is never a reason to resume smoking, because the overall harms far outweigh any colonic effect. Assess severity, treat the flare (and involve gastroenterology as needed) while continuing cessation support.",
+   "w": [
+    "Wrong - the harms of smoking vastly outweigh any benefit in ulcerative colitis.",
+    "Wrong - nicotine is not a recommended treatment for UC flares.",
+    "Wrong - bloody diarrhoea is not a feature of nicotine withdrawal.",
+    "Correct - manage the flare on its merits and keep him smoke-free.",
+    "Wrong - stopping maintenance therapy during a flare is inappropriate."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "HARM",
+   "stem": "A 3-year-old boy is brought to a Klinik Kesihatan with his fourth episode of acute otitis media this year and recurrent wheeze. His father smokes 15 cigarettes a day, usually in the living room with the windows open, and sometimes in the car.\nWhat is the most appropriate advice to the father about his smoking?",
+   "o": [
+    "Smoke only beside an open window or under a fan",
+    "Keep the home and car completely smoke-free",
+    "Smoke only in a separate room with the door closed",
+    "Run an air purifier in the child's bedroom at night",
+    "Switch to e-cigarettes when smoking inside the house"
+   ],
+   "a": 1,
+   "e": "Second-hand smoke increases otitis media, asthma, lower respiratory tract infections and sudden infant death syndrome in children. There is no safe level of exposure, and ventilation, fans, purifiers and separate rooms do not remove the risk. Advise a completely smoke-free home and car, and offer the father cessation support.",
+   "w": [
+    "Wrong - ventilation does not remove second-hand smoke exposure.",
+    "Correct - only a completely smoke-free home and car protects the child; also offer help to quit.",
+    "Wrong - smoke and residues spread through the house.",
+    "Wrong - air purifiers do not remove the risk.",
+    "Wrong - e-cigarette aerosol also exposes children to nicotine and chemicals."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NIC",
+   "stem": "A 45-year-old man started 4 mg nicotine gum for cravings 1 week ago at a Klinik Kesihatan quit clinic. He chews the gum correctly but usually does so while drinking his morning coffee and afternoon cola. He says the gum 'does nothing' for his cravings.\nWhat best explains the poor effect?",
+   "o": [
+    "Caffeine blocks nicotinic receptors in the brain",
+    "Coffee speeds hepatic metabolism of nicotine",
+    "The 4 mg gum strength is too high for him",
+    "Drinking while chewing makes him swallow most of the released nicotine",
+    "Acidic drinks ionise nicotine, cutting buccal uptake"
+   ],
+   "a": 4,
+   "e": "Nicotine is a weak base (pKa 8.0) and is absorbed across the buccal mucosa only in its un-ionised form. Acidic drinks such as coffee, cola and juice lower oral pH, ionising nicotine and reducing absorption from gum and lozenges. Advise avoiding acidic drinks for 15 minutes before and during use.",
+   "w": [
+    "Wrong - caffeine does not block nicotinic receptors.",
+    "Wrong - the problem is absorption in the mouth, not liver metabolism.",
+    "Wrong - a dose that is too high would cause nicotine excess, not lack of effect.",
+    "Wrong - swallowing occurs with fast chewing, but the key mechanism here is pH.",
+    "Correct - low oral pH ionises nicotine and limits buccal absorption."
+   ],
+   "r": "Slide p13"
+  },
+  {
+   "t": "NIC",
+   "stem": "A 35-year-old man in a workplace quit programme says he has not smoked at all for a week. His colleague reports seeing him smoke about 48 hours ago. He uses no NRT or e-cigarettes. The clinic wants a test that would still show nicotine intake from 2 days ago.\nWhich test is most appropriate?",
+   "o": [
+    "Plasma nicotine level",
+    "Salivary cotinine level",
+    "Exhaled carbon monoxide",
+    "Blood carboxyhaemoglobin",
+    "Urinary nicotine level"
+   ],
+   "a": 1,
+   "e": "Nicotine has a half-life of about 2 hours, so it is cleared within hours, and carbon monoxide clears within about a day. Cotinine, the main metabolite (70–80% of nicotine), has a half-life of about 16–20 hours and stays detectable for several days, making it the preferred biomarker. Its limitation is that NRT and e-cigarette users also test positive.",
+   "w": [
+    "Wrong - nicotine's half-life of about 2 hours means it is undetectable after 48 hours.",
+    "Correct - cotinine (half-life about 16–20 hours) remains detectable for several days.",
+    "Wrong - exhaled CO reflects smoking only over roughly the past day.",
+    "Wrong - carboxyhaemoglobin falls to normal within about 12–24 hours.",
+    "Wrong - nicotine itself is cleared too quickly to detect after 2 days."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NIC",
+   "stem": "A 22-year-old university student who smokes 10 cigarettes a day attends a Klinik Kesihatan. He says he only smokes 'for fun' and cannot understand why he feels irritable and craves a cigarette whenever he tries to stop.\nWhich mechanism best explains his nicotine dependence?",
+   "o": [
+    "α4β2 nicotinic receptors driving dopamine release in the nucleus accumbens",
+    "Muscarinic M1 receptors driving acetylcholine release in the frontal cortex",
+    "μ-opioid receptors driving β-endorphin release in the hypothalamic nuclei",
+    "GABA-A receptors driving serotonin release in the dorsal raphe nuclei",
+    "NMDA receptors driving noradrenaline release in the locus coeruleus"
+   ],
+   "a": 0,
+   "e": "Nicotine binds α4β2 nicotinic acetylcholine receptors in the ventral tegmental area, triggering dopamine release in the nucleus accumbens (mesolimbic reward pathway). Repeated use causes tolerance, and stopping causes withdrawal, driving relapse. Varenicline is a partial agonist at exactly this receptor.",
+   "w": [
+    "Correct - α4β2 nicotinic receptor stimulation releases dopamine in the reward pathway.",
+    "Wrong - nicotine acts on nicotinic, not muscarinic, receptors.",
+    "Wrong - β-endorphin release is a secondary effect, not the core addiction mechanism.",
+    "Wrong - nicotine does not act primarily through GABA-A receptors.",
+    "Wrong - noradrenaline release contributes to arousal, not the core reward."
+   ],
+   "r": "Slide p16"
+  },
+  {
+   "t": "NIC",
+   "stem": "A 40-year-old woman who stopped smoking 3 months ago with varenicline attends a Klinik Kesihatan follow-up. She has gained 4 kg and is tempted to start smoking again. TSH and fasting glucose are normal and she has no oedema.\nWhat best explains her weight gain?",
+   "o": [
+    "Fluid retention caused by nicotine withdrawal",
+    "Hypothyroidism unmasked by stopping smoking",
+    "A metabolic adverse effect of varenicline",
+    "Loss of nicotine's appetite suppression and metabolic boost",
+    "Insulin resistance and fluid shifts caused by carbon monoxide clearance"
+   ],
+   "a": 3,
+   "e": "Nicotine suppresses appetite (via noradrenaline and serotonin) and increases metabolic rate. On quitting, appetite rises and energy expenditure falls, giving an average gain of about 4–5 kg in the first year. Reassure that this is far less harmful than smoking, and plan diet and exercise rather than relapse.",
+   "w": [
+    "Wrong - withdrawal does not cause fluid retention, and she has no oedema.",
+    "Wrong - TSH is normal.",
+    "Wrong - varenicline does not cause weight gain; it is from stopping nicotine.",
+    "Correct - losing nicotine's appetite suppression and metabolic boost causes post-cessation weight gain.",
+    "Wrong - quitting improves insulin sensitivity over time."
+   ],
+   "r": "Slide p17"
+  },
+  {
+   "t": "NIC",
+   "stem": "A 50-year-old man at a Klinik Kesihatan quit clinic is reluctant to start nicotine gum. He says, 'I will just swap one addiction for another – nicotine is nicotine.'\nWhich explanation best addresses his concern?",
+   "o": [
+    "Medicinal nicotine is chemically different from tobacco nicotine",
+    "Gum contains a nicotine antagonist that blocks the reward",
+    "Gum gives slower absorption and lower peaks than an inhaled puff",
+    "Gum nicotine is fully broken down before it can reach the brain",
+    "Gum nicotine bypasses the nicotinic receptors in the brain"
+   ],
+   "a": 2,
+   "e": "Inhaled nicotine reaches the brain in about 11 seconds as a high arterial bolus, giving an immediate reward linked to each puff, which drives addiction. NRT delivers nicotine more slowly and at lower peaks, so it is far less reinforcing, and long-term NRT dependence is uncommon and far safer than smoking.",
+   "w": [
+    "Wrong - the nicotine molecule is the same.",
+    "Wrong - NRT contains no antagonist; that is part of varenicline's action.",
+    "Correct - slow absorption and lower peak levels make NRT much less addictive.",
+    "Wrong - NRT nicotine does reach the brain; that is how it relieves withdrawal.",
+    "Wrong - it acts on the same receptors, which is why it reduces cravings."
+   ],
+   "r": "Slide p14"
+  },
+  {
+   "t": "NIC",
+   "stem": "A 58-year-old man with stable angina smokes 20 cigarettes a day. At his Klinik Kesihatan review he asks why his chest pain is more frequent on days when he smokes heavily.\nWhich effect of nicotine best explains this?",
+   "o": [
+    "Coronary vasodilation that lowers coronary perfusion pressure on exertion",
+    "Coronary vasoconstriction with a rise in heart rate and BP",
+    "Bradycardia with a fall in cardiac output",
+    "Hypotension caused by adrenal medulla suppression",
+    "Direct myocardial toxicity of the metabolite cotinine"
+   ],
+   "a": 1,
+   "e": "Nicotine stimulates the sympathetic nervous system and adrenal catecholamine release, increasing heart rate, cardiac output and blood pressure (raising myocardial oxygen demand) while causing coronary vasoconstriction (reducing supply). Carbon monoxide further lowers oxygen delivery. This supply–demand mismatch provokes angina.",
+   "w": [
+    "Wrong - nicotine constricts, not dilates, coronary arteries.",
+    "Correct - more oxygen demand plus coronary vasoconstriction provokes ischaemia.",
+    "Wrong - nicotine causes tachycardia and raises cardiac output.",
+    "Wrong - nicotine stimulates the adrenal medulla and raises BP.",
+    "Wrong - cotinine is not significantly cardiotoxic."
+   ],
+   "r": "Slide p17"
+  },
+  {
+   "t": "BI",
+   "stem": "A medical officer at a busy Klinik Kesihatan sees 80 patients a day. A 48-year-old man attending for a sore throat smokes 20 cigarettes a day. The doctor has about 3 minutes left and has not been trained to run a cessation programme. The clinic has a quit smoking service on Thursdays.\nWhat is the most appropriate action?",
+   "o": [
+    "Defer the subject until he raises smoking himself",
+    "Advise him to cut down to 5 cigarettes a day",
+    "Prescribe varenicline today and review him in 3 months' time",
+    "Ask, give brief advice and refer to the quit service",
+    "Hand him a leaflet only, as advice takes too long"
+   ],
+   "a": 3,
+   "e": "The ABC (Ask, Brief advice, Cessation support) approach suits busy clinicians: ask and document smoking status, give personalised brief advice, then either provide support or refer to a cessation service if lacking time or expertise. Even advice lasting under 3 minutes increases quit rates, so no smoker should leave without an offer of help.",
+   "w": [
+    "Wrong - every smoker should be asked and advised at every opportunity.",
+    "Wrong - cutting down without a plan is not the recommended advice.",
+    "Wrong - prescribing without assessment, counselling and early follow-up is poor practice.",
+    "Correct - ABC: ask, brief advice and refer when lacking time or expertise.",
+    "Wrong - a leaflet alone is less effective than brief advice plus referral."
+   ],
+   "r": "Slide p30"
+  },
+  {
+   "t": "BI",
+   "stem": "A 35-year-old man with asthma attends a Klinik Kesihatan after a mild exacerbation. When asked about smoking he says, 'I know smoking is making my asthma worse and I do want to stop one day, but I have not thought about how or when.'\nWhich stage of change is he in?",
+   "o": [
+    "Precontemplation",
+    "Preparation",
+    "Contemplation",
+    "Action",
+    "Maintenance"
+   ],
+   "a": 2,
+   "e": "In contemplation the person recognises the problem and intends to change within about 6 months but has no plan yet and is ambivalent. Precontemplation lacks awareness or intention; preparation involves concrete plans within 30 days. Contemplators benefit from the 5R and motivational interviewing to resolve ambivalence.",
+   "w": [
+    "Wrong - he recognises the problem and wants to stop, so he is past precontemplation.",
+    "Wrong - preparation requires concrete plans, such as a quit date within 30 days.",
+    "Correct - aware of the problem, wants to stop, but no plan yet.",
+    "Wrong - action means he has already stopped smoking.",
+    "Wrong - maintenance means abstinence for more than 6 months."
+   ],
+   "r": "Slide p27"
+  },
+  {
+   "t": "BI",
+   "stem": "A 42-year-old man tells the Klinik Kesihatan doctor that he has thrown away his ashtrays, told his wife he is quitting and wants to stop next week before his daughter's wedding. He smokes 18 cigarettes a day, with his first cigarette 20 minutes after waking.\nWhat is the most appropriate next step?",
+   "o": [
+    "Explore relevance and risks using the 5R approach",
+    "Congratulate him on his plan and discuss relapse prevention only",
+    "Advise him to return when he feels completely ready",
+    "Give leaflets and repeat the advice at his next visit",
+    "Set a quit date and offer pharmacotherapy with support"
+   ],
+   "a": 4,
+   "e": "He is in the preparation stage – making concrete plans and intending to quit within 30 days. The matching intervention is 'Assist': set a quit date (STAR), offer pharmacotherapy and behavioural support, and arrange follow-up. The 5R is for smokers unwilling to quit, and relapse prevention alone suits maintenance.",
+   "w": [
+    "Wrong - the 5R is for smokers unwilling to quit; he is already motivated.",
+    "Wrong - relapse prevention alone suits the maintenance stage.",
+    "Wrong - he is ready now; delaying wastes the opportunity.",
+    "Wrong - he needs active assistance now, not just repeated advice.",
+    "Correct - preparation stage: STAR quit date plus pharmacotherapy and support."
+   ],
+   "r": "Slides p27-28"
+  },
+  {
+   "t": "BI",
+   "stem": "A 30-year-old man who smokes 15 cigarettes a day agrees to quit after brief advice at a Klinik Kesihatan. The doctor uses the STAR method to plan the attempt with him.\nWithin what time frame should his quit date be set?",
+   "o": [
+    "Within the next 2 weeks",
+    "Within the next 3 months",
+    "Within the next 6 months",
+    "After his next annual review",
+    "Once he is down to 5 a day"
+   ],
+   "a": 0,
+   "e": "STAR = Set a quit date (within 2 weeks), Tell family, friends and co-workers, Anticipate challenges including withdrawal, and Remove tobacco products. A date within 2 weeks keeps motivation high while allowing preparation and pre-loading of varenicline or bupropion.",
+   "w": [
+    "Correct - STAR sets a quit date within 2 weeks.",
+    "Wrong - a date this far away lets motivation fade.",
+    "Wrong - 6 months matches the contemplation stage, not a set quit date.",
+    "Wrong - delaying until an annual review loses the moment of readiness.",
+    "Wrong - cutting down first is not the STAR step and delays quitting."
+   ],
+   "r": "Slide p28"
+  },
+  {
+   "t": "BI",
+   "stem": "A 46-year-old man with type 2 diabetes sets his quit date for next Monday at a Klinik Kesihatan quit clinic and starts varenicline today. He smokes 20 cigarettes a day and has relapsed twice before within the first few days.\nWhen should his first follow-up after the quit date be arranged?",
+   "o": [
+    "One month after the quit date",
+    "Within the first week after the quit date",
+    "Three months after the quit date",
+    "At his next routine diabetes review in 3 months",
+    "Only if he reports a lapse or a relapse"
+   ],
+   "a": 1,
+   "e": "The recommended schedule is a follow-up in the first week after the quit date, weekly during the first month, every 2 weeks in months 2–3, then monthly up to 6 months. Withdrawal peaks and relapse risk is highest in the first days, so early contact (in person, by phone or virtually) allows side effects and dose problems to be handled.",
+   "w": [
+    "Wrong - by 1 month many relapses have already happened.",
+    "Correct - first follow-up within the first week after the quit date, when relapse risk is highest.",
+    "Wrong - far too late for the high-risk early period.",
+    "Wrong - linking it to a routine review delays essential early support.",
+    "Wrong - follow-up is proactive, not only after relapse."
+   ],
+   "r": "Slide p29"
+  },
+  {
+   "t": "BI",
+   "stem": "A 39-year-old woman has been completely abstinent for 6 weeks since her quit date and is taking varenicline without side effects. She has attended weekly Klinik Kesihatan reviews during the first month.\nWhat follow-up schedule is now recommended?",
+   "o": [
+    "Weekly visits until 6 months after the quit date",
+    "Monthly visits from now until 1 year",
+    "Every 3 months until 1 year after quitting",
+    "Every 2 weeks until the end of the third month",
+    "No further visits as she has already quit"
+   ],
+   "a": 3,
+   "e": "After weekly reviews in month 1, follow-up is every 2 weeks during months 2 and 3, then monthly up to 6 months. Reviews can be in person, by telephone or virtual, and should check medication use, congratulate success and address any lapses.",
+   "w": [
+    "Wrong - weekly reviews are only for the first month.",
+    "Wrong - monthly reviews start after month 3 and run to 6 months.",
+    "Wrong - 3-monthly reviews are too infrequent in the early months.",
+    "Correct - every 2 weeks in months 2 and 3, then monthly up to 6 months.",
+    "Wrong - relapse risk persists; structured follow-up continues to 6 months."
+   ],
+   "r": "Slide p29"
+  },
+  {
+   "t": "BI",
+   "stem": "A 33-year-old man using a 21 mg nicotine patch attends a Klinik Kesihatan 3 weeks after his quit date. He admits smoking 3 cigarettes at a friend's wedding last weekend while drinking with old smoking friends, but none since. He feels he has 'failed'.\nWhat is the most appropriate response?",
+   "o": [
+    "Review the trigger, recommit to abstinence and continue NRT",
+    "Stop the patch now, as smoking while using it is dangerous",
+    "Restart the whole programme with a new quit date in 6 months",
+    "Switch straight to varenicline, as NRT has clearly failed him",
+    "Advise him to cut down gradually instead of stopping completely"
+   ],
+   "a": 0,
+   "e": "A lapse is not a relapse and not a failure. At follow-up, review the situation (here alcohol and smoking friends), reassess commitment to total abstinence, and continue pharmacotherapy. Smoking while on NRT is not dangerous, and stopping treatment after a single lapse increases the chance of full relapse.",
+   "w": [
+    "Correct - review the circumstances, renew commitment to total abstinence and continue NRT.",
+    "Wrong - smoking on NRT is not dangerous; stopping NRT raises relapse risk.",
+    "Wrong - an unnecessary delay; he is still motivated now.",
+    "Wrong - one trigger-related lapse does not mean NRT has failed.",
+    "Wrong - the goal remains total abstinence."
+   ],
+   "r": "Slide p29"
+  },
+  {
+   "t": "BI",
+   "stem": "A 61-year-old man with hypertension is asked about tobacco use at a Klinik Kesihatan. He says he stopped smoking 3 months ago without any help after 30 years of smoking, and has had no cigarettes since.\nWhat is the most appropriate action?",
+   "o": [
+    "No action is needed, as he no longer smokes",
+    "Start varenicline now to prevent any future relapse",
+    "Use the 5R approach to strengthen his motivation",
+    "Refer him to the quit clinic for a Fagerström test",
+    "Congratulate him and discuss relapse prevention"
+   ],
+   "a": 4,
+   "e": "The 'Ask' step has four possible answers: willing smoker, unwilling smoker, ex-smoker or non-smoker. A recent ex-smoker is still at risk of relapse and should be congratulated, have his success reinforced and be helped to identify high-risk situations. Pharmacotherapy and the 5R are for current smokers.",
+   "w": [
+    "Wrong - recent ex-smokers still need reinforcement because relapse risk persists.",
+    "Wrong - he is abstinent without withdrawal; medication is not indicated.",
+    "Wrong - the 5R is for current smokers unwilling to quit.",
+    "Wrong - the FTND assesses dependence in current smokers.",
+    "Correct - congratulate, reinforce and give relapse-prevention advice."
+   ],
+   "r": "Slide p24"
+  },
+  {
+   "t": "BI",
+   "stem": "A 48-year-old man with chronic stable angina attends a Klinik Kesihatan for his medication refill. He smokes 15 cigarettes a day and has never been advised to quit. The doctor moves to the 'Advise' step of the 5A.\nWhich approach best fits the recommended way to advise him?",
+   "o": [
+    "Suggest he might cut down a little when convenient for him",
+    "Warn him bluntly that he will die soon if he keeps smoking",
+    "Clear, strong advice linking quitting to his angina, with help",
+    "Avoid the topic, as he came only for his medication refill",
+    "Recommend light or menthol cigarettes as a safer alternative"
+   ],
+   "a": 2,
+   "e": "Advice should be clear, strong and personalised – for example, explaining that quitting is the most important thing he can do for his heart and that the clinic will help. Linking advice to the current illness increases its impact. Vague, fear-based or judgemental messages are less effective, and 'light' cigarettes give no benefit because of compensatory smoking.",
+   "w": [
+    "Wrong - vague advice to cut down is weak and unpersonalised.",
+    "Wrong - fear-based, confrontational messages provoke resistance.",
+    "Correct - clear, strong, personalised advice plus an offer of help.",
+    "Wrong - every smoker should be advised at every opportunity.",
+    "Wrong - light and menthol cigarettes are not safer."
+   ],
+   "r": "Slide p25"
+  },
+  {
+   "t": "BI",
+   "stem": "A 37-year-old man preparing to quit tells the Klinik Kesihatan doctor that both of his previous attempts ended at weekend gatherings where he drank beer with friends who smoke.\nAs part of 'Assist', which advice is most appropriate?",
+   "o": [
+    "Drink only at home rather than at gatherings with friends",
+    "Use an e-cigarette whenever he drinks with his friends",
+    "Chew nicotine gum only on the nights when he is drinking",
+    "Limit or avoid alcohol during the quit attempt",
+    "Delay his quit date until he has stopped drinking alcohol"
+   ],
+   "a": 3,
+   "e": "Assist includes exploring past quit experiences and advising the patient to limit or abstain from alcohol, a major relapse trigger. Alcohol lowers inhibition and is often linked to smoking cues. The quit attempt should not be delayed; instead, plan to avoid high-risk settings early on.",
+   "w": [
+    "Wrong - drinking anywhere still weakens resolve and triggers cravings.",
+    "Wrong - e-cigarettes are not an approved cessation aid and maintain dependence.",
+    "Wrong - NRT should be used regularly, not only on drinking nights.",
+    "Correct - limiting or abstaining from alcohol is part of 'Assist'.",
+    "Wrong - delaying the quit date loses the current motivation."
+   ],
+   "r": "Slide p28"
+  },
+  {
+   "t": "FTND",
+   "stem": "A 44-year-old man completes the Fagerström Test at a Klinik Kesihatan. He smokes his first cigarette about 20 minutes after waking and smokes 25 a day. He finds it hard not to smoke in no-smoking areas, and the morning cigarette is the one he would most hate to give up. He does not smoke more in the morning than later in the day and does not smoke when ill in bed.\nWhat is his score and level of dependence?",
+   "o": [
+    "6 – moderately dependent",
+    "7 – highly dependent",
+    "5 – moderately dependent",
+    "8 – highly dependent",
+    "3 – minimally dependent"
+   ],
+   "a": 0,
+   "e": "Scoring: first cigarette 5–30 minutes = 2; 21–30 cigarettes a day = 2; difficult in forbidden places = 1; first morning cigarette most hated to give up = 1; not more in the morning = 0; not when ill = 0. Total 6 = moderately dependent (4–6). Scores of 7–10 are highly dependent and below 4 minimally dependent.",
+   "w": [
+    "Correct - 2 + 2 + 1 + 1 + 0 + 0 = 6, moderately dependent.",
+    "Wrong - 7 would need one more positive item.",
+    "Wrong - 5 undercounts his answers by one point; the total is 6.",
+    "Wrong - this overcounts the time-to-first-cigarette and per-day items.",
+    "Wrong - 3 undercounts his answers."
+   ],
+   "r": "Slide p31"
+  },
+  {
+   "t": "FTND",
+   "stem": "A busy Klinik Kesihatan wants a very short screen for nicotine dependence to decide quickly on pharmacotherapy dose, as the full 6-item Fagerström Test is often skipped.\nWhich single item is the best predictor of nicotine dependence?",
+   "o": [
+    "Still smoking when ill in bed most of the day",
+    "Difficulty not smoking in no-smoking places",
+    "Time to the first cigarette after waking",
+    "Smoking more in the first hours after waking",
+    "Hating most to give up the first cigarette"
+   ],
+   "a": 2,
+   "e": "Time to first cigarette after waking (up to 3 points) is the single strongest predictor of dependence. Together with cigarettes per day it forms the Heaviness of Smoking Index (0–6), a quick screen used to guide NRT strength (for example, 4 mg gum or lozenge if the first cigarette is within 30 minutes).",
+   "w": [
+    "Wrong - scores only 1 point and is a weaker predictor.",
+    "Wrong - scores only 1 point.",
+    "Correct - time to first cigarette is the strongest single predictor of dependence.",
+    "Wrong - scores only 1 point.",
+    "Wrong - related, but scores only 1 point and predicts less well."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "stem": "A 38-year-old woman stopped smoking 3 days ago without medication. She phones the Klinik Kesihatan quit clinic complaining of irritability, poor concentration, restlessness and difficulty sleeping, and asks how long this will last.\nWhat is the most accurate answer?",
+   "o": [
+    "Most will settle within the next 24 hours",
+    "Most will be gone by the end of day 3",
+    "They usually persist for at least a year",
+    "They typically last for about 6 months",
+    "Most settle over about 2–4 weeks"
+   ],
+   "a": 4,
+   "e": "Nicotine withdrawal begins within hours, peaks in the first few days and mostly subsides over 2–4 weeks. Increased appetite and cue-triggered cravings can last longer – weeks to months. Explaining this time course helps patients persevere, and pharmacotherapy can reduce symptoms.",
+   "w": [
+    "Wrong - symptoms peak in the first few days rather than settling in 24 hours.",
+    "Wrong - day 3 is around the peak, not the end.",
+    "Wrong - most symptoms do not last a year; only occasional cravings may persist.",
+    "Wrong - 6 months greatly overstates the usual duration.",
+    "Correct - withdrawal peaks early and mostly resolves over 2–4 weeks."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "stem": "A 50-year-old man stopped smoking 10 days ago. His irritability and cravings improved by day 7, but he now has palpitations, tremor, anxiety and insomnia. He drinks 6 cups of strong coffee a day, unchanged from before. He uses no NRT or other medication. Pulse 96/min, regular; thyroid examination normal.\nWhat is the most likely explanation?",
+   "o": [
+    "Nicotine withdrawal reaching its peak at day 10",
+    "Raised caffeine levels as CYP1A2 induction wanes",
+    "Thyrotoxicosis unmasked by stopping smoking",
+    "Paroxysmal supraventricular tachycardia episodes",
+    "Rebound sympathetic overactivity from cotinine"
+   ],
+   "a": 1,
+   "e": "Polycyclic aromatic hydrocarbons in tobacco smoke induce CYP1A2, which metabolises caffeine. After quitting, this induction wanes and caffeine levels can roughly double on the same intake, causing jitteriness, palpitations and insomnia that mimic withdrawal. Advise halving caffeine intake during the quit attempt.",
+   "w": [
+    "Wrong - withdrawal peaks in the first few days and his had already improved.",
+    "Correct - loss of CYP1A2 induction raises caffeine levels on the same intake.",
+    "Wrong - quitting does not cause thyrotoxicosis, and his thyroid examination is normal.",
+    "Wrong - his pulse is regular at 96/min, not a paroxysmal tachyarrhythmia.",
+    "Wrong - cotinine does not cause rebound sympathetic activation."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "stem": "A 55-year-old man stopped smoking 2 weeks ago after 30 pack-years. His cough has become more productive of clear sputum. He has no fever, haemoptysis or weight loss, and chest examination is normal. SpO2 97% on air.\nWhat is the most appropriate next step?",
+   "o": [
+    "Reassure him that clearance is recovering and review if it persists",
+    "Advise him to smoke a few cigarettes each day until the cough settles",
+    "Start oral amoxicillin for a presumed chest infection",
+    "Arrange an urgent CT thorax for suspected lung cancer",
+    "Start an inhaled corticosteroid for new-onset asthma"
+   ],
+   "a": 0,
+   "e": "In the early weeks after quitting, recovering cilia start clearing accumulated mucus, so cough and sputum can temporarily increase. Without red flags, reassure and review; investigate if there is haemoptysis, weight loss, fever or a cough persisting beyond several weeks. This explanation also prevents relapse.",
+   "w": [
+    "Correct - temporary cough from recovering mucociliary clearance; reassure and review.",
+    "Wrong - smoking would undo the benefit and is never advised.",
+    "Wrong - no fever or focal signs to suggest infection.",
+    "Wrong - no red flags; urgent CT is not indicated now.",
+    "Wrong - nothing suggests asthma."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "FTND",
+   "stem": "A 42-year-old man using a 21 mg nicotine patch and gum says he has not smoked for 2 weeks. His wife thinks he still smokes at work. The Klinik Kesihatan quit clinic wants an objective check of whether he is still smoking.\nWhich test is most appropriate?",
+   "o": [
+    "Urine cotinine level",
+    "Salivary cotinine level",
+    "Plasma nicotine level",
+    "Serum nicotine metabolite ratio",
+    "Exhaled carbon monoxide"
+   ],
+   "a": 4,
+   "e": "Exhaled carbon monoxide reflects combustion of tobacco over roughly the past day and is unaffected by NRT, so it can verify abstinence in people using NRT. Cotinine and nicotine are derived from any nicotine source and will be positive in patients on NRT. A CO analyser also motivates patients by showing a visible fall after quitting.",
+   "w": [
+    "Wrong - cotinine will be positive from his NRT.",
+    "Wrong - salivary cotinine is also raised by NRT.",
+    "Wrong - plasma nicotine reflects his patch and gum.",
+    "Wrong - this ratio reflects how fast he metabolises nicotine, not whether he smokes.",
+    "Correct - exhaled CO detects smoking and is not raised by NRT."
+   ],
+   "r": "Slide p54"
+  },
+  {
+   "t": "FTND",
+   "stem": "A 50-year-old contractor with COPD is referred to a Klinik Kesihatan quit clinic. He smokes 30 cigarettes a day, the first right after waking. His only previous attempt was 2 days of cold turkey, abandoned because of withdrawal. Fagerström score 9/10. He is worried about withdrawal and unsure about quitting.\nWhat is the most appropriate plan?",
+   "o": [
+    "Try cold turkey again with a firm quit date and leaflets only",
+    "Gradual reduction over 6 months without any medication",
+    "Nicotine gum 2 mg only when cravings become severe",
+    "Varenicline or combination NRT plus behavioural support",
+    "Switch to e-cigarettes to taper his nicotine intake"
+   ],
+   "a": 3,
+   "e": "A Fagerström score of 7–10 indicates high dependence, and his early relapse shows withdrawal overwhelmed willpower. The most effective approach is the most effective pharmacotherapy (varenicline or combination NRT: patch plus short-acting form) with behavioural support and close follow-up. Unassisted cold turkey succeeds in only about 3–5%.",
+   "w": [
+    "Wrong - unassisted cold turkey already failed and has very low success.",
+    "Wrong - reduction without medication does not address his high dependence.",
+    "Wrong - low-dose, as-needed gum alone is insufficient for an FTND of 9.",
+    "Correct - high dependence needs varenicline or combination NRT with behavioural support.",
+    "Wrong - e-cigarettes are not an approved cessation therapy in Malaysia."
+   ],
+   "r": "Slide p68"
+  },
+  {
+   "t": "FTND",
+   "stem": "A 29-year-old man who quit 5 days ago tells the Klinik Kesihatan nurse that his urges to smoke feel unbearable and he fears they will last all day. The nurse teaches him the 4D technique.\nHow long does a single strong urge typically last?",
+   "o": [
+    "About 30 seconds",
+    "About 30 minutes",
+    "About 3 minutes",
+    "About 3 hours",
+    "About 1 whole day"
+   ],
+   "a": 2,
+   "e": "A single strong urge typically passes in about 3 minutes. Teaching patients to ride it out with the 4D – deep breathing, drink plenty of water, divert thinking and discuss with a friend – builds confidence, and each urge resisted weakens the next.",
+   "w": [
+    "Wrong - urges usually last longer than this.",
+    "Wrong - this overstates the length of a single urge.",
+    "Correct - a strong urge typically passes within about 3 minutes.",
+    "Wrong - a single urge does not last hours.",
+    "Wrong - cravings recur, but each urge is brief."
+   ],
+   "r": "Slide p39"
+  },
+  {
+   "t": "UNW",
+   "stem": "A 41-year-old lorry driver at a Klinik Kesihatan says he is not ready to quit. The doctor asks what makes quitting hard for him. He says all his co-workers smoke and he becomes very moody when he tries to stop. The doctor explains that medication can control the moodiness and suggests ways to cope at work.\nWhich element of the 5R is being used?",
+   "o": [
+    "Relevance",
+    "Roadblocks",
+    "Rewards",
+    "Risks",
+    "Repetition"
+   ],
+   "a": 1,
+   "e": "Roadblocks: ask the patient to identify barriers to quitting, then offer treatment that addresses them (here, pharmacotherapy for withdrawal and strategies for being around smokers). Relevance personalises why quitting matters; Risks and Rewards ask about harms and benefits; Repetition repeats the intervention at every visit.",
+   "w": [
+    "Wrong - Relevance is why quitting matters to him personally.",
+    "Correct - identifying barriers and offering solutions is Roadblocks.",
+    "Wrong - Rewards are the benefits of stopping.",
+    "Wrong - Risks are the negative consequences of smoking.",
+    "Wrong - Repetition means repeating the intervention at every visit."
+   ],
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "stem": "A 36-year-old man who is not ready to quit is asked by the Klinik Kesihatan doctor what he might gain if he stopped. He mentions saving money for his children's education, food tasting better and being able to play football again.\nWhich element of the 5R is being used?",
+   "o": [
+    "Relevance",
+    "Risks",
+    "Rewards",
+    "Roadblocks",
+    "Repetition"
+   ],
+   "a": 2,
+   "e": "Rewards: the patient identifies potential benefits of stopping, such as better health, saving money, improved taste and smell, and being a role model. Self-identified benefits are more persuasive than benefits listed by the clinician.",
+   "w": [
+    "Wrong - Relevance links quitting to his own situation, such as illness or family.",
+    "Wrong - Risks are the negative consequences of continuing to smoke.",
+    "Correct - identifying the benefits of stopping is Rewards.",
+    "Wrong - Roadblocks are barriers to quitting.",
+    "Wrong - Repetition is repeating the intervention at every visit."
+   ],
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "stem": "A 52-year-old man with hypertension has been given the 5R at a Klinik Kesihatan. He listens politely but firmly says he has no intention of stopping smoking now. His BP is controlled on amlodipine.\nWhat is the most appropriate next step?",
+   "o": [
+    "Prescribe varenicline anyway so it is ready when he changes his mind",
+    "Discharge him from the clinic until he is willing to quit",
+    "Withhold his antihypertensive refill until he agrees to quit",
+    "Tell him not to discuss smoking again unless he raises it",
+    "Respect his choice and revisit motivation at every visit"
+   ],
+   "a": 4,
+   "e": "Repetition: the motivational intervention should be repeated every time an unmotivated patient attends, and each discussion documented. Most smokers need several contacts before they decide to quit. Respecting autonomy keeps the door open; withholding care or prescribing to an unwilling patient is inappropriate.",
+   "w": [
+    "Wrong - pharmacotherapy is for smokers who are ready to make a quit attempt.",
+    "Wrong - he still needs care and repeated motivation.",
+    "Wrong - unethical and harmful.",
+    "Wrong - clinicians should raise it at every visit.",
+    "Correct - repeat the 5R at every visit and document."
+   ],
+   "r": "Slide p33"
+  },
+  {
+   "t": "UNW",
+   "stem": "A 30-year-old woman who smokes 15 cigarettes a day tells the Klinik Kesihatan doctor she will not quit because she gained weight during a previous attempt. BMI 24 kg/m².\nWhat is the most appropriate response to this roadblock?",
+   "o": [
+    "Agree that she should keep smoking until she reaches her target weight",
+    "Explain the modest gain is far less harmful and plan diet and exercise",
+    "Start orlistat now so that she loses weight before she quits",
+    "Advise a strict very low-calorie diet from her quit date",
+    "Recommend menthol cigarettes, which suppress appetite more"
+   ],
+   "a": 1,
+   "e": "Weight gain is a common roadblock. Average gain is about 4–5 kg, and its health effect is far smaller than the harm of continued smoking. Plan healthy eating and physical activity; NRT and bupropion can delay gain. Strict dieting during a quit attempt adds stress and increases relapse risk.",
+   "w": [
+    "Wrong - smoking is never a safe weight-control method.",
+    "Correct - put the modest gain in context and plan diet and exercise.",
+    "Wrong - weight-loss drugs are not indicated at a BMI of 24.",
+    "Wrong - strict dieting during a quit attempt increases relapse.",
+    "Wrong - menthol cigarettes are not safer."
+   ],
+   "r": "Slide p34"
+  },
+  {
+   "t": "UNW",
+   "stem": "A 45-year-old man with a chronic cough is not ready to quit. He tells the Klinik Kesihatan doctor, 'My grandfather smoked all his life and lived to 90, so smoking cannot be that bad.'\nWhich response best follows motivational interviewing principles?",
+   "o": [
+    "You have seen people smoke without harm, yet you are worried about this cough.",
+    "Your grandfather was just lucky; the statistics show you will probably die early.",
+    "That is simply not true, and I must insist that you stop smoking today.",
+    "If you will not listen to medical advice, there is little more I can do.",
+    "Let us talk about your cough medicine instead of your smoking then."
+   ],
+   "a": 0,
+   "e": "Motivational interviewing uses empathy and reflective listening, rolls with resistance rather than arguing, and develops discrepancy between the patient's behaviour and his own concerns or goals. Reflecting his view while linking it to his worry about the cough invites him to explore change. Confrontation increases resistance.",
+   "w": [
+    "Correct - a reflection that rolls with resistance and develops discrepancy.",
+    "Wrong - argumentative and fear-based; it provokes resistance.",
+    "Wrong - confrontational demands increase resistance.",
+    "Wrong - rejecting the patient closes the door to change.",
+    "Wrong - avoids the issue and misses the opportunity."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "UNW",
+   "stem": "A 47-year-old man says he will not try to quit again because his two attempts using 'willpower alone' failed within a week. He thinks people who quit are simply stronger than him and does not know what else is available.\nWhat is the most appropriate response to this roadblock?",
+   "o": [
+    "Agree that quitting depends mainly on willpower and personality",
+    "Advise him to try willpower once more, with a stricter deadline",
+    "Suggest he waits until a health scare gives him motivation",
+    "Advise him to switch to e-cigarettes as the most effective aid",
+    "Explain that medicine plus support greatly improves success"
+   ],
+   "a": 4,
+   "e": "Limited knowledge of effective treatment is a recognised roadblock. Unassisted attempts succeed in only about 3–5%, while pharmacotherapy roughly doubles quit rates and combining it with behavioural support improves them further. Tell him about free help at Klinik Kesihatan quit clinics and mQuit services, and normalise previous failed attempts.",
+   "w": [
+    "Wrong - dependence is a medical condition; willpower alone rarely succeeds.",
+    "Wrong - repeating an unassisted attempt has a low success rate.",
+    "Wrong - waiting for a health scare risks serious harm.",
+    "Wrong - e-cigarettes are not an approved cessation therapy in Malaysia.",
+    "Correct - pharmacotherapy plus behavioural support greatly improves success."
+   ],
+   "r": "Slides p34, p36"
+  },
+  {
+   "t": "BEH",
+   "stem": "A 38-year-old bank officer in Kuala Lumpur sees a private GP for a cough and wants help to stop smoking. The GP has a 5-minute appointment slot and no cessation training. The patient works long hours and cannot attend a government clinic during office hours.\nWhat is the most appropriate referral?",
+   "o": [
+    "Tell him to return when he feels ready to quit on his own",
+    "Refer him to a psychiatrist for addiction management",
+    "Refer him only to a tertiary hospital respiratory clinic",
+    "Advise him to buy e-cigarettes from a vape shop instead",
+    "Refer him to an mQuit-registered provider near his workplace"
+   ],
+   "a": 4,
+   "e": "mQuit is the MOH smoking cessation programme linking public and private providers – Klinik Kesihatan, hospitals, private GP clinics and community pharmacies – so smokers can get help near home or work. When the treating clinician lacks time or expertise, referral to a cessation service is the 'C' of the ABC approach.",
+   "w": [
+    "Wrong - motivated smokers should be helped or referred now.",
+    "Wrong - uncomplicated tobacco dependence does not need psychiatry.",
+    "Wrong - tertiary clinics are not the first port of call and are hard for him to access.",
+    "Wrong - e-cigarettes are not an approved cessation therapy in Malaysia.",
+    "Correct - mQuit gives access to cessation support through public and private providers."
+   ],
+   "r": "Slide p20"
+  },
+  {
+   "t": "BEH",
+   "stem": "A 40-year-old man ready to quit is offered varenicline and weekly counselling sessions at a Klinik Kesihatan quit clinic. He says he only wants the tablets because he is too busy for counselling.\nWhat is the most accurate advice?",
+   "o": [
+    "Tablets alone are just as effective as tablets with counselling",
+    "Counselling alone is better than medication for most smokers",
+    "Combining medication with behavioural support works best",
+    "Counselling is only needed if the tablets fail after 12 weeks",
+    "Medication should be given only to those who fail counselling"
+   ],
+   "a": 2,
+   "e": "Combining behavioural intervention with medication increases the chance of quitting more than either alone. Medication blunts withdrawal, while behavioural support deals with habits, triggers and motivation. All smokers attempting to quit should be offered pharmacotherapy unless contraindicated; counselling can be brief or by phone if time is a barrier.",
+   "w": [
+    "Wrong - adding behavioural support further increases success.",
+    "Wrong - medication plus support beats either alone.",
+    "Correct - combined behavioural and pharmacological treatment gives the best quit rates.",
+    "Wrong - support should be given from the start, not only after failure.",
+    "Wrong - pharmacotherapy should be offered to all unless contraindicated."
+   ],
+   "r": "Slide p36"
+  },
+  {
+   "t": "BEH",
+   "stem": "A 33-year-old office worker quit smoking 4 days ago. After lunch he feels a sudden, strong urge to smoke at his desk and phones the Klinik Kesihatan quit clinic counsellor for advice.\nWhich advice is most appropriate?",
+   "o": [
+    "Smoke just one cigarette to settle the urge, then stop again",
+    "Drink water and take slow deep breaths until the urge passes",
+    "Drink a cup of strong coffee to take his mind off the urge",
+    "Chew ordinary gum vigorously for an hour to distract himself",
+    "Have a small alcoholic drink after work to help him relax"
+   ],
+   "a": 1,
+   "e": "The 4D technique – Deep breathing, Drink plenty of water, Divert thinking and Discuss with a friend – helps a person ride out an urge, which usually passes in about 3 minutes. One cigarette often leads to full relapse, and coffee and alcohol are common smoking triggers.",
+   "w": [
+    "Wrong - 'just one' often leads to full relapse.",
+    "Correct - deep breathing and drinking water are part of the 4D; the urge passes in minutes.",
+    "Wrong - coffee is a common smoking cue and caffeine levels rise after quitting.",
+    "Wrong - not a recognised strategy and an hour is unnecessary.",
+    "Wrong - alcohol is a major relapse trigger."
+   ],
+   "r": "Slide p39"
+  },
+  {
+   "t": "BEH",
+   "stem": "A 50-year-old contractor preparing to quit tells the Klinik Kesihatan doctor that his strongest urges come immediately after every meal, when he habitually lights up at the table.\nWhich behavioural strategy is most appropriate for this trigger?",
+   "o": [
+    "Leave the table straight after meals and brush his teeth",
+    "Skip meals during the first month to avoid the trigger",
+    "Allow himself one cigarette after dinner as a reward",
+    "Eat larger meals so that he feels too full to smoke",
+    "Smoke only half a cigarette after each meal for a while"
+   ],
+   "a": 0,
+   "e": "Identify triggers (when, where and with whom the patient smokes) and plan a specific alternative for each. Breaking the meal–cigarette link by leaving the table and brushing teeth removes the cue. Allowing 'just one' or half cigarettes maintains the habit, and skipping meals is unhealthy and increases irritability.",
+   "w": [
+    "Correct - changing the routine breaks the link between meals and smoking.",
+    "Wrong - skipping meals is unhealthy and does not address the habit.",
+    "Wrong - 'reward' cigarettes maintain the habit and lead to relapse.",
+    "Wrong - larger meals encourage weight gain and do not remove the cue.",
+    "Wrong - partial smoking keeps the habit going."
+   ],
+   "r": "Slide p68"
+  },
+  {
+   "t": "BEH",
+   "stem": "A 44-year-old man who stopped smoking 2 weeks ago is troubled by cravings in the evenings and is worried about gaining weight. He has no cardiac or joint problems.\nWhich behavioural advice best addresses both concerns?",
+   "o": [
+    "Eat sweets whenever a craving comes on in the evening",
+    "Go to bed early so that the evening cravings are avoided",
+    "Watch television to keep his mind off the cravings",
+    "Take short bouts of exercise when cravings strike",
+    "Drink extra coffee in the evening to suppress appetite"
+   ],
+   "a": 3,
+   "e": "Even short bouts of exercise (around 5 minutes) reduce cravings and withdrawal symptoms, improve mood and help limit post-cessation weight gain. It is one of the 'divert your thinking' strategies. Sweets add calories, and coffee is a smoking cue whose levels rise after quitting.",
+   "w": [
+    "Wrong - sweets add calories and worsen weight gain.",
+    "Wrong - avoids the problem without building coping skills.",
+    "Wrong - a sedentary distraction does not help weight and is often a smoking cue.",
+    "Correct - exercise reduces cravings and helps control weight.",
+    "Wrong - coffee is a smoking cue and caffeine levels rise after quitting."
+   ],
+   "r": "Slide p39"
+  },
+  {
+   "t": "BEH",
+   "stem": "A 35-year-old offshore oil-rig worker quit smoking 1 week ago with NRT from a Klinik Kesihatan. He works 2-week shifts at sea and cannot attend the clinic for the weekly reviews planned in his first month.\nWhat is the most appropriate way to provide his follow-up?",
+   "o": [
+    "Postpone all reviews until he returns to shore",
+    "Discharge him, as he cannot attend in person",
+    "Arrange scheduled telephone or virtual reviews",
+    "Give him 3 months of NRT and review at the end",
+    "Ask his supervisor to report whether he smokes"
+   ],
+   "a": 2,
+   "e": "Follow-up can be in person, by telephone or virtual. Early weekly contact is important because withdrawal and relapse risk are highest in the first month. Remote reviews should still assess pharmacotherapy use and problems, congratulate success and review any lapses.",
+   "w": [
+    "Wrong - delaying reviews leaves him without support at the highest-risk time.",
+    "Wrong - follow-up can be remote.",
+    "Correct - telephone or virtual follow-up is an accepted format.",
+    "Wrong - lack of early review increases relapse and misuse.",
+    "Wrong - breaches confidentiality and is not support."
+   ],
+   "r": "Slide p29"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 46-year-old man who smokes 22 cigarettes a day, with his first cigarette within 10 minutes of waking, chooses nicotine patches at a Klinik Kesihatan quit clinic. He has no cardiovascular disease.\nWhat is the most appropriate starting patch strength?",
+   "o": [
+    "7 mg/24 h patch",
+    "14 mg/24 h patch",
+    "10 mg/16 h patch",
+    "15 mg/16 h patch",
+    "21 mg/24 h patch"
+   ],
+   "a": 4,
+   "e": "Smokers of more than 10 cigarettes a day should start on the highest strength (21 mg/24 h or 25 mg/16 h), stepping down over 8–12 weeks. Heavier smokers need higher doses, and under-dosing is a common reason for NRT failure. For a highly dependent smoker, add a short-acting form for breakthrough cravings.",
+   "w": [
+    "Wrong - 7 mg is the final step-down dose.",
+    "Wrong - 14 mg is the starting dose for 10 or fewer cigarettes a day.",
+    "Wrong - 10 mg/16 h is the lowest 16-hour step.",
+    "Wrong - 15 mg/16 h is for lighter smokers or step-down.",
+    "Correct - more than 10 cigarettes a day: start 21 mg/24 h."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 39-year-old woman started a 21 mg/24-hour nicotine patch 5 days ago. Her cravings are well controlled, but she has vivid dreams and wakes several times each night. She has no skin reaction.\nWhat is the most appropriate advice?",
+   "o": [
+    "Remove the patch at bedtime and apply a new one on waking",
+    "Switch to the 7 mg patch strength from tonight",
+    "Stop the patch and change her treatment to bupropion",
+    "Take a sedative antihistamine each night with the patch",
+    "Move the patch to her thigh instead of her upper arm"
+   ],
+   "a": 0,
+   "e": "Vivid dreams and sleep disturbance are common with 24-hour patches because of night-time nicotine. Removing the patch at bedtime (effectively 16-hour use) usually resolves this while keeping daytime craving control. Dropping the dose risks breakthrough withdrawal, and bupropion itself causes insomnia.",
+   "w": [
+    "Correct - removing the patch at night (16-hour use) relieves vivid dreams and insomnia.",
+    "Wrong - reducing the dose risks uncontrolled cravings.",
+    "Wrong - her cravings are controlled; bupropion also commonly causes insomnia.",
+    "Wrong - adds sedation without fixing the cause.",
+    "Wrong - site does not affect night-time nicotine exposure."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 52-year-old man started 4 mg nicotine gum 1 week ago. He chews it continuously like ordinary chewing gum and now complains of hiccups, heartburn and nausea. His cravings remain poorly controlled.\nWhat is the most appropriate advice?",
+   "o": [
+    "Switch to the 2 mg gum and keep chewing continuously",
+    "Chew slowly until it tingles, then park it against the cheek",
+    "Swallow the saliva promptly to absorb nicotine faster",
+    "Take an antacid and continue chewing as he does now",
+    "Chew two pieces together for about 10 minutes at a time"
+   ],
+   "a": 1,
+   "e": "Nicotine gum works through buccal absorption. Vigorous chewing releases nicotine too fast, so it is swallowed – causing hiccups, dyspepsia and nausea – and is partly lost to first-pass metabolism, so it controls cravings poorly. The chew-and-park technique (chew until peppery or tingling, park between cheek and gum, repeat for about 30 minutes) fixes both problems.",
+   "w": [
+    "Wrong - a lower dose does not fix the faulty technique.",
+    "Correct - chew-and-park allows buccal absorption and prevents swallowing.",
+    "Wrong - swallowed nicotine causes the GI side effects and is less effective.",
+    "Wrong - masks symptoms without improving absorption.",
+    "Wrong - increases nicotine release and swallowing."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 60-year-old man was discharged 5 days ago after an acute ST-elevation myocardial infarction treated with primary PCI. At his Klinik Kesihatan review he is determined never to smoke again but has strong cravings. He smoked 20 cigarettes a day until admission.\nWhat is the most appropriate cessation approach now?",
+   "o": [
+    "Avoid all smoking cessation medication for at least 1 year",
+    "Start a 21 mg patch with 4 mg gum without any further review",
+    "Advise cutting down to 5 a day until the heart has healed",
+    "Intensive behavioural support, with NRT only under medical supervision",
+    "Defer the quit attempt until cardiac rehabilitation has ended"
+   ],
+   "a": 3,
+   "e": "NRT is far safer than smoking and safe in stable cardiovascular disease, but caution is advised in the acute phase – MI within about 2 weeks, unstable angina or serious arrhythmia. Prioritise intensive behavioural support and, if pharmacotherapy is needed, use NRT under medical (cardiology) supervision. Quitting after MI reduces mortality by about a third.",
+   "w": [
+    "Wrong - an unnecessarily long ban; NRT is safer than smoking once stable.",
+    "Wrong - unsupervised high-dose NRT early after MI needs caution.",
+    "Wrong - any continued smoking after MI is harmful.",
+    "Correct - behavioural support first, with NRT only under medical supervision in the acute phase.",
+    "Wrong - quitting immediately gives the greatest survival benefit."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 48-year-old man started a 21 mg/24-hour nicotine patch 3 days ago but is still smoking about 15 cigarettes a day. He presents to a Klinik Kesihatan with nausea, dizziness, headache, cold sweats and palpitations. BP 138/84 mmHg, pulse 104/min regular, ECG sinus tachycardia only.\nWhat is the most likely cause?",
+   "o": [
+    "Nicotine withdrawal from an inadequate patch dose",
+    "Nicotine excess from smoking while on a high-dose patch",
+    "Allergic reaction to the patch adhesive",
+    "Caffeine toxicity from reduced CYP1A2 activity",
+    "Viral gastroenteritis unrelated to treatment"
+   ],
+   "a": 1,
+   "e": "Nausea, vomiting, dizziness, headache, palpitations and cold sweats suggest nicotine excess, usually from continuing to smoke heavily on high-dose NRT. Advise stopping smoking and, if symptoms persist, reducing the NRT dose. Caffeine accumulation follows quitting, which he has not done.",
+   "w": [
+    "Wrong - withdrawal causes irritability and cravings, not cold sweats and nausea while still smoking.",
+    "Correct - smoking heavily on a full-strength patch causes nicotine excess.",
+    "Wrong - allergy causes local or generalised rash, not these systemic features.",
+    "Wrong - CYP1A2 induction persists because he is still smoking.",
+    "Wrong - the timing with patch plus continued smoking points to nicotine excess."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 55-year-old man with a Fagerström score of 8 wants to quit at a Klinik Kesihatan. He prefers NRT because a friend had severe nausea on varenicline. He smokes 30 cigarettes a day and has strong cravings after meals.\nWhich NRT regimen is most effective?",
+   "o": [
+    "14 mg/24 h patch alone",
+    "2 mg gum alone as needed",
+    "Nicotine inhaler alone",
+    "21 mg patch plus 4 mg gum or lozenge",
+    "4 mg gum alone every 4 hours"
+   ],
+   "a": 3,
+   "e": "Combination NRT – a long-acting patch for steady background levels plus a short-acting form for breakthrough cravings – is more effective than any single form and similar in efficacy to varenicline. It is particularly suitable for highly dependent smokers, who also need the highest patch strength.",
+   "w": [
+    "Wrong - single-form and too low a dose for a 30-a-day smoker.",
+    "Wrong - low-dose, as-needed gum alone is inadequate for high dependence.",
+    "Wrong - single short-acting forms are less effective than combination therapy.",
+    "Correct - full-strength patch plus short-acting NRT is the most effective NRT regimen.",
+    "Wrong - single-form and too infrequent."
+   ],
+   "r": "Slide p47"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 41-year-old man visits a community pharmacy in Ipoh asking to buy nicotine gum to help him stop smoking. He has no prescription and no medical problems. The pharmacist is unsure whether she can supply it.\nWhich statement about NRT supply in Malaysia is correct?",
+   "o": [
+    "NRT is prescription-only and must be refused without one",
+    "NRT can be supplied only by a doctor at a government clinic",
+    "As a Group C poison, the pharmacist may supply it with advice",
+    "NRT is unregulated and can be sold by any retail shop",
+    "NRT may be supplied only after a doctor confirms the FTND"
+   ],
+   "a": 2,
+   "e": "NRT products are Group C poisons under the Poisons Act 1952, so a registered pharmacist can supply them without a doctor's prescription, ideally with counselling on correct use. This improves access through community pharmacies, many of which participate in mQuit.",
+   "w": [
+    "Wrong - NRT is not a prescription-only (Group B) product.",
+    "Wrong - pharmacists can supply it too.",
+    "Correct - Group C status allows pharmacist supply with counselling.",
+    "Wrong - NRT is regulated under the Poisons Act.",
+    "Wrong - an FTND is useful but not legally required."
+   ],
+   "r": "Slide p43"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 68-year-old man with full upper and lower dentures and temporomandibular joint pain is starting a 21 mg nicotine patch at a Klinik Kesihatan. He also needs a short-acting NRT form for cravings after meals.\nWhich short-acting form is most suitable?",
+   "o": [
+    "2 mg nicotine gum",
+    "4 mg nicotine gum",
+    "Gum used with denture fixative",
+    "A second 7 mg patch after meals",
+    "Nicotine lozenge"
+   ],
+   "a": 4,
+   "e": "Nicotine gum sticks to dentures and aggravates jaw problems. Lozenges are sucked slowly and moved around the mouth until dissolved (about 20–30 minutes), giving buccal absorption without chewing. A patch is too slow to relieve acute cravings.",
+   "w": [
+    "Wrong - gum is unsuitable with dentures and TMJ pain.",
+    "Wrong - gum is unsuitable regardless of strength.",
+    "Wrong - still requires chewing and sticks to dentures.",
+    "Wrong - patches act too slowly for breakthrough cravings.",
+    "Correct - lozenges need no chewing and suit denture wearers."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 57-year-old man using a 21 mg nicotine patch says his background cravings are controlled, but he badly misses holding a cigarette and the hand-to-mouth action, especially while driving.\nWhich additional NRT form best suits him?",
+   "o": [
+    "Nicotine inhaler",
+    "Nicotine patch, higher dose",
+    "Nicotine lozenge",
+    "Nicotine gum",
+    "Nicotine nasal spray"
+   ],
+   "a": 0,
+   "e": "The nicotine inhaler is a mouthpiece holding a nicotine cartridge; puffing delivers nicotine absorbed in the mouth and throat. It replaces the hand-to-mouth ritual that many smokers miss. Side effects include throat irritation and cough.",
+   "w": [
+    "Correct - the inhaler mimics the hand-to-mouth behaviour of smoking.",
+    "Wrong - his background cravings are already controlled.",
+    "Wrong - helps cravings but does not replace the ritual.",
+    "Wrong - helps cravings but does not replace the ritual.",
+    "Wrong - fast-acting, but does not replace the ritual."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 50-year-old man on a nicotine patch admits smoking 2 cigarettes yesterday during a stressful day. He has heard that smoking while wearing a patch can cause a heart attack and wants to stop the patch.\nWhat is the most appropriate advice?",
+   "o": [
+    "Stop the patch immediately to avoid nicotine overdose",
+    "Stop the patch for 1 week and then restart it",
+    "Halve the patch strength until he stops completely",
+    "Continue the patch and recommit to stopping smoking",
+    "Switch to varenicline as NRT has clearly failed"
+   ],
+   "a": 3,
+   "e": "Smoking a few cigarettes while using NRT is not dangerous; the belief that it causes heart attacks is a myth. Encourage him to continue NRT, recommit to abstinence, review the trigger and check the dose is adequate. Stopping NRT after a lapse raises relapse risk.",
+   "w": [
+    "Wrong - an occasional cigarette on NRT does not cause dangerous overdose.",
+    "Wrong - interrupting treatment increases relapse risk.",
+    "Wrong - under-dosing worsens cravings.",
+    "Correct - continue NRT, review the trigger and recommit.",
+    "Wrong - a single stress-related lapse does not mean failure."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NRT",
+   "stem": "A 58-year-old man with COPD who smokes 25 cigarettes a day tells the Klinik Kesihatan doctor he cannot face stopping abruptly but would like to smoke less. He has declined to set a quit date today.\nWhat is the most appropriate pharmacological approach?",
+   "o": [
+    "Use NRT to cut down, then set a quit date",
+    "Offer no medication until he sets a quit date",
+    "Start varenicline with no planned quit date",
+    "Advise switching to e-cigarettes to cut down",
+    "Use nicotine gum only on days he smokes less"
+   ],
+   "a": 0,
+   "e": "For smokers not ready to stop completely, NRT can be used to reduce cigarette intake before quitting ('cut down to quit'), with the aim of setting a quit date as confidence grows. Smoking while using NRT is not dangerous. This keeps the patient engaged rather than turning him away.",
+   "w": [
+    "Correct - NRT can be used to reduce intake before a planned quit.",
+    "Wrong - NRT is licensed to help smokers cut down before quitting.",
+    "Wrong - varenicline is started 1–2 weeks before a set quit date.",
+    "Wrong - e-cigarettes are not an approved cessation aid in Malaysia.",
+    "Wrong - irregular use is ineffective; regular NRT should replace cigarettes."
+   ],
+   "r": "Slide p43"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 44-year-old man with normal renal function is starting varenicline at a Klinik Kesihatan quit clinic. His quit date is set for day 8 of treatment.\nWhich dosing schedule is correct?",
+   "o": [
+    "0.5 mg BD for 3 days, 1 mg OD for 4 days, then 1 mg BD",
+    "1 mg OD for 3 days, 1 mg BD for 4 days, then 2 mg BD",
+    "0.5 mg OD for 7 days, then 1 mg OD for the rest",
+    "1 mg BD from day 1 for a total of 12 weeks",
+    "0.5 mg OD for 3 days, 0.5 mg BD for 4 days, then 1 mg BD"
+   ],
+   "a": 4,
+   "e": "Varenicline is titrated to reduce nausea: 0.5 mg once daily on days 1–3, 0.5 mg twice daily on days 4–7, then 1 mg twice daily from day 8 to complete 12 weeks. The quit date is usually between day 8 and day 14.",
+   "w": [
+    "Wrong - the titration starts at 0.5 mg once daily.",
+    "Wrong - doses are too high; the maximum is 1 mg twice daily.",
+    "Wrong - the maintenance dose is 1 mg twice daily.",
+    "Wrong - starting at full dose increases nausea.",
+    "Correct - 0.5 mg OD days 1–3, 0.5 mg BD days 4–7, then 1 mg BD."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 37-year-old woman started varenicline 5 days ago. She has troublesome nausea, especially in the mornings, but no vomiting. Her mood is normal, and she is keen to continue because cigarettes already taste less satisfying.\nWhat is the most appropriate advice?",
+   "o": [
+    "Stop varenicline and switch to bupropion SR",
+    "Take it on an empty stomach for faster absorption",
+    "Take it after food with a full glass of water",
+    "Double the dose to speed up tolerance to nausea",
+    "Stop varenicline for 1 week and then restart"
+   ],
+   "a": 2,
+   "e": "Nausea is the commonest adverse effect of varenicline (about 3 in 10 patients), is usually mild and often settles. Taking it after food with a full glass of water reduces it; if persistent, the dose can be reduced. Stopping or switching is not needed for mild nausea.",
+   "w": [
+    "Wrong - mild nausea does not require a change of drug.",
+    "Wrong - an empty stomach worsens nausea.",
+    "Correct - taking varenicline after food with water reduces nausea.",
+    "Wrong - a higher dose worsens nausea.",
+    "Wrong - interruption risks relapse and is unnecessary."
+   ],
+   "r": "Slide p47"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 32-year-old man on week 4 of varenicline is brought by his wife to a Klinik Kesihatan. Over the past week he has become withdrawn, tearful and irritable, and said he 'might be better off dead'. He has not smoked since his quit date.\nWhat is the most appropriate immediate action regarding varenicline?",
+   "o": [
+    "Continue varenicline and review him in 4 weeks",
+    "Stop varenicline now and assess and manage his mood urgently",
+    "Halve the varenicline dose and add an antidepressant",
+    "Continue varenicline, as this is nicotine withdrawal",
+    "Switch from varenicline to bupropion SR the same day"
+   ],
+   "a": 1,
+   "e": "Serious adverse effects listed for varenicline include depression, suicidal ideation and suicide. If mood or behaviour changes, varenicline should be stopped and the patient assessed immediately – including a suicide risk assessment and referral as needed. Although large trials did not show a significant excess risk, a patient with suicidal ideation must be managed urgently.",
+   "w": [
+    "Wrong - suicidal ideation needs immediate action, not routine review.",
+    "Correct - stop varenicline and assess mood and suicide risk urgently.",
+    "Wrong - continuing the drug with suicidal ideation is unsafe.",
+    "Wrong - suicidal thoughts must not be dismissed as withdrawal.",
+    "Wrong - bupropion also carries neuropsychiatric warnings; his mood needs assessment first."
+   ],
+   "r": "Slide p47"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 45-year-old lorry driver attends the quit smoking clinic at a Klinik Kesihatan. He smokes 25 cigarettes a day and his Fagerström score is 7. He has epilepsy, controlled on sodium valproate, with his last seizure 3 years ago. He failed a previous quit attempt with nicotine gum alone and asks for a stronger medicine.\nWhich of the following should be AVOIDED in him?",
+   "o": [
+    "Bupropion SR 150 mg",
+    "Varenicline tartrate",
+    "Nicotine patch 21 mg/24 h",
+    "Nicotine gum 4 mg",
+    "Nicotine lozenge 4 mg"
+   ],
+   "a": 0,
+   "e": "Bupropion lowers the seizure threshold and is contraindicated in anyone with a current or past seizure disorder, however well controlled. Varenicline and all forms of NRT remain options; combination NRT (patch plus a short-acting form) or varenicline would suit his high dependence. The trap is assuming that a seizure-free epilepsy no longer counts.",
+   "w": [
+    "Correct - a history of seizures is an absolute contraindication to bupropion.",
+    "Wrong - varenicline is not contraindicated in epilepsy and suits a highly dependent smoker.",
+    "Wrong - the nicotine patch is safe in epilepsy and is the backbone of combination NRT.",
+    "Wrong - 4 mg gum is appropriate for high dependence and can be combined with a patch.",
+    "Wrong - lozenges are a safe short-acting NRT option in epilepsy."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 62-year-old man with type 2 diabetes and chronic kidney disease is seen at a Klinik Kesihatan. His latest creatinine clearance is 24 mL/min. He smokes 20 cigarettes a day and, after counselling, chooses varenicline. He is not on dialysis.\nWhich varenicline regimen is most appropriate?",
+   "o": [
+    "Standard titration up to 1 mg twice daily",
+    "Start 0.5 mg daily, max 0.5 mg twice daily",
+    "Start 1 mg daily, maximum 1 mg twice daily",
+    "Give 0.5 mg on alternate days throughout",
+    "Standard titration, then stop after 4 weeks"
+   ],
+   "a": 1,
+   "e": "Varenicline is excreted largely unchanged by the kidneys, so severe renal impairment (CrCl below 30 mL/min) needs a lower dose: start 0.5 mg once daily and titrate to a maximum of 0.5 mg twice daily. It is not contraindicated, and shortening the course is not the way to reduce exposure – the full 12 weeks is still given.",
+   "w": [
+    "Wrong - full dosing in severe renal impairment risks accumulation and adverse effects.",
+    "Correct - CrCl below 30 mL/min: 0.5 mg daily, up to a maximum of 0.5 mg twice daily.",
+    "Wrong - this is higher than the usual starting dose and unsafe in severe renal impairment.",
+    "Wrong - alternate-day dosing is not a recommended regimen and is likely sub-therapeutic.",
+    "Wrong - the course length stays at 12 weeks; it is the dose that is reduced."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 40-year-old teacher who smokes 18 cigarettes a day is seen at a Klinik Kesihatan quit clinic. She chooses to set her quit date on the first day of the school holidays, which is 10 days from today, and she is prescribed varenicline.\nWhen should she take her first dose of varenicline?",
+   "o": [
+    "On the morning of her quit date",
+    "Only after she has been abstinent for 1 week",
+    "Today, so she starts 1-2 weeks before quitting",
+    "Four weeks before her chosen quit date",
+    "Only when strong cravings appear after quitting"
+   ],
+   "a": 2,
+   "e": "Varenicline needs about a week of titration (0.5 mg daily for 3 days, 0.5 mg twice daily for 4 days, then 1 mg twice daily) to reach steady state, so it is started 1-2 weeks before the quit date. Starting on the quit day leaves her under-treated during peak withdrawal. Unlike NRT, it is not used 'as needed' for cravings.",
+   "w": [
+    "Wrong - this gives no time for titration, so withdrawal peaks before the drug is effective.",
+    "Wrong - waiting for abstinence removes the support she needs during early withdrawal.",
+    "Correct - start 1-2 weeks before the quit date so the full dose is reached by quit day.",
+    "Wrong - starting a month ahead is unnecessary and adds side effects without benefit.",
+    "Wrong - varenicline is a fixed scheduled course, not an as-needed craving treatment."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 58-year-old man is seen at a Klinik Kesihatan 6 weeks after an ST-elevation myocardial infarction treated with primary PCI. He has occasional ventricular ectopics on his ECG. He has restarted smoking 10 cigarettes a day and wants help to stop. The doctor reviews the options.\nWhich pharmacotherapy is contraindicated in him at this stage?",
+   "o": [
+    "Nicotine patch 14 mg/24 h",
+    "Varenicline titrated over a week",
+    "Bupropion SR 150 mg",
+    "Nortriptyline started at 25 mg",
+    "Nicotine gum 2 mg as needed"
+   ],
+   "a": 3,
+   "e": "Nortriptyline is a tricyclic antidepressant and is contraindicated in the recovery period after a myocardial infarction and in arrhythmias because of its pro-arrhythmic, conduction-slowing effects. NRT is far safer than continued smoking once the patient is stable (caution only in the first 2 weeks or with unstable angina), and varenicline and bupropion are not contraindicated after MI.",
+   "w": [
+    "Wrong - NRT is safer than smoking in stable cardiac disease beyond the acute period.",
+    "Wrong - varenicline is not contraindicated after MI; trials showed no clear excess of cardiac events.",
+    "Wrong - bupropion is not contraindicated after MI, though blood pressure should be monitored.",
+    "Correct - tricyclics are contraindicated after recent MI and in arrhythmia.",
+    "Wrong - short-acting NRT can be used in stable patients after MI."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 35-year-old man has been taking bupropion SR 150 mg twice daily for 10 days. He takes his doses at 8 am and 10 pm. He has not smoked for 3 days but now complains of difficulty falling asleep every night. He has no other side effects and wants to continue treatment.\nWhat is the most appropriate advice?",
+   "o": [
+    "Take both tablets together at bedtime",
+    "Add a nightly benzodiazepine for 4 weeks",
+    "Stop bupropion and start nortriptyline",
+    "Increase to 150 mg three times daily",
+    "Take the second dose in the afternoon"
+   ],
+   "a": 4,
+   "e": "Insomnia is one of the commonest adverse effects of bupropion. It is minimised by taking the second dose earlier in the day (for example mid-afternoon), keeping the doses at least 8 hours apart and avoiding a bedtime dose. Doubling up a single dose raises the seizure risk, and benzodiazepines add dependence and, on withdrawal, seizure risk.",
+   "w": [
+    "Wrong - a single 300 mg dose raises the seizure risk and worsens insomnia.",
+    "Wrong - benzodiazepines add dependence, and their withdrawal lowers the seizure threshold on bupropion.",
+    "Wrong - a manageable side effect does not require switching to a second-line drug.",
+    "Wrong - the maximum dose is 300 mg/day; more doses would worsen insomnia and seizure risk.",
+    "Correct - move the second dose earlier, at least 8 hours after the first, avoiding bedtime."
+   ],
+   "r": "Slide p49"
+  },
+  {
+   "t": "SPEC",
+   "stem": "A 26-year-old woman, G2P1 at 10 weeks of gestation, attends her booking visit at a Klinik Kesihatan. She smokes 8 cigarettes a day and her husband also smokes at home. She says she wants to stop for the baby but has never tried before.\nWhat is the most appropriate first step?",
+   "o": [
+    "Multi-session behavioural support",
+    "Start a 21 mg 24-hour nicotine patch",
+    "Varenicline from the second trimester",
+    "Bupropion SR after the first trimester",
+    "Cut down to 5 cigarettes a day for now"
+   ],
+   "a": 0,
+   "e": "All pregnant and breastfeeding women who smoke should be offered multi-session behavioural cessation support as first-line, ideally at every antenatal visit and including the partner. NRT is considered only if behavioural support alone fails. Varenicline, bupropion and nortriptyline are not used in pregnancy, and 'cutting down' is not a safe target.",
+   "w": [
+    "Correct - multi-session behavioural support is first-line for every pregnant smoker.",
+    "Wrong - NRT is second step if behavioural support fails, and intermittent short-acting forms are preferred.",
+    "Wrong - varenicline cannot be used in pregnancy at any stage.",
+    "Wrong - bupropion cannot be used in pregnancy or breastfeeding.",
+    "Wrong - cutting down still exposes the fetus; complete cessation is the goal."
+   ],
+   "r": "Slide p53"
+  },
+  {
+   "t": "SPEC",
+   "stem": "A 38-year-old man with schizophrenia, stable for 2 years on clozapine 400 mg daily, stopped smoking 20 cigarettes a day 10 days ago using a nicotine patch. His mother brings him to a Klinik Kesihatan because he is very drowsy, drooling and has had brief jerks of his arms.\nWhat is the most likely mechanism of his symptoms?",
+   "o": [
+    "Nicotine from the patch blocking clozapine breakdown",
+    "Loss of CYP1A2 induction by tobacco smoke",
+    "Nicotine withdrawal causing central sedation",
+    "Reduced renal clearance of clozapine after quitting",
+    "Dopamine surge caused by the nicotine patch"
+   ],
+   "a": 1,
+   "e": "Polycyclic aromatic hydrocarbons in tobacco smoke – not nicotine – induce hepatic CYP1A2, which metabolises clozapine and olanzapine. When a patient stops smoking the induction wears off over about a week, clozapine levels rise sharply and toxicity (sedation, hypersalivation, myoclonus, seizures) follows. NRT does not prevent this; the dose must be reduced with level monitoring in liaison with psychiatry.",
+   "w": [
+    "Wrong - nicotine itself neither induces nor inhibits CYP1A2, so the patch is not the cause.",
+    "Correct - smoke hydrocarbons induce CYP1A2; on quitting, clozapine levels rise to toxic levels.",
+    "Wrong - withdrawal causes irritability and insomnia, not drooling and myoclonus.",
+    "Wrong - clozapine is cleared mainly by hepatic metabolism, not the kidneys.",
+    "Wrong - this is drug toxicity from raised clozapine levels, not a nicotine effect."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SPEC",
+   "stem": "A 16-year-old boy is brought to a Klinik Kesihatan by his mother, who found cigarettes in his school bag. He smokes about 4 cigarettes a day with friends after school, has his first cigarette in the afternoon and has no withdrawal symptoms when he cannot smoke. He says he would like to stop.\nWhat is the most appropriate management?",
+   "o": [
+    "Counselling and behavioural support",
+    "A 12-week course of varenicline",
+    "Bupropion SR 1 week before quitting",
+    "Nortriptyline at a low starting dose",
+    "Combination nicotine patch and gum"
+   ],
+   "a": 2,
+   "e": "Counselling and behavioural interventions are first-line for adolescent smokers. Pharmacotherapy is considered only when there is clear nicotine dependence plus a desire to quit, and he has low dependence (late first cigarette, no withdrawal). Varenicline and nortriptyline are not for under-18s; NRT is the usual option if medication is later needed.",
+   "w": [
+    "Wrong - this boy shows low dependence; varenicline is also not licensed under 18.",
+    "Wrong - drug treatment is not indicated with low dependence, and bupropion is not for under-18s per slide p49.",
+    "Correct - counselling and behavioural support are first-line in adolescents.",
+    "Wrong - nortriptyline is not recommended under 18 years.",
+    "Wrong - NRT is kept for adolescents with evidence of nicotine dependence."
+   ],
+   "r": "Slide p55"
+  },
+  {
+   "t": "ECIG",
+   "stem": "A 20-year-old college student presents to a Klinik Kesihatan with 5 days of dry cough, breathlessness, pleuritic chest pain, nausea and vomiting. For the past 2 months he has used a refillable pod device with cannabis oil cartridges bought online. Temperature 38.2 °C, RR 26/min, SpO2 91% on air. Chest X-ray shows bilateral hazy infiltrates. COVID-19 and influenza rapid tests are negative and he has no TB contact.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Atypical community-acquired pneumonia",
+    "Pulmonary tuberculosis with cavitation",
+    "Acute severe asthma exacerbation",
+    "Vaping product-associated lung injury",
+    "Primary spontaneous pneumothorax"
+   ],
+   "a": 3,
+   "e": "EVALI presents in young vapers (especially of THC products containing vitamin E acetate) with respiratory symptoms plus prominent GI symptoms and fever, hypoxia and bilateral infiltrates, with infection excluded. It is a diagnosis of exclusion: e-cigarette use within 90 days, pulmonary infiltrates and no other plausible cause. He needs urgent hospital referral given hypoxia.",
+   "w": [
+    "Wrong - pneumonia must be excluded, but GI symptoms, THC vaping and bilateral infiltrates point to EVALI.",
+    "Wrong - 5 days of illness without TB contact or cavitation does not fit tuberculosis.",
+    "Wrong - asthma causes wheeze with a clear chest X-ray, not bilateral infiltrates.",
+    "Correct - vaping within 90 days, bilateral infiltrates and no other cause define EVALI.",
+    "Wrong - pneumothorax gives a visible lung edge on X-ray, not bilateral infiltrates or fever."
+   ],
+   "r": "Slide p60"
+  },
+  {
+   "t": "ECIG",
+   "stem": "A 45-year-old man who smokes 20 cigarettes a day attends a Klinik Kesihatan for a hypertension review. He is ready to quit and says his colleague stopped smoking by switching to vaping. He asks whether he should do the same.\nWhat is the most appropriate advice?",
+   "o": [
+    "Switch fully to vaping, then taper the nicotine",
+    "Vape alongside cigarettes to cut down gradually",
+    "Use a heated tobacco device as a safer bridge",
+    "Use nicotine-free vape liquid to stay safe",
+    "Use NRT or varenicline with behavioural support"
+   ],
+   "a": 4,
+   "e": "E-cigarettes are not an approved smoking cessation therapy in Malaysia and are not recommended in the MOH CPG. Many users end up as dual users, maintaining nicotine dependence and harm. He should be offered evidence-based treatment: behavioural support plus NRT (ideally combination) or varenicline, with referral to a quit clinic or mQuit services.",
+   "w": [
+    "Wrong - e-cigarettes are not an approved cessation aid in Malaysia and carry their own harms.",
+    "Wrong - dual use maintains dependence and does not reduce cardiovascular harm meaningfully.",
+    "Wrong - heated tobacco products still deliver nicotine and toxicants and are not recommended.",
+    "Wrong - nicotine-free liquids still contain propylene glycol, flavourings and toxicants.",
+    "Correct - offer evidence-based pharmacotherapy plus behavioural support."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 22-year-old university student wants to stop smoking 15 cigarettes a day and asks for bupropion because she read it limits weight gain. She takes a combined oral contraceptive pill, uses a salbutamol inhaler for mild asthma and drinks 2 cups of coffee daily. On further questioning she binges and then induces vomiting about three times a week. BMI is 20 kg/m².\nWhich feature of her history makes bupropion inappropriate?",
+   "o": [
+    "Use of the combined oral contraceptive pill",
+    "Mild asthma treated with salbutamol",
+    "Binge eating with self-induced vomiting",
+    "Drinking 2 cups of coffee every day",
+    "Her age, being under 25 years old"
+   ],
+   "a": 2,
+   "e": "Bupropion is contraindicated in current or past bulimia or anorexia nervosa because of a higher seizure risk (electrolyte disturbance plus the drug's lowering of the seizure threshold). Her request for help with weight should prompt screening for an eating disorder. Varenicline or NRT are suitable alternatives, and the eating disorder needs its own management.",
+   "w": [
+    "Wrong - oral contraceptives are not a contraindication to bupropion.",
+    "Wrong - asthma and salbutamol do not preclude bupropion.",
+    "Correct - bulimia or anorexia nervosa is a contraindication because of seizure risk.",
+    "Wrong - moderate caffeine intake is not a contraindication.",
+    "Wrong - bupropion is restricted under 18 years, not under 25."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 50-year-old man is on week 4 of varenicline and stopped smoking on his quit date. At follow-up in a Klinik Kesihatan he admits he smoked one cigarette at a wedding but says it 'did nothing for him' and he did not want another. He asks why.\nWhich mechanism best explains his experience?",
+   "o": [
+    "Partial agonism blocking nicotine at α4β2 receptors",
+    "Inhibition of hepatic CYP2A6 metabolism of nicotine",
+    "Blockade of dopamine D2 receptors in the striatum",
+    "Induction of enzymes that clear nicotine faster",
+    "Full agonism that saturates nicotinic receptors"
+   ],
+   "a": 0,
+   "e": "Varenicline is a partial agonist at α4β2 nicotinic receptors. Its agonist action maintains moderate dopamine release in the nucleus accumbens to ease withdrawal, while its antagonist action occupies the receptors so nicotine from a cigarette cannot produce its usual reward – hence reduced smoking satisfaction. This dual action explains why a lapse on varenicline is less likely to become a full relapse.",
+   "w": [
+    "Correct - as a partial agonist it occupies α4β2 receptors and blunts nicotine's reward.",
+    "Wrong - inhibiting nicotine metabolism would raise nicotine levels, not reduce satisfaction.",
+    "Wrong - varenicline does not block dopamine receptors; it modulates dopamine release.",
+    "Wrong - varenicline is not an enzyme inducer and has few metabolic interactions.",
+    "Wrong - it is a partial, not full, agonist; full agonism would mimic smoking."
+   ],
+   "r": "Slide p47"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 47-year-old woman has just completed a 12-week course of varenicline and has not smoked for 11 weeks, confirmed by a low exhaled carbon monoxide reading. She tolerated the drug well but is very worried about relapsing, as her two previous attempts failed at about 3 months.\nWhat is the most appropriate management?",
+   "o": [
+    "Stop varenicline and start bupropion SR",
+    "Switch to a 21 mg nicotine patch for 12 weeks",
+    "Stop varenicline and discharge from clinic",
+    "Increase varenicline to 2 mg twice daily",
+    "Offer a further 12 weeks of varenicline"
+   ],
+   "a": 4,
+   "e": "For smokers who have successfully quit on varenicline, an additional 12-week course increases long-term abstinence and is recommended for those at risk of relapse. Continuing a drug she tolerates is better than switching to an unproven sequence, and the maximum dose is 1 mg twice daily. Behavioural follow-up should continue alongside.",
+   "w": [
+    "Wrong - switching drugs in an abstinent patient has no evidence of extra benefit.",
+    "Wrong - a full-strength patch re-exposes an abstinent patient to nicotine without need.",
+    "Wrong - she is at high relapse risk and benefits from continued treatment and follow-up.",
+    "Wrong - the maximum varenicline dose is 1 mg twice daily.",
+    "Correct - a further 12 weeks of varenicline reduces relapse in those who have quit."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "NNP",
+   "stem": "A 41-year-old man with no seizure history, no eating disorder and normal liver and kidney function chooses bupropion SR to help him stop smoking. He sets a quit date 8 days from today. He drinks no alcohol and takes no regular medicines.\nWhich regimen is correct?",
+   "o": [
+    "300 mg once daily from day 1, for 4 weeks",
+    "150 mg twice daily from day 1, for 6 months",
+    "75 mg daily for 1 week, then 150 mg daily, for 6 weeks",
+    "150 mg daily for 3 days, then BD, for 7-12 weeks",
+    "0.5 mg daily for 3 days, then 1 mg BD, for 12 weeks"
+   ],
+   "a": 3,
+   "e": "Bupropion SR is started 1-2 weeks before the quit date at 150 mg once daily for 3 days, then 150 mg twice daily (at least 8 hours apart), to a maximum of 300 mg/day. The slides advise at least 7 weeks of use; 7-12 weeks is standard. A single 300 mg dose raises seizure risk, and the 0.5 mg/1 mg schedule belongs to varenicline.",
+   "w": [
+    "Wrong - a single 300 mg dose raises the seizure risk and the course is too short.",
+    "Wrong - bupropion is titrated up, and 6 months exceeds the usual course.",
+    "Wrong - 150 mg daily alone is a reduced dose reserved for hepatic, renal or seizure risk.",
+    "Correct - 150 mg daily for 3 days, then 150 mg twice daily for 7-12 weeks.",
+    "Wrong - this is the varenicline titration schedule, not bupropion."
+   ],
+   "r": "Slide p49"
+  },
+  {
+   "t": "SPEC",
+   "stem": "A 30-year-old woman at 24 weeks of gestation has attended four behavioural support sessions at a Klinik Kesihatan quit clinic. She has cut down from 15 to 10 cigarettes a day but cannot stop completely and remains keen to quit. Her pregnancy is otherwise uncomplicated.\nWhat is the most appropriate next step?",
+   "o": [
+    "Varenicline after counselling on risks",
+    "Short-acting NRT such as gum or lozenge",
+    "Bupropion SR from 1 week before quitting",
+    "21 mg patch worn day and night",
+    "Nortriptyline at the lowest effective dose"
+   ],
+   "a": 1,
+   "e": "If behavioural support alone fails in pregnancy, NRT may be used after discussing risks and benefits, because it is safer than continued smoking. Intermittent short-acting forms (gum, lozenge, inhaler, spray) are preferred to limit total fetal nicotine exposure; if a patch is used it should be removed at bedtime. Varenicline, bupropion and nortriptyline are not used in pregnancy.",
+   "w": [
+    "Wrong - varenicline cannot be used in pregnancy.",
+    "Correct - intermittent short-acting NRT is preferred when behavioural support alone fails.",
+    "Wrong - bupropion cannot be used in pregnant or breastfeeding women.",
+    "Wrong - continuous 24-hour patches maximise fetal exposure; remove a patch at bedtime.",
+    "Wrong - nortriptyline is not recommended in pregnancy."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "SPEC",
+   "stem": "A 34-year-old woman with bipolar disorder stopped her lithium 3 weeks ago. Her sister brings her to a Klinik Kesihatan because she has slept 2-3 hours a night for 5 days, is talking rapidly and has spent her savings. She smokes 30 cigarettes a day and says she wants to quit smoking today.\nWhat is the most appropriate approach to her smoking?",
+   "o": [
+    "Start varenicline today with weekly review",
+    "Treat mood first, set quit date once stable",
+    "Set the quit date for tomorrow with NRT",
+    "Advise that she should never try to quit",
+    "Start bupropion SR to treat mood and smoking"
+   ],
+   "a": 1,
+   "e": "In psychiatric patients the quit date should be set when the mental state is stable. She has features of acute mania and needs urgent psychiatric management first; her smoking status should be recorded and cessation offered once stable, with pharmacotherapy and behavioural support. Smokers with mental illness should still be supported to quit – they gain mental as well as physical benefit.",
+   "w": [
+    "Wrong - starting varenicline during acute mania is inappropriate; stabilise her first.",
+    "Correct - manage the manic episode urgently and set the quit date once her mental state is stable.",
+    "Wrong - a quit attempt during acute mania is unlikely to succeed and distracts from urgent care.",
+    "Wrong - people with mental illness should be offered full cessation support when stable.",
+    "Wrong - bupropion is an antidepressant and may worsen mania; it does not treat bipolar disorder."
+   ],
+   "r": "Slide p54"
+  },
+  {
+   "t": "SPEC",
+   "stem": "A 74-year-old retired fisherman with hypertension and stable ischaemic heart disease is seen at a Klinik Kesihatan. He has smoked 20 cigarettes a day for 55 years. When advised to quit he says, 'At my age the damage is done, there is no point stopping now.'\nWhich response is most accurate?",
+   "o": [
+    "Quitting still lowers his cardiac and death risk",
+    "Agree, as quitting gives little benefit after 70",
+    "Advise cutting down to 10 a day as a safer target",
+    "Advise switching to vaping to protect his heart",
+    "Advise quitting only if new heart symptoms occur"
+   ],
+   "a": 0,
+   "e": "Stopping smoking reduces the excess risk of cardiovascular events and mortality even in older people, and NRT increases cessation success in this group. Counselling, physician advice, buddy support, age-tailored self-help materials, telephone counselling and the nicotine patch are all effective in the elderly. Age is never a reason to withhold cessation support.",
+   "w": [
+    "Correct - quitting reduces cardiovascular events and mortality even at older age.",
+    "Wrong - benefit persists at any age; this reinforces a common misconception.",
+    "Wrong - cutting down gives little risk reduction; complete cessation is the aim.",
+    "Wrong - e-cigarettes are not an approved cessation aid in Malaysia.",
+    "Wrong - waiting for symptoms forfeits the preventive benefit of quitting now."
+   ],
+   "r": "Slide p55"
+  },
+  {
+   "t": "SPEC",
+   "stem": "A 28-year-old woman is 6 weeks postpartum and exclusively breastfeeding. She stopped smoking in pregnancy but relapsed to 10 cigarettes a day after delivery. She has attended behavioural support sessions but is still smoking and asks for medication to help her stop.\nWhich option is most appropriate?",
+   "o": [
+    "Varenicline, as little enters breast milk",
+    "Bupropion SR with no night-time feeds",
+    "Nortriptyline at a low dose at bedtime",
+    "Stop breastfeeding, then use varenicline",
+    "Short-acting NRT used just after feeds"
+   ],
+   "a": 4,
+   "e": "Varenicline, bupropion and nortriptyline are not used in breastfeeding women, so NRT is the pharmacological option when behavioural support alone fails. Using short-acting NRT immediately after a feed minimises nicotine in the milk at the next feed. Breastfeeding should be supported, not stopped, to allow a drug.",
+   "w": [
+    "Wrong - varenicline cannot be used in breastfeeding women.",
+    "Wrong - bupropion cannot be used while breastfeeding, whatever the feeding pattern.",
+    "Wrong - nortriptyline is not recommended in breastfeeding women.",
+    "Wrong - stopping breastfeeding harms the infant and is unnecessary when NRT is available.",
+    "Correct - short-acting NRT taken just after a feed limits infant exposure."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "ECIG",
+   "stem": "A 2-year-old boy is rushed to a Klinik Kesihatan 30 minutes after he was found chewing his father's open e-liquid refill bottle. He has vomited three times and is pale, sweaty and drooling. Heart rate is 170/min and he is irritable and tremulous.\nWhich component of the e-liquid is most likely responsible?",
+   "o": [
+    "Propylene glycol base",
+    "Vegetable glycerol base",
+    "Concentrated nicotine",
+    "Flavouring chemicals",
+    "Vitamin E acetate"
+   ],
+   "a": 2,
+   "e": "Accidental nicotine overdose is a recognised hazard of e-cigarettes, and refill liquids can contain enough nicotine to poison a small child. Early nicotine toxicity is cholinergic: vomiting, pallor, sweating, salivation, tachycardia and tremor, progressing to seizures, bradycardia and respiratory failure. He needs urgent transfer to hospital. Vitamin E acetate causes lung injury when inhaled, not acute poisoning on ingestion.",
+   "w": [
+    "Wrong - propylene glycol is of low acute toxicity in small ingestions.",
+    "Wrong - glycerol is of low toxicity and does not cause cholinergic features.",
+    "Correct - concentrated nicotine causes vomiting, sweating, salivation and tachycardia in children.",
+    "Wrong - flavourings are an inhalational concern, not the cause of acute cholinergic toxicity.",
+    "Wrong - vitamin E acetate is linked to inhaled lung injury (EVALI), not ingestion poisoning."
+   ],
+   "r": "Slide p59"
+  },
+  {
+   "t": "ECIG",
+   "stem": "A 23-year-old man is referred from a Klinik Kesihatan with 3 weeks of cough, breathlessness and weight loss. Chest CT shows bilateral ground-glass opacities, and blood and sputum cultures, respiratory viral PCR and sputum AFB are negative. The team considers e-cigarette or vaping product use-associated lung injury.\nBesides pulmonary infiltrates and no other plausible cause, which criterion is required by the case definition?",
+   "o": [
+    "Fever above 38 °C at presentation",
+    "Positive urine test for cannabis (THC)",
+    "Bilateral pleural effusions on imaging",
+    "Vaping within 90 days of symptom onset",
+    "Vaping history of at least 12 months"
+   ],
+   "a": 3,
+   "e": "The EVALI case definition used in the 2019 US outbreak requires e-cigarette use within 90 days of symptom onset, pulmonary infiltrates on imaging, and no other plausible cause after excluding infection. Fever and THC use are common but not required, and there is no minimum duration of vaping.",
+   "w": [
+    "Wrong - fever is common in EVALI but is not part of the case definition.",
+    "Wrong - THC products are strongly linked, but a positive test is not required.",
+    "Wrong - pleural effusions are not a defining feature; infiltrates are.",
+    "Correct - e-cigarette use within 90 days before symptom onset is required.",
+    "Wrong - there is no minimum vaping duration; recent use within 90 days is what counts."
+   ],
+   "r": "Slide p60"
+  }
+ ]
+}
