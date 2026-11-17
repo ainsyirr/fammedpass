@@ -1,5 +1,5 @@
-// FamMedPass service worker - version 2026.11.05-2217
-const CACHE = 'fammedpass-2026.11.05-2217';
+// FamMedPass service worker - version 2026.11.17-1545
+const CACHE = 'fammedpass-2026.11.17-1545';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png',
               'icons/maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png'];
 self.addEventListener('install', e => {
